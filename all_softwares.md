@@ -1,0 +1,13043 @@
+# 全部软件索引（共 12745 款）
+
+> 本文件包含所有软件清单，用于 GitHub 搜索索引。按分类组织，每个分类内按ID倒序排列。
+> 
+> [返回主页](README.md)
+
+---
+
+## 角色扮演（2463 款）
+
+- 王者荣耀S3梦泪偷家怀旧单机版
+- 王者荣耀S6无限荣耀2017鸡年春节单机怀旧版\n \n本版本
+- 僵尸餐馆模拟器 /Zombie Diner Simulator   Build.21164432   免安装中文版
+- 绝地鸭卫 /PlatyGuard Swarm Slayer   v1.3.8  免安装中文版
+- 责备他  /Blame Him   Build.3904510    免安装中文版
+- 乐高蝙蝠侠：黑暗骑士之遗-虚拟机版/LEGO Batman Legacy of the Dark Knight    Build.23222834    免安装中文版
+- 拯救/REMEDIUM   Build.22185060   免安装中文版
+- 艾穆罗姆 /EMUUROM    Build.23455791   免安装英文版
+- 禁闭求生2/ Grounded 2 / 单机+联机   v0.4.1.0  送修改器   免安装中文版
+- Game.exe 2：幻影突击/GAME.exe 2 – Phantom Strike     Build.23526874   免安装中文版
+- 维伦达尔城堡之谜 – 密室逃脱/Secrets of Velendar Castle – Escape Room     Build.23416913    免安装中文版
+- 餐瘾地城|餐瘾地牢/Dungeon Munchies    v1.5.3.10    免安装中文版
+- 月之深渊/Luna Abyss    Build.23493328   免安装中文版
+- 壁虎之神/Gecko Gods    Build.23560448   免安装中文版
+- 千棋百计/Gambonanza     Build.23527324   免安装中文版
+- 乐高复仇者联盟/LEGO MARVEL’s Avengers     Build.1854018   免安装中文版
+- 狩猎之道2 /Way of the Hunter 2     v0.2.1    免安装中文版
+- 巴布西4D /Bubsy 4D   v1.1.1   免安装中文版
+- 吸血鬼幸存者/ Vampire Survivors / PC+手机双端   v1.15.107  全DLC  免安装中文版
+- 火湖/SULFUR   v0.17.3  免安装中文版
+- 切尔诺贝利清算人/ Chornobyl Liquidators   v1.6.57  免安装中文版
+- 神之亵渎2 / Blasphemous 1+2   Build.23603339  全DLC 送修改器 附1代   免安装中文版
+- 黑纱掠夺者 |黑纱掠袭/Raiders of Blackveil   Build.23542290   免安装中文版
+- 极地觉醒/ Arctic Awakening   v1.0.19  免安装中文版
+- 垂钓与徒步 /Fish and Hike   Build.23567571   免安装中文版
+- 无人深空/ No Man’s Sky / 单机+联机   v169781  全DLC   送修改器+赠音乐原声 赠满金币.水荫.纳米星团初始存档  免安装中文版
+- 中土世界 暗影魔多|中土世界：魔多阴影/Middle Earth Shadow of Mordor    v1951.29 年度版 全DLC 送修改器+超清材质包+音乐原声+26级必要符文.全史诗.适合挑战模式.百分百收集.105小时存档   免安装中文版
+- 杀手：暗杀世界/HITMAN World of Assassination    v3.270.0豪华版 全DLC 送修改器+全物品解锁存档   免安装中文版
+- 天涯跑商记：好商人志在四方/TRADESMAN: Deal to Dealer   Build.23361010   免安装中文版
+- 蛙穿雪境/Froggy Hates Snow    Build.23529623   免安装中文版
+- 回声世代：午夜版/Echo Generation Midnight Edition    Build.20938725   免安装中文版
+- 万象群侠传/WanXiang    v1.3.0  免安装中文版
+- 灰烬之国/Cinderia    v0.6.9   免安装中文版
+- 阎罗索命/Hell Takes Your Life     Build.23618771    免安装中文版
+- 斯派罗烈焰重燃三合一/Spyro Reignited Trilogy     免安装中文版
+- 子午线157 第3章/Meridian 157 Chapter 3    Build.22591698   免安装中文版
+- 子午线157 第2章 /Meridian 157 Chapter 2    Build.22591678    免安装中文版
+- 子午线157 第1章/Meridian 157 Chapter 1     Build.22591674   免安装中文版
+- 人渣/ SCUM / 单机+联机/ 手机+PC双端   v1.3.0.2.119181 全DLC  免安装中文版
+- 链枪 /ChainStaff   Build.23574779   免安装中文版
+- 背包闯江湖 /Backpack Jianghu   v20260608   免安装中文版
+- 罪业烙印/Cursemark    Build.23624889   免安装中文版
+- 造梦西游：无双   Build.23177186   送修改器 免安装中文版
+- 公民觉醒2：星际航程|深空梦里人2：逐星之旅/ Citizen Sleeper 2: Starward Vector   v1.2.23   免安装中文版
+- 艾尔登法环 含黄金树幽影DLC/Elden Ring 单机+联机    v1.16.2+MOD+存档+修改器    免安装中文版
+- 暗黑血统：战神版/ Darksiders Warmastered Edition   Build.23475386   送修改器+一周目通关存档(9格血槽和6格怒气好像+有深渊铠甲+传说级附魔都找到+主线已通武器是末日审判之剑)+音乐原声    免安装中文版
+- 变形怪物房间/Ogre Chambers 2222    2222 Build.23626305   免安装中文版
+- 自动人偶 /Automaton Lung   Build.20488306   免安装中文版
+- 被遗弃的山谷/Forsaken Valley    Build.23540958    免安装中文版
+- 勇闯死人谷：暗黑之日/ Into the Dead: Our Darkest Days    v0.14.1.19644   送修改器    免安装中文版
+- 禁酒兽影/PROHIBEAST    v1.0.2    免安装中文版
+- 威尔：追随灯光 /WILL Follow The Light   v20260606   免安装中文版
+- 007 初露锋芒-解压即玩版/ 007 First Light   v1.0.0|Build.23388781 送修改器  免安装中文版
+- 地心护核者|护核纪元/ Core Keeper/ 单机+联机   v1.2.1.5   送修改器  免安装中文版
+- 9号桌 /Table 9    Build.23628517   免安装中文版
+- 节奏魔女 舞动的骷髅/Rhythm Witch    v1.2.0   免安装中文版
+- 赛博格：崛起/Cyborg Rise    Build.17834867    免安装中文版
+- 喇叭之城/Phonopolis    v1.0.4   免安装中文版
+- 星际飞船EVO/Starship EVO    v26w24a    免安装中文版
+- 如风：盗贼之歌 /Zefyr A Thief’s Melody    v1.1.10    免安装中文版
+- 萨姆森 /Samson   v20260609   免安装英文版
+- 魔饮心语轶闻：梦行者 /Tavern Talk Stories Dreamwalker     Build.23503201   免安装中文版
+- 沙雕之路/Sand Sculpture Road    Build.23606137   免安装中文版
+- 黑暗侦探/ The Darkside Detective   v2.127.2.165r  免安装中文版
+- 负鼠闹翻天/ Pizza Possum  v1.4.16  免安装中文版
+- 仓鼠球：马铃薯大逃亡/ Hamsterball: Potato’s Great Escape   v20240913  免安装中文版
+- 消逝的光芒2：人与仁之战 重装上阵版/ Dying Light 2 Stay Human/ 单机+联机   v1.28.0终极版 全DLC 送修改器+艾琳娜MOD   免安装中文版
+- 战锤40K 星际战士2 /Warhammer 40,000: Space Marine 2    v13.2.0.1  全DLC 送修改器+整合4K纹理包    免安装中文版
+- 伊苏6：纳比斯汀的方舟/Ys VI The Ark of Napishtim     免安装中文版
+- 拳皇98：终极对决 含游戏秘籍出招表 /The King of Fighters 98 Ultimate Match    免安装中文版
+- 拳皇97：全球对决 /The king of fighters’97 Global Match    Build22052018    送修改器免安装中文版
+- 合金装备5：幻痛-虚拟机版 / METAL GEAR SOLID V：THE PHANTOM PAIN   Build.23407568   免安装中文版
+- 哈迪斯2 |黑帝斯2 / Hades 2   v1.138517  送修改器   免安装中文版
+- 墨境/ Realm of Ink   v1.06  送修改器   免安装中文版
+- 恶魔之刃：重启版/DEVIL BLADE REBOOT   v1.2.4   免安装中文版
+- 虫子快餐店/Bugsnax     Build.23644050   免安装中文版
+- 风之马传说/The Legend of Khiimori    v0.9.2   免安装中文版
+- 嗜血之王：崛起/Vampires Bloodlord Rising/单机+联机    v1.5.1.21425  免安装中文版
+- 重铸纪元：自由地/ Age of ReforgingThe Freelands   v1.22d  免安装中文版
+- 罗马拓荒录 /Romestead/ 单机+联机    v0.25.1.12  送修改器   免安装中文版
+- 酒店大改造/Hotel Renovator     v1.0.6.6.285    免安装中文版
+- 如何在你的花园里制造原子弹|如何在自家花园制造原子弹/How to Make an Atomic Bomb in Your Garden    v1.06    免安装中文版
+- 魔鼠克星/Mousebusters    Build.23636828    免安装中文版
+- 时空迷踪/Crushed In Time     Build.23679306  免安装中文版
+- 南极计划/ Nova Antarctica   v1.3   免安装中文版
+- 失落城堡1/Lost Castle    v2.11   免安装中文版
+- 异星探险家/ASTRONEER /单机+联机   v1.41.4.0 全DLC   免安装中文版
+- 风中行者/ Windblown/ 单机+联机   v0.9.4.4   免安装中文版
+- 驾驶地平线/ Drive Beyond Horizons / 单机+联机/ PC+手机双端   Build.23590343   免安装中文版
+- 无望之海/ Hopeless Sea   Build.23624168   免安装中文版
+- 猎杀女巫/KILL THE WITCH    Build.23633660    免安装中文版
+- 守夜人：长夜/Vigil: The Longest Night   Build.23644796   免安装中文版
+- 歪小子斯科特EX /Scott Pilgrim EX/ 单机+联机   Build.23229759   免安装中文版
+- 钢铁雷霆|金属雷霆/ Metal Thunder   Build.23649727    免安装中文版
+- 索拉斯塔2/Solasta II   v0.3.8.99528    免安装中文版
+- 胶囊恋人/Capsule Lover     Build.23646213   免安装中文版
+- ​卧龙 苍天陨落/Wo Long: Fallen Dynasty / 单机+联机   v1.305   免安装中文版
+- 拳皇14/ THE KING OF FIGHTERS XIV     v1.26 送修改器 试炼模式存档    免安装中文版
+- 1348：圣誓/1348 Ex Voto   v1.50   免安装中文版
+- 小小梦魇3|小小噩梦3 /Little Nightmares III /单机+联机   v20260612    全DLC   免安装中文版
+- 死亡搁浅2：冥滩之上/ DEATH STRANDING 2: ON THE BEACH   v1.9.85.0  免安装中文版
+- 仁王3 / Nioh 3 / 单机+联机   v1.07.00数字豪华版  送修改器+通关存档+VP9解码器[游戏弹报错必装]  免安装中文版
+- 哥特王朝：重制版/Gothic 1 Remake      v1.0.1(Build.23682495)    免安装中文版
+- 巫塔战记/Witchspire/单机+联机    Build.23702380    免安装中文版
+- 门：悖论 |悖论之门/Doors: Paradox     Build.23233078   免安装中文版
+- 侦探多特森|多森侦探/Detective Dotson     Build.19707056     免安装中文版
+- 咒语旅团/ The Spell Brigade/ 单机+联机   v1.0.5.17381  免安装中文版
+- 最后指令/ Last Command   Build.23521897   免安装中文版
+- 末日快车 /Apocalypse Express    Build.23680026    免安装英文版
+- 巴哈姆特与瓦克瓦克之树 /Bahamut and the Waqwaq Tree     Build.21239257   免安装中文版
+- 开心小汉堡庄/Happy’s Humble Burger Farm     Build.23553717   免安装中文版
+- 溯源之惧：斯克拉奇溪/Fears to Fathom – Scratch Creek /单机+联机    Build.23715312   免安装中文版
+- 心之眼/MindsEye   v7608873   免安装中文版
+- 孤羊战纪/ OVIS LOOP   Build.23678228    全DLC     免安装中文版
+- 希尔瓦恩 /SILVARN   Build.23703033   免安装中文版
+- 骑马与砍杀2：霸主/Mount and Blade II: Bannerlord  单机+联机   v1.4.6 全DLC 送修改器 衣谷三国MOD  免安装中文版
+- 翼星求生/ ICARUS / 单机+联机   v3.0.14.152723  全DLC 送修改器   免安装中文版
+- 红色沙漠-虚拟机版/ Crimson Desert HYPERVISOR     v1.11.00(Build.23693650)   免安装中文版
+- X4：基石/X4: Foundations   v9.0  全DLC 送修改器+赠原声音乐+赠小说+赠壁纸+赠美术书+赠百科全书   免安装中文版
+- 熔炉密林/Rotwood/单机+联机   Build.23687176  免安装中文版
+- BULT：狩猎模拟器/BULT Hunting simulator  Build.22914457   免安装英文版
+- 桌面战争：兵团乱斗/D.O.T. Defence   v1.0正式版  免安装中文版
+- 溯光行 /Retrace the Light   v1.1.2755   免安装中文版
+- 生存机器|移动堡垒|移动机器 /Survival Machine /单机+联机    v1.0正式版    免安装中文版
+- 夺宝奇兵 古老之圈/The Great Circle   v20260611  全DLC 送修改器    免安装中文版
+- 挖掘者：银河宝藏|地心挖矿冒险银河宝藏 /Digger Galactic Treasuresv  Build.23570946   免安装中文版
+- 梦之形/ Shape of Dreams / 单机+联机  v1.3.1.3s  送修改器   免安装中文版
+- 沃德灵：共生/Voidling Bound    v76127   免安装中文版
+- 灵魂石幸存者/Soulstone Survivors   v1.5d2   全DLC 送修改器   免安装中文版
+- 桥梁建造师2|桥梁建筑师2/Poly Bridge 2    v1.67   免安装中文版
+- 无尽猎杀/Grind Survivors    Build.23642242      免安装中文版
+- 蛇之凝视/Serpent’s Gaze/单机+联机    Build.23502073   免安装中文版
+- 北欧之烬：诸神黄昏幸存者/Nordic Ashes: Survivors of Ragnarok   v3.1.1  全DLC  免安装中文版
+- 最后一组出发/ Last Group Out   Build.23666935   免安装中文版
+- 专业抬杠/Hold Your King /单机+联机    Build.23654198    免安装中文版
+- 无限的迷宫城/Rustil Eternal Labyrinth Castle   v1.1.3  免安装中文版
+- 料理手推车/ Food Wagon   Build.22333487   免安装中文版
+- 炼金术士 /BattleJuice Alchemist     Build.16759701    免安装中文版
+- 尤卡莱莉：回归/ Yooka-Replaylee     Build.23457076   免安装中文版
+- 命运之弦11：魔法幻梦/Strings of Fate XI Magic dream   Build.23720184   免安装中文版
+- 无品：里夫森的愤怒|乐队之战：里夫森之怒/Fretless – The Wrath of Riffson   v1.5.06  全DLC   免安装中文版
+- 拳皇13/The King Of Fighters XIII     v1.4b 送修改器 隐藏人物全开存档    免安装中文版
+- 星空/ Starfield v1.16.244.0 全DLC 送修改器 赠原声音乐 赠原画电子书 赠第十一周目开局存档.全能力和技能满级 免安装中文版
+- 失落城堡2/Lost Castle 2    v1.0.0.5.3  送修改器  免安装中文版
+- 深红誓言 /Crimson Oath    v1.4.20    免安装中文版
+- 挖掘者米娜/ Mina the Hollower    v1.0.6.148372    免安装中文版
+- 巫毒钓鱼|巫毒垂钓  /Voodoo Fishin’/单机+联机    Build.23689128   免安装中文版
+- 动漫都市|动漫城/ ANIME CITY   Build.23061476   免安装英文版
+- 女儿国的诅咒 /The Curse of Womanland    Build.23453048   免安装中文版
+- 007 初露锋芒-虚拟机版/ 007 First Light HYPERVISOR   v1.0.5|Build.23685521   免安装中文版
+- 昏迷2B：地下墓穴/The Coma 2B: Catacomb   v1.3.0  免安装中文版
+- 我的修仙日志/Cultivation Journal    Build.23565729   免安装中文版
+- 地精矿业/Goblin Company/单机+联机    Build.23720629    免安装中文版
+- 诅咒之血 /Cursed Blood/单机+联机    Build.23304937   免安装中文版
+- 战斗星球 – 审判日 /Battle Planet – Judgement Day    Build.12473157    免安装中文版
+- 密命王牌 安卓版
+- 密命王牌 PC版
+- 遵命，陛下/ Yes，Your Grace    v1.0.21   免安装中文版
+- 约会一切/ Date Everything!   v2.616.114221  免安装中文版
+- 缘结甜祇/ ~My Sweet Goddess~    v1.00   免安装中文版
+- 我的恋爱逃生攻略|恋桃/ Love to Live   免安装中文版
+- 特里诺兰/ Trinoline All Ages Version    Build.18581134   免安装中文版
+- 魔物毕业舞会2 夏令营|魔物学园2：怪物营地/ Monster Prom 2: Monster Camp    v20251009   免安装中文版
+- 绯红编年史~ / Chronicle of Scarlet ~    v1.0.2.1   免安装中文版
+- 石质碎片|紫色晶石/ Stoneshard / 手机+PC双端  v0.9.3.13  免安装中文版
+- 电池之诺/ BatteryNote   v1.0.0   免安装中文版
+- 吸血鬼：避世血族-纽约帮会/ Vampire The Masquerade – Coteries of New York    Build.20365032   免安装中文版
+- 星之海/ Sea of Stars/ PC+手机双端    v2.0.59021  免安装中文版
+- 科里登|寇瑞登/Coridden /单机+联机  v1.3.3   免安装中文版
+- 哎呀哎呀？房东呀！/ Yokai Landlord Monster Mystery!    Build.18442900   免安装中文版
+- 安妮：最后的希望/ ANNIE Last Hope   v5256424   免安装中文版
+- 炽澜号/ FLAM EVAW   Build.20437045   免安装中文版
+- 尘封大陆：沙之王国/ Atlas Fallen/ 单机+联机   v1.118888  免安装中文版
+- 黯魂录：斩仙    v0.7.0821   免安装中文版
+- 卡片战斗先导者2 / Cardfight!! Vanguard Dear Days 2  v1.4.1   免安装中文版
+- 恐龙小当家/ Dino Topia   v1.9.4   免安装中文版
+- 落虹之海/ Rainbow Sea   v1.0.4   免安装中文版
+- 放置仙途/ Immortal   v0.1.10   免安装中文版
+- 僵尸2：噬魂咒/ The Jiang Shi 2   Build.17110102  免安装中文版
+- 胡言山的魔理沙/ Marisa of Liartop Mountain   v1.0.5  免安装中文版
+- 帝缚山海  免安装中文版
+- 幻灵降世录/ Lost Eidolons   v1.5.5.R37   免安装中文版
+- 罪恶帝国/ Empire of Sin   20251008 全DLC  免安装中文版
+- 光明之响：龙奏回音|光明之響 龍奏回音/ Shining Resonance Refrain    Build.2929280  免安装中文版
+- 光荣伙伴/ Glorious Companions   Build.17204089   免安装中文版
+- 霜港迷城/ Frosthaven   Build.20292640   免安装中文版
+- 武道传说/ League of Fighters   v1.11.0.3   免安装中文版
+- 幻想少女大战：流浪梦想家的梦想/ Fantasy Maiden Wars – DREAM OF THE STRAY DREAMER    Build.20493438   免安装英文版
+- 符文谐鸣士/ Code Reactors   Build.20019983   免安装中文版
+- 潮汐少女：现象/ Tide Girl Phenomena   Build.11357601   免安装中文版
+- 战神：夜袭/ Battle Chasers: Nightwar   v24034  免安装中文版
+- 圣女仆学园/ Holy Maid Academy    Build.12716153   免安装中文版
+- 联结：星火之盟/Lynked Banner of the Spark   v87707 全DLC  免安装中文版
+- 幻想水浒传1 2 高清复刻合集/ Suikoden IandII HD Remaster Gate Rune and Dunan Unification Wars   v1.0.4  免安装中文版
+- 三角战略/ TRIANGLE STRATEGY   v1.1.0   免安装中文版
+- 狩猎者X / HunterX   v1.1.4   免安装中文版
+- 地球战机/ Earthion  Build.20481167   免安装中文版
+- 深渊之路/Path of the Abyss  v1.0.13  免安装中文版
+- 提早绽放的黑百合/ Black Lily’s Tale   Build.20512810   免安装中文版
+- 隐秘远征/ Hidden Pass    v1.0.0   免安装中文版
+- RPG制作大师MZ / RPG Maker MZ   免安装中文版
+- 轻灵跃影喵/ SwooshCat   v1.03   免安装中文版
+- 弹药和氧气/Ammo and Oxygen  v1.3HF  免安装中文版
+- 尘墓纪事/ Dustgrave: A Sandbox RPG   Build.20514565   免安装中文版
+- 流放大陆/ Idle Land of Exile   Build.20330482   免安装中文版
+- 同桌！我喜欢你/ Lovely DeskmateLL   Build.19408957   免安装中文版
+- 热血少女物语/ River City Girls   Build.20562117 送修改器   免安装中文版
+- 益智冒险：不朽版/ Puzzle Quest: Immortal Edition   v1.0.2.3544  免安装中文版
+- 拯救循环/ Complex Loop   Build.12889524   免安装中文版
+- 超阈限空间/ Superliminal   v20230219   免安装中文版
+- 刷啊刷/ Again and Again   v20251029   免安装中文版
+- 英雄传说3：白色魔女（THE LEGEND OF HEROES III：Gagharv trilogy first White Witch）免安装中文版
+- 无光之境/ Absence of Light   v1.0   免安装中文版
+- 兰岛物语：少女的约定 复刻版/ LAIR LAND STORY   免安装中文版
+- 沙尘突袭者|荒沙劫掠者/ Dust Raiders   Build.20573904   免安装中文版
+- 活侠传/Legend of Mortal   v1.0.5000.13 送修改器   免安装中文版
+- 瓶中精灵/ Fairy in a Jar   Build.20046621   免安装中文版
+- 百重幻境/ Centum   v1.0.0   免安装中文版
+- 生命回响/ The Lullaby of Life   v1.0.7.0   免安装中文版
+- 命运 虚空明镜 复刻版/ Fate hollow ataraxia REMASTERED   v1.0.4.729   免安装中文版
+- 梦之刨冰/ Yume Kakigori   Build.19724770   免安装中文版
+- 究极少女 阿尔特斯/ UltraGirl Alters   Build.20515425   免安装中文版
+- 英雄传说4：朱红之泪/ the legend of heroes IV：A Tear of Vermillion   免安装中文版
+- 我为星狂/ Starstruck   v1.0.0   免安装中文版
+- Syrup和终极甜品/ Syrup and the Ultimate Sweet    v2.9.0  免安装中文版
+- 城堡破坏者|城堡破坏者/ Castle Crashers   Build.20488846   免安装中文版
+- 异教徒与巫师/ Heretic + Hexen  v1.0.4790.0  免安装中文版
+- 妖精的尾巴2/ FAIRY TAIL 2   v1.4.1 全DLC   免安装中文版
+- 始源守卫|盖德斯零号/Guidus Zero  Build 19662578  免安装中文版
+- 去月球系列海滩特别篇/Just a To the Moon Series Beach Episode    v20250808 全DLC   免安装中文版
+- 去月球/ To the Moon  Build.18756803 全DLC   免安装中文版
+- 阿玛拉王国：惩罚重制版/ Kingdoms of Amalur: Re-Reckoning   v1.10 全DLC 送修改器   免安装中文版
+- 圣铠：冰魂/Vambrace: Cold Soul  v1.11 免安装中文版
+- 完美的一天/A Perfect Day  v1.3 全DLC   免安装中文版
+- 战争交响曲：尼非订传奇/ Symphony of War: The Nephilim Saga   v1.10.23 全DLC   免安装中文版
+- 火炬之光3/Torchlight III   免安装中文版
+- 封神榜：伏魔三太子 重制版   Build.7387281 免安装中文版
+- 卡德洞窟/ Caves of Qud   v1.0.2   免安装英文版
+- 生物驯养师/ Creature Keeper   Build.20033111   免安装中文版
+- 炼金学院物语/ Brew   Build.20714230   免安装中文版
+- 中国式家长/ Chinese Parents/ PC+手机双端  v2.0.1.5 送修改器   免安装中文版
+- 宝可梦朱紫/ Pokémon Scarlet and Violet/ 手机+PC双端   免安装中文版
+- 生存联盟：重制版/ The Alliance Alive HD Remastered    Build.4501154   免安装中文版
+- 觅长生 Build.14198577 送修改器 免安装中文版
+- 登阶/The Eastern Sacrifice   v1.0.0.07  免安装中文版
+- 苍之彼方的四重奏 EXTRA1 / Aokana – Four Rhythms Across the Blue – EXTRA1   v1.01   免安装中文版
+- 苍之彼方的四重奏 EXTRA2 / Aokana – Four Rhythms Across the Blue – EXTRA2   v1.03   免安装中文版
+- 星光遗产/ Starlight Legacy   Build.20601496   免安装中文版
+- 伦敦旧影/ London Echoes of the Past   Build.20709836   免安装中文版
+- 命令与征服：将军零点/ Command and Conquer Generals Zero Hour   免安装中文版
+- 浪漫沙迦2|浪漫沙加2 七英雄的复仇/ Romancing SaGa 2   v1.1.2 送修改器   免安装中文版
+- 巨龙堡垒/ Dragonhold   Build.20763781   免安装英文版
+- 迷途狗爪/ Lost Paws   Build.20758095   免安装中文版
+- 莱莎的炼金工房2 ～失落传说与秘密妖精～DX/ Atelier Ryza 2 Lost Legends and the Secret Fairy DX   v1.00   免安装中文版
+- 莱莎的炼金工房3 ～终结之炼金术士与秘密钥匙～ DX/ Atelier Ryza 3: Alchemist of the End and the Secret Key DX    v1.00   免安装中文版
+- 莱莎的炼金工房1 ～常暗女王与秘密藏身处～DX/ Atelier Ryza Ever Darkness and the Secret Hideout DX   v1.0.0 送修改器   免安装中文版
+- 宿星的女朋友/ destiny star girlfriend    v1.0.0   免安装中文版
+- 暗黑地牢1 / Darkest Dungeon / PC+手机双端  v26186 全DLC 4周解锁存档 送修改器   免安装中文版
+- 爱情，金钱，摇滚乐/ Love, Money, Rock’n’Roll   v20251014 全DLC  免安装英文版
+- 浮生千百事/ The Wreck   Build.20768102   免安装中文版
+- 魔咒之地/ Forspoken    v1.23 全DLC   免安装中文版
+- 怪物猎人物语：重制版/ Monster Hunter Stories/ PC+手机双端    v1.1.1  免安装中文版
+- 轮回遊郭：江户奇谭/ GHOST TRAVELER Adventures in Edo    Build.20295787   免安装中文版
+- 海默2000 / Hymer 2000   Build.20776290   免安装中文版
+- 阿尔西亚：艾菲力之怒/ Altheia The Wrath of Aferi   v1.023   免安装中文版
+- 黄金像凶杀案|黄金像崛起/The Rise of the Golden Idol   v20251104 全DLC   免安装中文版
+- 女装少年短发妹 完整版/ Cross Princess  免安装中文版
+- 建筑模拟器4|模拟建筑4 / Construction Simulator/ PC+手机双端    Build.20678956   免安装中文版
+- M.A.S.S. 建造者/ M.A.S.S. Builder  v1.0.5 全DLC  免安装中文版
+- 大宋英雄传/ SongHeros   v20251115   免安装中文版
+- 战场的赋格曲2/Fuga Melodies of Steel 2   v1.51  免安装中文版
+- 战场的赋格曲3 / Fuga Melodies of Steel 3   v1.21  免安装英文版
+- 战场的赋格曲1 / Fuga Melodies of Steel   v1.72   免安装中文版
+- 我的26岁女房客：在云端/ My 26-Year-Old Female Tenant   Build.20772825   免安装中文版
+- 诺雷亚：黄金计划|诺瑞亚：黄金计划/ Noreya: The Gold Project   v1.3.37   免安装中文版
+- 元素大陆/ Elemental Continent   v20251118   免安装中文版
+- 悠哉钓鱼/ Fish to Dish Idle Sushi   v2.03.44  免安装中文版
+- 怪兽快跑：帝国的没落/Monster Run Downfall of the Empire   Build.15930469  免安装中文版
+- 3D找茬/ Tiny Lands   v1.2.0.6   免安装中文版
+- 看不见的我们/ The invisible us    Build.20904208   免安装中文版
+- 逆转裁判123 成步堂精选集 收藏版/ Phoenix Wright: Ace Attorney Trilogy   Build.20282248   免安装中文版
+- 梦境深渊：幸存者/ Dream Abyss Survivors    v1.1.1.5   免安装中文版
+- 好杂鱼鸭/ZAKO NO AHIRU   Build.20836847   免安装中文版
+- 罗伊斯号快车谋杀案 /Loco Motive  Build.20754439  免安装中文版
+- 真女神转生3：HD重置版/Shin Megami Tensei III Nocturne HD Remaster Build.20657000  免安装中文版
+- 纸间谜迹/Paper Trail   v1.0   免安装中文版
+- 剑刃与战靴 /Swords and Sandals Immortals   v1.1.3E   免安装中文版
+- 奇妙大作战 /Go Fight Fantastic /单机+联机  v1.11.0029   免安装中文版
+- 日落生存战/SUNSET SURVIVAL STATION   v1.0   免安装中文版
+- 牧场物语 Welcome！美丽人生 /STORY OF SEASONS: A Wonderful Life   v1.0.1   免安装中文版
+- 废土3/Wasteland 3  v1.6.9   免安装中文版
+- Vtuber大师/Master of Vtuber   v1.1.0   免安装中文版
+- 放置拼好团/Raid Auctus   v1.0.2   免安装中文版
+- 星际勇士/Star Valor  Build.20913823 全DLC  免安装中文版
+- 尘风：抵抗/Dustwind Resistance  v12101 全DLC  免安装中文版
+- 尘埃异变 /GRIME   v1.3.2   免安装中文版
+- 托克朋！怒之铁剑/ DOKAPON! Sword of Fury   v1.1.4   免安装中文版
+- 怪物猎人物语2：毁灭之翼/ Monster Hunter Stories 2: Wings of Ruin/ PC+手机双端    v1.6.1  全DLC 送修改器   免安装中文版
+- 日光环/Sun Halo   Build.20902345   免安装中文版
+- 勇者斗恶龙 怪物仙境3 魔族王子与精灵的旅程/DQM3   Build.20285966   免安装中文版
+- 毁灭战士：恶魔出没的世界|杀手：恶魔出没的世界/ Slayer : the Demon Haunted World   v20251127   免安装中文版
+- 我独自升级：起立 觉醒 /Solo Leveling ARISE OVERDRIVE  v1.1.67   免安装中文版
+- Öoo 炸弹毛毛虫的大冒险 / Ooo  v1.0.13 免安装中文版
+- 家：归处|Home: 归处 /Home   Build.20980959   免安装中文版
+- 苍色之光与魔剑锻造师 v1.00 免安装中文版
+- 名利场：我被好莱坞美女潜规则了 免安装中文版
+- 请做coser的主人1/Fell in love with coser  免安装中文版
+- 请做coser的主人2 / Fell in love with coser 2  免安装中文版
+- 请做coser的主人3 / Fell in love with coser 3  免安装中文版
+- 明末：渊虚之羽/ Wuchang Fallen Feathers   v1.7 豪华版 送修改器   免安装中文版
+- 请做coser的主人4/Fell in love with coser 4  免安装中文版
+- 永不结束的星期一：梦想与死线/Endless Monday Dreams and Deadlines   Build.20629454   免安装中文版
+- 怪物饲养员 / The Monster Breeder  v1.07   免安装中文版
+- 地狱之魂 |英菲尼克斯 /Infernax   Build.20274783  免安装中文版
+- 史诗战斗幻想4/Epic Battle Fantasy 4   Build.14083646  免安装中文版
+- 火炬之光2-挑战者/ Torchlight II    免安装中文版
+- 拉格纳/Ragnar   Build.20961161  免安装中文版
+- 大恶人千金 枭雌百合战记/ The Great Villainess Strategy of Lily    v1.1.1  免安装中文版
+- 无休仙途/ EndlessJourney    Build.21019837 全DLC   免安装中文版
+- 请做coser的主人10 /Fell in love with coser 10  免安装中文版
+- 请做coser的主人9 / Fell in love with coser 9   免安装中文版
+- 请做coser的主人8 / Fell in love with coser 8   免安装中文版
+- 请做coser的主人7 / Fell in love with coser 7  免安装中文版
+- 请做coser的主人5/Fell in love with coser 5  免安装中文版
+- 请做coser的主人6/Fell in love with coser 6 免安装中文版
+- 爱情，死亡与比基尼   免安装中文版
+- 捞女游戏|情感反诈模拟器   v1.0   免安装中文版
+- 无名者：屠龙/ The Name Less Slay Dragon   v20251028   免安装中文版
+- 数码宝贝：绝境求生 / Digimon Surviv / PC+手机双端   Build.20890984     免安装中文版
+- 数码宝贝世界：新秩序/Digimon World: Next Order   Build.20891205   免安装中文版
+- 我装哔全靠AI/How I Flex with AI    v1.0   免安装中文版
+- 小火箭实验室|小小火箭工厂/ Little Rocket Lab  Build.20982763  免安装中文版
+- 混沌银河1/Chaos Galaxy 1  v1.0    免安装中文版
+- 精灵化化大冒险/Evolings    v1.2.1   免安装中文版
+- 旁观者：列车长 /Beholder: Conductor  v1.0.4.290   免安装中文版
+- 将花朵献与你-Kinsenka-/Perennial Dusk -Kinsenka-    Build.18621764    免安装中文版
+- 丽露娅与夏夏的纯白谎言/Lilja and Natsuka Painting Lies   Build.15107661   免安装中文版
+- 银花/GINKA   Build.14581843   免安装中文版
+- Corona Blossom-日冕之华- vol.1 来自银河的礼物 /Corona Blossom Vol.1 Gift From the Galaxy   Build.3634073   免安装中文版
+- Corona Blossom-日冕之华- vol.2 自外而来的真相 /Corona Blossom Vol.2 The Truth From Beyon   Build.3893760   免安装中文版
+- Corona Blossom-日冕之华- vol.3 跨越星际的旅行 /Corona Blossom Vol.3 Journey to the Stars   Build.4111758   免安装中文版
+- 末日拾荒者/NEO Scavenger   Build.1555756   免安装英文版
+- 16人格大乱斗/16 Cyber-Personalities Survivors    Build.21106200   免安装中文版
+- 影色渐染~阿斯林顿的妹神官~/ Fallen Priestess My Sister’s Demonic Bloodline  Build.20860827   免安装中文版
+- 铁锤守卫英雄传2 / Heroes of Hammerwatch II   Build.21002016   免安装英文版
+- 江山北望 v1.15 免安装中文版
+- 歧路旅人0|八方旅人0 / OCTOPATH TRAVELER 0   v1.0.2模拟器整合版   免安装中文版
+- 手撕道祖，脚踩大乘/Tao Ancestor’s Vanquisher   免安装中文版
+- 风暴之海 /Tempest: Pirate Action RPG   Build.20285343  免安装中文版
+- 铲子骑士：无尽宝藏 /Shovel Knight Treasure Trove    v4.2    免安装中文版
+- 新月之塔/ Crescent Tower   Build.21178644  免安装中文版
+- 洛克人EXE合集1/Mega Man Battle Network Legacy Collection Vol 1   Build.12361001  免安装中文版
+- 经典迷宫：扶翼魔装阵X3 / CLADUN X3    Build.20690473   免安装中文版
+- 时间之塔|时光之塔/ Tower of Time   v1.5.1.11880 送修改器+赠官方原声17首BGM  免安装中文版
+- 西部公路|狂歌远行/ Heading Out   v1.047  免安装中文版
+- 传颂之物：斩/Utawarerumono: ZAN    Build.21148349    免安装中文版
+- 血姬：双生 /Vampiress Eternal Duet    Build.21180511    免安装中文版
+- 光之战士：改写命运 /Lia Hacking Destiny   Build.20884271   免安装中文版
+- 禁止过分投入2：夏日大排档 /Love Too Easily 2 Summer Pocha   Build.20586137   免安装中文版
+- 侏罗岛/Isle of Jura   Build.21192892   免安装中文版
+- 你的眼眸命中我心头 /Kimi no Hitomi ni Hit Me   Build.16852458   免安装中文版
+- 小小模拟世界/Little Sim World  Build.21073155  免安装中文版
+- 破音青春/I Write Games Not Tragedies   Build.21123257   免安装中文版
+- 主权辛迪加：雾都疑案/Sovereign Syndicate    Build.21202596    免安装中文版
+- 阿尔莫拉岛/Almora Darkosen   v1.2.29  免安装中文版
+- 阿喀琉斯：不为人知的传奇/Achilles Legends Untold   v10662 全DLC   免安装中文版
+- 灰鹰：邪恶元素之神殿 /The Temple of Elemental Evil   Build.21188269   免安装英文版
+- 工匠幸存者 /Crafty Survivors   v1.0.8   免安装中文版
+- 新绝代双骄6部合集收藏版/ The Twin Heroes   免安装中文版
+- 弃子/The Cub   Build.20855216    免安装中文版
+- 球魂 /WarriOrb  v1.3.1   免安装中文版
+- 深空梦里人/Citizen Sleeper   Build.21238792   免安装中文版
+- 迸发|机甲狂潮|巨浪/The Surge   送修改器+赠二周目+全BOSS武器2.0完成+植入物基本收集+全套装收集存档    免安装中文版
+- 惠梅尔学院|威梅尔学院/ Whimel Academy    v1.1.23   免安装中文版
+- 灵墟 /Lingxu   v1.0.0.7   免安装中文版
+- 错误的信标2/fault – milestone two side above    Build.20181017  免安装中文版
+- 厕所穿越记 /Unepic   v1.51.1 送修改器    免安装中文版
+- 太阳港/Sun Haven   v3.0.2b 全DLC   免安装中文版
+- 逃学之王/King Of Truancy   Build.20109389  免安装中文版
+- 现尝好滋味！超级猴子球1+2重制版 /Super Monkey Ball Banana Mania  Build.20220487 免安装中文版
+- 云中庭|云端花园 /Cloud Gardens   v1.2.6    免安装中文版
+- 小丑游戏/The Jokers Game    Build.21305304   免安装中文版
+- 轨道之下 /UnderRail   v1.3.0.15   免安装英文版
+- 我！勇者？/The Warrior  Build.21131177    免安装中文版
+- 天师 /Immortal Master   v1.1.54.42   免安装中文版
+- 石头模拟器/ Stone Simulator – Just Be a Rock   v1.2.0.2  免安装中文版
+- 种子帝国 /Torrent Empire   Build.21310806   免安装中文版
+- 埃尔巴布 /ELbab  Build.21309935   免安装中文版
+- 太太！我喜欢你/Sensei! I Like You So Much!   v1.0.0.1117  免安装中文版
+- 骑士学院 /Knights College    v3.2.0   免安装中文版
+- 月华辉映之刻 免安装中文版
+- ​化月奇旅 /Become the Moon   v1.1.4   免安装中文版
+- 无尽传奇：复刻版/ Tales of Xillia Remastered   v1.0.3  免安装中文版
+- 少侠的江湖 /My Tale Of XiaKe   Build.17139103   免安装中文版
+- 嘘, 美女拍摄中/Heroines Through My Lens    Build.21290469    免安装中文版
+- 伊苏8：达娜的安魂曲 /Ys VIII Lacrimosa of Dana   集成高清材质包 送修改器+100通关真结局完美存档    免安装中文版
+- 螺旋溯行的绝望乡 /Spiral Dystopia   v1.00    免安装中文版
+- 亚拉菲尔 /Ara Fell Enhanced Edition   v1.01    免安装中文版
+- 无极群侠传/Sifu’s Quest    Build.15002621   免安装中文版
+- 盗贼的故事|游侠传奇/ Rogue’s Tale    v2.30 全DLC   免安装中文版
+- 逆向坍塌 面包房行动  v1.0.7.30  免安装中文版
+- 地狱丧钟/Hell Clock    v1.2.1.HF1   全DLC 送修改器   免安装中文版
+- 德拉加传说/ Legends of Dragaea Idle Dungeons   v1.1.3e  免安装中文版
+- 啪嗒砰|战鼓啪打碰 1+2 重制版/ PATAPON 1+2 REPLAY   Build.21020115  全DLC  免安装中文版
+- 百重幻境/Centum   Build.18388745  免安装中文版
+- 天下为棋/ TianXiaWeiQi   Build.13359615   免安装中文版
+- 逃离疯狂帝国|逃离疯帝国/ Escape The Mad Empire  Build.21216956  免安装中文版
+- 日薄西山/ Fading Afternoon  v20251229  免安装中文版
+- 荒野大农夫/ Cattle Country   v25.7.14   免安装中文版
+- 终结降临|死亡成真/ Death Come True   v20210421  免安装中文版
+- 迷宫物语/ FALL IN LABYRINTH   免安装中文版
+- 真三国无双8 / Dynasty Warriors 9  v1.31 送修改器 附3-7历代 原声音乐集+全事典.全事件.全武器.地图全开.全武将满级.全支援兽满级.马匹全满级完美存档+原画集   免安装中文版
+- 刺客信条3：重置版/ Assassin’s Creed III Remastered  v1.0.3 送修改器  免安装中文版
+- 神州志西游  /Divinity Chronicles: Journey to the West   v1.14.35b   免安装中文版
+- 老铁，我啤酒呢？/Dude, Where Is My Beer?   Build.20978952   免安装中文版
+- 剑与狐尾|剑与尾巴 / Of Blades and Tails   v1.1.6.1  免安装中文版
+- 无人生还/ No One Survived   v1.0.0.1  免安装中文版
+- 公鸡神探：深入虫巢！/Chicken Police: Into the HIVE!   Build.20436317  免安装中文版
+- 由你决定游戏规则 |巴巴是你 /Baba Is You   Build.21313362   免安装中文版
+- 君主：中世纪 重制版/ Monarch Medieval Remastered   v20251221  免安装中文版
+- 虐杀原形 2+1/Prototype   v20250929   免安装中文版
+- 恶棍水域 /Rogue Waters   v1.0.9.3268    免安装中文版
+- 你妈 /Your Mom   Build.21335199  免安装中文版
+- 绽放青春全力向前冲！/KakenukeForward to Our Sparking Youth!   v1.0.1  免安装中文版
+- 残音系少年少女/ Type-NOISE Shonen Shojo   v1.0.6  免安装中文版
+- 小小地牢/Little Dungeon Stories  Build.5419471  免安装中文版
+- 七日密语 |七天与你结束/7 Days to End with You   Build.20300611   免安装中文版
+- 心驰神往/ Keep Driving    v1.3.1.1d  免安装英文版
+- 玛米亚 /MAMIYA  Build.21282227  免安装中文版
+- 魔物学园4：魔物庆典 /Monster Prom 4 Monster Con  v1.55 全DLC  免安装英文版
+- 演灭 /EVOTINCTION  Build.20547219  免安装中文版
+- 纳米虚拟宠物/Nanomon Virtual Pet   Build.20584798   免安装中文版
+- 不思议地牢/ Lord Ambermaze  Build.21017732  免安装中文版
+- 万神之城/ Citadelum   Build.21433146 全DLC   免安装中文版
+- 选王之剑：零/Idle Calibur：Zero   v20250203 全DLC   免安装中文版
+- 黑发蕾姆的异世界/Cosplayer’s Quest   免安装中文版
+- 空之轨迹 the 1st|英雄传说空之轨迹FC重制版 数字豪华版/ Sora no Kiseki the 1st/ 单机+联机  v1.06.3 全DLC 送修改器    免安装中文版
+- 不可思议的幻想乡 -FORESIGHT-/Touhou Genso Wanderer -FORESIGHT-   v1.09    免安装中文版
+- 金庸群侠传X 无双  v2.2.0 魔改全明星MOD版+原版 全DLC 免安装中文版
+- 我的高冷女友 /MY COLD GIRLFRIEND    v1.3  免安装中文版
+- 诸天刷宝录/Multiverse  v1.2.5.0 全DLC   免安装中文版
+- 高中生模拟器 /The Existence Theory of the No.13 High School   v20251130   免安装中文版
+- 盗团：瓦哈卡/Brigand Oaxaca   v17.7   免安装中文版
+- 遵命陛下2：寒冬/ Yes, Your Grace 2: Snowfall  v1.1.4  免安装中文版
+- 思古塔加亚最后的英雄/The Last Hero of Nostalgaia   v3.3.6.8  免安装中文版
+- 金庸群侠传5/Heroes of Jin Yong 5   v3.1.0 原版+铜雀台版+MOD   免安装中文版
+- 梅格与怪物/ Meg’s Monster   Build.21409565  免安装中文版
+- 施莱恩传说/ Shrine’s Legacyv  v1.1.2  免安装中文版
+- Nevergrind Online    v1.5.2  免安装中文版
+- 强者群英传/Power heros saga   Build.18388001  免安装中文版
+- 星穹遗迹/Voidwrought   v1.1.33  免安装中文版
+- VED v1.0.2 免安装中文版
+- OFF重制版 v1.1 免安装中文版
+- 黑兽2‧改 /Kuroinu 2 Redux  Build.12627227  免安装中文版
+- 黑兽‧改 /Kuroinu Redux   Build.11241784  免安装中文版黑s
+- 切尔诺贝利人2：禁区/ Chernobylite 2 Exclusion Zone   v83274  免安装中文版
+- 猛击和滚动 /Slam and Roll  v1.2.4   免安装中文版
+- 叛逆转变|反叛转化/Rebel Transmute   Build.250214  免安装中文版
+- 春泥 v1.2.3 免安装中文版
+- 公主同盟 续章|尤格德拉重奏/YGGDRA REFRAIN  Build.21434585  免安装中文版
+- 绝世好武功/The Matchless Kungfu   v20260114  免安装中文版
+- 纵横命途/Cross Blitz   v1.0.4  免安装中文版
+- Gah! 哀叹地牢 Build.21572959 免安装中文版
+- 女巫之火|巫火/Witchfire   v0.8.6  免安装中文版
+- 格瑞多/Gridle   Build.21568731  免安装中文版
+- 天哪！是心动的感觉！/ Oh my god!Crush!   v1.0.0   免安装中文版
+- 轮回修仙传  v1.2.1.18.1  免安装中文版
+- 永生之庭/ Space Eternal   v20260120   免安装中文版
+- 树海迷宫/ Jukai Maze   Build.21589986   免安装中文版
+- 英雄传说 界之轨迹 -告别塞姆利亚-/The Legend of Heroes Kai no Kiseki Farewell O Zemuria   v1.0.6 送修改器   免安装中文版
+- 甜蜜夏日/~Perfect Edition~   v1.0.1  免安装中文版
+- 起夜/Get Up In The Night   免安装中文版
+- 王国之心：回忆的旋律|王国之心：记忆旋律/Kingdom Hearts Melody of Memory   v1.0.0.0 全DLC  免安装中文版
+- 骨爆术 /Osteoblasts  Build.21601415  免安装中文版
+- 进度指令/PROGRESS ORDERS  Build.19084338  免安装中文版
+- 领域碎片/Shards of the Realm   v1.0.9.0   免安装中文版
+- 命途 / The Use of Life   v1.0.09  免安装中文版
+- 暴走地牢大冒险 /The Crazy Hyper-Dungeon Chronicles   Build.21552468  免安装中文版
+- 太吾绘卷 /The Scroll Of Taiwu  Build.20152028  免安装中文版
+- 我说什么她们都答应/OKeverything   v1.0  免安装中文版
+- 穿越梦魇/Through the Nightmares   v1.0.6  免安装中文版
+- 西哈诺/Cyrano   Build.20338852   免安装中文版
+- 吾家有女 AI/My Daughter In Family Ai   Build.21645337   免安装中文版
+- 马赛卡：枝叶之境/Mosaica Arboreal   Build.21632731  免安装中文版
+- 上古卷轴5：天际周年纪念版/ The Elder Scrolls V: Skyrim Special Edition   v2.0.5 全DLC MOD整合版   免安装中文版
+- 歧路旅人2|八方旅人2 / OCTOPATH TRAVELER II / PC+手机双端   v1.1.0 全DLC MOD+修改器   免安装中文版
+- 怦然心动的她们/ Charming Hearts   v0.2.1   免安装中文版
+- 异世界归来的我错过了爱情/ Back from the other world, I missed love    Build.21332962   免安装中文版
+- 有这么一个家伙/ Such a guy   Build.20380128   免安装中文版
+- 天呐！我该怎么选？/Oh My Goddess!  Build.16109400   免安装中文版
+- 请叫我英雄 /Call me Hero   Build.15768940   免安装中文版
+- 狂想！夏日盛宴/ Fantasy! Summer Cook    Build.20781126   免安装中文版
+- 我只是想让她们都幸福   Build.20728554   免安装中文版
+- 无基之谈/ Ballshit   Build.20539643   免安装中文版
+- 天命重启：心跳的抉择/ Refate Echoes of Desire   Build.20495367   免安装中文版
+- 阿西, 美女室友竟然…？2 /Five Hearts Under One Roof season2   Build.20915460   免安装中文版
+- 火焰纹章无双：风花雪月/Fire Emblem Warriors：Three Hopes  模拟器整合版 v1.2.0+6DLC   免安装中文版
+- 天国：拯救2 黄金版 /Kingdom Come: Deliverance II   v1.5.2  全DLC MOD整合 送修改器+画质增强工具  免安装中文版
+- 美女，请别影响我成仙全球版/Ladies Don’t Tempt My Immortality   Build.21508302  免安装中文版
+- 无声无色 /Mute  Build.21446083  免安装中文版
+- 血薪记：罪恶园区/ Blood Money Lethal Eden   Build.21504525  免安装中文版
+- 怪物猎人世界/ Monster Hunter: World/ 单机＋联机   v15.23.00 全DLC 送修改器+赠满金币.调查点.解锁集会.任务板初始存档   免安装中文版
+- 神都不良探/ Underdog Detective  Build.8748355 全DLC  免安装中文版
+- 星梦轨迹-中国式经纪人/ Star Dream Journey   Build.17907476 免安装中文版
+- 夜店高手之御女心经/ In Search Of You  Build.15084241 免安装中文版
+- 命运游戏2：百年之约/Game of Fate 2: A Century’s Promise   v1.0.0 免安装中文版
+- 迷雾审判/Misty Judgment   v20250729  免安装中文版
+- 我和未来有个约定/ Pact Between Us   Build.19357133   免安装中文版
+- 监寓/ Cellveilance Official   Build.18743909   免安装中文版
+- 瑟拉利姆终极版 /Siralim Ultimate  Build.20548371  免安装中文版
+- 序章：重返往昔/Prologue Go Wayback!  Build.20894116  免安装中文版
+- 你去过CommutatorApply吗/Did you visit CommutatorApply    Build.21672021   免安装中文版
+- 纪元：变异/ANNO Mutationem   v1.2.00.00   免安装中文版
+- 战锤40K：行商浪人/Warhammer 40,000: Rogue Trader /单机+联机  v1.5.0.320 全DLC 送修改器    免安装中文版
+- 影子诡局 被诅咒的海盗 /Shadow Gambit: The Cursed Crew    Build.21243261 全DLC   免安装中文版
+- 破碎之路 /Broken Roads  v1.3.14955   免安装中文版
+- 恋爱秘密侦探社/ Love Love Mystery Club  Build.21697014  免安装中文版
+- 欢欣森活/ Mirthwood  v1.1.4p2  免安装中文版
+- 懊悔谷/ Rue Valley   v1.1.1  免安装中文版
+- 漫野奇谭/ Wildermyth/ 单机+联机  v1.16.562 全DLC   免安装中文版
+- 猎人公会/ Guild of Hunters   Build.21633843  免安装中文版
+- 暗黑纪元：未知之地/ Tenebris Terra Incognita   Build.21601662  免安装中文版
+- 音序真空 /DEFLATE  Build.21556857  免安装中文版
+- 命运石之门 /STEINS;GATE   Build.4434295  免安装中文版
+- 仙旅异闻录   Build.21710700   免安装中文版
+- 最终幻想1-6捆绑包 /FINAL FANTASY I-VI BUNDLE   Build.20265119 送修改器   免安装中文版
+- 东方迷宫三重奏 – 幻梦少女与神秘宝珠 – /Labyrinth of Touhou Tri -The Dreaming Girls and The Mysterious Orbs-  Build.21700859  免安装英文版
+- 仙剑奇侠传1-7+仙剑客栈1-2 合集/ Sword and Fairy   免安装中文版
+- 妖精的尾巴/FAIRY TAIL   v1.04   免安装中文版
+- 矮人军团自走棋 /Dwarves Glory  v2.0.2   免安装中文版
+- 三国真龙传 /Three Kingdoms True Dragon  v4.02  免安装中文版
+- 华夏珍馐坊 /Chinese Culinary Shop  v20260202  免安装中文版
+- 龙与地下城：无冬之夜2增强版/ Dungeons and Dragons Neverwinter Nights 2 Enhanced Edition   v20260202  免安装英文版
+- 封神榜2024 Build.21644793 免安装中文版
+- 九死无生/almost certain death   Build.21449203  免安装中文版
+- 逸剑风云决/Wandering Sword   v1.24.32 送修改器  免安装中文版
+- 王冠与冒险/ Crown and Adventure   v20260205  免安装中文版
+- 争取光明/Striving for Light   v1.0.4.3b   免安装中文版
+- 女神的贴身男仆/Service of Five Graces   Build.21828100   免安装中文版
+- 炸鸡游戏/ Chicken Game  v1.0.0  免安装中文版
+- 狂星滥炸/Zet Zillions   Build.20477790  免安装中文版
+- 侦探2112/DeTechtive 2112   v1.1.2  免安装中文版
+- 东方的迷宫 幻想乡和通天的大树/LABYRINTH OF TOUHOU   v1.20   免安装中文版
+- 自由战争：复刻版/FREEDOM WARS Remastered   v1.0.9  免安装中文版
+- 圣剑传说2：重制版/The Holy Sword 2 Remake   送修改器+存档   免安装中文版
+- 奥伯拉丁的回归/Return of the Obra Dinn    v1.2.122   免安装中文版
+- 咸鱼殿下 Build.18672254  免安装中文版
+- 正宗台湾十六张麻将 1-3合集/16 brands Taiwai Mahjong 1-3    免安装中文版
+- 奇异人生 重制版/ Life is Strange   Build.11330282   免安装中文版
+- 完蛋！我被美女包围了！2 / Love is all around 2   v1160223 模拟器版   免安装中文版
+- 完蛋！我被美女包围了！前传 免安装中文版
+- 永恒领域2|永生2 /Everhood 2  Build.21398081  免安装中文版
+- 湛蓝牢笼/ Rail of Möbius   v2.2.0 全DLC   免安装中文版
+- 死亡环绕/SurrounDead  v0.8.0   免安装英文版
+- 暗黑战甲/ Ketz: Galactic Overlords  v0.3.1 免安装中文版
+- 神之天平 /ASTLIBRA Revision   Build.21868037 全DLC 送修改器   免安装中文版
+- 台湾恋爱物语⁵/Taiwan Love Story   Build.16802271  免安装中文版
+- 超级猫幸存者 /Supercat Survivors: Meow or Die   v20260211   免安装中文版
+- 像素王牌重制版 /Perfect Hand of Nostalpix [REMASTER]   Build.20930422   免安装中文版
+- 鸿运修仙传/ The Legend of Fortune and Immortality   v20260213   免安装中文版
+- 探险逃生：生存/ QUESTSCAPE：Survival  v1.0.0  免安装中文版
+- 红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ / Atelier Resleriana The Red Alchemist & the White Guardian   v1.3.2 免安装中文版
+- 开方与祈祷/Prescribe and Pray   Build.21889998   免安装中文版
+- 刀剑江湖路/ Path of Kung Fu   v1.1.0.0 送修改器  免安装中文版
+- 境界 完整版/ Dice and Fighter  免安装中文版
+- 骰子与哥布尔/ Dice ‘n Goblins   v1.0.0  免安装中文版
+- 勇者斗恶龙7：重制版/ DRAGON QUEST VII Reimagined   v1.1.0模拟器整合版   免安装中文版
+- 奇唤士/The Thaumaturge   v77229 全DLC 送修改器   免安装中文版
+- 中世纪铁匠模拟器/ Medieval Blacksmith   v1.6.1   免安装中文版
+- 轮回的瓦尔基里/ Reality Break   v1.1.2  免安装中文版
+- 永不落败/Every Day We Fight   v0.8.2.1  全DLC    免安装中文版
+- 牧场物语：橙色季节 /Orange Season  v1.0.4   免安装中文版
+- 无尽的冒险/Endless Adventure  v2.4.5  免安装中文版
+- 主播之心 /The Heart of Influencer  Build.18279420   免安装中文版
+- 永恒之爱/LOVE ETERNAL   Build.21785811  免安装中文版
+- 奇异种子/ Strange Seed  v1.15  免安装中文版
+- 亡灵罗曼史/Necromance   Build.21943735   免安装中文版
+- 逆光迷途 /Lost in Darklight   v3560   免安装中文版
+- 伊苏X 北境历险 /Nordics   Build.21997766 全DLC   免安装中文版
+- 幻想生活ｉ 转圈圈的龙和偷取时间的少女/FANTASY LIFE i: The Girl Who Steals Time/单机+联机   v2.1.2 全DLC 送修改器   免安装中文版
+- 万千定数孤注破晓之刻 /Wayblazer Dämmerung   Build.22015916   免安装中文版
+- 不正经的卡牌传说 /Fickle Card Legend  v1.5.0  免安装中文版
+- OPUS：龙脉常歌/OPUS Echo Of Starsong   v2.5.6   免安装中文版
+- 魔法师世界Re;Try /WiZmans World Re;Try   Build.22070172   免安装中文版
+- 虚幻之地/ Magic Master  Build.20108383   免安装中文版
+- 传颂之物：斩1|受赞颂者 斩1/Utawarerumono: ZAN   v1.01   免安装中文版
+- 爱氏物语/Artis Impact  Build.22066223  免安装中文版
+- 末日方舟：生存/Delivery from the Pain Survival    Build.9868454   免安装中文版
+- OPUS：灵魂之桥 /OPUS Rocket of Whispers    v4.8.1 免安装中文版
+- 舔狗三年/Cringer’s Rise   Build.22124618   免安装中文版
+- 幻世酔虎伝+ /Gensei Suikoden Plus   Build.16284116  免安装中文版
+- 最终幻想7：重制版/Final Fantasy VII Remake Intergrade   v1.007  送修改器  赠服饰MOD 免安装中文版
+- 除灵事务所/Exorcism Agency   v1.3.2  免安装中文版
+- 光环之沙|灵气之沙/Sands of Aura   v1.02.06 全DLC    免安装中文版
+- 暮光物质/Eventide Matter  Build.22142745  免安装中文版
+- 吸血鬼搞事情！/DRACU-RIOT!   Build.22142323  免安装中文版
+- 哥谭骑士团 /Gotham Knights   v20260226  全DLC  免安装中文版
+- 逆袭重启  Build.22128461  免安装中文版
+- 永恒岛梦旅 /Everholm   v2.0.9  免安装中文版
+- 神奇魔法师/An Amazing Wizard   v0.5.201   免安装中文版
+- 剑与魔法与学园任务 /Adventure Academia – The Fractured Continent   Build.20728675免安装中文版
+- 宇宙群青/Cosmic Ultramarine   Build.21953257   免安装中文版
+- 勇敢的哈克 /HAAK  Build.21794863   免安装中文版
+- 艾瑟斯/AETHUS   Build.22238279   免安装英文版
+- 罪金游戏 /THE VIG  Build.22212019   免安装中文版
+- 世界在俄亥俄终结/The World Ends in Ohio   Build.22171192  免安装中文版
+- 阳光山谷|光丘|夏因希尔 /Shinehill    v1.0.2正式版    免安装中文版
+- 生化危机4：重制版 /Resident Evil 4    Build.22154679 全DLC 新增艾达王DLC 送修改器   免安装中文版
+- 吞天食地666（二）卧龙传 /TunTianShiDi   v1.4.5    免安装中文版
+- 夏日口袋流光蓝|夏日口袋：流光蓝/Summer Pockets REFLECTION BLUE   v1.4.2.1  免安装中文版
+- 时空之轮2高清版|穿越时空重制版/CHRONO CROSS THE RADICAL DREAMERS EDITION  v20260205   免安装英文版
+- 基因组守护者2/Genome Guardian 2   v0.5.4  免安装中文版
+- 异常形态：梦的终结/ Quasimorph   v0.9.9  免安装中文版
+- STRANGER SAGA 《流浪者巴奇》与《伊斯基埃尔德的野心》 /STRANGER SAGA -Stranger Bach and Iskiyeld’s Ambition-    Build.21683054    免安装中文版
+- 勇者斗恶龙1+2 HD-2D重制版/ DRAGON QUEST I and II HD-2D Remake   Build.21744054    免安装中文版
+- 灰烬圣预/Prophecy of Ashen   Build.22161829  免安装中文版
+- 司辰之书/ BOOK OF HOURS   Build.22091683 全DLC   免安装中文版
+- 荒岛求生：逃出美女岛 /Island Survival   Build.22298449 免安装中文版
+- 不好啦！师父被女妖精抓走了！/Adventure in the Women’s Kingdom   Build.22258419高清2K版   免安装中文版
+- 虚空列车/ Voidtrain/ 单机+联机    v1.06    免安装中文版
+- 洛克人EXE合集2 /Mega Man Battle Network Legacy Collection Vol 2    v1.0.0.4  免安装中文版
+- 科涅鲁：次元少女/ CONERU：DIMENSION GIRL   v20260227  免安装中文版
+- 境界突破：放置修仙 v20260313 免安装中文版
+- 死亡逃生：生死敲定/Dyping Escape   Build.22291506   免安装中文版
+- 幻觉病理 /illusion syndrome   Build.22150125   免安装中文版
+- 轩辕剑叁外传 天之痕/Xuan-Yuan Sword The Scar of Sk   Build.7375679   免安装中文版
+- 轩辕剑叁 云和山的彼端 /Xuan-Yuan Sword Mists Beyond the Mountains  Build.12102745   免安装中文版
+- 轩辕剑合集 1-7共13部珍藏版 /Xuan-Yuan Sword   送修改器   免安装中文版
+- 合作房车模拟器/ Long Drive North/ 单机+联机   21662913  免安装中文版
+- 永夜：雪落/Skabma – Snowfall  v1.1.111   免安装中文版
+- 遗落之岛 /Island of Ruin   Build.22266762    免安装中文版
+- 火线迈阿密2：空号|迈阿密热线2：空号/Hotline Miami 2 Wrong Number    完整版 送修改器   免安装中文版
+- 堡垒 /Bastion   v1.50436   免安装中文版
+- 心灵黑客/ MINDHACK   Build.21720579  免安装中文版
+- 战略幻想三国/Battle Fantasy Three Kingdom   v0.997  免安装中文版
+- 天穹卡牌录/ Card-en-Ciel  v1.9.1 免安装中文版
+- 钟楼/Towerborne /单机+联机  v20260316   免安装中文版
+- 终天教团|終天教団/ ShutenOrder  v1.0.4  免安装中文版
+- 咒语浪人/Spelldrifter    v26974   免安装中文版
+- 战术部队：无烟变换/Tactical Troops Anthracite Shift    v1.0.2   免安装中文版
+- 天外世界2 / The Outer Worlds 2   v1.1.0.1 送修改器  免安装中文版
+- 罗格：救世传说/Rogue : Genesia  v1.1.0i2  免安装中文版
+- 纯爱咖啡厅～帕露菲重制版～/Parfait Remake    Build.16855466   免安装中文版
+- 琥珀岛/Amber Isle    v1.10.6   免安装中文版
+- 绯夜传奇：重制版/Tales of Berseria Remastered    v1.0.4   免安装中文版
+- 地下古域/Dungeon Antiqua    Build.22412543   免安装中文版
+- 蛋蛋掌门日志 v1.05 免安装中文版
+- 破碎族裔/Sunderfolk   v2.0   免安装中文版
+- 摩天一线/SKY THE SCRAPER   Build.19417561  免安装中文版
+- 蒂维妮娅编年史：甘缇遗物/Divinia Chronicles: Relics of Gan-Ti   免安装中文版
+- 术士模拟器  /Unferat   Build.16756752   免安装中文版
+- 华利弗/Valefor   v1.04  免安装中文版
+- 热寂：生存列车/Heat Death: Survival Train    v0.3.1.B   免安装英文版
+- ​虚拟无限计划 /Virtua Unlimited Project    v1.3.0.0   免安装中文版
+- 科洛蒙/Coromon  Build.22484014  免安装中文版
+- 以太术士/ Aethermancer   Build.22431635  免安装中文版
+- 我们的冒险家公会|我们的冒险者协会|我们的冒险者公会 /Our Adventurer Guild  v20260317  全DLC     免安装中文版
+- 遗迹传说HD /The Legend of Legacy HD Remastered   v20240929   免安装中文版
+- 直到那时/Until Then   v20241122  免安装中文版
+- 先祖：人类奥德赛 /Ancestors: The Humankind Odyssey   v1.41   免安装中文版
+- 圣闻志狐游传/the shengs written journey of hoo    免安装中文版
+- 波兰球：编年史 /Bang-On Balls: Chronicles   v1.1.3  免安装中文版
+- 五等分的花嫁：与你度过的五个回忆 /The Quintessential Quintuplets – Five Memories Spent With You   免安装中文版
+- 骰子骑士录/ Dice Gambit    v20260320   免安装中文版
+- 裂幕余痕|龙娘养成计划/ DRAPLINE   Build.22493096  免安装中文版
+- ONE.30周年 经典重制版 免安装中文版
+- 命定奇谭/Fatermyth    v1.0     免安装中文版
+- 纯爱声放送 /Voice Love on Air   v1.3.0    免安装中文版
+- 前线任务3：重制版 /FRONT MISSION 3 Remake   v1.1  免安装中文版
+- 博德之门3  豪华版 /Baldur’s Gate 3    v4.1.1.7209685   送修改器    免安装中文版
+- 近畿灵务局/Kinki Spiritual Affairs Bureau   v1.20   免安装中文版
+- 贸易之路/Let Them Trade   v1.1.7.3  免安装中文版
+- 猛将三国/ Three Kingdoms Mushouden   v2.5.4 全DLC  送修改器  免安装中文版
+- 噩梦边境 /Nightmare Frontier   Build.22333660   免安装中文版
+- 暗影征途：古典卷 /Grim Quest – Old School RPG   Build.22499555  免安装中文版
+- 深 四目朝生-阴阳之巫女- /SHINONOME ABYSS The Maiden Exorcist    Build.21759330   免安装中文版
+- 关于我转生变成史莱姆这档事 坦派斯特开拓谭 PC/手机双端   Build.20398023  全DLC  免安装中文版
+- 空洞骑士/Hollow Knight/  PC/手机双端  v1.5.12620 全DLC 送修改器+护符生命面具全收集存档+游戏音乐BGM+官方原画集+空洞骑士游荡者笔记    免安装中文版
+- 木筏求生/ Raft/ 单机+联机/ PC+手机双端   v1.1.01.Hotfix    免安装中文版
+- 灵之面具/Mask of Soul    Build.22539546   免安装中文版
+- 新轩辕剑系列1-4部 合集/New Xuan Yuan Sword 1-4     免安装中文版
+- 天外武林 /Traveler of Wuxia   Build.11836286   免安装中文版
+- 怪物猎人物语3：命运双龙-虚拟机版/ Monster Hunter Stories 3 Twisted Reflection HYPERVISOR   v1.0.03(Build.22373924)   免安装中文版
+- 初音未来 Project DIVA MEGA39’s＋虚拟机版/Hatsune Miku Project DIVA Mega Mix+    v1.04|Build.11004484    免安装中文版
+- 灵魂骇客2-虚拟机版/Soul Hackers 2    v1.03|Build.20430206   免安装中文版
+- 歧路旅人0|八方旅人0-虚拟机版/OCTOPATH TRAVELER 0   v1.0.7.0|Build.21998576   免安装中文版
+- 噬血代码2-虚拟机版/CODE VEIN II    v1.0.6|Build.22261587   免安装中文版
+- 数码宝贝物语 时空异客-虚拟机版/ Digimon Story Time Stranger    Build.21891774   免安装中文版
+- 勇气默示录 高清复刻版-虚拟机版 /BRAVELY DEFAULT FLYING FAIRY HD Remaster Build.20659789   免安装中文版
+- 暗喻幻想：ReFantazio-虚拟机版 /Metaphor: ReFantazio   v1.0.13.0（Build.18330018）  送修改器   免安装中文版
+- 女神异闻录5战略版-虚拟机版/Persona 5 Tactica    Build.20538850   免安装中文版
+- 真女神转生3 高清复刻版-虚拟机版/Shin Megami Tensei III Nocturne HD Remaster     v1.0.4(Build.20657000)     免安装中文版
+- 真女神转生5：复仇-虚拟机版/ Shin Megami Tensei 5 Vengeance/ PC+手机双端 v1.0.3a(Build.17140961)_新版VBS补丁 xg器   免安装中文版
+- 神命 – 神祗模拟器/Fata Deum – The God Sim  Build.22345496   免安装中文版
+- 流星洛克人 完美合集-虚拟机版/Mega Man Star Force Legacy Collection    Build.21859197   免安装中文版
+- 女神异闻录3 Reload-虚拟机版/ Persona 3 Reload   Build.19891636  免安装中文版
+- 被遗忘的安妮/Forgotton Anne    v5.5.3    免安装英文版
+- 达愿福神社/ Promise Mascot Agency   v1.2.2  免安装中文版
+- 女神异闻录4 黄金版-虚拟机版/ PERSONA4 The GOLDEN/ PC+手机双端   v1.05(Build.10836033)    免安装中文版
+- 人中之龙8|如龙8：无尽的财富-虚拟机版/ Like a Dragon Infinite Wealth   v1.20（Build.17233673）免安装中文版
+- 地痞街区   Streets of Rogue/ PC/手机双端 单机+联机   v99h   全DLC   免安装中文版
+- 最终幻想战略版 伊瓦利斯编年史|最终幻想战略版 伊瓦利斯战记-虚拟机版/ FINAL FANTASY TACTICS – The Ivalice Chronicles    v1.4.0|Build.20688883   免安装中文版
+- 勇者斗恶龙X 觉醒的五种族 离线版   v20260120  全DLC  免安装中文版
+- 英雄传说：闪之轨迹3改高清版/The Legend of Heroes Trails of Cold Steel III    v20210325 送修改器   免安装中文版
+- 英雄传说：闪之轨迹1改高清版/The Legend of Heroes Sen no Kiseki I KAI   Build20210323 送修改器+存档   免安装中文版
+- 英雄传说：闪之轨迹4/The Legend of Heroes Trails of Cold Steel IV     v1.1.1 送修改器+存档    免安装中文版
+- 厦日恋旅/Enjoy Amoy and Sisters    Build.22639242   免安装中文版
+- 胡闹搬家2/Moving Out 2 /  单机+联机   v1.3.311   免安装中文版
+- 海洋幻想/ Sea Fantasy  2.9.0  免安装中文版
+- 桌宠屋/Desk Paws    Build.21238728   免安装中文版
+- 桌面副本物语：放置好时光 /Desktop Raid    v1.163    免安装中文版
+- 受赞颂者：给逝者的摇篮曲/Utawarerumono Prelude to the Fallen    Build.6150670    免安装中文版
+- 女神异闻录5：皇家版-虚拟机版 / Persona 5 Royal/ PC+手机双端    v1.04|Build.15515071  免安装中文版
+- YAR：被遗忘的王座/ YAR Forgotten Throne   Build.22638180  免安装中文版
+- 告别回忆1-7部合集/Memories Off 1-7    免安装中文版
+- 战斗砖块剧场|战斗方块剧场/BattleBlock Theater   Build.22622911   免安装中文版
+- 颈椎病 /Stiff Neck  Build.22605441   免安装中文版
+- 水浒绘卷 /Water Margin Scrolls   v1.8.1  免安装中文版
+- 生存边缘/Subsistence    Build.22131865   免安装中文版
+- 黑白莫比乌斯：岁月的代价 /Monochrome Mobius Rights and Wrongs Forgotten   v1.20.80361  免安装中文版
+- 暗使|黑暗使者/Dark Envoy Directors Cut    v1.9.3.75642 导演剪辑版   免安装中文版
+- 未知区域|未知领域 / Sector Unknown  v2.4.1  免安装中文版
+- 颂钟长鸣/Bellwright/单机+联机   v0.0.47654   送修改器   免安装中文版
+- 迷失幻境/ Dreamed Away   v1.3.0  免安装中文版
+- 大尸的自我修养/Zombie Self-Cultivation   Build.22596298    免安装中文版
+- 剑与魔法的女主角们2 /Heroines of Swords and Spells 2   v2.253   免安装中文版
+- 豪麻—黑色推理/Hauma   v1.0.4   免安装中文版
+- 鱼缸 /Fishbowl   Build.22644905   免安装中文版
+- 闇夜王国 /Kingdom of Night   Build.22733196  免安装英文版
+- 奥秘 消退 /Esoteric Ebb  v1.2.2  免安装英文版
+- 魔法少女的魔女审判/ Magical Girl Witch Trials   v1.1.2 免安装中文版
+- 刀剑神域 夺命凶弹 /Sword Art Online Fatal Bullet / 单机+联机    免安装中文版
+- 守墓人|看墓人|牧场物语/Graveyard Keeper   Build.22583570   送修改器  免安装中文版
+- 猫咪星球/A Planet Full of Cats   Build.22755728   免安装中文版
+- 背包幸存者/Backpack Survivors   Build.22777472    免安装中文版
+- 猫神公司：人类复原计划/ Nekokami – The Human Restoration Project   v1.0正式版   免安装中文版
+- 崩溃大陆2 / Crashlands 2 /手机+PC双端   v1.3.11 送修改器   免安装中文版
+- 分头行动：chibichibi / Head’s Adventures chibichibi    v20260213   免安装中文版
+- 不受欢迎的地下城/Unwanted Dungeon   Build.22702437   免安装中文版
+- 工匠镇|小城镇  /Tinkertown   Build.20285714   免安装中文版
+- 波与月夜之青莲/ Bo: Path of the Teal Lotus   v1.2.7  免安装中文版
+- 扉之书 /Book of Fei   v2.02.009   免安装中文版
+- 监狱模拟器/ Prison Simulator   v1.4.3.30 全DLC  免安装中文版
+- 戒指里的老爷爷/ Elder Ring   v0.5.5  免安装中文版
+- 暗黑地牢2 王国模式/Darkest Dungeon II / PC+手机双端   v2.04.84350 全DLC 送修改器    免安装中文版
+- 黯潮 /Grim Tides – Old School RPG   v1.3.2  免安装中文版
+- 最终幻想15-虚拟机版 /Final Fantasy XV   Build.6575095   免安装中文版
+- 蜃境/ShenJing   v1.0   免安装中文版
+- 最终幻想7 核心危机 /CRISIS CORE –FINAL FANTASY VII– REUNION    v1.03   免安装中文版
+- 瓦尔索斯：王位继承人 /Varthos – Heir to the Throne   Build.22744043   免安装中文版
+- 灯盏纪事 /Lamp Chronicle   v0.9.14.7437   免安装中文版
+- 犯罪帝国/Company of Crime    v1.0.5.1178   免安装中文版
+- 深海迷航：冰点之下/Subnautica: Below Zero /单机+联机   v53872 送修改器  免安装中文版
+- 公会传说 遗落的世界 /Guild Saga: Vanished Worlds   Build.22806407   免安装中文版
+- 不要失去仇恨 /Don’t Lose Aggro   Build.22858101   免安装中文版
+- 冬日幸存者/ Winter Survival  v56254S   免安装中文版
+- 海岛之魂|岛屿精神 /Spirit Of The Island    Build.22839717   全DLC   免安装中文版
+- 我为情狂/Drive Me Crazy    v1.1   免安装中文版
+- 鬼谷八荒/ Tale of Immortal   v1.2.113.259 送修改器   免安装中文版
+- 危险节奏3 /Beat Hazard 3    v1.051   免安装中文版
+- 星尘战线/ Breachway   v1.124.0.0  免安装中文版
+- 漫威暗夜之子-虚拟机版/Marvel’s Midnight Suns   Build.11378663_修复4月22日   免安装中文版
+- 魔法大师/Master of Magic    v1.09.17 全DLC   免安装中文版
+- 天国 拯救/ Kingdom Come: Deliverance  v1.9.8  全DLC 送修改器+存档+原声音乐   免安装中文版
+- 卓乐新声 /People of Note  v156094    免安装中文版
+- 古诺希亚/GNOSIA    免安装中文版
+- 英雄牌劫/Deckbane    Build.22863325   免安装中文版
+- 东方夜雀食堂/Touhou Mystia’s Izakaya   v4.4.0d   全DLC  送修改器   免安装中文版
+- 漂流计划/Project Castaway    v1.0.6  免安装中文版
+- 祭祀地宫 /THYSIASTERY   Build.22887327    免安装中文版
+- 魔法工艺/ Magicraft   v1.2.25 送修改器   免安装中文版
+- 狩夜人/Hunt the Night     Build.22616846   免安装中文版
+- 奥威尔：无所遁形/Orwell Keeping an Eye On You   Build.22713775   免安装中文版
+- 超级情圣3 /Super Seducer 3   v1.0.32  免安装中文版
+- 超级情圣2 收藏版/ Super Seducer 2 – Advanced Seduction Tactics   免安装中文版
+- 光与影：33号远征队/Clair Obscur: Expedition 33   v1.5.5 全DLC 送修改器+原声音乐+MOD合集   免安装中文版
+- 叛逆神魂GODSOUL/ Rebellion GODSOUL: Awakening   v1.89  免安装中文版
+- 圣骑保卫战/Frontier Paladin   Build.22955847  免安装英文版
+- 吸血鬼：避世血族2 / Vampire The Masquerade – Bloodlines 2   v51713  全DLC  免安装中文版
+- 再见断刀   Build.22051019  免安装中文版
+- 灵契江湖：御灵志/Soulbound Roguelike   Build.22915476  免安装中文版
+- 地下古域2/Dungeon Antiqua 2    Build.22950001  免安装中文版
+- 人头落地：重铸版|严惩不贷：重制版/ Heads Will Roll Reforged   v2.99e 全DLC  免安装中文版
+- 战锤40K：战争黎明 终极版/Warhammer 40000 Dawn of War – Definitive Edition  v2.8.0   免安装中文版
+- 失落之魂/ Lost Soul Aside  v1.103  免安装中文版
+- 灾厄之石 / Blightstone   v0.3.4   免安装中文版
+- 艾莉泽与迷离的木偶/ Elise and the Spellbinding Marionette   Build.22890133  免安装中文版
+- 息风谷战略/ WindStop Strategy   v1.1.0 全MOD   免安装中文版
+- 超时空方舟/Chrono Ark    v1.2.8 全DLC 送修改器   免安装中文版
+- 冰风谷/Icewind Dale: Enhanced Edition  v2.6.5.0   免安装中文版
+- 博德之门2：加强版/Baldur’s Gate II: Enhanced Edition   v2.6.5.0   免安装中文版
+- 博德之门：加强版/ Baldur’s Gate: Enhanced Edition   v2.6.5.0   免安装中文版
+- 苏菲的炼金工房1 不可思议书的炼金术士 DX   V1.00  免安装中文版
+- 魔忌：穷鼠啮狸/Magin   v1.2   免安装中文版
+- 僵尸毁灭工程/ Project Zomboid/ 单机+联机   v42.17   免安装中文版
+- 星球工匠/ The Planet Crafter/ 单机+联机  v2.008 全DLC 送原声带    免安装中文版
+- 星之海洋4：最后的希望/ Star Ocean 4: The Last Hope  免安装中文版
+- 我恨我的女直播主/ I Hate My Waifu Streamer   v1.0.5  免安装中文版
+- 菲利丝的炼金工房 ～不可思议旅的炼金术士～ DX/Atelier Firis: The Alchemist and the Mysterious Journey DX   v1.00   免安装中文版
+- 龙之信条2-虚拟机版/ Dragon’s Dogma 2    v3.002.000|Build.17948110   免安装中文版
+- 刺客信条：奥德赛-虚拟机版/Assassins Creed Odyssey   v1.5.6   免安装中文版
+- 灵兽江湖 /BeastSaga   Build.23014728   免安装中文版
+- 团本自走棋/Legionbound    v1.041   免安装中文版
+- 桃源村日志/ Halcyon Days at Taoyuan   v1.0.17.3  免安装中文版
+- 亚路塔：狐狸狐途的面包冒险/ Aeruta   v1.2.2  免安装中文版
+- 欺神弄鬼  Build.22094378  免安装中文版
+- 女王的游戏：盛世天下 媚娘篇/Road to Empress I    Build.22921822    免安装中文版
+- 异形战机：DX – 音乐返场/R-TYPE DX Music Encore    Build.23074528   免安装中文版
+- 成为皇帝！我的万亿美女星球帝国/Become Emperor! My Trillion Beauties Planet Empire     Build.22856344    免安装中文版
+- 想要传达给你的爱恋 /Koi x Shin Ai Kanojo   Build.12782662   免安装中文版
+- 莉迪＆苏瑞的炼金工房 ～不可思议绘画的炼金术士～ DX/Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX    v1.00   免安装中文版
+- 魔界战记4完整版/Disgaea 4 Complete  Build20210212   免安装中文版
+- 魔王将至/He is Coming   v0.8.80   免安装中文版
+- 星辰密文/Stellar Code      Build.22645221    免安装中文版
+- 男娘恋爱物语/FemboyLS    Build.22393065   免安装中文版
+- 宗主国 /Suzerain   v3.1.0.153   全DLC   免安装中文版
+- 密不可分 /Indivisible   v42940   免安装中文版
+- 杯丝特魔球/ Beastieball   Build.23097630    免安装中文版
+- 界外/ Beyond the Map   v0.2.12  免安装中文版
+- 带派幸存者3D /DopePie Survivors 3D   Build.23093636   免安装中文版
+- 落星/Meteorite Fall   v1.27  免安装中文版
+- 香恋Ready！/Aroma Love Ready！   v1.11   免安装中文版
+- 露玛岛|鲁玛岛/Luma Island /单机+联机   v1.1.10   免安装中文版
+- 色系战记/Rainbow Legends    v1.02   免安装中文版
+- 长路江湖 – 九州群芳    Build.22647173   免安装中文版
+- 离经叛盗 /Gone rogue   v1.19   免安装中文版
+- 星际掠宝者/Astroloot   Build.22744190   免安装中文版
+- 暖途 /Cozy Caravan  Build.23120506   免安装中文版
+- 所谓侠客 /So-called Hero   v1.7   免安装中文版
+- 圣域2：重制版/ Sacred 2 Remaster   v20260506   免安装英文版
+- 明末：欲火重生   v1.2.33   免安装中文版
+- 史诗布偶游戏/Ultimate Ragdoll Game    Build.21082005   免安装中文版
+- 萨妮羊研究室/ Sani Yang’s Laboratory   v20260511  免安装中文版
+- 深空涡旋/ Star Vortex   v0.7.14  免安装中文版
+- 剑湾奇旅/ SWORDHAVEN  v1.1  免安装中文版
+- 动物迷城/Back to the Dawn   v2.0.0.32  免安装中文版
+- 终末机兵/ NITROGENOMEGA   Build.23200073   免安装中文版
+- 战斗人生：先锋/Fight Life Vanguard    Build.23199882   免安装中文版
+- 不恋爱就完蛋了/Love Curse Find Your Soulmate  v20260504   免安装中文版
+- 精灵超进化2/EvoCreo 2    Build.23189696   免安装中文版
+- 还魂尸传奇 /Revenant Saga   Build.1839726   免安装中文版
+- 芙哇芙哇女仆咖啡厅/Maid Cafe on Electric Street     Build.22309610   免安装中文版
+- 玫瑰笼 /Cage of Roses   Build.17843447   免安装中文版
+- 苍白吹笛人/The Pale Piper    Build.22639698   免安装中文版
+- 尘埃异变2 /GRIME II    v1.2.17960d     免安装中文版
+- 最后纪元/Last Epoch   v1.4.7 送修改器   免安装中文版
+- 黑暗史诗：苏醒|命运：重生 /FATE: Reawakened  v1.1.0   全DLC   免安装中文版
+- 不羁者/Notmads    Build.23226241    免安装中文版
+- 烈焰之刃/ Blades of Fire   v2.0   免安装中文版
+- 凡人之勇 /Valor of Man    Build.23113549_v1.1.1     免安装中文版
+- 播洛森：星原之种/Blossom The Seed of Life   Build.23251015_v1.3.7    免安装中文版
+- 武林生存/ Murim Survival  Build.23226512     免安装中文版
+- 轮回/Samsara   Build.23220073   免安装中文版
+- 奇迹一刻 /Surmount   Build.8856270   免安装中文版
+- 纷争终结者: 被遗弃的孩子们/TROUBLESHOOTER: Abandoned Children   v20260513  全DLC   免安装中文版
+- 立方体奥德赛|立方奥德赛|方块奥德赛/ Cubic Odyssey/ 单机+联机   v1.2.5.5  全DLC  免安装中文版
+- 噩梦摇篮：献花于你/Cradle of Nightmare Flowers to you   Build.22847587    免安装中文版
+- 聊斋：画皮鬼/Under the River   Build.22442721   免安装中文版
+- 英雄围城|攻城英雄/ HeroSiege / PC+手机双端   v6.9.19.0  全DLC  免安装中文版
+- 星际命运：最后的幸存者 /Stellar Destiny The Last Survivor   Build.22402434   免安装中文版
+- 挖矿专家/Hydroneer    v3.1.1    全DLC    免安装中文版
+- 钱钱向钱冲 /Gold Gold Adventure Gold   v1.0.05   免安装中文版
+- 记忆之碑：夜雾之城|记忆石：被光遗弃/ MEMOLITH Forsaken by Light   Build.23190334     免安装中文版
+- 末路出走/RoadOut    Build.23255253   免安装中文版
+- 语言奇境：德语 /WonderLang German    Build.23057700    免安装中文版
+- 语言奇境：法语 /WonderLang French   Build.23046791   免安装中文版
+- 赛博骑士：闪点行动  /Cyber Knights Flashpoint   Build.23310898    免安装英文版
+- 覆巢之地 /Nested Lands/单机+联机   v0.7.11.1   免安装中文版
+- 语言奇境：日语 /WonderLang Japanese    Build.23057752    免安装中文版
+- 语言奇境：西班牙语 /WonderLang Spanish    Build.23057686     免安装中文版
+- 语言奇境：多语种版/WonderLang Polyglot    Build.23057670   免安装中文版
+- 加勒比传奇/ Caribbean Legend   v1.8.0   全DLC  免安装英文版
+- 废品机械师 /Scrap Mechanic   v0.7.4   免安装中文版
+- 角色扮演玩家 /The Larper    Build.21911475   免安装中文版
+- 末日车队/The Dead Await   Build.23202030   免安装中文版
+- 暗黑破坏神2重制版|暗黑破坏神2：狱火重生|暗黑破坏神2：重制版 – 终极包/ Diablo II:Remasterd   v3.2.92777  全DLC 大背包MOD+新加扩展包术士君临+离线补丁   免安装中文版
+- 海盐2：黄金海岸/Salt 2: Shores of Gold /单机+联机  v20260520   附第一部  免安装中文版
+- 勇士永存 /Bylina  v20260519  免安装中文版
+- 挪威：血誓/NORSE Oath of Blood   v1.0.7.2   免安装中文版
+- 语言学习/Noun Town    v1.0正式版   免安装中文版
+- 永恒之柱/Pillars of Eternity    v3.9.4.89183  全DLC   免安装英文版
+- 赤与灯皆有诡异 集册/Of the Red the Light and the Ayakashi Tsuzuri   Build.20380679  免安装中文版
+- 最后的信仰|最后的信念/ The Last Faith   v2.2.0  免安装中文版
+- 咖啡心语：东京/Coffee Talk Tokyo    Build.23324748    免安装中文版
+- 薛定谔的盗猫/Schrodinger’s Cat Burglar    v1.005    免安装中文版
+- 弹跳武器 /Bouncy Weapons   Build.23327358   免安装中文版
+- Lacuna – 黑暗科幻冒险 /Lacuna – A Sci-Fi Noir Adventure   Build.23324789   免安装中文版
+- 炼金术士：灵魂之旅/Alchemist Journey of the Soul    Build.23352285   免安装中文版
+- 几度相逢若初见/NICE TO MEET YOU AGAIN    Build.23335599    免安装中文版
+- 极乐迪斯科 导演剪辑版 /Disco Elysium   v20260521  送修改器+存档    免安装中文版
+- 为了吾王2 / For The King II /单机+联机   v1.12.11  全DLC 送原声带    免安装中文版
+- 星噬者 /STARBITES   Build.23193237   免安装英文版
+- 落日余晖/ IfSunSets / 单机+联机    Build.23372225    免安装中文版
+- 喵喵的结合/ Mewgenics   v1.1.21039   免安装中文版
+- 被裁员后开始送外卖   v1.0.0   免安装中文版
+- 死亡重启/Dead Reset   v1.0.5   免安装中文版
+- 逃出从此以后/ Escape from Ever After   Build.22737145   免安装中文版
+- 夏日美女：欧巴请和我恋爱吧！/Summer’s Heartbeat   v20260408    免安装中文版
+- 轮回修仙路  Build.23342528  免安装中文版
+- 战争传说/ Wartales / 单机+联机   v1.0.47036  全DLC  送修改器   免安装中文版
+- 超级鸡马/Ultimate Chicken Horse/ 单机+联机    Build.23306644    免安装中文版
+- 请勿乱动/ Please Don’t Touch Anything   Build.20144935   免安装中文版
+- 邪恶少女的狂欢！/Evil Girls Party!    Build.23392766   免安装中文版
+- 威赫战线 /MENACE   v0.7.4  免安装中文版
+- 流放者柯南：增强版/Conan Exiles/单机+联机    v363009    全DLC    免安装中文版
+- 下一站江湖2   v20260523  全DLC 送修改器   免安装中文版
+- 星火燎原 /SPARK IGNITES   Build.23343272    免安装中文版
+- 骷髅成群/Skull Horde   v1.031   免安装中文版
+- 地铁模拟/Metro Sim Hustle    Build.23006037   免安装中文版
+- 跳跃王：冒险之巅 /JUMP KING QUEST    v1.0正式版   免安装英文版
+- 寿司学日文/Learn Japanese Kana and Vocab with Sushi     Build.20064205   免安装中文版
+- 海盗遗产|海盗宝藏/Corsairs Legacy – Pirate Action RPG & Sea Battles   v0.4061  免安装中文版
+- 流明物语：特雷的回忆 /LumenTale Memories of Trey    Build.23304325   免安装中文版
+- 炼金要塞/Castle Of Alchemists    Build.23282086   免安装中文版
+- 明镜江湖行：朔风起/ MingJing   v20260518   免安装中文版
+- 心之岛 /Island of Hearts   Build.22813243   免安装中文版
+- 无与伦比/UNBEATABLE    v1.9   免安装中文版
+- 若诅咒以爱之名/Curse or Love    Build.23416983   免安装中文版
+- 空中帝国/ Airborne Empire   v1.0.10  免安装中文版
+- TBH：塔斯克巴·英雄/TBH Task Bar Hero     Build.23429091 全DLC    免安装中文版
+- 传颂之物 循白之证 /Utawarerumono Past and Present Rediscovered    Build.23423644   免安装中文版
+- 冥界契约/ Netherworld Covenant   v1.3.1   免安装中文版
+- 外星站/ Outworld Station/单机+联机   v1.0.0.4   免安装中文版
+- 风启之旅/Windrose /单机+联机    v0.10.0.6  免安装中文版
+- 雾锁王国/ Enshrouded / 单机+联机    v1024233 送修改器    免安装中文版
+- 炎姬 /Homura Hime    v20260525   免安装中文版
+- 月影杀/ Kristala    v1.1.0   免安装中文版
+- 瓦格鲁斯：万壑之地/ Vagrus – The Riven Realms   v1.2.90  全DLC   免安装中文版
+- 万词破 – 单词女友 /WCP Word Girlfriend    Build.23440904   免安装中文版
+- 冰柜里的尸体要多少钱？/How Much for the Body in the Freezer    Build.23449904    免安装中文版
+- 赏金乱斗：头号通缉/Bounty Brawl Most Wanted    Build.23449164    免安装中文版
+- 勇者斗恶龙7：重新构筑-虚拟机版/DRAGON QUEST VII Reimagined    Build.22393810   免安装中文版
+- 歧路旅人0|八方旅人0-解压即玩 /OCTOPATH TRAVELER 0    Build.22012444   免安装中文版
+- 月的黑暗面 /The Dark Side of the Moon An Interactive FMV Thriller   Build.10524753 免安装中文版
+- 暗徒誓约/VARLET  Build.21247563  免安装中文版
+- 通古斯：禁区实录 – 终极剪辑版 /Tunguska: The Visitation – Final Cut   v1.97.7   全DLC   免安装中文版
+- 神奇四叶镇/Ova Magica     Build.23438192   免安装中文版
+- 真探3/CaseCracker3   v20260526   免安装中文版
+- 暴杀残雨之夜 /The rainy night     Build.23470623    免安装中文版
+- 地狱仆从/Hellslave   Build.23409125  免安装中文版
+- 恶魔学园/ Demonschool    v1.10  免安装中文版
+- 堕落之主/ Lords of the Fallen/ 单机+联机   v2.5.450  全DLC 送修改器  免安装中文版
+- 挂机修仙   Build.23483983 免安装中文版
+- 失焦 /Out of Focus   Build.23469108  免安装中文版
+- 莎玛尼娅/Shamania   v2.0.0  免安装中文版
+- OPUS：心相吾山/ OPUS Prism Peak    v1.31.0.72   免安装中文版
+- 眷族 /DivinityVassals    Build.23495990    免安装中文版
+- 永恒领域|永恒/Everhood     Build.21324359   免安装中文版
+- 刀剑神域：碎梦边境 /SWORD ART ONLINE Fractured Daydream    v1.6.1.0   全DLC 送修改器   免安装中文版
+- 血断心连/A Tithe in Blood   v1.0.3   免安装中文版
+- 超合金冲击/Super Alloy Crush   Build.23487372  免安装中文版
+- 以太与铁/Aether and Iron   v1.1.391   免安装中文版
+- 星之海洋2 第二个故事R|星之海洋2：重制版/STAR OCEAN THE SECOND STORY R Build.20267265    送修改器      免安装中文版
+- 云之国/Cloudheim / 单机+联机  Build.23510112    免安装中文版
+- 星尘轨迹：魔女之愿 /STARDUST Wish of Witch    Build.23510343    免安装中文版
+- 英雄立志传：三国志/Legend of Heroes: Three Kingdoms   v0.63.04   送修改器 增加MOD编辑器    免安装中文版
+- 霓虹深渊2 / Neon Abyss 2 /单机+联机   v20260529   送修改器  免安装中文版
+- 谍：惊蛰/Insects Awaken    v1.0.11   免安装中文版
+- 战律2/Wargroove 2    v1.2.12   免安装中文版
+- AI肉鸽 /AI Roguelite   Build.23371498   免安装中文版
+- 恐龙危机：时空封锁/ Dino Hazard: Chronos Blackout   Build.23498139   免安装中文版
+- 九山登仙|九山登仙录 /Ascend From Nine Mountains   Build.23505204   免安装中文版
+- 重力回路/Gravity Circuit     Build.23498764   免安装中文版
+- 星石传说/ Flowstone Saga   v165l   免安装中文版
+- 命运守护者 /Fatekeeper     Build.23529551    免安装英文版
+- 今古群侠传   v1.11  免安装中文版
+- 风屿奇航/Everwind   v0.4.658   免安装中文版
+- 火山岛|火山钻地机 /Volcanoids   Build.23320293    免安装中文版
+- 拾光旅人/Outbound/单机+联机    v1.0.14   免安装中文版
+- 拆迁/Teardown/单机+联机  PC/手机双端   v2.0.2 全DLC   免安装中文版
+- 骑士的诞生 /RAIDBORN   Build.23531726   免安装中文版
+- 华夏史诗：战国/Huaxia Warring States    v0.61.052942  免安装中文版
+- 紫色晶石|石质碎片 /Stoneshard    v0.9.4.22    送修改器 赠满级初始存档 赠原声音乐 附MOD整合版   免安装中文版
+- 污痕圣杯：阿瓦隆的陨落/ Tainted Grail: The Fall of Avalon   v1.23b   全DLC  送修改器   免安装中文版
+- 超级工厂泰坦 /MegaFactory Titan   v1.0正式版   免安装中文版
+- 回音：飞艇传说/ Echoes of Elysium   Build.23472947   免安装中文版
+- 我变成鸟的那一天/The Day I Became a Bird    Build.22882990   免安装中文版
+- 失落的天空/Lost Skies /单机+联机    Build.23531503    全DLC  免安装中文版
+- 我是卷王/king of exams   Build.23587548    免安装中文版
+- 戈姆博 /Gombo   Build.23528428   免安装中文版
+- 信的折叠旅途 /Origament A Paper Adventure   v1.8.9   免安装中文版
+- 林中小女巫/Little Witch in the Woods   v6.2.9.0   免安装中文版
+- 侠落：百花杀尽   v2.1.5   免安装中文版
+- 狩魔之旅：万界仙踪 /Shou Mo Zhi Lv    v2.2.4   免安装中文版
+- 哀鸿：城破十日记/The Weeping Swan Ten Days of the Citys Fall    v20260602  免安装中文版
+- 黑色间歇泉：黑暗的使者/ Black Geyser: Couriers of Darkness   v1.2.96   全DLC   免安装中文版
+- 原子之心-虚拟机版 / Atomic Heart   Build.23005793   全DLC   免安装中文版
+- 余火守护者/The Ember Guardian   v1.1   免安装中文版
+- 石头故事（解锁大量资源）
+- 女神射手（解锁大量货币）
+- 失落的世界（使用祈祷获得金币不减反增）
+- 杏林物语31DLC（SWITCH手机版）
+- 侠盗的心（汉化+免付费解锁完整版）
+- 塞尔达传说合集（SWITCH手机版）
+- 自由城邦（解锁大量货币）
+- 防御盾（大量宝石＋免付费解锁完整版）
+- 骑士与龙3（内置MOD菜单+大量金币）
+- 地狱魔窟（解锁大量货币）
+- 死亡空间站2（解锁全部皮肤）
+- 咩咩启示录全DLC（SWITCH手机版）
+- 塞尔达传说：智慧的再现（SWITCH手机版）
+- 疯狂麦克斯（免广告获取奖励）
+- 骑士经理2（强制使用金币）
+- GTA侠盗猎车：自由城故事（steam移植）
+- 江湖旧梦（解锁大量银两）
+- 刀剑神域：碎梦边境全DLC（SWITCH手机版）
+- 勇者佣兵团（大量货币+免广告）
+- 节奏地牢（免付费解锁完整版）
+- 勇者斗恶龙3 HD2D重制版全DLC（SWITCH手机版）
+- 魔物娘（解锁大量素材）
+- 天选庶民的真命之选（SWITCH手机版）
+- 恐龙危机：时空封锁（免付费解锁完整版）
+- 极限的伤害输出者（大量货币）
+- 最终幻想15：口袋版
+- 安道尔追踪（解锁大量货币）
+- 数码驯兽师：重生2|数码宝贝：重生2（汉化）
+- 螃蟹生活（免广告获取奖励）
+- 荒野大镖客：救赎整合梦魇DLC（SWITCH手机版）
+- 以太地牢（汉化）
+- 一千万RPG（解锁大量货币）
+- 时间的翅膀（无条件使用货币不减少）
+- 召唤师传奇（使用货币不减反增）
+- 英雄跑跑（免谷歌）
+- 拿下一座城（免广告获取奖励）
+- 五个约会（免付费解锁完整版）
+- 破坏神传说（解锁大量货币）
+- 外卖模拟器（去广告）
+- 勇者斗恶龙10：觉醒的五种族（免付费解锁完整版）
+- 王国英雄3（免付费解锁完整版）
+- 黑暗RPG（内置MOD菜单）
+- 病娇模拟器：破碎的爱情
+- 暗潮虔诚者（解锁大量货币）
+- 诺尔杰德（大量货币）
+- 最终幻想：维度（免付费解锁完整版）
+- 壮游（使用货币不减少）
+- 勇者大人的刷怪城（无条件使用货币）
+- 遗物背包：暗影猎手（大量货币）
+- 盾之勇者成名录（内置金手指）
+- 灾厄之血（汉化免付费解锁完整版）
+- 塞尔达传说：王国之泪（SWITCH手机版）
+- 超时空之轮（汉化+免付费解锁完整版）
+- 异世山河幻想（大量金币）
+- 吞食天地2（高清修复版）
+- 吞食天地外传
+- 地牢制造者（免付费解锁完整版）
+- 警察模拟器（大量金币）
+- 博德之门：增强版（免付费解锁完整版）
+- 放逐王国（整合十二试炼模组）
+- 小偷模拟器（无限金币技能点）
+- 无限骑士：灰烬（大量货币）
+- 暗黑之魂
+- 上古卷轴5：天际（SWITCH手机版）
+- 魔剑镇魂曲血牛魔改版
+- 最终幻想5像素复刻版（使用货币不减反增）
+- 黑暗双子（大量货币）
+- 重装机兵（货币不减反增）
+- 天命与厄运：世界（完整版）
+- 地下城与治疗者（无限货币）
+- 开放世界生存RPG（大量钻石）
+- 蜡笔小新：煤炭镇的小白（免付费解锁完整版）
+- 圣塔神记（免付费解锁完整版）
+- 灵动骑士（强制使用货币）
+- 塞尔达传说：旷野之息全DLC（SWITCH手机版）
+- 超像素生存RPG（大量货币）
+- 尼可梦：灭绝（内置MOD菜单）
+- 亘古幻想（无限银币等）
+- 德拉加传说（免付费解锁完整版）
+- 放逐王国：三国版
+- 勇者斗恶龙：怪物仙境3（免付费解锁完整版）
+- 边境检察官（大量货币）
+- 永恒之金（大量钻石）
+- 巫师3：狂猎（SWITCH手机版）
+- 第九黎明：重制版（免付费解锁完整版）
+- 迎风起航（汉化）
+- 流浪者（大量货币）
+- 英雄的铁匠（大量货币等）
+- 博德之门2：加强版（免付费解锁完整版）
+- 孤胆车神维加斯（无限货币）
+- 极乐迪斯科（免付费解锁完整版）
+- 物种战争2：启示录（无限子弹）
+- 梦幻怪兽（内置MOD菜单）
+- 紫色晶石（懒人打包）
+- 数码宝贝物语：网络侦探骇客追忆（免付费解锁完整版）
+- 诸神灰烬：救赎（免付费解锁完整版）
+- 侠盗猎车手：罪恶都市（大量货币）
+- 纸杯英雄（免广告）
+- 命运之夜（steam移植+汉化）
+- 魔女之泉R全DLC（SWITCH手机版）
+- 空之轨迹1st 重制版（SWITCH手机版）
+- 月光石岛（SWITCH手机版）
+- 布鲁姆镇（免付费解锁完整版）
+- 地狱之窟（大量货币）
+- 赛尔号（附GM物品后台）
+- 越狱模拟器（大量货币）
+- 磁带妖怪（免付费解锁完整版）
+- 鬼灭之刃2：火之神血风谭（SWITCH手机版）
+- 坚决英雄RPG（内置作弊菜单）
+- 第九黎明（内置MOD菜单）
+- 天地劫：幽都再临|天地劫:幽城再临（内置作弊菜单）
+- 合金机兵（内置无限资源）
+- 我在末日当牛马（免广告【弹出广告直接关闭即可】）
+- 氪金戒断所
+- 勇者大人的刷怪城（内购反增）
+- Zold out锻造屋的物语（内置MOD菜单）
+- 消失的地平线（伤害菜单 无条件用货币）
+- 伊格利亚战记
+- 异世界游记（内置MOD菜单）
+- 巫师之轮2（内置MOD菜单）
+- 我的修仙世界
+- 骑士大师
+- 索尔加德传奇（内置MOD菜单）
+- 三国真龙传（大量铜钱）
+- 神灵大陆
+- 斯拉格精灵一决雌雄2（大量货币）
+- 梦幻单机剧情版（大量货币）
+- 茂林源记
+- 萌萌塔（内置菜单版技能无cd）
+- 魔女的迷宫（汉化＋免付费解锁完整版）
+- 女武神与地下城（内置MOD菜单）
+- 精灵王国（资源反增）
+- 皇帝人生2（免广告+货币反增）
+- 多元生活（汉化+无限技能等）
+- 古代人生（内置MOD菜单）
+- 怪兽星球2
+- 光之冒险（经验点反增）
+- 艾丽卡（内置MOD菜单）
+- 邦邦英雄（免广告）
+- 爆肝魔王的异世界狂想曲（大量货币）
+- 北欧（内置MOD菜单）
+- 北欧女神蕾娜斯（汉化+金手指）
+- 不一样传说（内置修改器存档版）
+- 小精灵生存
+- 怪物合并：宝可梦世界（解锁大量金币＋免广）
+- 培养传奇佣兵团
+- 托尔：雷电之神（解锁大量货币）
+- 夜间袭击地下城（内置MOD菜单）
+- 维京诸神
+- 艾诺之地（免付费解锁完整版）
+- 工匠物语2
+- 循环英雄（汉化+免付费解锁完整版）
+- 翡翠帝国（汉化+免付费解锁完整版）
+- 机器人世界冒险
+- 死亡之门
+- 江湖闲侠
+- 使命法则：永恒地牢
+- 砰砰法师
+- 王国英雄2
+- 最终幻想1（steam移植）
+- 最终幻想2（steam移植）
+- 最终幻想4（steam移植）
+- 最终幻想7永恒危机（steam移植）
+- 最终幻想9（汉化+steam移植）
+- 恶龙斗勇者
+- 培养转世英雄（内置MOD菜单）
+- 天空之山
+- 严肃奇幻
+- 最终幻想维度2（完美汉化）
+- 最终幻想6重制版（内置MOD菜单）
+- 棕色尘埃
+- 异域镇魂曲（steam移植）
+- 再刷一把
+- 重生逆袭記（免广告获取奖励）
+- 异星入侵（大量金币钻石）
+- 永恒的赛妮亚（内置菜单技能不消耗）
+- 我是冒险家（免广告获取奖励）
+- 人生模拟器（解锁Debug菜单）
+- 麻辣小媳妇（免广告获取奖励）
+- 蝙蝠侠：黑暗骑士崛起
+- 海贼王寻宝之旅（上帝模式+免广告）
+- 超级恶棍
+- 宝石勇者（大量金币）
+- 流浪者2（免广告获取奖励）
+- 史诗突袭（内置MOD菜单）
+- 皇室骑士传说（内置菜单）
+- 荒野大镖客（无限金币）
+- 塞尔达无双：灾厄启示录（PC+安卓）双版本（SWITCH手机版）
+- 不是地下城（资源不减反增）
+- 哥斯拉（无广告）
+- 决裁者：失落前哨|决裁者：失落的前哨（[汉化版+完整版]Steam移植）
+- 世界之神（菜单功能）
+- 超一代精灵世界（钻石越用越多）
+- 怪物大师（大量钻石）
+- 破碎地牢（大量金币）
+- 大侠你超勇（免广告获取奖励）
+- 幻兽帕鲁
+- 骑士与龙3v1.2.0[中文版+完整版]
+- 牧场物语希望之光v1.0.1[完整版]Steam移植
+- 吸血鬼避世之纽约圈v1.0.202[完整版]Steam移植
+- 苏打地牢v1.2.41[完整版]Steam移植
+- 尼可梦一代Nexomon v5.0.3[完整版+MOD版]Steam移植
+- 昏迷:禁入校园 v1.0.2 [完整版] Steam移植
+- 迷你dayz2  minidayz2  v1.3.2 中文版，爆火的丧尸生存安卓手游！
+- 合金弹头战略版  中文switch模拟器！(游戏)
+- 潜行者封锁区传奇三部曲switch模拟器！(游戏)
+- 茉莉花之炯天命胤异传中文switch模拟器！(游戏)
+- 失落的记忆重制版v1.9.95[完整版]手机版的寂静岭！
+- 人体工厂Homo Machinav1.6.38[完整版]
+- Z黎明ZDawnv1.2.2[完整版]Steam移植
+- 恶魔城X月下夜想曲v1.0.4[完整版]
+- 月光水岸 Moonlight Bay  switch模拟器！(游戏)
+- 真女神转生5复仇  v1.0.3+6DLC  switch模拟器！(游戏)
+- 虔诚之花的晚钟  switch模拟器！(游戏)
+- 浪漫沙加开拓者重制版v1.0.2[完整版]Steam移植
+- 绚烂传说RadiantTale中文switch模拟器！(游戏)
+- 菲格涅莉亚诅咒的人偶馆[完整版]好玩，恐怖，但又令人好奇的美少女逃脱恐怖文字冒险游戏❗
+- 阿斯特赖亚中文switch模拟器！(游戏)
+- 以太地牢v1.18.0[完整版+汉化版]Steam移植
+- 王冠之战黑王子 中文switch模拟器！(游戏)
+- 暗黑地牢祖灵版中文switch模拟器！(游戏)
+- 废墟战旗中文switch模拟器！(游戏)
+- 战场的赋格曲2中文switch模拟器！(游戏)
+- 米塔[直装版+完整版]首发❗手机也可以玩啦❗真爽诶嘿嘿嘿
+- Re从零开始的异世界生活虚假的王选候补中文switch模拟器！(游戏)
+- 禁止过分投入中文switch模拟器！(游戏)
+- 塔楼Clanpool中文switch模拟器！(游戏)
+- 召唤命途v2.30.0[完整版+DLC]Steam移植
+- 无尽宇宙v14.1[完整版+DLC]Steam移植
+- 史诗战斗幻想4v3.0.4[完整版]Steam移植
+- 迪托之剑墨魔的诅咒中文版switch模拟器！(游戏)
+- 马里奥与疯狂兔子希望之星中文switch模拟器！(游戏)
+- 冰城传奇v1.7.1[完整版]Steam移植
+- 神之天平外传幻雾之洞窟switch模拟器！(游戏)
+- 主机保卫队中文switch模拟器！(游戏)
+- 骰子与砍杀3.1.20[汉化版+完整版]Steam移植
+- 超级机器人大战T中文switch模拟器！(游戏)
+- 铲子骑士无主珍宝[完整版]Steam移植
+- 铲子骑士无主珍宝中文switch模拟器！(游戏)
+- 动漫明星大乱斗[新年整合版]超多动漫游戏角色乱斗❗技能、特效、手感都是顶级
+- 巫术2Sorcery! 2v1.6a5[完整版]Steam移植
+- 超级机器人大战X中文switch模拟器！(游戏)
+- 食人星球3v1.0.3[完整版]最新精品文字冒险RPG卡牌游戏！
+- 完美末日一啃钟情v4.03[完整版]Steam移植
+- 修仙模拟器v1.090[完整版]欢迎踏入修仙世界，开启你的仙侠传奇！
+- 瑟拉利姆终极版v1.2.9[完整版]Steam移植
+- SD高达激斗同盟中文switch模拟器！(游戏)
+- 黑色边境v1.6.03[完整版]一款边境警察模拟器游戏?
+- 战场女武神4中文switch模拟器！(游戏)
+- 最终幻想1-6合集switch模拟器！(游戏)
+- 塞莱斯蒂亚命运之链中文switch模拟器！(游戏)
+- 超载地牢中文switch模拟器！(游戏)
+- 完美末日2永恒炼狱v3.39[完整版]Steam移植
+- 完美末日3补丁地狱v3.04[完整版]Steam移植
+- 地狱之魂中文switch模拟器！(游戏)
+- 阿克拉之路Pathof Achrav1.4.3.0[完整版]Steam移植
+- 烈焰同盟中文switch模拟器！(游戏)
+- 咚奇刚归来HD中文switch模拟器！(游戏)
+- 战锤40K战术v1.25.11[完整版+MOD菜单]
+- 圣恩传说F重制版中文本体v1.02补丁整合版switch模拟器！(游戏)
+- 灰烬之牌中文switch模拟器！(游戏)
+- 王国英雄失落的传说3v1.0.3[完整版]Steam移植
+- 苦痛殿堂v1.0.500[完整版]Steam移植
+- 终焉之玛格诺利亚雾中绽放中文switch模拟器！(游戏)
+- 疯狂之石中文switch模拟器！(游戏)
+- 漂流佣兵中文switch模拟器！(游戏)
+- 蓝色反射帝中文switch模拟器！(游戏)
+- 永生之境血族战争中文switch模拟器！(游戏)
+- 来自星尘v1.3.0[完整版]一款二次元回合制结合动作的RPG单机游戏！
+- 流浪先知中文switch模拟器！(游戏)
+- 幻想曲新次元switch模拟器！(游戏)
+- 旗帜的传说1中文switch模拟器！(游戏)
+- 哨兵的召唤中文switch模拟器！(游戏)
+- 泽诺尼亚3尘世传说v1.0.3[完整版+中文版]免内购➕汉化高版本适配版！
+- 泽诺尼亚1v1.6.6[完整版+中文版]高版本安卓可玩！已汉化使用货币不减少！
+- 深蓝地牢v2.1.8[完整版]Steam移植
+- 狂野飙车8v8.1.1d[完整版]手机赛车游戏天花板，特效画质拉满❗解锁全部车辆❗
+- 越来越黑暗Dark andDarkerSteam移植
+- 全金属狂怒中文switch模拟器！(游戏)
+- 午夜赤霞中文switch模拟器！(游戏)
+- 我的世界修真世界懒人打包38个修真相关模组安装即玩省去繁琐操作大型精品游戏！
+- 喷射战士3 中文switch模拟器！(游戏)
+- 骰死地牢v4.1.6中文手机也能玩pc游戏！
+- RPG制作大师MV中文switch模拟器！(游戏)
+- 骰子闯魔城v1.4.0手机也能玩pc游戏！
+- 王国保卫战起源v5.6.14[完整版]Steam移植
+- 超越冰宫2中文switch模拟器！(游戏)
+- 雨城v1.0.21[完整版]Steam移植
+- 黑暗之下v2.7.2[免内购]
+- 赛博探索v1.2.2[完整版]Steam移植
+- 黑暗史诗重制版中文switch模拟器！(游戏)
+- 可口的咖啡v1.0.8[完整版+免内购] 由为模拟游戏《可口的比萨》的团队制作！
+- 宝可梦不思议迷宫救助队DX中文switch模拟器！(游戏)
+- 异度神剑X终极版中文switch模拟器！(游戏)
+- 魔法使莉莉魔法少女的奇境冒险中文switch模拟器！(游戏)
+- 无限神速斩勇者斗恶龙达伊的大冒险中文switch模拟器！(游戏)
+- 异世山河幻想v12.0[完整版]复古武侠风的单机精品RPG冒险幻想游戏！
+- 轮盘骑士Roulette Knight[完整版]Steam移植
+- 小偷模拟器1.0.5[完整版]Steam移植
+- 口袋妖怪赤红物语v1.8.0[内置金手指]
+- 黄金之剑[完整版]韩国ARPG游戏四大巅峰之作之一！迷你单机精品游戏
+- 英雄传说闪之轨迹1改中文switch模拟器！(游戏)
+- 修仙家族模拟器v8.4[完整版+菜单版]steam移植
+- SteelPawsv1.1.1[完整版]《莎木》之父铃木裕手游新作！
+- 英雄传说黎之轨迹 中文switch模拟器！(游戏)
+- 雷顿教授与恶魔之箱v1.0.6[完整版]是日式经典解谜IP——“雷顿”系列的第二部作品！
+- 英雄围城v6.6.5[完整版]Steam移植
+- 国王联赛2v4.0.0[完整版]Steam移植
+- 高殿战记单机版[完整版+菜单版+DLC]Steam移植
+- 伏魔行者中文switch模拟器！(游戏)
+- 魔界战记中文switch模拟器！(游戏)
+- 勇者斗恶龙:1+2+3合集中文switch模拟器！(游戏)
+- 北欧女神蕾娜斯v1.0.7[完整版+DLC]Steam移植
+- 海天猫猫船中文switch模拟器！(游戏)
+- 勇者斗恶龙10离线DLC2.0版[完整版+DLC2.0]Steam移植
+- 恶魔之书 中文switch模拟器！(游戏)
+- 迷失幻途单机版[完整版+免登录]Steam移植
+- 魔物少女角斗士中文switch模拟器！(游戏)
+- 英雄传说闪之轨迹4中文switch模拟器！(游戏)
+- 星之海中文switch模拟器！(游戏)
+- 苏丹的游戏v1.0.c中文手机也能玩pc游戏！
+- 天空鱼传说2v1.1.52[完整版]跟随最后一位女英雄的冒险，在这个开放世界动作RPG中。
+- 魔法书自走棋契约v1.0.123中文手机也能玩pc游戏！
+- 洞穴传说v1.7.6.0[完整版]Steam移植
+- 马里奥与疯兔星耀之愿中文switch模拟器！(游戏)
+- 黑暗史诗苏醒中文switch模拟器！(游戏)
+- 帕斯卡契约v1.6.8[完整版+DLC]Steam移植
+- 科洛蒙中文switch模拟器！(游戏)
+- 去月球中文switch模拟器！(游戏)
+- 深渊绝赌千王处刑中文手机也能玩pc游戏！
+- 守墓人中文switch模拟器！(游戏)
+- 复活同盟高清重制版v1.0.1[完整版]Steam移植
+- 宝可梦世界锦标赛开局获得所有宝可梦和所有道具？25位强力训练家，等你来挑战！
+- 僵尸危机杀出重围v22.9[完整版]丧尸潮来袭，生存之战拉开帷幕 ！！！！
+- 风铃物语中文switch模拟器！(游戏)
+- 博德之门1增强版v2.6.6.12支持安卓14游玩[完整版+DLC]Steam移植
+- 塞尔达传说时之笛v1.3.0[完整版]pC移植
+- 挣脱13号站点中文switch模拟器！(游戏)
+- 轩辕剑3云和山的彼端中文switch模拟器！(游戏)
+- 第一狂战士卡赞中文手机也能玩pc游戏！
+- 这里没有游戏错误维度v1.0.37[完整版]Steam移植
+- 暴虐骑士switch模拟器！(游戏)
+- 追逐地平线2中文switch模拟器！(游戏)
+- 鬼谷八荒v1.06中文switch模拟器！(游戏)
+- 废都物语[汉化版+完整版]经典复古日式RPG神作！40M的容量却容纳了一个丰富的异世界！剧情、养成、冒险等等！
+- 生命的选择狂野岛屿v1.10[完整版]Steam移植
+- 露娜银河之星复刻合集 switch模拟器！(游戏)
+- 温迪尔谎言之灾v1.1.204[完整版]新版史诗般的黑暗幻想和回合制战斗的RPG游戏！
+- 地下城探险公会终极版中文switch模拟器！(游戏)
+- 航海奇闻v4.12[完整版+DLC]Steam移植
+- OneBit冒险v1.3.281[完整版]Steam移植
+- 在异世界活下去[汉化版]
+- 魔塔少女v1.0.16fix1豪华中文版手机也能玩pc游戏！
+- 因狄斯的谎言v2.0.5[完整版+DLC]Steam移植
+- 使命猎人v1.1.7[完整版+DLC]Steam移植支持联机游玩！
+- 思古塔加亚最后的英雄中文switch模拟器！(游戏)
+- 多元生活v1.0.1[完整版]Steam移植
+- 超次元战记战机少女中文switch模拟器！(游戏)
+- 地下城探险公会Guild of Dungeoneering[汉化版+DLC+完整版]Steam移植
+- 魔界战记7中文switch模拟器！(游戏)
+- 史莱姆3Kv1.2.4[完整版]Steam移植
+- 骰子地下城v2.1.0[完整版+DLC]Steam移植
+- 热血系列与街机经典收藏版中文switch模拟器！(游戏)
+- 青鬼蓝莓温泉之谜中文switch模拟器！(游戏)
+- 废墟图书馆v1.0.3[完整版]一款以“图书馆战斗模拟”为概念制作的模拟策略游戏。
+- 吸血鬼幸存者v1.13.108[完整版+DLC+存档]Steam移植
+- 战律2中文switch模拟器！(游戏)
+- 火星伤痕中文switch模拟器！(游戏)
+- 安妮最后的希望中文switch模拟器！(游戏)
+- 苏丹的游戏中文MOD整合版手机也能玩pc游戏！
+- 丽莎快乐v1.5[完整版]Steam移植
+- 鸭鸭前进Ponpuv1.1.4[完整版]Steam移植
+- (赤痕)血污夜之仪式（支持安卓15)[完整版]Steam移植
+- 传说法师v1.24.30008[完整版]Steam移植
+- 风来的西林6蛇蜷岛探险谭中文switch模拟器！(游戏)
+- 火焰纹章无双风花雪月中文switch模拟器！(游戏)
+- 圣女战旗v2.0.8+全DLCswitch模拟器！(游戏)我喜欢奈子??
+- 新剑侠奇缘[完整版]pC移植怀旧拉满！
+- 尘埃异变中文switch模拟器！(游戏)
+- 廖添丁绝代凶贼之末日中文switch模拟器！(游戏)
+- 恶棍英雄v1.8.20[完整版+支持联机]Steam移植
+- 无尽之路v1.14[完整版]Steam移植
+- 农夫对抗土豆[完整版]Steam移植
+- 密教模拟器v3.6.21[完整版+DLC]Steam移植修复了DLC丢失等！
+- 丽莎痛苦v1.5[完整版]Steam移植
+- 哥布林弹球v1.1.9[完整版]Steam移植
+- 圣兽之王中文switch模拟器！(游戏)
+- 寻剑迷途v1.45[完整版]Steam移植卡牌肉鸽版《魔塔》！
+- 旁观者v2.6.272[完整版+DLC]Steam移植
+- 海盗？海盗！[完整版]Steam移植
+- 宿命传说导演剪辑版中文版v1.6整合版PS2模拟器！(游戏)
+- 迪士尼奇幻岛中文switch模拟器！(游戏)
+- 植物大战僵尸融合版v2.5pC移植
+- 宝可梦肉鸽v3.1.2最新版新挑战来袭➕多重镜的逆袭！
+- 霓虹深渊中文switch模拟器！(游戏)
+- 通神榜中文switch模拟器！(游戏)
+- 轮回塔中文switch模拟器！(游戏)
+- 落日山丘[完整版]Steam移植
+- 暖雪DLC终业v3.1.2[账号版+DLC]Steam移植
+- 口袋妖怪水晶复刻版内置金手指！超级经典还原GBC水晶移植GBA复刻并且汉化了！
+- 森久城物语v1.3.0[完整版]Steam移植
+- 尸体派对(2021)重制版[完整版]Steam移植
+- 宗主国Suzerainv3.1.0.3.131[完整版]Steam移植
+- 三位一体1-5合集中文switch模拟器！(游戏)
+- 蠢蠢的幸存者v1.3.14[完整版]类饥荒单机手游
+- 命运创世FateEXTELLA[完整版]Steam移植
+- 超级马里奥奥德赛中文switch模拟器！(游戏)
+- 银河战士生存恐惧中文switch模拟器！(游戏)
+- 杏林物语[完整版+菜单版]Steam移植
+- 马里奥3D世界酷霸王之怒中文switch模拟器！(游戏)
+- 失落城堡单机版[完整版]极度上头！肉鸽爽游！
+- 盐与避难所[完整版]不好玩你草饲我!
+- 最终幻想1v1.2.1(支持安卓15游玩)[完整版]Steam移植
+- 阿尔莫拉岛[完整版+菜单版]暗黑破坏神风顶视角爽快砍杀的单机刷刷刷游戏！
+- 塞尔达传说天空之剑HD中文switch模拟器！(游戏)
+- 中国式家长免登录版[完整版+DLC+菜单版]Steam移植
+- 异度之刃3中文switch模拟器！(游戏)
+- 循环英雄v1.0.9[完整版]Steam移植
+- 征服之歌v1.4.11[完整版]Steam移植
+- 最终幻想2v1.2.1(支持安卓15游玩)[完整版]Steam移植
+- 不思议的皇冠[完整版]很好玩的肉鸽游戏!玩起来根本停不下来!
+- 拉杆英雄[完整版]Steam移植卡牌构筑加肉鸽爬塔新游来啦！
+- 莫塔守山人v1.1.2[完整版]Steam移植新增联机模式！
+- 百剑讨妖传绮谭中文switch模拟器！(游戏)
+- 喷射战士2中文switch模拟器！(游戏)
+- 混沌银河2中文switch模拟器！(游戏)
+- 宝可梦真谊系统v3.0[魔法福利版]全员二次元萌妹子的口袋妖怪神作！
+- 小狐狸冒险中文switch模拟器！
+- 书呆子幸存者v1.0.20250501[完整版]Steam移植
+- 幻影异闻录#FE Encore中文switch模拟器！(游戏)
+- 最终幻想3v1.2.1(支持安卓15游玩)[完整版]Steam移植
+- 黎明前20分钟v5.3[完整版+菜单版]Steam移植
+- 鬼武者2重制版中文switch模拟器！(游戏)
+- 前进奇诺比奥队长中文switch模拟器！(游戏)
+- 夜迴&深夜迴 中文switch模拟器！(游戏)
+- 最终幻想4v1.2.1(支持安卓15游玩)[完整版]Steam移植
+- 星之卡比Wii重返梦幻岛豪华版中文switch模拟器！(游戏)
+- 任天堂明星大乱斗中文switch模拟器！(游戏)
+- 超级马里奥兄弟惊奇中文switch模拟器！(游戏)
+- 圣塔神记中文版[完整版]Steam移植
+- 超级马里奥RPG中文switch模拟器！(游戏)
+- 杀戮尖塔娘化整合版[完整版]Steam移植好玩爱玩好多大雷！
+- 越野联赛v1.0.8[完整版]Steam移植
+- 猎天使魔女3中文switch模拟器！(游戏)
+- 魔卡地下城[完整版]实在是太好玩了!肉鸽+战棋+卡牌，非常不错的结合!
+- 刀锋束缚v1.1.14[完整版]Steam移植
+- AK蝾螈突袭[完整版]Steam移植
+- 餐瘾地城v1.4.0.22[完整版]Steam移植
+- 赤影战士重生复刻版中文switch模拟器！(游戏)
+- 塞尔达无双灾厄启示录中文switch模拟器！(游戏)
+- 杀戮尖塔mod整合版[完整版+免谷歌]Steam移植尖塔圈喜讯!
+- 抓住芯片GetAGripChipv1.2.5[完整版]Steam移植
+- 侠客风云传前传单机版v109.0.1[完整版+DLC+菜单版]Steam移植
+- 科洛蒙Coromonv1.3.6[完整版]Steam移植
+- 符文工房龙之天地中文switch模拟器！(游戏)
+- 烁石物语[汉化版+完整版]Steam移植
+- 指挥官虫子战争[完整版]Steam移植
+- 地痞街区[完整版+DLC]Steam移植
+- 皇家骑士团重生中文switch模拟器！(游戏)
+- 斗技场的阿利娜[完整版]一款卡牌构建游戏。它融合了《杀戮尖塔》和《陷阵之志》，玩法非常好玩强烈推荐!
+- 洛克人XDiVE离线版v1.0.1[完整版] Steam移植
+- 幽林怪谈[完整版]Steam移植
+- 星之海洋2第二个故事R中文switch模拟器！(游戏)
+- 终焉之莉莉骑士寂夜[完整版]优秀的美术与配乐，共同装点了一个破败凄美的王国!
+- 史诗战斗幻想5v1.0.60[完整版+DLC]Steam移植
+- 泡泡巫师3传奇中文switch模拟器！(游戏)
+- 海鼠的诅咒中文switch模拟器！(游戏)
+- 传奇重装步兵 中文switch模拟器！(游戏)
+- 最终幻想8重制版v1.0.2(支持安卓15游玩)[完整版]Steam移植
+- 混沌冲击塔防v1.12[完整版]Steam移植
+- 迷失混沌王国永恒之骰中文switch模拟器！(游戏)
+- 口袋妖怪火箭队汉化版！重生之我是火箭队新人！反派开局➕可抢夺对手精灵➕全新剧情和故事➕大量原创宝可梦➕道德系统❗
+- 不存在的你和我[完整版]Steam移植
+- 最终幻想7核心危机重聚中文switch模拟器！(游戏)
+- 异域镇魂曲加强版v3.1.3.1[完整版]Steam移植
+- 龙珠斗士Z像素版[完整版+汉化版]一比一还原和原版玩法一样，技能、连招、人物，非常完美！
+- 余烬骑士中文switch模拟器！(游戏)
+- 奥尼罗Onirov1.3.4[完整版+菜单版]泰坦之旅ARPG玩法，这质量可以啊爽！
+- 球比伦战记中文switch模拟器！(游戏)
+- 怦然心动的她们中文switch模拟器！(游戏)
+- 幸运的露娜v1.0.36[完整版]Steam移植
+- 口袋妖怪数码暴龙v6.1内置金手指版！
+- 莱莎的炼金工房秘密三部曲DX版中文switch模拟器！(游戏)
+- 口袋妖怪奥特怪兽大乱斗内置金手指版！
+- 战神斯巴达之魂[完整版]PSP上的动作神作推荐游玩！
+- 口袋妖怪幻影传说
+- 口袋妖怪青苔内置金手指版！
+- 古墓丽影终极版中文switch模拟器！(游戏)
+- 口袋妖怪数码暴龙5内置金手指版！
+- 口袋妖怪激进红v4.1内置全能金手指！
+- 口袋妖怪传说绿宝石v1.6.0整合大量金手指❗
+- 口袋妖怪究极绿宝石许愿盒内置金手指！
+- 猫神牧场中文switch模拟器！(游戏)
+- 口袋妖怪格查尔支持4人同屏联机的GBA宝可梦你敢信嘛！
+- 口袋妖怪白金493汉化版！
+- 宝可梦洛克王国集结[完结版]800+王国精灵精灵超进化洛克勇者之路种族值优化！
+- 彼方的她[完整版]Steam移植现实时间同步视觉小说游戏
+- 口袋妖怪超进化精灵v1.9.8[完整版]以口袋妖怪为主题的RPG冒险游戏
+- 口袋妖怪珍珠v6.3.1[完整版]整合金手指！超经典NDS改版！手机端懒人打包整合，一键安装畅玩！
+- 职场浮生记v1.0.8[完整版]Steam移植堪称职场版甄嬛传！超真实职场模拟游戏！
+- 拳击俱乐部v1.37[完整版]Steam移植
+- 歧路旅人0中文switch模拟器！(游戏)
+- 妖怪汤屋中文switch模拟器！(游戏)
+- 阿布辛西娅RPGAbsinthia[完整版]Steam移植
+- 血腥大地v1.4.2.9[完整版]Steam移植童年回忆很经典的俯视角射击游戏！
+- 这不是我的邻居v1.0.5[完整版]Steam移植最新版新增噩梦模式❗
+- 德拉盖亚传说放置型地下城Steam移植9人团放置类地下城刷宝冒险游戏！
+- 尘烟霓虹v1.3.3[完整版]Steam移植一款俯视角西部风rogue双摇杆射击游戏推荐！
+- 限界凸旗七海盗H中文switch模拟器！(游戏)
+- 剑与凉鞋3重制版v1.0.9.B[完整版]Steam移植经典之作强势回归史上最劲爆的角斗士游戏！！
+- 神之一手Steam移植超好玩的克苏鲁卡牌股神对赌+肉鸽抽卡+自走棋这把必须冲～
+- 火炬之光2经典神作！渣机都能玩！
+- 暗黑破坏神2高清珍藏版直装版集成大背包+大箱子速玩！
+- 像素地下城3v2.34[完整版]Steam移植
+- 三国志14威力加强版豪华套装全DLC，附教程！
+- 火影忍者究极风暴1汉化版中文switch模拟器！(游戏)
+- 完蛋我被美女包围了[完整版]中文一款模拟恋爱的全动态真人互动影像作品！
+- 洛克的任务Locks Questv1.0.693[完整版]Steam移植动作RPG+塔防混合玩法好玩！
+- 雷莎出击重制版v1.1.3[完整版+菜单版]Steam移植模拟经营+塔防+横版动作！
+- 再来一回合v1.1.0[完整版]Steam移植高质量奇幻策略肉鸽RPG游玩推荐！
+- 石头纪StoneStoryv4.26.1[完整版+菜单版]Steam移植
+- 最终幻想33D重制版v2.0.6[完整版]Steam移植
+- 地牢杀手v0.751.1[完整版+菜单版]Steam移植横向卷轴肉鸽游戏超多职业供你选择游玩推荐！
+- 伊苏1编年史v2.0.1[完整版+菜单版]Steam移植
+- 魔法工艺v1.1.2[账号版+DLC]Steam移植速玩这游戏真上头我能玩一年游玩推荐！
+- 猎人XHunterX中文switch模拟器！(游戏)
+- 废墟图书馆[完整版]一款以图书馆战斗模拟为概念制作的模拟策略游戏游玩推荐！
+- 在时光与繁星中[完整版]Steam移植时间循环系RPG！
+- 宝可梦Zv1.05完整汉化版+安装教程！全世代宝可梦超过1000只新增炼金术士系统全新形态的Mega进化全新地区全新剧情画风美工精美！
+- 流浪忍者[完整版]Steam移植
+- 皮克敏4中文switch模拟器！(游戏)
+- 路易吉洋馆2HD中文switch模拟器！(游戏)
+- 崛起力量添命人中文switch模拟器！(游戏)
+- 超级马里奥3D世界酷霸王之怒中文switch模拟器！(游戏)
+- 神臂斗士中文switch模拟器！(游戏)
+- 魔王大人击退勇者吧v1.1.6[完整版+DLC]Steam移植
+- 植物大战僵尸杂交版v0.1.0[重制版]pC移植终于上线了，强烈推荐游玩，安装即玩！
+- 进化之地传奇版(1+2合集)中文v1.0.8[完整版]必玩神作一款动作冒险游戏，带你穿越经典冒险和角色扮演游戏的万史!
+- 小小村民v1.2.2[完整版]Steam移植
+- 重建僵尸大陆3v1.6.17[汉化版+完整版]Steam移植
+- 魔法洞穴2v3.402[完整版]Steam移植
+- 遵命陛下v1.0.97[完整版]Steam移植
+- 迷失幻途单机版[完整版]Steam移植
+- 宝可梦紫中文switch模拟器！(游戏)
+- 塞尔达传说旷野之息中文switch模拟器！(游戏)
+- 光明旅者v1.1.97[完整版]Steam移植
+- 拳击俱乐部2快进未来中文switch模拟器！(游戏)
+- 英雄传说碧之轨迹改 中文switch模拟器！(游戏)
+- 寻找天堂v1.0.8[完整版]Steam移植
+- 加拿大死亡之路v1.8.1[完整版]Steam移植
+- 迪托之剑v1.1.1[完整版]Steam移植画风超可爱的一款动作冒险RPG游戏！推荐游玩！
+- 王国英雄3v1.2.12[完整版]Steam移植
+- 去月球v3.7[完整版]Steam移植
+- 英雄传说创之轨迹 中文switch模拟器！(游戏)
+- 圣剑传说玛娜传奇高清重置版[完整版]Steam移植
+- 崩坏之兆瘟疫v2.5.3[完整版]Steam移植
+- 归家异途HomeBehindv1.3.5[完整版+DLC]Steam移植
+- 大金刚热带寒流汉化中文switch模拟器！(游戏)
+- 死或生沙滩排球3中文switch模拟器！(游戏)
+- 艾希v1.1.1[完整版]Steam移植
+- 生命的选择中世纪2v1.15[完整版]Steam移植
+- 星陨传说流浪者的故事v1.0.284[完整版]Steam移植
+- 进化之地v2.0.4[完整版]Steam移植
+- 预言奇谈v1.3.16[完整版]Steam移植跑团+解谜+轮回救世！叙事类卡牌游戏！
+- 啪嗒砰1+2重制版中文switch模拟器！(游戏)
+- 高达破坏者4 中文switch模拟器！(游戏)
+- 探案法侦探大赛合集v1.0.1[完整版]Steam移植
+- 最后的咒语[完整版]顶级战旗游戏，好玩！肉鸽+战棋+塔防结合得很棒！
+- 勇者大陆男巫v1.6.4[完整版]Steam移植低配版的国王的恩赐like游戏很对胃口总体来说还不错！
+- 点心世界地牢爬行黄金版switch模拟器！(游戏)
+- 克洛蒙怪兽农场[完整版]Steam移植
+- 大头菜小子偷税记v1.1.26[完整版]Steam移植
+- 勇者斗恶龙怪物仙境3魔族王子与精灵的旅程[完整版]Steam移植
+- 怪物猎人崛起中文switch模拟器！(游戏)
+- 搜魔人英雄联盟传奇中文switch模拟器！(游戏)
+- 宝可梦晶灿钻石中文switch模拟器！(游戏)
+- 盐与献祭[完整版]2D魂类游戏流畅运行全新续作，以独特的游戏难度自由的地图探索以及多武器等！
+- 本所七大不思议v1.2[中文版+完整版]Steam移植一款跟meta元素结合的很好的AVG佳作！
+- 阿尔祖崛起Arcanium[完整版]Steam移植
+- 黑暗之魂1重制版[完整版]魂类游戏鼻祖一个字☞难！实在打不过就用金手指吧!好玩，爱玩!
+- 蜡烛人v3.3.3[完整版]Steam移植
+- 怪物之家v1.0.20[完整版]Steam移植
+- 百万吨级武藏W 中文switch模拟器！(游戏)
+- 勇者斗恶龙3HD-2D重制版中文switch模拟器！(游戏)
+- 六月衷曲v1.0.1[完整版]Steam移植
+- 伊苏10北境历险中文switch模拟器！(游戏)
+- 阿斯特赖亚v1.2.715[完整版]Steam移植神作诞生超越杀戮尖塔的爬塔佳作骰子+肉鸽吹爆！Up强烈推荐游
+- 被虐的艾诺尔中文switch模拟器！(游戏)
+- 时空之轮v2.1.3[完整版]Steam移植史上第一RPG横跨中世纪、现代、未来的世纪之作!被称之为日式RPG的巅峰!
+- 一路One WayThe Elevatorv1.0.37[完整版]Steam移植
+- 精灵与橡木之歌Oaken v1.2.0c[完整版]Steam移植
+- 功夫鲨鱼传奇重生[完整版]Steam移植
+- 诸神战纪中文switch模拟器！(游戏)
+- 光之子终极版[完整版]超唯美画风的现象级大作，我敢打赌它绝对会给你留下深刻的印象!
+- 黑暗史诗FATE重制4合1整合版[菜单版+完整版]Steam移植暗黑类经典刷宝，火炬之光前身！
+- 合金弹头战略版[菜单版+完整版]Steam移植
+- 魔塔猎人艾尔莎的试炼v1.40[完整版+菜单版]Steam移植
+- 小人物拯救世界中文switch模拟器！(游戏)
+- 痞子英雄泰索斯遗迹[完整版]一款具备现代Rogue-lite元素的4人经典冒险游戏!
+- 疑案追声Unheard[完整版+DLC]Steam移植
+- 灵武战记幽灵船队与消失的英雄中文switch模拟器！(游戏)
+- 梅格与怪物中文switch模拟器！(游戏)
+- 战律2[完整版]Steam移植
+- 逆转吉原菊屋篇[完整版]Steam移植
+- 薄暮夏梦v1.6.21.1[完整版]Steam移植
+- 9年阴影v0.2.1[完整版]Steam移植
+- 卡莫斯Kaamos[完整版]Steam移植
+- 幸福弹丸论破S超高中级的南国掷骰合宿v1.0.3[完整版]Steam移植
+- 战场的赋格曲3中文switch模拟器！(游戏)
+- 合金弹头攻击重装版中文switch模拟器！(游戏)
+- 阿门罗Armello[完整版 ] 断网运行！Steam移植结合了三种游戏的风格：卡牌游戏的战术、图板游戏的丰富战略以及精彩 RPG
+- 魔塔少女中文switch模拟器！(游戏)
+- 翡翠帝国特别版[完整版]Steam移植一款融合了武侠、奇幻与神怪等要素，以古中国文化为背景的独特ARPG ！
+- 时间操控者中文switch模拟器！(游戏)
+- 布鲁姆镇v1.0.29[完整版]Steam移植类女神异闻录像素风JRPG游戏佳作！
+- 传奇摔角手v1.0.545[完整版+网飞版]Steam移植
+- 把戏Conjuryv1.6.3[完整版]Steam移植
+- 霓虹魔咒风暴v1.0.7[完整版]Steam移植法师ARPG Roguelite游戏！
+- 第一次的游戏程式设计中文switch模拟器！(游戏)
+- 骑士与龙3[完整版]好评中世纪奇幻rpg汉化版来了❗中世纪幻想世界所构筑大型砍杀类RPG肉鸽文字剧情类角色扮演游戏！
+- 腐败血脉中文switch模拟器！(游戏)
+- 60秒太空版v1.3.2[完整版]Steam移植
+- 王权三国[完整版]Steam移植
+- 文字游戏中文switch模拟器！(游戏)
+- Zelle神秘之旅v1.3.1[完整版]Steam移植
+- 杀戮尖塔v2.6.0[完整版]Steam移植
+- 仙剑奇侠传98柔情篇v1.0.1.3(支持安卓14游玩)[完整版]Steam移植
+- 海之号角2失落王国的骑士中文switch模拟器！(游戏)
+- 卡牌之声龙之岛v1.1.0[完整版]Steam移植
+- 口袋盗贼终极版v1.38[完整版]Steam移植
+- 恶果之地v3.6.0[完整版]Steam移植
+- 恐怖的世界中文switch模拟器！(游戏)
+- 时间流生命模拟v13.0.10[完整版]Steam移植
+- 街头霸王4冠军版v1.01.02[完整版+网飞版]Steam移植安卓手机上最耐玩的格斗游戏！
+- 吾王保卫战v1.3.21-c[完整版]Steam移植全新肉鸽！自走棋+幸存者+爬塔玩法一玩就停不下来！
+- 魔女之泉R中文switch模拟器！(游戏)
+- 打骨折超市日记中文switch模拟器！(游戏)
+- 夜廻v1.0.4[完整版]Steam移植
+- 战斗之心传承[完整版]Steam移植绝对的经典，神作！安卓手机必玩的动作角色扮演ARPG！
+- 美女请别影响我学习中文switch模拟器！(游戏)
+- 牧场物语风之繁华集市中文switch模拟器！(游戏)
+- 超级机器人大战Y中文switch模拟器！(游戏)
+- 无名者屠龙中文switch模拟器！(游戏)
+- 旁观者Beholderv2.6.274[完整版+DLC]Steam移植
+- 雷顿兄弟迷之屋[完整版]这是一部以雷顿教授的儿子为主角的破案悬疑小说！
+- 鳄鱼侦探布罗格v1.0.22[完整版]Steam移植
+- 超级黑暗欺骗v1.3.0[完整版]Steam移植
+- 暗徒誓约中文switch模拟器！(游戏)
+- 诸神灰烬抉择v1.0.14[完整版]Steam移植
+- 神骰传说[完整版]Steam移植宝可梦➕肉鸽卡牌玩法真的绝了！极佳的游戏性与策略性!
+- 龙骑士编年史中文switch模拟器！(游戏)
+- 三角符文全章节汉化版[完整版]Steam移植
+- 百合太刀降魔传中文switch模拟器！(游戏)
+- 佣兵重生回忆山猫中文switch模拟器！(游戏)
+- 倾听画语最美好的景色v2.1.2[完整版]Steam移植
+- 诸神灰烬救赎v1.0.32[完整版]Steam移植
+- 秘影曼德拉巫术树的低语中文switch模拟器！(游戏)
+- 联结星火之盟中文switch模拟器！(游戏)
+- 海之号角柯罗诺斯地下城v4[完整版]Steam移植
+- 恶魔幸存者[完整版+菜单版]Steam移植 好玩，有游戏CG大家都懂！
+- 轩辕剑3外传天之痕v3.1.0[完整版]Steam移植2D武侠巅峰之作！剧情好评，情怀无价，少年亵玩，回顾是甜!
+- 不死军团2亡灵城v1.0.7.2[完整版]Steam移植
+- 胡言山的魔理沙中文switch模拟器！(游戏)
+- 憎恨之心亡者归来[完整版]Steam移植
+- 海珂北境极光中文switch模拟器！(游戏)
+- 黑暗之刃The Darkbladev2.2.5[完整版]Steam移植
+- 暗黑破坏神1v1.5.2[完整版+菜单版]中文完美移植安装即玩！
+- 黄泉裂华中文switch模拟器！(游戏)
+- 口袋妖怪究极绿宝石最终版改版打破金手指限制！
+- 深渊之影v1.1.7[完整版+菜单版]Steam移植
+- 不死鸟传说觉醒中文switch模拟器！(游戏)
+- 战神的挑战不朽版中文switch模拟器！(游戏)
+- 超级马里奥银河1+2中文switch模拟器！(游戏)
+- 口袋妖怪编号进化内置金手指版！
+- 无尽地牢启示录v1.3.21[完整版]Steam移植
+- 末日清理专家中文switch模拟器！(游戏)
+- 月圆之夜[完整版+DLC]Steam移植
+- 露娜之光LunarLuxv1.0.8[完整版]Steam移植
+- 异星迷航Ωv4.0[完整版]Steam移植
+- 沙加翠之超越中文switch模拟器！(游戏)
+- 宝可梦燃之智最终汉化版+内置金手指版!魂穿小智体验八大地区的动漫传奇之旅~
+- 最终幻想战略版伊瓦利斯编年史汉化中文中文switch模拟器！(游戏)
+- 口袋妖怪无限大道金手指版！
+- 忍者神龟斯普林特的命运中文switch模拟器！(游戏)
+- 首尔驱魔人1111v1.1.6[完整版]Steam移植上头好玩最新肉鸽Roguelike➕卡牌构筑的回合制策略驱魔游戏❗
+- 宝可梦回忆录完美中文福利版PC版加教程肉鸽玩法的宝可梦改版你肯定没玩过吧?
+- 红色的炼金术士和白色的守护者中文switch模拟器！(游戏)
+- 点击英雄中文switch模拟器！(游戏)
+- 口袋妖怪龙之石3内置金手指版！
+- 王权Reignsv2[完整版]Steam移植一款别开生面的轻度策略游戏！
+- 皇家遗产（大量货币）
+- 古代军团之塔（大量货币）
+- 边防检查员模拟器（steam移植）
+- 钢铁侠3
+- 孤岛余生1  v1.3（PC移植）支持安卓14游玩
+- 三角战略（switch手机版）
+- 黑色边境2（内置MOD菜单）
+- 九州天下（附GM后台）
+- 铁血战士修复版
+- 不死军团2（内置作弊菜单）
+- 王国保卫战 v6.4.18（Steam移植）
+- 时空之轮（内置作弊菜单）
+- 哈迪斯（直装版）肉鸽神作好玩打击感爽立绘非常精美游玩推荐！
+- 魔域（附GM后台）
+- 神雕传说（附GM充值后台）
+- 逆袭人生模拟器（免广告_点资源图标得大量资源）
+- 勇者斗恶龙8（内置作弊菜单）
+- 开心西游（内置无限资源）
+- 妖精生存（内置作弊菜单）
+- 香草英雄团（解锁无敌+秒杀）
+- 终焉誓约（内置作弊菜单）
+- 云上大陆（内置作弊菜单）
+- 洛克的任务（内置作弊菜单）
+- 出征吧！勇士|出征吧勇士（内置作弊菜单）
+- 造梦无双|造梦西游：无双（无限内购+内置GM工具）
+- 无限远征队（高伤害）
+- 再来一张（Steam移植）
+- 魔法狂暴  Magic Rampage v7.7.3（Steam移植）
+- 画饼高手（免广告直接获得奖励）
+- 迷雾漩涡  MISTOVER（switch手机版）
+- 音乐部落小怪物  v1.0.1.2（Steam移植）
+- 失落的记忆 v1.0.8  完整特效版本，无鹿头版本，胆小千万别玩！
+- 斗罗大陆斗神降临（附GM后台）
+- 打倒白雪公主！乌拉！v1.5.106[完整版]Steam移植特别好评黑暗童话风卡牌肉鸽新游！
+- 生命的选择中世纪2v1.12[完整版+中文版]Steam移植
+- 口袋盗贼汉化版[完整版]Steam移植好玩的Roguelike暗黑像素地牢肉鸽游戏推荐！
+- 哈迪斯2中文switch模拟器！(游戏)
+- 星之卡比探索发现中文switch模拟器！(游戏)
+- 逃离鸭科夫中文手机也能玩pc游戏！
+- 最终幻想4(3D)重制版[完整版]Steam移植
+- 现代战争3v1.1.7g[完整版]放到现在也是顶级的第一人称剧情射击手游！
+- 科沃克拉克Kovoclakv1.148[完整版]Steam移植
+- 最终幻想像素版1复刻版（货币使用增加完整版）
+- 骑士与龙4（内置作弊菜单）
+- 宿命残响|锁链回声（SWITCH手机版）
+- 深海迷航（免付费解锁完整版）
+- 培养魔法师（使用货币不减反增）
+- 疯狂骑士团（免广）
+- 金庸群侠传
+- 尸变纪元DeadAgev1.79[完整版]Steam移植
+- 怪物猎人物语v1.0.5[完整版]Steam移植
+- 猫娘小厨中文switch模拟器！(游戏)
+- 沙加翠之超越v1.0.1[完整版]Steam移植
+- IGS经典街机游戏合集中文switch模拟器！(游戏)
+- 死灵法师之剑复活中文switch模拟器！(游戏)
+- 幻想骑士战术中文switch模拟器！(游戏)
+- 黑色传奇中文switch模拟器！(游戏)
+- 出售宇宙（解锁完整版）
+- 挑战地牢（免广告获取奖励）
+- 无限复活变强系统（免广告获取奖励）
+- 异界锁链中文switch模拟器！(游戏)
+- 勇者斗恶龙 寻宝探险团switch模拟器！(游戏)
+- 指挥官第二次世界大战[完整版]Steam移植
+- 离线游戏合集中文版v2.12.1[完整版]摸鱼、休闲、无聊打发时间必备内置70多款离线单人和双人的精品小游戏！非常好玩儿有意思！
+- 三国志9威力加强版v3.0[完整版]独家优化版，适配超多机型不闪退！
+- 旗帜的传说2switch模拟器！(游戏)
+- 青鬼Aooni[完整版]Steam移植
+- 神奇101重制版中文switch模拟器！(游戏)
+- 路易吉鬼屋3中文switch模拟器！(游戏)
+- 伊苏回忆录菲尔迦纳的誓约中文switch模拟器！(游戏)
+- 原点计划血肉工匠中文switch模拟器！(游戏)
+- 紧急呼叫攻击小队v1.0.33[完整版]Steam移植
+- 星之卡比新星同盟中文switch模拟器！(游戏)
+- 新超级马里奥兄弟U 中文switch模拟器！(游戏)
+- 小白世纪v1.7.0[完整版]Steam移植
+- 蜡笔小新煤炭镇的小白[完整版]Steam移植
+- 刀剑神域碎梦边境港区中文v1.1.1+9DLC整合版  switch模拟器！(游戏)
+- 拱谷世界中文switch模拟器！(游戏)
+- 终远的威尔修EpiClycoris中文switch模拟器！(游戏)
+- 雨魂AMEDAMA中文switch模拟器！(游戏)
+- 瓦利弗地牢战术v1.05[完整版]Steam移植
+- 召唤命途v2.21.0[完整版+DLC]Steam移植
+- 动物森友会口袋露营广场集合版v7.1.2[完整版+单机版]充满乐趣的 7 年
+- 怪物火车单机修复版v2.3.8[完整版+DLC]Steam移植
+- 杀死公主原始剪辑版中文switch模拟器！(游戏)
+- 孤胆枪手2重装上阵 v1.1.4 [完整版] Steam移植
+- 泰坦杀手（内置作弊菜单）
+- 天命6（附GM后台）
+- 多边形奇幻（内置MOD菜单）
+- 宝可梦蛋白石最新福利汉化版！宝可梦改版中最经典的不可不玩的神作全八代精灵➕全新剧情➕全新地区➕原创形态等等~~
+- 火炬之光2+3[完整版]暗黑2爱好者不可不玩的一款游戏，当暗黑3越来越演变为刷刷刷的重复劳动!
+- 乌鸦国度中文switch模拟器！(游戏)
+- 太空国土v1.7.3.210[完整版]Steam移植
+- 波兰球世界1930[完整版]Steam移植
+- 幻象杀手v1.0.2 136938[完整版]Steam移植
+- 纸片马里奥折纸王国中文switch模拟器！(游戏)
+- 火焰纹章ENGAGE中文switch模拟器！(游戏)
+- 宝可梦传说阿尔宙斯中文switch模拟器！(游戏)
+- 动物森友会中文switch模拟器！(游戏)
+- 吸血鬼的堕落2（steam移植）
+- 遵命陛下（steam移植）
+- 失落的记忆重制版 v1.9.102 [完整版]Steam移植
+- 太阳港中文switch模拟器！(游戏)
+- 马里奥与路易吉RPG兄弟齐航中文switch模拟器！(游戏)
+- 植物大战僵尸幼儿园版v1.1.1[直装版]pC移植
+- 纪元变异中文switch模拟器！(游戏)
+- 土豆兄弟v1.1.5.1.2[完整版+DLC]Steam移植
+- 迷托邦中文switch模拟器！(游戏)
+- 从萨格里什起航中文switch模拟器！(游戏)
+- 莱莎的炼金工房常暗女王与秘密藏身处+30DLC中文switch模拟器！(游戏)
+- 圣剑传说最终幻想外传Adventure of Manav1.1.3[完整版]Steam移植
+- 尼可梦灭绝v3.0.4[完整版+免内购版]Steam移植
+- 说谎公主与盲眼王子中文switch模拟器！(游戏)
+- 辐射避难所v1.21.0[完整版]Steam移植
+- 骑士与龙2中文[完整版]中世纪幻想世界所构筑的大型RPG文字剧情类角色扮演游戏！
+- 开局一条狗
+- 圣剑传说玛娜传奇高清重置版（免付费，完整版）
+- 速骨和防御（解锁大量皮肤券）
+- 节奏地牢v4.1.1-b296[完整版+DLC]Steam移植
+- 暗黑破坏神2：黑暗征途3.0懒人打包MOD❗
+- 逃税的萝卜男孩[完整版]Steam移植
+- 暖雪 最新v3.1.0.1终业DLC整合版！
+- 德斯塔记忆之间[完整版]Steam移植
+- 死亡之门Death’s Door v1.2.4[完整版]Steam移植
+- 崩坏之兆：瘟疫v2.5.3[完整版]Steam移植
+- 寻剑迷途 v1.36 [完整版] Steam移植 卡牌肉鸽版《魔塔》！
+- 碧姬公主表演时刻  中文switch模拟器！(游戏)
+- 当魔兽争霸3冰封王者直装版！
+- 班德尔城物语 英雄联盟外传  v1.0.6  switch模拟器！(游戏)
+- 风来之国 Eastward  switch模拟器！(游戏)
+- NBA 2K20 [完整版] Steam移植
+- 宝可梦：肉鸽v3.0.8火箭队模式来啦❗
+- 方舟：生存进化[完整版]Steam移植
+- 丰收之月 安托斯之风  v1.3.0  switch模拟器！(游戏)
+- 雷纳提斯中文版+60帧补丁+15DLC  switch模拟器！(游戏)
+- 侦探俱乐部：消失的继承人  switch模拟器！(游戏)
+- 圣剑传说玛娜传奇高清重置版 [完整版] Steam移植
+- 猫博物馆  Cat Museum v1.2.2 [完整版] Steam移植
+- 战场的赋格曲 v1.1.4  switch模拟器！(游戏)
+- 绝影战士 KAGEv1.0.1  switch模拟器！(游戏)
+- 完蛋！我被美女包围了[完整版]一款模拟恋爱的全动态真人互动影像作品！
+- 合金重组 switch模拟器！(游戏)
+- 猎人 XHunterX  switch模拟器！(游戏)
+- 巫术纸牌  Solitairica v1.1.17c [完整版+DLC] Steam移植
+- 塞尔达传说:智慧再现  v1.0.1  switch模拟器！(游戏)
+- 逃脱者 [完整版] Steam移植
+- 恶魔城 多米纳斯合集  switch模拟器！(游戏)
+- 废墟图书馆[完整版]一款以“图书馆战斗模拟”为概念制作的模拟策略游戏。
+- 远古众神Ancient Gods v1.14.0[完整版]Steam移植
+- 矮人之旅 Dwarf Journey v1.3 [完整版] Steam移植
+- 献给迷宫的墓碑  v1.2.4  [完整版]  Steam移植
+- 梦魇骑士团（内置作弊菜单）
+- 沙之国的宫廷锻冶屋v1.14g[完整版]Steam移植
+- 恐惧与饥饿1v1.4.1汉化中文收藏版手机也能玩pc游戏！
+- 赤痕夜之仪式中文switch模拟器！(游戏)
+- 勇者斗恶龙2恶灵的众神v1.0.7[完整版]Steam移植
+- 幻想水浒传1+2高清重制版中文switch模拟器！(游戏)
+- 传说之下黄金正义[中文版]
+- 魔物娘竞技场中文switch模拟器！(游戏)
+- 昨日之日中文switch模拟器！(游戏)
+- 迷你Day Z+v1.6.2[完整版]越南服版本高爆率➕满耐久➕饥饿值口渴值减少速度慢➕超多幸存者~
+- 地牢生存v1.82.1[完整版]暗黑地牢的最强平替版手游还是汉化版！
+- 勇者斗恶龙1v1.0.9[完整版]Steam移植
+- 游戏王初期收藏辑switch模拟器！(游戏)
+- 名利游戏中文switch模拟器！(游戏)
+- 辐射避难所v1.14.7[内购版+中文版 ]Steam移植
+- 三相奇谈v1.0.2手机也能玩pc游戏！
+- 勇者斗恶龙10觉醒的五种族 汉化中文v2.0.1+10DLCswitch模拟器！(游戏)
+- 勇者斗恶龙10觉醒的五种族离线版[完整版]Steam移植
+- 全网公敌2新世界v1.0.8  手机也能玩pc游戏！
+- 魔法工艺手机也能玩pc游戏！
+- 幸运之杖Rfor Nintendo Switch港区中文v1.0.2整合版switch模拟器！(游戏)
+- 勇者赶时间巨龙幻象中文switch模拟器！(游戏)
+- 恶魔城Advance合集中文汉化switch模拟器！(游戏)
+- 切尔诺贝利人完整版官方中文v1.14.4+2DLC整合版switch模拟器！(游戏)
+- 浪漫沙加2七英雄的复仇港区中文v1.0.1+1DLC整合版switch模拟器！(游戏)
+- 萌物求生v0.25.006[完整版]Steam移植
+- 末日准备狂中文switch模拟器！(游戏)
+- 病毒死亡对峙Ailment v3.3.5[完整版]Steam移植
+- 圣符国度数字版 TalismanDigital Edition v37.11 [完整版+DLC] Steam移植
+- 杏林物语 +DLCswitch模拟器！(游戏)
+- 禁忌试炼中文switch模拟器！(游戏)
+- 怪物火车单机修复版v2.3.6[菜单版+完整版+DLC]Steam移植
+- OMORI奥莫里v1.0.8.1[完整版+汉化版]Steam移植
+- 九人安息9 R.I.P中文switch模拟器！(游戏)
+- 益智泡泡龙一起泡泡战中文switch模拟器！(游戏)
+- 魔鬼恋人豪华版中文switch模拟器！(游戏)
+- 鳄鱼侦探布罗格v1.0.42[完整版]Steam移植
+- 加拿大死亡之路switch模拟器！(游戏)
+- 关于我转生变成史莱姆这档事中文switch模拟器！(游戏)
+- 阿西, 美女室友竟然…？v1.0.3[完整版]Steam移植
+- 勇敢的哈克v1.4.3[完整版]Steam移植
+- 千篇一律超杀版中文switch模拟器！(游戏)
+- 骷髅地下城v1.2.6[完整版]Steam移植
+- 迅狼疾步中文switch模拟器！(游戏)
+- 英雄传说零之轨迹改中文switch模拟器！(游戏)
+- 动物迷城v1.3.84.8中文手机也能玩pc游戏！
+- 博德之门黑暗联盟v1.0.7[完整版]Steam移植
+- 怪物圣所中文switch模拟器！(游戏)
+- 饿殍明末千里行中文switch模拟器！(游戏)
+- 卡夫卡的变形记（免广告解锁章节）
+- 初心者大冒险（内置MOD菜单）
+- 我的世界（内置无敌菜单）
+- 西游消消乐|西游乐消消（内置作弊菜单）
+- 远古众神v1.20.0[完整版+菜单版]Steam移植融合了英雄收集与牌库构筑的肉鸽游戏！
+- 伊苏2编年史v2.0.1[完整版+菜单版]Steam移植
+- 极速营救v3.1.2[完整版]Steam移植
+- 王国保卫战起源v6.4.18[完整版]Steam移植
+- 鼓手余命十日谭[完整版]Steam移植已严肃游玩mygo二创史上最高的山最喜欢，最感动！
+- 原点计划血肉工匠[完整版]Steam移植最新打宝刷刷刷独立爽游分享！
+- 白雀WhiteDovev1.2[完整版]Steam移植有轻度惊悚要素的解谜游戏！
+- 进化之地2v2.3.3[完整版+菜单版]Steam移植
+- 血盟守卫军2[完整版]Steam移植换位战斗新玩法回合制策略塔防战旗游戏简单又上头！
+- 哈迪斯直装版[完整版]肉鸽神作好玩打击感爽立绘非常精美游玩推荐！
+- 破碎的像素地牢v3.3.2[完整版]Steam移植一款传统肉鸽地牢探索RPG游戏！
+- 魔法狂暴MagicRampagev7.7.3[完整版]Steam移植充满动感的 RPG 平台游戏！
+- 安魂曲[完整版+免谷歌]国产牛逼动作哥特风2d横版动作游戏支持安卓14游玩！！
+- 杏林物语v1.50[完整版+菜单版]Steam移植砍树、收集草药、挖矿、打怪，收集各种资源等！
+- 小白世纪v2.0.4[完整版]Steam移植卡牌类桌游的顶峰之作玩法简单体验却无限丰富有趣！
+- 骑士与龙4v1.2.4中文版[完整版]中世纪幻想文字冒险砍杀类RPG系列的第四部作品来啦！
+- 青鬼Aooniv1.0.0[完整版]Steam移植
+- 暖雪v3.1.3[完整版+DLC]Steam移植国产肉鸽佳作游玩推荐！
+- 宝可梦秩序与混沌重制版8年打磨的神作❗
+- 宝可梦无界解放[全汉化版]GBA改版界天花板❗真正的巅峰之作！
+- 土豆兄弟v1.3.370[完整版+新黎明+DLC]Steam移植超爽割草根本停不下来！
+- 宝可梦SA甄选推荐超多可收集女角色写真+全世代同人天花板❗
+- 钓鱼之星世界之旅中文[完整版]口碑极佳的高画质休闲钓鱼游戏大作游玩推荐！
+- 数码宝贝驯兽师重生2[汉化版]RPG神作来袭游玩推荐❗
+- 沉默的档案员v3.4解锁商店免内购体验到一个独特的放置型幻想模拟RPG游戏！
+- 无尽军队CountlessArmy[完整版]Steam移植居然出了个反向塔防游戏。
+- 人格解体(心之钥)[完整版]Steam移植国产克苏鲁跑团RPG游戏神作不玩后悔游玩推荐！
+- 宝可梦新生v4.0[福利版] 新极巨合成系统动态宝可梦！
+- 黑暗之魂重制版直装版[完整版]魂类游戏鼻祖一个字☞难！实在打不过就用金手指吧!好玩，爱玩!
+- 杀戮尖塔模组整合版v1.2[完整版+免谷歌]Steam移植修复黑屏等BUG尖塔圈喜讯!
+- 千变的迷宫风来的希炼6蛇蜷岛探险谭[完整版+DLC]Steam移植祖级肉鸽游戏！
+- 猫神牧场[完整版+DLC]Steam移植超千评94%特别好评超上头的类房东肉鸽老虎机上班摸鱼必备！
+- 死去活来[完整版]Steam移植难度相当平滑，玩法十分上头，美术很有特色！
+- 武士刀之龙[完整版]Steam移植融合动作冒险与地牢探索的日式RPG！
+- 梦魇骑士团[完整版+菜单版]Steam移植弹幕射击也能做战棋？NDS碎片化叙事黑暗奇幻SRPG
+- 战国代v1.1.0[完整版]Steam移植策略性Roguelike卡牌构筑游戏！
+- 元气骑士前传v1.10.0暗黑like像素风动作ARPG刷装爽游！
+- 暗黑地牢祖灵版新增副本英雄怪物皮肤+剧情整合最新版升级补丁、DLC和金手指手机亲测畅玩！
+- 超好玩的大型类银河战士恶魔城单机精品游戏合集来了！附下载方法【整活】
+- 王权权力的游戏v2.0[完整版]Steam移植
+- 烈焰同盟[完整版]Steam移植战术卡片与同盟系统的战略角色扮演游戏（SRPG）
+- 异化之恶[完整版]Steam移植˚. ⊹ ♰ 水色病栋 × 天使界隈․⁺  ⊹ 亚比风满满 ~
+- 缄默咖啡厅[完整版]Steam移植怪谈元素、微恐解谜！
+- 喵喵的结合中文版[完整版]肉鸽+战棋！年初就玩到了年度游戏！
+- 阿加里斯的故事[完整版]Steam移植经典的日系角色扮演游戏
+- 星际战甲[国际版]Steam移植终于能玩上我梦寐以求的星际战甲手游了！
+- 战车撞僵尸地牢v1.22.230[菜单版+完整版]一款结合了动作肉鸽丧尸+射击+像素游戏！
+- 光辉同盟[完整版]Steam移植经典策略RPG游戏真好玩！
+- 做个好梦[完整版]Steam移植画面非常之震撼，就是追逐战有点难！
+- 再构镜像[完整版]Steam移植剧情向 恐怖解密类像素RPG  ！
+- 奇塔利亚童话v1.21[完整版+菜单版]Steam移植支持联机一款融合了RPG和种田元素的可爱动作冒险游戏！
+- 疯狂连杀ULTRAKILLv3.3[完整版]Steam移植极致的爽感，顶级的手感！
+- 潜水员戴夫离线版v1.0.21[完整版+DLC+菜单版]Steam移植修复了DLC的问题+存档！
+- 烁石物语v1.8.349[完整版]Steam移植一款结合了塞尔达、矿坑之下和夜勤人元素的冒险游戏，带来全新体验！
+- 球比伦战记[完整版]Steam移植可能是今年最爽肉鸽！
+- 盗贼遗产v1.4.1[完整版]Steam移植除以撒外最喜欢的rogue like游戏！
+- 新星漂移[完整版]Steam移植飞行射击+肉鸽！
+- 小歌与林中的妖怪之家（switch游戏）
+- 狩夜人（switch游戏）
+- 芙哇芙哇女仆咖啡（switch游戏）
+- 日本田园生活冒险（switch游戏）
+- 剑与魔法与学园任务（switch游戏）
+- 灵视异闻FILE38伊势人鱼物语（switch游戏）
+- 动物迷城（switch游戏）
+- 绯夜传奇重制版（switch游戏）
+- 魔法师世界（switch游戏）
+- 帕夏时代（switch手机版）
+- 勇者斗恶龙7重制版（switch手机版）
+- 超时空方舟豪华版（switch手机版）
+- 铁尾传奇2（switch手机版）
+- 黑暗探险4（switch手机版）
+- 魔法书自走棋（switch手机版）
+- 美女请别影响我成仙（switch手机版）
+- 冥界清道夫（switch手机版）
+- 雾隐战记（switch手机版）
+- 挂姬恶魔（switch手机版）
+- 魔界战记1高清重制版v1.0.5[完整版]Steam移植
+- 明日方舟地牢[完整版]Steam移植融合了破碎地牢经典像素风格与明日方舟世界观元素的创新地牢冒险手游！
+- 流浪先知（Steam移植）
+- 造梦西游全版本[完整版]所有改版电脑安卓都可玩！
+- 异世界佣兵团养成记  v2.5.2（菜单版）转生异世界有趣的动作放置类RPG型游戏，美少女像素画风韩系无限推图！
+- 黎明之刃（完整版+汉化版+菜单版）非常棒的暗黑刷宝，打怪升级，传奇类推荐！
+- 口袋妖怪神战荣耀/ 魔改强化神兽神仙打架❗剧情故事延长至三周目❗
+- 魔剑镇魂曲 重制版（Steam移植）经典神级战旗大作游戏，策略角色扮演SRPG！
+- 飞空艇探险物语 v1.1.7（完整版+菜单版）开罗新作经营探险和RPG完美融合！
+- 蓝色公主2  v1.12.2（完整版+菜单版）一款结合放置战斗与卡牌策略的日式休闲RPG手游
+- 美少女梦工厂2 精简版（Steam移植）经典中的经典，不论是作为一个养成游戏还是美少女游戏！
+- 艾诺迪亚3（完整版）支持安卓15游玩又一款史诗级RPG回归游玩推荐！
+- 矮人军团自走棋（Steam移植） 完整版+菜单版  实乃上班摸鱼、下班解压的神器！
+- 现代战争4（完整版+免谷歌）高画质60帧放到现在也是顶级的第一人称剧情射击游戏！
+- 混沌之戒2  v2.1.2（汉化版+完整版）经典回合制rpg游戏推荐！
+- 模拟人生3 中文版（完整版）Steam移植 稀缺资源，建议收藏无数模门玩家的白月光？
+- 暗黑地牢 直装版（完整版+DLC）高难度的哥特风肉鸽回合制RPG游戏游玩推荐！
+- 怪物幸存者（完整版）类似《土豆兄弟》的2.5D肉鸽生存动作游戏！
+- 幻影塔地下城（完整版）Steam移植  暗黑+肉鸽Roguelike+RPG的快节奏爬塔游戏！这画风我真的喜欢！
+- 征途与险境玩  v1.1.2（完整版+中文版）Steam移植  缝合了战场兄弟、暗黑地牢的新游戏游玩推荐！
+- 布兰特爵士的生平与苦难（完整版+菜单版）Steam移植  超好玩文游推荐！
+- 地牢猎手5（离线版）gameloft经典ARPG手游终于有离线版了这下不得不收藏了！
+- 奥术探索传奇2  v1.0.14（完整版）暗黑ARPG强化游戏体验，经典RPG动作！
+- 奇幻塔防（中文完整版）Steam移植  超级精美的3D塔防游戏可自由控制视角游戏性非常不错！
+- 哈迪斯2 直装版（完整版）动作肉鸽佳作归来！假期刷爽了！
+- 史诗征服2（中文完整版）Steam移植  经典的单人开放世界动作RPG游玩推荐！
+- 原界之罪（中文完整版+菜单版）Steam移植  魂味儿十足的移动端类魂佳作！
+- 冰风谷 增强版（完整版+菜单版）Steam移植  特别好评的龙与地下城规则奇幻角色扮演游戏！
+- 勿观窗外 汉化版（完整版）Steam移植  绝对神作！克苏鲁系像素猎奇RPG游戏！
+- 克苏鲁异闻录  v1.46（完整版+菜单版）Steam移植  小众冷门但非常好玩！克苏鲁神话世界观下的肉鸽动作冒险游戏~
+- 冒险者与被遗忘的秘宝  v1.10.1（菜单版）正宗的砍杀x牌组构建roguelike放置角色扮演游戏！
+- 不正经的卡牌传说  v1.5.0（完整版）情怀满分设定完全一致的单机横板《热血传奇》！卡牌样式横板刷装备ARPG！
+- 神魔决之江湖行（菜单版）Steam移植该游戏是一款独立制作的仙侠风格的战棋角色扮演游戏！
+- 阿尼玛灵魂（完整版+单机版）Steam移植  最像暗黑破坏神的游戏强烈推荐游玩！！！
+- 雷顿教授与不可思议的小镇  v1.0.7（完整版）是在世界范围内都拥有经久不衰人气的日式解谜游戏！
+- 蜡笔小新煤炭镇小白（菜单版+完整版）Steam移植
+- 蘑菇骑士  v1.0.59_g（完整版）轻松简单肉鸽暗黑类刷怪游戏！
+- 牧场物语甜蜜之家  v1.32（完整版）种田游戏祖师爷归来啦！
+- 最终幻想4：月之归还  v1.0.12（完整版）Steam移植
+- 异形：断电（汉化版+完整版）
+- 口袋妖怪：超奇希斯 单机版  v2.1（完整版）我们的童年回忆，却让我难以忘记十年前的那个盛夏，我的童年回不去了！
+- 一天又一天的RPG（免广告版）像素风成长冒险新作！别看他可爱，打架超猛的哟！
+- 红色境界：世界战火  v1.9.1.0  懒人整合mod
+- 疯狂之墙2（完整版）续作终于来了，奇幻世界观，比前作更阴间！
+- 漫长等待  v1.22（完整版）Steam移植
+- 漫无止境  v2.4.28（完整版）最新好玩的 暗黑➕肉鸽Roguelike➕像素的 快节奏超爽快射击砍杀游戏！
+- 暗影杀手：魔鬼猎人  v1.2.08（完整版）玩起来很爽的感觉动作流畅带有影子动漫格斗风格游戏的砍杀动作角色扮演游戏！
+- 我的世界  v1.21.90.27（完整版）是一款让玩家放置方块和历险的游戏！
+- 我的小番茄钟专注时光（完整版）帮助你在专注的时候远离手机。
+- 太空刑警3  v3.1.3（完整版+DLC）经典之作！上帝视角潜行射击单机手游
+- 太空刑警2  v1.8.4（完整版+DLC）超好评俯视射击游戏佳作刷子游戏，突突突！
+- 以撒的结合  v1.4.2（完整版）Steam移植
+- 以撒的结合忏悔[汉化版]Steam移植
+- 饿殍：明末千里行  v2.10（解锁完整版）Steam移植
+- 符文工房5（switch手机版）
+- 命运英雄（完整版）这个游戏玩着真的是上瘾。幸存者+事件，真的是独特割草爽游!
+- 暗黑史诗  重制版（switch手机版）
+- 魔女之家 汉化版（完整版）Steam移植
+- 新美妙世界（switch手机版）
+- 巫术 Sorcery!  v1.6a5（完整版）Steam移植
+- 逃出从此以后（switch手机版）
+- 废土之王  v2.5.2（完整版）Steam移植
+- 超真实麻将love2~7（switch手机版）
+- 救赎少女（switch手机版）
+- 这里没有游戏错误维度  v1.0.40（完整版）Steam移植
+- 十字军骑士（switch手机版）
+- 灵视异闻FILE38伊势人鱼物语（完整版）Steam移植  强烈推荐就这种纯爱故事，多来，爱看
+- 地铁跑酷  v3.61.0（完整版）
+- 暗黑破坏神3永恒收藏版（完整版+DLC）中文语音含金手指，手机60帧畅玩!
+- 勇者斗恶龙1+2HD2D 重制版（switch手机版）
+- 口袋妖怪：漆黑的魅影合集  最近总有好兄弟问我要漆黑的魅影，索性来个大合集！
+- 绽放传说2：米诺陶王子 v3.0（完整版）Steam移植
+- 宝可梦：朱紫 像素版内置金手指版！
+- 恸哭奇机（switch手机版）
+- 刺客信条血缘（完整版）Steam移植
+- 东方新世界（switch手机版）
+- 口袋妖怪：紫光2  整合金手指！
+- 口袋妖怪：火红 扩展版  内置金手指版！
+- 神之天平（switch手机版）
+- 无尽传说 重制版（switch手机版）
+- 纸片马力欧RPG千年之门（switch手机版）
+- 怪物调解员（完整版）Steam移植
+- 矿坑之下  UnderMine（switch手机版）
+- 以撒的结合 忏悔（switch手机版）
+- 口袋妖怪：火箭队 整合超多金手指！
+- 哈迪斯  Hades（switch手机版）
+- 夜勤人  v1.13.64（完整版）Steam移植  肉鸽类游戏，挺好玩的~
+- 人生的选择中世纪（完整版）Steam移植
+- 口袋妖怪：无名（内置金手指版）
+- 口袋妖怪：釉色（内置金手指版）
+- 口袋妖怪：蓝星4（内置金手指版）
+- 口袋妖怪：究极绿宝石 萌娘版（内置金手指版）
+- 口袋妖怪：牧场物语  宝可梦➕种田养成，还有恋爱求婚系统？
+- 口袋妖怪：传说绿宝石 终极版
+- 太阳召唤深入影渊  v1.1.3（完整版）Steam移植
+- 乌鸦丰收祭（switch手机版）
+- 无冬之夜 增强版  v8193A00013（完整版+DLC）Steam移植
+- 光之战士改写命运  v1.0.61（完整版）Steam移植  像素横版闯关肉鸽游戏！
+- 口袋妖怪：神话传说（内置金手指版）
+- 口袋妖怪：邪神降临2
+- 拣爱（完整版）Steam移植  这款万人好评如潮的恋爱游戏！
+- 宝可梦：绿宝石 肉鸽Rogue  v2.01  汉化版！肉鸽玩法推荐游玩！
+- 编曲家角色谜题冒险 v1.1.15（完整版）Steam移植
+- 小白兔电商国语配音（switch手机版）
+- 宝可梦：剑盾gba版（内置金手指）
+- 口袋妖怪：神兽领域 v1.5  全是神兽的版本，爽游版口袋妖怪❗
+- 无职转生到了异世界就拿出真本事（switch手机版）
+- 完蛋我被美女包围了2（switch手机版）
+- 波斯王子启示（完整版）Steam移植  暗黑冒险动作手游，将经典IP的魂魄注入移动端！
+- 葬花暗黑桃花源（解锁完整版）
+- 地牢深处（内置作弊菜单）
+- 春秋封神（内置超级秒杀菜单）
+- 战神奥林匹斯之链（完整版）Steam移植  掌机神话史诗大作！
+- 地狱卡牌（switch手机版）
+- 科学vs狂怒  v1.8.1.1（完整版）Steam移植
+- 拳击俱乐部2快进未来（switch手机版）
+- 骷髅复仇者  v1.0.7.4（完整版）Steam移植
+- 霓虹铬  v1.1.3.009（完整版）Steam移植
+- 真・三国无双 霸|真三国无双霸（内置作弊菜单）
+- 龙之遗迹 DragonRuins（完整版）Steam移植  经典迷宫探索游戏！
+- 阿卡迪姆太空漫游（完整版）Steam移植  一款类Rogue太空冒险游戏战斗、采集星球、探索！
+- 次元三国（内置GM工具【不要乱用GM功能】）
+- 光辉守护黎明之光（完整版）Steam移植
+- 猩红之塔（switch手机版）
+- 魔女的元物语（switch手机版）
+- 波斯王子：失落的王冠  （完整版+菜单版+DLC）Steam移植
+- 男友地下城（switch手机版）
+- 羽翼的祈愿（完整版）Steam移植
+- 梅格与怪物（完整版+DLC）Steam移植  一款传统像素风JRPG！
+- 亡灵女仆（switch手机版）
+- 奈米使徒计划（switch手机版）
+- 国王之墓 （switch手机版）
+- 十女武神（内置作弊菜单）
+- 星之海（内置作弊菜单）Steam移植
+- 泽诺尼亚4（大量货币）
+- 学校英雄（免付费解锁完整版）
+- 掠夺之剑：暗影大陆（大量金币天赋点）
+- 英雄城堡（使用钻石金币不减反增）
+- 双人成行（SWITCH手机版）
+- 终焉之玛格诺利亚：雾中之花（SWITCH手机版）
+- 巫师任务（免付费解锁完整版）
+- 石河伦吾和他的朋友们（SWITCH手机版）
+- 暗黑破坏神2直装多版本合集（steam移植）
+- 冒险岛：经典版
+- 泰坦之旅：传奇（高爆大背包）
+- 通天魔塔（大量货币）
+- RWBY：冰雪弓矢‌（免付费解锁完整版）
+- 地下城冒险（大量资源）
+- 大头菜小子银行大冒险（大量金币）
+- 茶杯头
+- 艾诺迪亚4合集（内置MOD菜单+无限资源）
+- 黄金之剑（解锁大量货币）
+- 暗影之剑（汉化高清修复）
+- 火柴人英雄塔防（内置MOD菜单）
+- 战神：夜袭（大量金币+0蓝放技能）
+- 山谷冒险者（使用货币不减反增）
+- 憎恨之心：亡者归来（内置MOD菜单）
+- 最终地牢（解锁大量货币）
+- 神秘守护者
+- 口袋英雄：魔改终极版
+- 星之卡比：重返梦幻岛豪华版（SWITCH手机版）
+- 守望者编年史（无限宝石）
+- 放逐王国：追忆至森
+- 核爆RPG：特鲁多格勒
+- 亡灵国度（免付费解锁完整版）
+- 龙珠大冒险
+- 圣剑传说2（解锁大量货币）
+- 泰坦之旅：传奇多版本合集（高爆版+美化版+MOD版）
+- 怪物地下城：狩猎大师（内置MOD菜单）
+- 阿尔龙剑影（大量货币）
+- 2D鬼泣4
+- 魔塔猎人：艾尔莎的试炼
+- 天空鱼传说2（免付费解锁完整版）
+- 英雄大作战X
+- 崩溃大陆（免付费解锁完整版）
+- 不死军团1+2合集（大量金币）
+- 泰坦之旅：捍卫者军团（内置MOD菜单）
+- 王座（免付费解锁完整版）
+- 恶魔城：月下夜想曲（免付费解锁完整版）
+- 点击传说（商店无条件使用钻石）
+- 三国志2：威力加强版（原版+内置无敌武将）
+- 死亡之影：黑暗骑士（内置MOD菜单）
+- 角斗士：罗马求生（免谷歌）
+- 魔法骑士巷25号（加速）
+- 病毒：死亡对峙（无限金币）
+- 永恒之夜（免付费解锁完整版）
+- 神界：原罪2 决定版（SWITCH手机版）
+- 血污：夜之仪式|赤痕：夜之仪式（免付费解锁完整版）
+- 踢踏地牢英雄（免广等）
+- 暗黑破坏神3：永恒（SWITCH手机版+内置金手指）
+- 矿山猎人：像素RPG（使用货币不减反增等）
+- 暗黑破坏神2：狱火重生带离线MOD（SWITCH手机版）
+- 刺客信条4：黑旗+叛变全DLC（SWITCH手机版）
+- 暗黑钢甲（免广告）
+- 命运创世（免付费解锁完整版）
+- 复仇RPG 2D（大量经验等）
+- 暗黑崛起（大量货币等）
+- 放逐王国：臻享版（大量技能点等）
+- 生存RPG5（免广告等）
+- 怪物猎人：物语重制版（SWITCH手机版）
+- 钢爪（免付费解锁完整版）
+- 皇家鱼（免付费解锁完整版）
+- 小骨：英雄杀手（大量货币）
+- 空洞骑士（steam移植）
+- 奥术谷（免付费解锁完整版）
+- 英雄围城：口袋版（大量货币）
+- 拉吉：远古传奇（免付费解锁完整版）
+- 海之号角：柯罗诺斯地下城（免付费解锁完整版）
+- 残留：橙色像素（免付费解锁完整版）
+- 蚂蚁王国（强制使用货币）
+- 渴望力量（免付费解锁完整版）
+- 以撒的结合（汉化）
+- 怪物猎人2nd
+- 地牢巫师（大量技能点）
+- 死亡地牢（红宝石任意用）
+- 崩溃大陆2（免付费解锁完整版）
+- 使命猎人（使用技能点不减反增）
+- 无双大蛇3（SWITCH手机版）
+- 影下九载（免付费解锁完整版）
+- 火焰守护者（免付费解锁完整版）
+- 诸神战纪（SWITCH手机版）
+- 霓虹魔咒风暴（免付费解锁完整版）
+- 黑豹：如龙新章（内置金手指）
+- 幻影塔（免广告等）
+- 暗影猎手（大量货币）
+- WR深渊传说（黄金使用不减反增）
+- 命运：觉醒再临（免付费解锁完整版）
+- 埃尔德兰德（大量货币）
+- 终极对决（免付费解锁完整版）
+- 战神2
+- 黑暗之刃（大量货币）
+- 海之号角（免付费解锁完整版）
+- 首尔启示录：时尚RPG
+- 银哨传说（大量货币）
+- 弑神阿拉德（附GM全物品后台）
+- 火影战记：火战编年改版
+- 死亡细胞|重生细胞（内置作弊菜单）
+- 崩溃大陆2（内置作弊菜单）
+- 影子骑士（内置作弊菜单）
+- 决战精英（内置作弊菜单）
+- 非常英雄（免付费解锁完整版）
+- 战神：夜袭（大量金币＋0蓝放技能）
+- 崭新之刃（免广告）
+- 主宰（大量货币 免广 解锁vip 战令）
+- 暗黑破坏神1
+- 饥饿鲨进化（无限金币钻石）
+- 塞尔之光
+- 元素世界（免广告）
+- 勇士征程（免广告）
+- 英雄冲刺（内置MOD菜单）
+- 自动枪支英雄（内置MOD菜单）
+- 炸裂树莓浆（内置MOD菜单）
+- 最强弓箭手（内置MOD菜单）
+- 亡灵国度（内置MOD菜单）
+- 亡灵杀手外传（大量货币 解锁贵族7）
+- 大小：武士生存物语（内置MOD菜单）
+- 无限深渊
+- 星魂之刃（免广告）
+- 兽人竞技场（免广告）
+- 史诗英雄战（无限货币）
+- 逃离回声
+- 铁头英雄（大量货币）
+- 王国征程（无限货币资源）
+- 苹果骑士：地下城（免付费解锁完整版）
+- 跑酷勇者（免广奖励_无敌_无CD_加速）
+- 忍者岚（内置MOD菜单）
+- 忍者雷电复仇（大量货币）
+- 赛博朋克：竞技场（内置MOD菜单）
+- 双截龙4（免付费解锁完整版）
+- 魔法时代（内置MOD菜单）
+- 魔剑传说（免广）
+- 末日的第53天
+- 末日守望者（大量货币）
+- 怒之铁拳4
+- 剑刃重生（无限货币）
+- 极限职业骑士（内置MOD菜单）
+- 恐惧符文（无敌钻石不减反增）
+- 火柴人传说影子武士
+- 火柴人绳索英雄（内置Mod菜单+无敌）
+- 海绵宝宝：比基尼海滩（内置菜单）
+- 海贼王（内置MOD菜单）
+- 饥饿龙（大量货币）
+- 进攻的勇士
+- 进击吧冒险岛（大量货币）
+- 剑客少年（完美存档）
+- 动物战争模拟器（内置MOD菜单）
+- 光剑小骑士（强制使用金币购买）
+- 哥斯拉国防军（内置MOD菜单）
+- 超能机器人（内置MOD菜单）
+- 餐瘾地城（无条件制造）
+- 城主（内置MOD菜单）
+- 曙光夜之女巫Dawn Break II
+- 地牢猎手3
+- 大头菜历险记（免付费解锁完整版）
+- 尼尔机械纪元
+- 暗黑地下城RPG（大量货币）
+- 阿拉德战争（内置MOD菜单）
+- 暗夜末灯
+- 暗影骑士高级版（内置MOD菜单）
+- 暗影之虫突袭（无限金币）
+- 不死族2
+- 终端：灭绝永恒
+- 帕斯卡契约全DLC带存档
+- 无尽噩梦5怨灵咒（内置菜单+免广告）
+- 荒地冠军
+- 最后的障碍
+- 众神的游戏（无敌＋无限技能）
+- 幻想突袭传奇（解锁大量货币）
+- 死亡阴影2：觉醒
+- 火影战记：黑暗战争崛起（使用技能技能点不减少）
+- 深红剑
+- 小型任务
+- 捕捉和驯服
+- 风暴之子：无限竞技场（货币越用越多）
+- 暗影之枪：史诗射击（免广告获取奖励）
+- 魑魅少女
+- 夺宝英雄（大量货币＋免广告获取奖励）
+- 粉碎之战（免付费解锁完整版）
+- 超凡蜘蛛侠（使用金币，技能点不减少）
+- 光明旅者（汉化＋免付费解锁完整版）
+- 无尽之旅2（内置MOD菜单）
+- 布朗尼传奇（解锁大量货币）
+- 传奇怪物
+- 割以生存（免广告获取奖励）
+- 忍者武士隆（汉化＋大量精魄）
+- 地牢年代记
+- 疯狂格林
+- 埃德兰（steam移植）
+- 剑之传说
+- 无限极乐世界Elysium Infinity
+- 漫威蜘蛛侠迈尔斯
+- 塔顶冒险Triglav
+- 我要当忍者
+- 僵尸少女杀手（解锁大量货币）
+- 蝙蝠侠：内敌（免付费解锁完整版+免谷歌）
+- 齐天大圣养成记
+- 蘑菇GO
+- 最后一个据点（内置MOD菜单）
+- 超级玛丽FC高清改版（免广告）
+- 雷曼：丛林探险（全英雄解锁）
+- 灾厄逆刃（内置MOD菜单+无敌）
+- 蜘蛛英雄3（大量货币）
+- 真三国无双5特别版(退出游戏重新进入即可金手指)
+- 终极恐龙模拟(解锁大量技能点)
+- 英雄丹（进入游戏获取大量货币）
+- 英雄厨房守护战
+- 樱花校园模拟器（内置MOD菜单）
+- 远古伤齿龙（大量货币去广告）
+- 勇者之路（免广告获取奖励）
+- 无色之海（内置MOD菜单）
+- 小霸王游戏（内含上百个）
+- 小英雄与地下城|小英雄与地下城（无限宝石）
+- 小小的幻想（内置MOD菜单）
+- 怪物又来了（免广告获取奖励）
+- 天使幻想曲（内置菜单）
+- 天魔养成记（辅助菜单）
+- 报应之道：觉醒 (破解永久免付费版-DIY多职业寻找巨龙的宝藏)
+- 荒原生活（进入游戏获取大量钻石）
+- 苍翼混沌效应（内置MOD菜单）
+- 怪物拉什：神话(汉化+免付费解锁完整版）
+- 鲨鱼之怒（金币任意用）
+- 狂徒巷战（升级即可获取大量资源）
+- 赛菲鲁斯|赛飞鲁斯（内置菜单）
+- 暗影刺客（解锁无限资源）
+- 末日方舟（内置菜单）
+- 雷曼大冒险 （破解无限鸡腿钻石版）
+- 火柴人至高对决（内置MOD菜单）
+- 混乱之星（进入游戏获得大量黄钻）
+- 恐龙快打（无限投币）
+- 忍者大师（免广告获取奖励）
+- 粉碎英雄（免广告获取奖励）
+- 龙猎人的故事（免广告）
+- 爆炸啊（解锁无限炸药）
+- 盒子头僵尸幸存者| 盒子头：僵尸战争（如果卡加载断网进）
+- 镜界（快速获得奖励）
+- 宝石骑士（内置菜单）
+- 漂移乱斗（直接获得奖励）
+- 救世主：生存纪元（金币使用增加）
+- 霜临（mod增伤增防版）
+- 末日的第53 天（[完整版+DLC]Steam移植）
+- 地牢猎手4（高清优化版大量金币）
+- 单挑王（无限金币）
+- 德雷克与陷阱（内置MOD菜单）
+- 公路救赎（steam移植）
+- 城市战士与街头帮派（大量货币）
+- 暗影之日（汉化）
+- 狼人3D模拟（免广告获取奖励）
+- 香蕉金刚（大量金币）
+- 异形大战铁血战士：进化（高清优化原版+金币版）
+- 超级鸡马（steam移植）
+- 超战记
+- 欧布圆环(奥特曼合成模拟器)
+- 功夫鲨鱼（steam移植）
+- 石河伦吾的朋友们
+- 蛛龙（steam移植）
+- 剑术冲刺（内置技能无CDMOD菜单）
+- 符文诅咒
+- 英雄围攻：袖珍版（大量金币）
+- 烛火地牢2 猫咪的诅咒（steam移植）
+- 重返猴岛（steam移植）
+- 造梦西游4（内置作弊菜单）
+- 唐老鸭历险记
+- 神奇小子：龙之陷阱（中文修复版）
+- 背刺
+- 雨世界（免付费解锁完整版+steam移植）
+- 像素冒险村（免广告直接获得奖励）
+- 奥特曼传奇英雄（无限内购版
+- 诡异迷城（附GM后台）
+- 浮石之旅（内置作弊菜单）
+- 骷髅复仇者（内置作弊菜单）
+- 我功夫特牛2（内置作弊菜单）
+- 光之战士：改写命运（内置作弊菜单）
+- 热血少女（内置菜单）
+- 剑魂（内置作弊菜单）
+- 极无双2（附GM后台）
+- 全民手速（内置大量代金）
+- 圣剑卫士（内置作弊菜单）
+- 愤怒的小鸡之冲天炮（内置作弊菜单）
+- 野蛮人大作战（内置作弊菜单）
+- 怪物乐土（免付费解锁完整版）
+- 绝地鸭卫（内置作弊菜单）
+- 爪爪大乱斗|利爪大乱斗（内置作弊菜单）
+- 无限格斗（内置作弊菜单）
+- 怪物猎人：物语（汉化+免付费解说完整版）
+- 安魂曲（免谷歌+支持安卓14）
+- 极渊（内置作弊菜单）
+- 国际任务(MOD菜单)
+- 塔和弓（使用货币不减反增）
+- 暗影战争（无条件使用货币）
+- 毒液生存（使用货币不减反增）
+- 莫塔之子（免付费解锁完整版）
+- 温迪尔：谎言之灾|仇杀：谎言之灾（使用货币不减少）
+- 阿尔莫拉岛（解锁VIP）
+- 防御僵尸世界（无敌等）
+- 黑暗之魂：重制版（SWITCH手机版）
+- 龙骑士编年史（SWTICH手机版）
+- 暖雪（解锁完整版全DLC.）
+- 时空之弦（内置作弊菜单）
+- 果宝无双（内置作弊菜单）
+- 武士2复仇（解锁完整版）
+- 九夜刺狼（steam移植）
+- 无双大蛇2特别版（汉化＋端游移植）
+- 吸血鬼猎人英雄
+- 吸血鬼的堕落起源
+- 荣耀全明星（内置作弊菜单）
+- 熊猫弹夹：黑色小偷
+- 忍者战士2（人物无敌）
+- 幸存者危城最新破解版
+- 武器大师：生存
+- 章鱼博士
+- 东京战国
+- 影子猎人的传说
+- 像素小队
+- 约战：精灵再临（内置作弊菜单）
+- 风暴陆战队（内置作弊菜单）
+- 光之守护者（内置作弊菜单）
+- 食人鲨（内置作弊菜单）
+- 崛起：终极王者（内置作弊菜单）
+- 纳林:矮人王国的秘密（内置多功能菜单）
+- 小世界成长记（内置作弊菜单）
+- 传说法师（免付费，中文完整版，无限翻滚）
+- 龙珠传奇（解锁付费完整版）
+- 卡牌艾斯（完整版+菜单版）Steam移植  超多技能肉鸽游戏，游戏挺不错的，值得一玩！
+- 不可鲁莽（完整版+菜单版）Steam移植  像素风格魂类游戏!打击感满满，畅快杀戮!
+- 魔剑镇魂曲（内置作弊菜单）
+- 史莱姆与地下城（解锁技能无cd）
+- 异界修真（解锁无敌+免广告+百分百暴击）
+- 龙之矛（完整版+菜单版）Steam移植
+- 无尽对决（内置作弊菜单）
+- 黑暗崛起（内置作弊菜单）
+- 勇者逃脱（内置超级秒杀+移速+无限mp）
+- 邮差骑士2（内置作弊菜单）
+- 猫咪地牢（完整版+菜单版）
+- 25版神陵武装（内置MOD菜单）
+- 造梦大乱斗（内置无限技能+技能使用不耗蓝+吸血）
+- 变身传奇（内置作弊菜单）
+- 忍者神龟：施莱德的复仇（内置MOD菜单）
+- 魔域之书（switch手机版）
+- 重返深渊（switch手机版）
+- 锦绣人生（免广告直接获得奖励）
+- 彩虹物语（内置作弊菜单）
+- 哈哈！英雄（免广告+超级秒杀）
+- 猎魔村物语（内置作弊菜单）
+- 深渊矿坑（switch手机版）
+- 铁匠铺传奇（完整版+菜单版）Steam移植  融合了RPG元素的模拟经营游戏！
+- 上古之魂（switch手机版）
+- 奥古斯特的八月  v1.2（完整版）Steam移植
+- 贪婪地牢 v1.7.248（内置作弊菜单）Steam移植  重温经典肉鸽佳作好玩，无需多言！
+- 碧蓝航线（内置作弊菜单）
+- 铁锤守卫2（switch手机版）
+- 荒野乱斗 私服（完整版）无限钻石随便买！爽！！
+- 怪兽狂潮（switch手机版）
+- 战斗机甲王牌（完整版）Steam移植  卡牌战斗RPG新作！
+- 英雄不要停（内置超级无敌+反伤）
+- 水晶传说（switch手机版）
+- 恶魔宝贝（switch手机版）
+- 都市怪谈（免广告+设置右下方有GM工具）
+- 魔导英雄传说（内置超级秒杀+超级闪避）
+- 塞尔达传说：黄昏公主（内置作弊菜单）
+- 迷雾大陆（内置秒杀+无敌+移速+无cd等）超迷你暗黑爽游摸鱼神器，差点玩到跪键盘！
+- 战魂铭人  v3.2.1（免内购+完整版+菜单版）Steam移植  仙宫失序，裁决降临两名新英雄，来自仙宫城！道具羁绊系统上线！
+- 小飞船大冒险（完整版）Steam移植  弹幕射击与银河城神作！
+- 鬼谷八荒女主专用绅士MOD精选整合 完美适配+完整教程女主玩法特化型
+- 掘地求升/和班尼特福迪一起攻克难关/Getting Over It with Bennett Foddy
+- 晶灵小队/ShardSquad
+
+---
+
+## 动作冒险（1529 款）
+
+- 死亡之夜/ Night of the Dead    v1.2.0.0  免安装中文版
+- 坤化危机2 / KUNKUN Defender 2    Build.18507954   免安装中文版
+- 重整旗鼓/ Re-Legion   Build.20320531   免安装中文版
+- 武器之神/God Of Weapons  v1.5.67 免安装中文版
+- 辛特堡传说/Dungeons of Hinterberg   v1.0.28765   免安装中文版
+- 烛火地牢2：猫咪的诅咒/Tallowmere 2 Curse of the Kittens  Build.20353305  免安装中文版
+- 风云默示录：超级组队战/ KIZUNA ENCOUNTER SUPER TAG BATTLE    Build.20352797   免安装英文版
+- 171/巴西版GTA5  v20251012  免安装中文版
+- 神的超级大宝贝/ The Holy Gosh Darn   Build.20308354  免安装中文版
+- 燥热：精神控制删除/ SUPERHOT MIND CONTROL DELETE    Build.20299547   免安装中文版
+- 鬼谭/ Ogre Tale    v2.00  免安装中文版
+- 天空之山：黑雾/ SKYHILL Black Mist   v1.2.000  免安装中文版
+- 可怕的畸形/ Freaky Awesome    Build.2389388  免安装中文版
+- 猿人逃出/ APE OUT   Build.20394028  免安装中文版
+- 星际生存少女/ Struggle F.O/ 全DLC    v1.3.5    免安装中文版
+- 全职猎人/ HUNTER×HUNTER NEN×IMPACT/ 全DLC   v1.1.1   免安装中文版
+- 侏儒王国/ Gnomdom   Build.17571157  免安装中文版
+- 星链：阿特拉斯之战/ Starlink Battle for Atlas    Build.7695121   免安装中文版
+- 电子幻术/ Illusion Box    v0.3.1  免安装中文版
+- 死环：二次冲击 / Death Ring Second Impact   v0.6.3  免安装中文版
+- 炽热鸟喙|神鸭特攻 / Blazing Beaks  v1.3.0.5  免安装中文版
+- 炽热熔岩 / Hot Lava  v562090  免安装中文版
+- 龙之死印 /  Dragon Marked For Death  v3.1.5s  免安装中文版
+- 触及  /  Reach    Build.20403117  支持VR  免安装英文版
+- 娜菲 ～月光迷宫X～/ Neffy -Moonlight Labyrinth X-    Build.19965433   免安装中文版
+- 史莱姆牧场1 / Slime Rancher    v1.4.4.HF   免安装中文版
+- 觉醒异刃/ AWAKEN Astral Blade First Contact    Build.20286146 全DLC   免安装中文版
+- 我们永远在这里/ We Were Here Forever/ 单机+联机  v1.2.3   免安装中文版
+- 卢莫2 / Lumo 2   免安装中文版
+- 埃里克斯霍姆：被偷走的梦/ Eriksholm   v1.4 全DLC  免安装中文版
+- TEVI    v1.20e   免安装中文版
+- 乱世群星：三国/ Turmoil Uprising Dynasty   v1.2   免安装中文版
+- 氧化室208 / Oxide Room 208   v1.0.6   免安装中文版
+- 自杀小队：消灭正义联盟/ Suicide Squad: Kill the Justice League   Build.17107881 全DLC   免安装中文版
+- 孤帆远航|远方孤帆/ FAR: Lone Sails   Build.20436177   免安装中文版
+- 纸鬼故事：开第三眼|纸灵故事：开启天眼/ Paper Ghost Stories Third Eye Open   v1.2   免安装中文版
+- 霍珀与刺猬胡须的宝藏/ Chickenhare and the treasure of Spiking-Beard   Build.20382656   免安装中文版
+- 进击战士酱/ Attacker-chan!    Build.20247497   免安装中文版
+- 夏努尔：银风传奇/ Shalnor Silverwind Saga   Build.16965487   免安装中文版
+- 盐与避难所|盐和避难所/ Salt and Sanctuary/ PC+手机双端   v1.0.2.2   免安装中文版
+- 异梦物语 / Dreams of Another    v1.2.0  免安装中文版
+- 超现实出击/ DREAMOUT    Build.20177295   免安装中文版
+- 斧与骨/ Axe or Bone   Build.20453071   免安装中文版
+- 雷霆孤影/ VOIN   v0.4.1   免安装中文版
+- 遵命! 机母大人/ Mother Machine   v1.3.1   免安装中文版
+- 野火/ Wildfire/ 单机+联机   v1.01   免安装中文版
+- 搁浅/ Aground   v2.1.2  免安装中文版
+- 瑞卡/ REKA   v0.7.104   免安装中文版
+- 暗刃崛起/ Darkblade Ascent   v1.0正式版   免安装中文版
+- 恶魔城 多米纳斯合集|恶魔城：主宰合集/ Castlevania Dominus Collection   v1.003.001  免安装英文版
+- 探索洞穴/ Ricave  Build.19975368   免安装中文版
+- 消防英雄像素救援/ Fire Hero – Pixel Rescue   Build.20500442   免安装中文版
+- 喷神大冒险：8位版/ Angry Video Game Nerd 8-bit    Build.20136133   免安装中文版
+- 荒野守护者崛起/Wildkeepers Rising   v1.0正式版   免安装中文版
+- 丧尸兵团/ Zombies Attack   v1.03   免安装中文版
+- 货架上的精灵：圣诞英雄/ The Elf on the Shelf Christmas Heroes   Build.20283894   免安装中文版
+- 勇者翻翻看/ Pairs and Perils   Build 18784720   免安装中文版
+- 欧米茄工匠/ Omega Crafter   v1.0.5  免安装中文版
+- 落跑鸡：蛋劫行动/ Chicken Run Eggstraction    Build.20419198   免安装中文版
+- 通古斯：禁区实录 – 增强版/ Tunguska: The Visitation  v1.94.9 全DLC  免安装中文版
+- 怪兽远征|怪物的远征/ A Monster’s Expedition   v1.2.1   免安装中文版
+- 百慕大幸存者/ Bermuda Survivor   Build.20494698   免安装中文版
+- 遗忘碎片/ Forgotten Fragments    Build.20497228   免安装中文版
+- 修女无可奉告/ Nun of your Business    Build.20375554   免安装中文版
+- 迷宫剑姬/ SwordPrincess   Build.20455310   免安装中文版
+- 战争之线|坦克大战/ Threads of War   Build.19883041   免安装中文版
+- 毛线守护者/ Yarn Guardians   v1.0.0   免安装中文版
+- 再度绽放/ Rebloom   Build.20544280   免安装中文版
+- 幻象破坏者/ Phantom Breaker: Omnia    v2.21.3980.U3   免安装中文版
+- 椰子模拟器/ Coconut Simulator   免安装中文版
+- 泡泡龙4伙伴 头骨怪与创意工坊/ Bubble Bobble 4 Friends   Build.20459733   免安装中文版
+- 晃晃人生/ Wobbly Life  v1.0.0.3  免安装中文版
+- 猫还在逃吗？/ Still It Runs   Build.20572236   免安装中文版
+- 刷屏至死/ Death by Scrolling   Build.20544287   免安装中文版
+- 苍蝇骑士/ FlyKnight   Build.20563101   免安装中文版
+- 模拟兄弟3 / Dude Simulator 3    Build.14213429   免安装中文版
+- 特斯拉学徒：重制版/ Teslagrad Remastered   Build.20236487   免安装中文版
+- 龙珠斗士Z / DRAGON BALL FighterZ   v2.2.19.0  免安装中文版
+- 武林志：再战紫禁城/ Wushu Chronicles   v8324279  免安装中文版
+- 宇宙魔弹哥卓普/ Godrop    v1.402   免安装中文版
+- 达芬奇密室3 / The House of Da Vinci 3    v1.0.5   免安装中文版
+- 迷失之刃/ Stray Blade    v20231115   免安装中文版
+- 特斯拉学徒2 / Teslagrad 2   v20573235   免安装中文版
+- 悼火者/ Luctus   v1.0.2   免安装中文版
+- 特斯拉学徒/ Teslagrad   v5498089   免安装中文版
+- 行星航员/ Planternauts   v20240924   免安装中文版
+- 印斯茅斯案件/ The Innsmouth Case    Build.11735886   免安装中文版
+- 失败者模拟器/ Loser Simulator   v1.0.0   免安装中文版
+- 孤山难越/ Insurmountable    v2.0.7.3 全DLC   免安装中文版
+- 律动之城/ City of Beats   Build.12042784   免安装中文版
+- 奥丁陨落/ Odinfall   免安装中文版
+- 强制牺牲：失落之魂/ Forced Sacrifice Lost Soul   v1.010   免安装中文版
+- 惑星战士G / G WARRIOR    v1.0p   免安装中文版
+- 极圈以南/ South of the Circle   v1.0.3.1   免安装中文版
+- 另一面/ The Other Side/ 单机+联机   v0.9.4.8   免安装中文版
+- 迷失混沌王国：永恒之骰/ Lost in Random The Eternal Die   v30641   免安装中文版
+- 衔尾：龙之铃/ DragonLoop   v1.2.20   免安装中文版
+- 紫罗兰/ Violet   Build.20322970   免安装中文版
+- 神农节/ Saturnalia   Build.18212520   免安装中文版
+- 吃豆人 博物馆+ / PAC-MAN MUSEUM+    Build.20411785   免安装中文版
+- 魔能2|魔法对抗2 / Magicka 2   v2.0.0   免安装中文版
+- 将军：对决/ Shogun Showdown   Build.20620547  免安装中文版
+- 我的小宇宙/ My Little Universe   Build.20607574   免安装中文版
+- 黑色童话：梦境幸存者/ Freaky Dreams  Build.20554508  免安装中文版
+- 恶海生存/ Nautical Survival   Build.20626938   免安装英文版
+- 传送大师/ Teleport Master   正式版  免安装中文版
+- 欧米茄光辉：初战/ Omega Luma : The First Battle   免安装中文版
+- 节奏小子：守护者传说/ Beatbuddy: Tale of the Guardians   v2368799   免安装中文版
+- 奇妙小球/ Wonder Ball   v1.03   免安装中文版
+- 保卫马格尼亚/ Secrets of Magonia   v1.21b  免安装中文版
+- 十字军骑士/Knights of the Crusades  v1.09  免安装中文版
+- 无主之地传说/ Tales from the Borderlands    整合1-5章   免安装中文版
+- 崛起：罗马之子/ Ryse Son of Rome   集成3号升级档 送修改器   免安装中文版
+- 地图/ ATLAS   v560.3   免安装中文版
+- 卡夫卡的冒险游戏/ The Franz Kafka Videogame   v1736211   免安装中文版
+- 邮件时间/ Mail Time   v1.00.19   免安装中文版
+- 非幸存者/ Not Survivors   v1.1.3   免安装中文版
+- 这里没有游戏：错误维度/ There Is No Game Wrong Dimension   Build.20574409   免安装中文版
+- 渎神|无神之世/ Godless   Build.20022603   免安装中文版
+- 柯尔特峡谷/ Colt Canyon   Build.20642574   免安装中文版
+- 空战猎鹰/ The Falconeer   v2.0.0.1 全DLC   免安装中文版
+- 恶魔狂奏/ Devil Jam   Build.20649982   免安装中文版
+- 大脚怪生活/ Bigfoot Life   Build.20564380   免安装中文版
+- 古老传说：多米努斯/ Tales of Old Dominus   Build.20685943   免安装中文版
+- 死静驱途/ Dead Static Drive   Build.20680571   免安装英文版
+- 降妖神兵/ Demon Warrior  v1.2510301   免安装中文版
+- 时律齿轮：时间守护者/ Chrono Gear Warden of Time   v1.0.19   免安装英文版
+- 卡普空对战格斗合集2 / Capcom Fighting Collection 2   v1.0.0.4 全DLC   免安装中文版
+- 战术突破巫师/ Tactical Breach Wizards   v20250501   免安装中文版
+- 游牧闲置/ Nomad Idle   v1.0.0e   免安装中文版
+- 赛马娘 热血喧闹大感谢祭！/ Pretty Derby/ PC+手机双端   v1.04 全DLC   免安装中文版
+- 蛋落伤害/ Fowl Damage   Build.17613624   免安装中文版
+- 夺魄机兵/ RAM Random Access Mayhem  v1.0.4  免安装中文版
+- 月光脉冲/ Moonlight Pulse   Build.20247240   免安装中文版
+- 搬玻璃|搬运玻璃窗/ Carry The Glass/ 单机+联机   v2.0.2   免安装中文版
+- 一个关于攀爬的困难游戏|掘地求生2 /A Difficult Game About Climbing  v1.2.61   免安装中文版
+- 恶意/ illWill   v1.11   免安装中文版
+- 恶果之地/ Juicy Realm/ PC+手机双端   v3.1.5   免安装中文版
+- 超级黑暗欺骗/ Super Dark Deception/ PC+手机双端   v1.2.4  免安装中文版
+- 真三国无双8 帝国/ Dynasty Warriors 9/ PC+手机双端   v1.0.1.1 全DLC   免安装中文版
+- 料理手推车/ Food Wagon   Build.20699741   免安装中文版
+- 拱廊天堂|街机乐园/ Arcade Paradise   v1112   免安装中文版
+- 火光幻想：原力能量/ Firelight Fantasy Force Energy    Build.17580659   免安装中文版
+- 只能往上：脑腐同游/ Only Up BRAINROT TOGETHER    Build.20717003   免安装中文版
+- 蜂巢跳跃2：幸存者/ Hive Jump 2: Survivors   v1.1.1855  免安装中文版
+- 书行者/ The Bookwalker   v23.7.1   免安装中文版
+- 孤独的灵魂/ Lone Soul   v1.0.2B   免安装中文版
+- 香蕉兄弟/ Bronana   Build.17657654   免安装中文版
+- 动漫都市/ ANIME CITY   v0.5.0   免安装英文版
+- 山海旅人/ The Rewinder   v1.6.1   免安装中文版
+- 符文工房4：特别版 豪华版/ Rune Factory 4 Special    送修改器   免安装中文版
+- 巴别塔圣歌/ Chants of Sennaar   v1.0.0.9.R4   免安装中文版
+- 污泥人生2 / SLUDGE LIFE 2    v251013   免安装中文版
+- 孤寂真菌：孢子旋律/ Lone Fungus Melody of Spores    Build.20739085   免安装英文版
+- 找到钥匙2 / Find The Key 2    Build.20635850   免安装中文版
+- 仙肴苍穹/ Ambrosia Sky    Build.20714032   免安装英文版
+- 反抗引擎/ Rebel Engine   Build.20712171   免安装中文版
+- 驼鹿潜行者/ Moose Diver   Build.20743742   免安装中文版
+- 大宝贝回收公司/ Fish Stick Protocol   Build.20736575   免安装中文版
+- 魔窟屠鬼者/ THRASHER/ 支持VR   Build.20688415   免安装中文版
+- 沃隆：渡鸦的旅程/ VORON Raven’s Story   Build.20732959   免安装中文版
+- 骨之王者/ King of Bones   Build.20731153   免安装英文版
+- 深渊生存/ Surviving the Abyss    v1.0.4   免安装英文版
+- 狂战传说/绯夜传奇/Tales of Berseria   v1.48 全DLC   免安装中文版
+- 泰坦之魂/ Titan Souls   免安装英文版
+- 鸽子模拟器|毁灭鸽模拟器/ Pigeon Simulator   v1.0.0   免安装英文版
+- 枪之崛起/ Rise of Gun  Build.20372188  免安装中文版
+- 超级木筏/ Super Raft Boat Together   v1.4.2.1   免安装中文版
+- 黄金废都/ Auridia   v20251004   免安装中文版
+- 三国往事：季汉之魂/ SanGuo Memories   v1.0   免安装中文版
+- 幽灵行者2 / Ghostrunner 2   v0.41591.514 全DLC 送修改器   免安装中文版
+- 野狗子：裂头怪/ Slitterhead    Build.18177227   免安装中文版
+- 剑心崛起/ Kenshin   免安装中文版
+- 幻恋夜宴：恋恋的幻觉夜宴/ Halluci-Sabbat of Koishi   v1.2.3 全DLC   免安装中文版
+- 布赖恩费舍尔的奇异故事：第2章/ The Strange Story Of Brian Fisher: Chapter 2    v2024.11.9   免安装中文版
+- 地平线 西之绝境 完整版/Horizon Forbidden West Complete Edition    v1.5.80.0 附存档+修改器    免安装中文版
+- 星球大战：战机中队/ STAR WARS Squadrons    Build.8101433   免安装中文版
+- 面包人冒险/ Bread Adventure    v1.0.1   免安装中文版
+- 邓克拉什/ Duncrush    Build.20761545   免安装中文版
+- 化形战士|生物变形/ BIOMORPH   v2.1.27615   免安装中文版
+- 轩辕剑外传：枫之舞 重制版 v1.0.80 免安装中文版
+- 公民觉醒2：星际航程|深空梦里人2：逐星之旅/ Citizen Sleeper 2: Starward Vector   v1.2.22   免安装中文版
+- 真人快打X 终极版/ Mortal Kombat X   免安装中文版
+- 尤卡莱莉：回归/ Yooka-Replaylee    v1.02   免安装中文版
+- 裂隙行者/ Fracturefront   v1.0.0   免安装中文版
+- 幻形史莱姆/ Slime Changer   Build.20719942   免安装中文版
+- 雷曼：传奇/ Rayman Legends    v1.1.100477   免安装中文版
+- 送小羊回家1：农场派对版/ Home Sheep Home: Farmageddon Party Edition   Build.17122260   免安装中文版
+- 复古王国：阿什大战恶魔/ RetroRealms Arcade    全DLC   免安装中文版
+- 雅达利50：周年纪念扩展版/ Atari 50: The Anniversary Celebration   免安装中文版
+- 模拟杀戮/ Simulakros   Build.19798797   免安装中文版
+- 山海异兽/ Idle Mythical Beasts    v20251113   免安装中文版
+- 魂降|降灵/Spiritfall   v1.6.27   免安装中文版
+- 旅人竞技场/ Traveler Arena   v1.251113   免安装中文版
+- 极限脱出：九人游戏/ Zero Escape: The Nonary Games   v1.0.0.5   免安装中文版
+- 毁灭全人类：重制版/ Destroy All Humans!   v1.0.2550 送修改器   免安装中文版
+- 毁灭全人类：克隆大屠杀/ Destroy All Humans! – Clone Carnage    v1.0.11341   免安装中文版
+- 循环之旅 /CYCLIA JOURNEY   v1.0.1   免安装中文版
+- 用之人：登神长阶/ Wretch Divine Ascent   v0.1.3.6   免安装中文版
+- 3D找茬2 / Tiny Lands 2  v1.0.0  免安装中文版
+- 毁灭全人类2：重新探测/ Destroy All Humans! 2 – Reprobed   v1.0.713   免安装中文版
+- 变形者/Morphos   Build.20848037  免安装中文版
+- 恶魔之书 /Book of Demons  v1.05支持者版  免安装中文版
+- 小小梦魇3|小小噩梦3 /Little Nightmares III /单机+联机   v20251119  免安装中文版
+- 致命利爪 /Fatal Claw  v0.9.81  免安装中文版
+- 执法悍将：重制版 /Outlaws + Handful of Missions Remaster   Build.20866802   免安装英文版
+- 迷雾中的惊魂 /What the Fog /单机+联机   v1.0   免安装中文版
+- 仿生湾：换影循迹/Bionic Bay: Deluxe Edition   v1.3.6.1   免安装中文版
+- 阿喀琉斯：幸存者/ Achilles: Survivor   Build.20679717  免安装中文版
+- 愤怒的街道：打败他们的斗士/ Streets of Rageness Beat ‘Em Up Fighter    Build.20308836   免安装中文版
+- 肉鸽之魂/ Strike and Resist   Build.20886023   免安装中文版
+- 忍者神龟：COWABUNGA合集/ Teenage Mutant Ninja Turtles The Cowabunga Collection    Build.9390580   免安装英文版
+- 忍者神龟：曼哈顿突变体/ Teenage Mutant Ninja Turtles Mutants in Manhattan   v1.1 免安装中文版
+- 忍者神龟：电门/ Teenage Mutant Ninja Turtles Portal Power   v1.0  免安装中文版
+- 森林之子/Sons Of The Forest/ 单机+联机   Build.03102025  赠生命值满级.完美全物品收集背包存档 送修改器   免安装中文版
+- 终极僵尸防御2/Ultimate Zombie Defense 2 /单机+联机  v1.0正式版  免安装中文版GB
+- 征服黑暗/ Conquest Dark   Build.2090135   免安装英文版
+- 暗斗迷宫 /Shadow Labyrinth  v1.1.0 全DLC  免安装中文版
+- 火光幻想：复仇 /Firelight Fantasy Vengeance   Build.17341664   免安装中文版
+- 灵魂面甲/Soulmask /单机+联机  v0.5.16 全DLC 送预购特典 送修改器  免安装中文版
+- Nientum – Op.ZERO  v0.0.1  免安装中文版
+- 兽人永不为奴 /Orcs Will Never Be Slaves   v1.1.5   免安装中文版
+- 皮皮蝠与诅咒悠悠球/Pipistrello and the Cursed Yoyo   v20251010  免安装中文版
+- 浪人崛起/Rise of the Ronin  v1.09.0.5  免安装中文版
+- 经典回归 魔界村 重制版 免安装中文版
+- 部落猎人/Tribal Hunter   v1.0.1.8   免安装中文版
+- 苏菲的炼金工房2 不可思议梦的炼金术士 免安装中文版
+- 从萨格里什起航 /Sagres  v1.0.0   免安装中文版
+- 战锤40K 枪声 鲜血和铁拳/Warhammer 40,000: Shootas, Blood and Teef    v1.0.36   免安装中文版
+- 巫师2：刺客之王/The Witcher 2: Assassins of Kings Enhanced   v3.5.0.26g  免安装中文版
+- 腐烂国度1/State of Decay: YOSE   免安装中文版
+- 龙之矛 /Dragon Spearv   1.014   免安装中文版
+- 日蚀：维度回声/Eclipse Echo Of Dimension   免安装中文版
+- Ario v1.0.0 免安装中文版
+- 银河历险记3/Samorost 3   v1.467   免安装中文版
+- 铁拳7 终极版/TEKKEN 7   v5.10  免安装中文版
+- 审判者/The Inquisitor   v20240314   免安装中文版
+- 奇娅 /Tchia  v20240321 全DLC  免安装中文版
+- 涂鸦之城/RKGK Rakugaki    免安装中文版
+- 武士学院：愤怒爪影/Samurai Academy Paws of Fury    Build.20873167   免安装英文版
+- 海浪折射/Onde   v1.5.0   免安装中文版
+- 忍者外传：怒之羁绊/NINJA GAIDEN Ragebound   v37895  免安装中文版
+- 取景器/ Viewfinder   Build.20950646   免安装中文版
+- 泡泡龙：白糖地下迷宫 /Bubble Bobble Sugar Dungeons   Build.20822622   免安装中文版
+- 驱魔师/The Exorcists   Build.20933842   免安装中文版
+- 永恒的束缚|永恒之链/ Eternal Strands   v1.0.15.3292   免安装中文版
+- 瓦德维尔/Vaudeville   Build.20985111   免安装英文版
+- ​艾维塔：希望之旅/Awita Journey of Hope   Build.20802736  免安装中文版
+- 迪斯科武士 /Disco Samurai  Build.20791173  免安装中文版
+- 爆破艺术3|爆击艺术3 / BREAK ARTS III   v1.0.7   免安装中文版
+- 大头盔英雄/Big Helmet Heroes  Build.20650336  免安装中文版
+- 机兵大乱战/Metal Bringer    v1.01.8   免安装中文版
+- 石河伦吾的朋友们/ The friends of Ringo Ishikawa/ PC+手机双端    Build.17529737  免安装中文版
+- 魂斗罗：加鲁加行动/ Contra: Operation Galuga    v13626439   免安装中文版
+- 触手探戈 /Tentacle Tango   Build.20979676    免安装英文版
+- 终焉之玛格诺利亚：雾中盛放之花/ENDER MAGNOLIA: Bloom in the Mist    v1.1.1.22380   免安装中文版
+- 阿法隆/Afallon   Build.20996808   免安装英文版
+- 人偶巢穴|娃娃巢|玩偶之巢/Dolls Nest   v1.2.0   免安装中文版
+- 垃圾场大王/One Man´s Trash   v1.3.3   免安装中文版
+- 英雄旧忆/Chronicon  v1.54.1 全DLC  免安装中文版
+- 晨星/ Morgenstern   v20251130  免安装中文版
+- 刀剑封魔录外传：上古传说/Blade and Sword 2 Ancient Legend    Build.21003896   免安装中文版
+- 七宗罪 /Seven Sinners   Build.21011539   免安装中文版
+- 反射艺术/The Art of Reflection   Build.21013698  免安装中文版
+- 戴维 x 琼斯/ DAVY x JONES  v0.13.2  免安装中文版
+- 精灵与老鼠/The Spirit and the Mouse    Build.19507308    免安装中文版
+- 魔神少女 第四章：传达的心意/The Legend of Dark Witch Episode 4   Build.20737743  免安装中文版
+- 谁在门外/Who’s at the door   v1.0.9   免安装中文版
+- 勇者斗恶龙XI S 寻觅逝去的时光/ DRAGON QUEST XI S: Echoes of an Elusive Age   免安装中文版
+- 兄弟 双子传说 重制版/ Brothers: A Tale of Two Sons Remake    v20240729   免安装中文版
+- 超级滑刃战士/ Super Drift Blade   v1.0.3.0  免安装中文版
+- 瞎闹猎车手/ Tiny Terry’s Turbo Trip   Build.21036666   免安装中文版
+- 奶奶，是你吗？/Grandma, Is That You?   Build.21044430   免安装中文版
+- ALTF42：友谊万岁+ALTF4 两部合集/Altf42+ALTF4   Build.21023739   免安装中文版
+- 杜伊尔 /Duil   Build.20585260   免安装中文版
+- 小朋友齐打交2：复刻版 /Little Fighter 2 Remastered   v2.15a   免安装中文版
+- NIMRODS：枪匠幸存者/ NIMRODS: GunCraft Survivor  v0.11.6    免安装中文版
+- 沼泽守护者/ Swamp Keeper   Build.21081933   免安装中文版
+- 园国|彼之国 / SONOKUNI   Build.21004377   免安装中文版
+- 忘记 /Forget   Build.21061447   免安装中文版
+- 无基 /Baseless   Build.20505247    免安装中文版
+- 废土之王/Nuclear Throne    Build.21075708    免安装中文版
+- 昭昭天命/Manifest Destiny    Build.18527133   免安装中文版
+- 黎明幸存者 /Survivors of the Dawn   v0.602    免安装中文版
+- 狩猎之夜：主权辛迪加 /Hunter’s Moon A Sovereign Syndicate Adventure – Digital Deluxe Edition   v1.0.48.HF4   免安装中文版
+- 约翰莫利的最后一案 /The Last Case of John Morley  v1.0.1  免安装中文版
+- 歪小子斯科特对抗全世界/Scott Pilgrim vs. The World The Game    Build.10135169   免安装英文版
+- 天涯跑商记：好商人志在四方/TRADESMAN: Deal to Dealer   Build.21003541   免安装中文版
+- 再刷一把2：金色传说/ PlayAgain2   v20251019   免安装中文版
+- 破碎袖口/ CUFFBUST/ 单机+联机   v1.0.3   免安装中文版
+- 航海奇闻2：传承 /Pirates Outlaws 2 Heritage   Build.21064313   免安装中文版
+- 狩猎之道|猎人之路|猎人之道/ Way of the Hunter    v1.30 全DLC   免安装中文版
+- 魔女改造计划/How to create a witch    Build.21032962    免安装中文版
+- 神奇蜘蛛侠2/The Amazing Spider-Man 2   v20200224 全DLC 送修改器+赠全收集存档 附历代合集   免安装中文版
+- 我御剑降魔/Demonslayer AKA Me    v1.4.105   免安装中文版
+- 直到最后/Unto The End    Build.20409287   免安装中文版
+- 实境求生 /Survisland   Build.14425809   免安装中文版
+- 岛/ISLAND    Build.3508164   免安装中文版
+- 逆袭恶战：末日危机|物种战争2启示录 /Bad 2 Bad: Apocalypse   v20251201   免安装中文版
+- 6号快车/Express No. 6   免安装中文版
+- 维荷 – 面孔的诅咒|维霍：面具诅咒/ Verho – Curse of Faces   Build.21114053  免安装中文版
+- 绝命荣光末世之序/ Lethal Honor – Order of the Apocalypse   v20251122   免安装中文版
+- 焦虑小狗/Anxiety Puppy    Build.21126333   免安装中文版
+- 画剑 /Draw Sword   v2.1.0008    免安装中文版
+- 格斗领域EX /FIGHTING EX LAYER   v1.5.7 全DLC    免安装中文版
+- 暗夜游侠/Dark Ranger   v1.15   免安装中文版
+- 利维西博士浪漫与死亡版|李甫西大夫：罗姆酒与死亡版 /DR LIVESEY ROM AND DEATH EDITION  Build.21127530  免安装中文版
+- 耻辱2/Dishonored2     v1.77.10.0 全DLC 送修改器+存档    免安装中文版
+- 永不觉醒闪回 /NeverAwake FLASHBACK   v1.0.0    免安装中文版
+- 灵魂恶魔猎人 /Soul Demon Hunters   v1.0.1   免安装中文版
+- 极速大乱斗|速度斗殴 /Speed Brawl    v01.11    免安装中文版
+- 友你同行/UniDuni     Build.21139404   免安装中文版
+- 洛克人11 /Mega Man 11    Build.19719606 送修改器    免安装中文版
+- 至深渊 /Ad Fundum  v1.2.2a    免安装中文版
+- 无垠苍白 /The Pale Beyond    Build.21167851   免安装英文版
+- 德鲁伊旅人/Druidwalker    Build.12493341    免安装中文版
+- 传奇重装步兵/Legendary Hoplite   v1.10.0   免安装中文版
+- 恶棍英雄/Fury Unleashed    Build.21021093    免安装中文版
+- 虚空废墟者/Void Scrappers   Build.21183460   免安装中文版
+- 凯西·瑞恩：导演剪辑版 /Kathy Rain Director\\’s Cut Deluxe Edition   Build.20267953   免安装中文版
+- 深地爆破采掘/BORE BLASTERS    Build.21189828   免安装中文版
+- 洛克人传奇合集2+1/Mega Man Legacy Collection 2+1    B2844818 集成洛克人7.8.9.10 附洛克人传奇合集1代     免安装中文版
+- 洛克人Zero/ZX遗产合集/Mega Man Zero/ZX Legacy Collection   v20220303   免安装中文版
+- 拉吉：远古传奇 /Raji An Ancient Epic   Build.8993266   免安装中文版
+- 云霄陨落 /Nimbusfall   Build.15834782   免安装中文版
+- 小小危险地牢重制版/Tiny Dangerous Dungeons Remake    Build.17905177   免安装中文版
+- 狭间格斗|狭小空间战斗/ Fights in Tight Spaces   v1.2.11831 全DLC  免安装中文版
+- 亡魂战纪/ Winds Of Arcana Ruination    v1.201   免安装中文版
+- 追逐她的光 /Chasing Her Light    Build.21204156   免安装中文版
+- 说故事的人 |讲故事的人/Storyteller   Build.20230540    免安装中文版
+- 永夜 /Eternights   Build.20889165   免安装中文版
+- 逃离堕落者Flee the fallen    Build.21145029    免安装中文版
+- 零号样本：清醒阈 /HELL OF FEAR Mind Breach    v1.0.7.f   免安装中文版
+- 猫忍之心 SPIN! LOVE+PLUS /NEKO-NIN exHeart SPIN! LOVE+PLUS      Build.21158209   免安装中文版
+- 小小诺亚：天堂之子 /Little Noah Scion of Paradise   Build.20857912   免安装中文版
+- 朋友：烤肉串模拟器/Amigo Kebab Simulator    v20230815   免安装中文版
+- 死神：魂魄觉醒/BLEACH Rebirth of Souls   v1.43 全DLC    免安装中文版
+- 守望者 / Keeper  v1218000   免安装中文版
+- Re:LieF ～献给亲爱的你～ Build6290714 免安装中文版
+- 七度荒域：双生树 /7th Domain  v1.0.0   免安装中文版
+- 正当防卫3/Just Cause 3   v20251217   免安装中文版
+- 勇网直前 /Webbed   v1.04    免安装中文版
+- 再次崛起/Rise Again  v0.10.0   免安装中文版
+- 奥康纳家族与雄鹿之冠/Clan O’Conall and the Crown of the Stag   免安装中文版
+- D4：暗梦不灭 送修改器/D4 Dark Dreams Don’t Die -Season One    免安装中文版
+- 乌弗利亚传奇2|迷糊蛋2 传奇 /Ufouria The Saga 2  v1.0.0   免安装中文版
+- 挖坟仙人/Legendary Tomb digger   免安装中文版
+- 心之城堡：重述/ Castle of Heart Retold   v20251216  免安装中文版
+- 地牢劫掠者/Dungeon Looter   v1.2.2078  单机+联机   免安装中文版
+- 喵门镖局/Wild Woods   Build.21099239 单机+联机   免安装中文版
+- 三国志潜龙在渊 Three Kingdoms Heroes   v1.35   免安装中文版
+- 战士 /Warman  v2.0   免安装中文版
+- 银鱼计划 /Project Silverfish   v0.3.8    免安装英文版
+- 喋血街头4/POSTAL 4: No Regerts    v1.5.0   免安装中文版
+- 尘怒之拳|达斯蒂猛烈拳击 /Dusty Raging Fist   完整版    免安装中文版
+- 虫虫学院/Bug Academy   完整版   免安装中文版
+- 大神：绝景版/OKAMI HD   修正版 送修改器   免安装中文版
+- 尸灵 /Draugen   完整版   免安装中文版
+- 异星家园/XenoHaven   Build.21300746   免安装中文版
+- 修仙故事：轮回/Cultivation Story Reincarnation   v20251004    免安装中文版
+- 我是机器 /I Am Machine   Build.20839695  免安装中文版
+- 死罪|凡人之罪/Mortal Sin  v20251219  免安装中文版
+- 羽袈流/BAKERU   Build.20554100  免安装中文版
+- 171 /巴西版GTA5   v20251221   免安装中文版
+- 飞行组装/Aviassembly   Build.21304620   免安装英文版
+- 缘起甜韵趣恋丛生！/LOVEPICAL-POPPY!   v1.00   免安装中文版
+- 戈尔迪安房间2 /Gordian Rooms 2: A curious island    Build.21215522   免安装中文版
+- 英雄旧忆：幸存者 /Chronicon Survivors   Build.18441500   免安装中文版
+- 机甲战魔 神话之裔/ Daemon X Machina Titanic Scion   v1.2.2 全DLC   免安装中文版
+- 赤痕：夜之仪式/Bloodstained: Ritual of the Night/单机+联机  Build.20844919  全DLC 送修改器+音乐BGM+一周目满级100完美存档
+- 屋顶与小巷：跑酷游戏/ Rooftops and Alleys The Parkour Game   Build.20968763  免安装中文版
+- 代号：海洋守护者/Codename: Ocean Keeper   v1.0.7  免安装中文版
+- 东方光耀夜 /Lost Branch of Legend   v1.8.0   免安装中文版
+- 人见人爱的块魂 安可+ 国王大人的小小回忆/We Love Katamari REROLL Royal Reverie    Build.20552039   免安装中文版
+- 黑纱掠夺者 /Raiders of Blackveil   Build.21292842   免安装中文版
+- 神羽：黑手党鸽子传奇 /The Godfeather A Mafia Pigeon Saga   Build.13570565   免安装中文版
+- 少女魔役/GAL Guardians Servants of the Dark   v1.6.1   免安装中文版
+- 昔日的山峰/ Peaks of Yore   v2.1.2b  全DLC   免安装英文版
+- 机械师8230：逃离伊格罗特 /Mechanic 8230 Escape from Ilgrot   Build.15172721   免安装中文版
+- 赏金之星/ Bounty Star   v20251208   免安装中文版
+- 沉没之地/ Sunkenland/ 单机+联机  v0.7.08  送修改器   免安装中文版
+- 独行侠 重装上阵|金并：重新加载/Kingpin: Reloaded  v1.08   免安装中文版
+- 爱，死亡和小猪/ Spindle   v1.1.0  免安装中文版
+- 风之少年 克罗诺亚 1+2 乘风归来/Klonoa Phantasy Reverie Series    v20251222   免安装中文版
+- 集换岛 /Isle of Swaps   v1.037   免安装中文版
+- 滴答：双人冒险/Tick Tock: A Tale for Two  Build.20210624   免安装中文版
+- 幸存者苦难/ Outliver: Tribulation   Build.17900947   免安装中文版
+- 特种部队：眼镜蛇之怒 /G.I. Joe: Wrath of Cobra   v1.0.1   免安装中文版
+- 地狱之刃2 塞娜的献祭/Hellblade: Senua\\’s Sacrifice    v1.03.1 送修改器+赠通关分阶段存档    免安装中文版
+- 异星装置：博物馆/Machinika Museum    v1.24    免安装中文版
+- 格斗天使SE /Fight Angel Special Edition   v1.01特别终极版   免安装中文版
+- 索尼克 缤纷色彩 究极版 /Sonic Colors Ultimate   Build.10078994    免安装中文版
+- 超越银河系 银河系之外的陆地|超越银河世界 /Beyond Galaxyland    v1.0.2.0   免安装中文版
+- 恐龙创伤 /Dino Trauma   v0.5.627   免安装中文版
+- 史莱姆英雄/Slime Heroes   v1.0.0.6   免安装中文版
+- 流浪星球 /Drifter Star Evolution   Build.21223776   免安装中文版
+- 阿加斯巴之塔/Towers of Aghasba   Build.20215933  免安装中文版
+- 腐烂的容器|腐朽之器/Vessels of Decay    v1.0.0.8   免安装中文版
+- 迪士尼幻梦岛：与米奇和朋友们历险/Disney Illusion Island Starring Mickey & Friends   Build.20391376   免安装中文版
+- 新弹丸论破V3周年纪念版 /Danganronpa V3 Killing Harmony Anniversary Edition  v1.1.3.0 送修改器    免安装中文版
+- 荒野的试炼/ Trials of Wilderness   v4.9.3   免安装中文版
+- 美好旧时光：四宝奇兵大冒险/ THE GOOD OLD DAYS   Build.21093917   免安装中文版
+- 节奏地牢/ Crypt of the NecroDancer   Build.21214132 全DLC   免安装中文版
+- 反射小队：突击行动 / Reflex Unit Strike Ops   Build.21335037     免安装中文版
+- V的愤怒|V的狂怒/ V’s Rage   Build.21287119   免安装中文版
+- 乌卢卡的埃尔图/ Ertugrul of Ulukayin   Build.21347074   免安装中文版
+- 渡渡鸟大师/ Dodo Master   Build.21189150   免安装中文版
+- 玛丽和巴尤：回家之路/ Mari and Bayu – The Road Home   v1.0  免安装中文版
+- 西游-琉璃盏 v1.14.35b 免安装中文版
+- 墙世界2 / Wall World 2   v1.0.9.358   免安装中文版
+- 海贼王：世界探索者|海贼王：寻秘世界/ ONE PIECE World Seeker   v1.4.0 豪华版 整合TheUnfinishedMap 送修改器+通关存档   免安装中文版
+- 迈亚斯特-迪兹尼夫废墟/ – Myastere -Ruins of Deazniff-  免安装中文版
+- 塞伯利亚之谜 – 重制版/ Syberia – Remastered   v20251229  免安装英文版
+- 我们曾在这里玩过 /We Used to Play Here   Build.21241662   免安装中文版
+- 不死西部 /Undead West   v1.0.5.4    免安装中文版
+- 逃出生天 /A Way Out   v1.2.0.2  免安装中文版
+- 七个班次/SAVEN    Build.21132123   免安装中文版
+- 九日/ Nine Sols   v20251231 送修改器   免安装中文版
+- 掠宝法师/LootMage   Build.21243932  免安装中文版
+- 原点计划1+2+血肉工匠/Bio Prototype   v2.0.8c   免安装中文版
+- 树林中/ In Woods  v2.10.1  免安装中文版
+- 刺球/Prickle   Build.17195860   免安装中文版
+- 追随月影 /Reach to Tsukuyomi   Build.21269340   免安装中文版
+- 奇怪拼图/ Strange Jigsaws   Build.21305761   免安装英文版
+- 无耻乱斗2/Bud Spencer and Terence Hill – Slaps And Beans 2   v1.1  免安装中文版
+- 尼克儿童派对冒险 /Nick Jr. Party Adventure   v1.0.0   免安装中文版
+- 街机经典款合集 免安装中文版
+- 神鬼寓言：周年纪念版 /Fable Anniversary   Build.867695 全DLC   免安装中文版
+- 青春永驻 /Ageless   Build.20204830   免安装中文版
+- 拳击特工 /Unspottable /单机+联机  Build.19773735   免安装中文版
+- 妾/ Concubine   v0.2.1.1   免安装英文版
+- 孤独之海|孤寂之洋 /Sea of Solitude   完整版    免安装中文版
+- 洇客/Inked A Tale of Love    Build.21146346   免安装中文版
+- 天王/heavenly king   免安装中文版
+- 离奇发现 /Unusual Findings  v1.0.29   免安装中文版
+- 天津子 /Amatsuko   Build.21330606   免安装中文版天津子
+- 密教雀士 /Mahjong girl Kshity-Gurpa   Build.21348969   免安装中文版
+- 全面重载 /Total Reload   Build.21334980   免安装中文版
+- 灵魂之球2 /AtmaSphere 2  Build.18332547   免安装中文版
+- 精灵超进化/EvoCreo   Build.21388850   免安装中文版
+- 公仔总动员|公仔大乱斗/Funko Fusion/单机+联机   v3.1.1.164744  全DLC    免安装中文版
+- 末代侠客 v1.01 免安装中文版
+- 护林猿神/Dunjungle   v1.0.01  免安装中文版
+- 狼人乌托邦 /WEREWOLF UTOPIA   v1.1   免安装中文版
+- 怒海龟途/Umigame   Build.21422044  免安装中文版
+- X4：基石/X4: Foundations   v8.00.Hotfix4 全DLC 送修改器+赠原声音乐+赠小说+赠壁纸+赠美术书+赠百科全书   免安装中文版
+- 双截龙再临/ Double Dragon Revive/单机+联机   v1.3.0.0 豪华版 全DLC    免安装中文版
+- 伊娜雅：断世之光/INAYAH – Life after Gods   Build.20272143  免安装中文版
+- 面包和年糕/Bread and Fred  Build.21411256  免安装中文版
+- 维持生存/KeepUp Survival   v20260107  免安装中文版
+- 回心之魂/Soul of Recollection  v1.0.8   免安装中文版
+- 千嶂宗师/Path of the Zenith Master   Build.20553258  免安装中文版
+- 风暴工程：建造和救援/ Stormworks: Build and Rescue   v1.15.9 全DLC   免安装中文版
+- 遵循真相 /Follow the meaning  Build.21351534  免安装中文版
+- 昏迷2B：地下墓穴/The Coma 2B: Catacomb  v1.2.3   免安装中文版
+- 星际清洁工 /Loddlenaut   v1.2.4 原生画集   免安装中文版
+- 奇异人生2 全5章完全版/Life is Strange 2   免安装中文版
+- 后宫大乱斗 /Chaos in the harem  Build.15502908   免安装中文版
+- 抬头只见天花板/Looking Up I See Only A Ceiling   v2.0.0.19 全DLC    免安装中文版
+- 奇物斋/ Strange Antiquities   v1.0.47  免安装中文版
+- 乐园终点 /The end of paradise  Build.21449593  免安装中文版
+- 无处之地/The Unplace   Build.21454256  免安装中文版
+- 绯红结系/ SCARLET NEXUS   v1.08   免安装中文版
+- 三位一体4：梦魇王子/Trine 4: The Nightmare Prince /单机+联机  v1.1.0 送修改器  免安 装中文版
+- 杀死乌鸦 /Kill The Crows  v1.5.1  免安装中文版
+- 浪人武士/Rogue Samurai  v1.0.6  免安装中文版
+- 侠盗猎车手4|GTA4 自由城之章 /Grand Theft Auto IV  v1.2.0.59   送修改器+存档  免安装中文版
+- 不可思议的幻想乡：TOD重载 /Touhou Genso Wanderer Reloaded  v1.04 送修改器   免安装中文版
+- 不可思议的幻想乡 -Lotus Labyrinth R-/Touhou Genso Wanderer -Lotus Labyrinth R-   v1.00限定特典版 全DLC  免安装中文版
+- 破门 /Breaking Gates  Build.20326279  免安装中文版
+- 超次元迷航 /Hyperspaced  Build.20283443  免安装中文版
+- BULT：狩猎模拟器/BULT Hunting simulator  Build.21292230   免安装英文版
+- 滑步奇旅 /Sliding Hero   Build.21458079  免安装中文版
+- 亚丽亚的倒影/AiliA  v1.0.7  免安装中文版
+- 阿尼玛：回忆之门 I II 重制版/ Anima Gate of Memories I and II Remaster    Build.20892966  免安装中文版
+- 旅行游记 /Book of Travels  Build.18234380   免安装英文版
+- 控制-终极合辑 /Control Ultimate Edition  Build.21225456 送修改器+存档+音乐原声  免安装中文版
+- hololive 滚滚山 /Hololive GoroGoro Mountain   Build.21490973 全DLC   免安装中文版
+- 超控行者/overriderCHAO  v0.9.6  免安装中文版
+- 夜袭者 /Night Raider  Build.21351446  免安装中文版
+- 遗落档案馆/Abandoned Archive   Build.21090296   免安装中文版
+- 血面/Bloodface   v1.0.2 全DLC   免安装中文版
+- 反重力派对：银河大挑战/Which Way Up: Galaxy Games  v1.0.5  免安装中文版
+- 虚无 Op.0/Nientum – Op.ZERO   Build.21392159  免安装中文版
+- 小小机器人：传送门逃脱 /Tiny Robots Portal Escape  Build.21463135  免安装中文版
+- 穿越亡灵之旅 /Journey Through the Undead   Build.21461162  免安装中文版
+- 蒸汽朋克地牢：封锁/Vaporum Lockdown   v5691818    免安装中文版
+- 公考刷题模拟器-我要上岸 免安装中文版
+- 杀令营 /Slayaway Camp   v1.8.4   免安装中文版
+- 熵：零 /Entropy Zero  Build.4607471  免安装英文版
+- 熵：零2 /Entropy：Zero 2  v1.7.1  免安装英文版
+- 小眷灵/ Tinykin  v1.0.8   免安装中文版
+- 前线/ The Front  v1.5.9  免安装中文版
+- 外星一号 /Exo One  Build.16676923  免安装中文版
+- 间谍密令 /Spy Drops   v1.4.1.5   免安装中文版
+- 猩红塔|猩红之塔/Scarlet Tower   v2.0.15  免安装中文版
+- 班巴斯！/Bambas!   Build.19007073   免安装中文版
+- 魔女妙妙屋 /Witch Play House  Build.21526343   免安装中文版
+- 贪婪游戏 /Better Days  Build.21517423  免安装中文版
+- 漆黑猎场/Dark Hunting Ground  v1.6.4  免安装中文版
+- 溯光行 /Retrace the Light   v1.1.2710  免安装中文版
+- 海之剑|海洋之剑/Sword of the Sea  v20250923  免安装中文版
+- 余波 /AFTERBLAST  Build.21534409  免安装中文版
+- 波维利亚：不归之岛/ Poveglia The Island of Non Return   Build.21506069  免安装中文版
+- 你是食管人/Esophaguys  Build.21219227  免安装中文版
+- 战争的信笺/ Letters of War   v1.3.5  免安装中文版
+- 方舟时代 VR/Arken Age   Build.20372295   免安装中文版
+- 凯恩的遗产：噬魂者1+2重制版/Legacy of Kain Soul Reaver 1 and 2 Remastered   v20250401  免安装中文版
+- 天体计划/ Celestial Project  v0.2.4   免安装中文版
+- 神偷VR：暗影之遗 支持VR /Thief VR Legacy of Shadow    Build.21491617  免安装中文版
+- 阈限空间：逃生通道 /Liminal Escape Route  Build.21312557  免安装英文版
+- 原子野餐/ Atomic Picnic/ 单机+联机    Build.21398696  免安装中文版
+- 东方灵麟棋 ~ /Crafts of the Lucky Beast  Build.21572337  免安装中文版
+- 灵魂射手：死亡使者|亡灵游侠：死亡使者/ Soulslinger: Envoy of Death   v1.031.Hotfix1免安装中文版
+- 切尔诺贝利清算人/ Chornobyl Liquidators   v1.2.34   免安装中文版
+- 维拉斯特/ VELASTER   Build.21490791   免安装中文版
+- 高堡奇兵/ Tower Fortress   v2524599   免安装中文版
+- 血色矿脉 群集研磨者/Swarm Grinder   Build.21543656   免安装中文版
+- 粒子之心/ Particle Hearts   Build.20651779  免安装中文版
+- 红色护照：通往俄罗斯的车票 /Red Passport Ticket to Russia  Build.21612804  免安装中文版
+- 墓地夜班 /The Cemetery Shift  Build.21611971  免安装中文版
+- 死亡之网 /Death’s Web  Build.21573135  免安装中文版
+- 深渊中的小神 /Little Gods of the Abyss  Build.21617006  免安装中文版
+- 黑手党：家族的秘密/MAFIA Family’s Secret  免安装中文版
+- 归墟低语 /Murmur of the void  v0.4  免安装中文版
+- 遗忘之丘/Forgotten Hill Disillusion   Build.5413063  免安装中文版
+- 找个班上|开始工作 /Get To Work  v1.1.2.0   免安装中文版
+- 几何竞技场2/Geometry Arena 2   v1.0.1  免安装中文版
+- 胜氏扳机|卡茨触发/Kats Trigger   Build.21611708  免安装中文版
+- 沉寂回响/ Somber Echoes    Build.21603545  免安装中文版
+- 消尸：身后事 /Nobodies After Death  Build.15957312  免安装中文版
+- 如龙：极重制版|人中之龙 极 /Yakuza Kiwami   v2.13  免安装中文版
+- 陷阵之志/Into the Breach   Build.21601364 送修改器+存档   免安装中文版
+- 伊甸之路 /One Step From Eden  Build.21614183  免安装中文版
+- 超越光速 /FTL Faster Than Light   Build.21605256   免安装中文版
+- 如龙：极2重制版|人中之龙 极2 /Yakuza Kiwami 2   v2.13  免安装中文版
+- 魔药奇谭/Potions：A Curious Tale   v1.0.3.2  免安装中文版
+- 没有弱点/Weakless   v1.0.4  免安装中文版
+- 60秒差距!| 太空60秒 /60 Parsecs!   Build.20621404 送修改器  免安装中文版
+- 求你快停车！/Parking Together!  Build.21219255  免安装中文版
+- 第九哨兵姐妹/9th Sentinel Sisters   v1.2.0  免安装中文版
+- 争取光明：生存之战 /Striving for Light: Survival   Build.21621946  免安装中文版
+- 恶魔之刃：重启版/DEVIL BLADE REBOOT   v1.2.3  免安装中文版
+- 新月纪元/ Lunavania   v0.2.8   免安装中文版
+- 看门狗1 / Watch_Dogs  v1.06.329  免安装中文版
+- 合金装备3 重制版|合金装备：食蛇者–重制版 豪华版/METAL GEAR SOLID Δ SNAKE EATER Digital Deluxe Edition  v1.2.4 送修改器  免安装中文版
+- 小熊的秘洞 /Winnie’s Hole  Build.21661485  免安装英文版
+- 血涌不息/Bloodrush Undying Wish   Build.21610212   免安装中文版
+- 雨中冒险2/ Risk of Rain 2 / 单机+联机   v1.4.1.886 全DLC  送修改器+原声带    免安装中文版
+- 主机|软盘奇遇 /MainFrames  Build.21395308   免安装中文版
+- 艾尔登法环 含黄金树DLC/Elden Ring 单机+联机 v1.16.1.Fix+MOD+存档+修改器  免安装中文版
+- 只狼 影逝二度/ Sekiro™: Shadows Die Twice    最终年度版+预购特典+全DLC+修改器   免安装中文版
+- 对马岛之魂：导演剪辑版/ Ghost of Tsushima/ 单机+联机  v1053.8.1212.1408 全DLC 送修改器+抗蒙奇侠2周目新游戏+完美白金通关存档   免安装中文版
+- 荒野大镖客：救赎/Red Dead Redemption   v1.0.42.46611   免安装中文版
+- 赛博朋克2077  终极版/ Cyberpunk 2077   v2.31a 全DLC 往日之影+附单独升级补丁+单独国语配音包 送修改器+300mod整合+赠完美存档+赠原声BGM+赠原画集  免安装中文版
+- 上古卷轴4：湮灭重制版|老滚4重制版/The Elder Scrolls IV: Oblivion Remastered   v1.512.105.0 送修改器 赠原生音乐+书籍   免安装中文版
+- 七龙珠Z 卡卡罗特/DRAGON BALL Z: KAKAROT    v2.30 全DLC 送修改器 全MOD+存档    免安装中文版
+- 塞尔达传说 旷野之息 v1.8.0 PC/手机双端（The Legend of Zelda: Breath of the Wild）免安装中文版
+- 传送门2/ Portal 2  v20250120   免安装中文版
+- 双影奇境/ Split Fiction /单机+联机/ PC+手机双端    v20250527  免安装中文版
+- 战地6|战地风云6 / Battlefield 6   v1.1.2.0 全DLC 赠单板补丁    免安装中文版
+- 机密谋杀案中案 – 硬核本格推理侦探游戏/Confidential Killings – A Detective Game   v1.0.2  免安装中文版
+- 烧尾宴 Build.21318425 免安装中文版
+- 死亡细胞/ Dead Cells   v35.8 全DLC 送修改器 PC/安卓/苹果三端  免安装中文版
+- 双人成行/ It Takes Two   v20250102   免安装中文版
+- 午夜以南/ South of Midnight   v1.3.0 全DLC   免安装中文版
+- 塞尔达传说：王国之泪/The Legend of Zelda: Tears of the kingdom/手机+PC双端   v1.2.1   免安装中文版
+- 汉克：旱地溺水/Hank Drowning On Dry Land   Build.21557427  免安装中文版
+- 光谱启示录：七色试炼 /Spectral Revelation The Seven Color Trial  v1.0  免安装中文版
+- 荒野边境/ Wild Frontier   v0.10   免安装中文版
+- 人中之龙0 誓约的场所 导演剪辑版|如龙0：导演剪辑版 /Yakuza 0 Director’s Cut  v1.15   免安装中文版
+- 索尼克 未知边境 /Sonic Frontiers   Build.16857613  免安装中文版
+- 阿尔法环保站/Environmental Station Alpha   Build.21659272   免安装英文版
+- 孢子：银河大冒险 /SPORE Galactic Adventures  v1.06 集成原版+银河冒险+美美丑丑+惊悚卡通DLC 赠多项修改器+超时空要塞战机模型存档+赠2019个生物包   免安装中文版
+- 班迪与暗黑重生/Bendy and the Dark Revival   Build.21099718  免安装中文版
+- 地球人必须死 /Earth Must Die  Build.21665190  免安装中文版
+- 海天岛传说/Isles of Sea and Sky   v2.5e  免安装中文版
+- 罪域征途 /Conquest Tactics Realm of Sin   Build.21651346   免安装中文版
+- 月影之塔 /LUNA The Shadow Dust  Build.4726066   免安装中文版
+- 南瓜杰克/Pumpkin Jack   v1.5.0  免安装中文版
+- 光盲 /DeLight The Journey Home    v0.3.5    免安装中文版
+- 锈湖：地铁繁花/ Underground Blossom/ PC+安卓+苹果三端    v1.1.13     免安装中文版
+- 南极计划/ Nova Antarctica   Build.21638923   免安装中文版
+- 虚空之阳|虚空魂灵/ Void Sols   Build.21677646  免安装中文版
+- 泰拉科技世界/ TerraTech Worlds/ 单机+联机   Build.21665209   免安装中文版
+- 斩击攀登/ Hack And Climb   Build.21651661   免安装中文版
+- 辐射之海2 / Sea Of Radiation 2   Build.18507356 附异变之海 免安装中文版
+- 萌猫公园2/PICO PARK 2 /单机+联机  Build.20063641  免安装中文版
+- 绯红天际：无尽收割/Magenta Horizon – Neverending Harvest   v1.1.4    免安装英文版
+- 最终幻想3/Final Fantasy III   Build.20264899  免安装中文版
+- 恐惧之路/Dreadway /单机+联机   v1.0.0.9   免安装中文版
+- 龙珠：超宇宙2/ DRAGON BALL XENOVERSE 2/ 单机+联机/ PC+手机双端   v1.25.02 全DLC  MOD  送修改器  新增DLC未来之歌第三章  赠音乐原声+80级满金币满TP初始存档+赠4个MOD版其中MOD人物1419个  免安装中文版
+- 0.0035％ Build.21711384 免安装中文版
+- 命运石之门：线形拘束的表征图/STEINS;GATE Linear Bounded Phenogram   Build.4152261   免安装中文版
+- 命运石之门：精英 /STEINS;GATE ELITE   Build.3810096  免安装中文版
+- 死神必须死 /Death Must Die   v0.8.8a  免安装中文版
+- 女王的忠诚 /Queen’s Loyalty   v1.2.2  免安装中文版
+- 弥助模拟器/Yasuke Simulator   v20260127   免安装中文版
+- 盾牌骑士|小骑士 / The Knightling   Build.21020040  免安装中文版
+- 茶杯头/Cuphead  PC/手机双端  v1.3.5 全DLC 送修改器+存档  免安装中文版
+- 翻滚之星/ROLLING STAR   Build.21684865 全DLC  免安装中文版
+- 武士刀之龙|武士龙 /Katana Dragon   Build.21715720   免安装中文版
+- 暗黑拍卖 /Dark Auction  Build.21695028  免安装中文版
+- 绿光 /The Green Light  Build.21536826  免安装中文版
+- 生命效应/ LIFE EFFECT   v0.37  免安装英文版
+- 漫漫长路：沙巫之旅/Caravan SandWitch   v1.13.72.4  全DLC   免安装中文版
+- 虚空奇旅/Journey to the Void   Build.21682109  免安装中文版
+- 别拽了！烤串师傅 /Skewer Squad   Build.21741970   免安装中文版
+- 换标游戏/REBADGE   Build.21636639  免安装中文版
+- 睡莲公主/Princess of the Water Lilies  Build.21658810   免安装中文版
+- 命运守护夜：重制版|命运之夜：重制版/Fate/stay night REMASTERED   v1.4.2.391 免安装中文版
+- 荒神2 /Aragami 2   Build.20757850 送修改器  免安装中文版
+- 荒神 /Aragami  Build.20758003   免安装中文版
+- 归家异境 /ComingHome  Build.21505249   免安装中文版
+- 贝荷嘉2|贝霍尔加2/Beholgar 2    Build.21671457  免安装中文版
+- 云路|云境 /Cloudbuilt  Build.16917072  免安装中文版
+- 我们这些即将死去的人/ We Who Are About To Die   Build.21216966  免安装中文版
+- 黎明之前/Embers of the Night   v1.03  免安装中文版
+- 零区 /SECTOR ZERO  Build.21771133  免安装中文版
+- 死亡之屋2：重制版/THE HOUSE OF THE DEAD 2 Remake   v20260203  免安装中文版
+- 绿色地狱|丛林地狱/ Green Hell /单机+联机   v20260204 免安装中文版
+- 滑流 /Hoverflow  Build.21783893  免安装中文版
+- 腐根之里 /Roots Devour  v1.0.3.0  免安装中文版
+- 符文工厂3 /Rune Factory 3   Build.20332490   免安装中文版
+- 欢迎回来，指挥官 /Welcome Back Commander  Build.20809516   免安装中文版
+- 人类游乐场 /People Playground   Build.21786479  免安装中文版
+- 预言奇谈 /Foretales   Build.20305460   免安装中文版
+- 奥森弗里/Oxenfree   Build.21724823  免安装中文版
+- 双手奇谋/Ambidextro   Build.21752324  免安装中文版
+- 法术猫：自动卡牌战术/Spellcats: Auto Card Tactics   v1.3.0  免安装中文版
+- 苍白沉寂 /White Silence  Build.21820947  免安装英文版
+- 圣灵家族 Rinato /Arcana Famiglia -La storia della Arcana Famiglia- Rinato   Build.20657128  免安装中文版
+- 黑帆赌局 /Pirate’s Gambit  Build.21805093  免安装中文版
+- 探灵直播 /Livestream Escape from Hotel Izanami  Build.10625312   免安装中文版
+- 合金装备5：幻痛/ METAL GEAR SOLID V：THE PHANTOM PAIN    Win10_Win11双版 送修改器+存档 免安装中文版
+- 侠盗猎车手5|GTA5 传承版 /Grand Theft Auto V   v1.72(3751)  修改器+F5开启菜单   免安装中文版
+- 苍穹雷霆 GUNVOLT 三棱合极版/Azure Striker Gunvolt Trilogy Enhanced   v1.3.1   免安装中文版
+- 黑暗之魂3/Dark Souls III   v1.15.2 +季票 全DLC+MOD整合版   免安装中文版
+- 洛维什传说/Lovish   Build.19501812  免安装中文版
+- 二之国2：亡灵之国 /Ni no Kuni II Revenant Kingdom  v4.00 全DLC 送修改器+存档   免安装中文版
+- MIO：星轨记忆|秘奥：秘宇奥忆/MIO Memories in Orbit   v1.2  免安装中文版
+- 卡组地牢 /Dungeon Deck   v1.2.0  免安装中文版
+- 地牢探索者 /Dungeon Divers  Build.21630220  免安装中文版
+- 休假日：月溪谜案/DayOff: Moonriver incident    Build.21635197  免安装中文版
+- 失乡骑士/Banished Knight  v1.6.8   免安装中文版
+- 饥饿怪物 /Hungry Horrors  Build.21537764   免安装中文版
+- 第九圣诗/ANTHEM#9   Build.21711051  免安装中文版
+- 星舰铳犬 太阳系物语/Stories from Sol The Gun Dog   v1.1.0  免安装中文版
+- 星舰大乱斗 /SpaceCraft Brawl  Build.21798811  免安装中文版
+- 多重人生/The Alters   v1.4.2.7  免安装中文版
+- 异形：侠盗入侵|异形：盗贼入侵/ Alien Rogue Incursion   v1.1.1 支持VR    免安装中文版
+- 里世界学院1：终末轮回救赎 /Dark Cage1 Reincarnation For Salvation  Build.20638200  免安装中文版
+- 未上锁的房间4/The Room 4 Old Sins   Build.20337132   免安装中文版
+- 手倒立汉克 /Handstand Hank   Build.20273986  免安装中文版
+- 蒙特雷：杰克/ Monterey Jack   Build.21738603  免安装中文版
+- 环形帝国2/Circle Empires 2   Build.21866252   免安装中文版
+- 错误的信标/fault – milestone one   Build.20181017  免安装中文版
+- 余烬飞舞 /Emberfly  v2.0.52   免安装中文版
+- 怪物猎人 崛起/ MONSTER HUNTER RISE/ 单机+联机  v16.0.2.0 全DLC   免安装中文版
+- 西装出租 |适合雇佣/Suit for Hire  Build.21833945  免安装中文版
+- 嗜血本性 |血根 /Bloodroots   Build.20240050   免安装中文版
+- 少年的终结/Boyhood’s End   Build.18152737  免安装中文版
+- 苏菲亚的谎言与代价/Sofia in Exchange for Lies   v1.2.1  免安装中文版
+- 破御者/Reignbreaker  v1.0.1.HF  免安装中文版
+- 真实动漫情境体验！DT /Real Anime Situation! DT   v1.0.0   免安装中文版
+- 永恒弈境/Everwayne   v1.26  免安装中文版
+- 小骑士 免安装中文版
+- 重夺战利 /Relooted  Build.21884112  免安装英文版
+- 逃离鸭科夫/ Escape From Duckov/ 单机+联机   v2.2.0 送修改器 附最全84项全能mod合集 免安装中文版
+- 孤岛笔记/ Island Notes  v1.46  免安装中文版
+- 三国仁义传/ The Righteousness SanGuo   v1.0.7.3   免安装中文版
+- 菲尔纳传说 / Philna Fantasy   v1.0.13  免安装中文版
+- 死首残蜕|死亡之帽/ Caput Mortum  v1.2.1.0  免安装中文版
+- 不可撤离区/ No Escape from Madness  v1.7  免安装中文版
+- 小狗朋友/ Koira  v1.0.7  免安装中文版
+- 逃亡搭便车者/ Fugitive Free Rider   Build.21936642  免安装中文版
+- 斯洛伐克万岁/ Vivat Slovakia  v1.0.1b3  免安装英文版
+- 最后一组出发/ Last Group Out   Build.19330302  免安装中文版
+- 天啊|神圣之蓝/ Sacre Bleu   v1.0.16  免安装中文版
+- 地罚降临，龙陨之刻/ Rise of Rebellion  v1.0.1  免安装中文版
+- 以太之战1/ Rivals of Aether   v2.1.3.2  免安装英文版
+- 驯龙高手：九界龙族传说/ DreamWorks Dragons Legends Nine Realms   v1.01.03   免安装中文版
+- 雷曼：30 周年纪念版/ Rayman 30th Anniversary Edition   Build.21870098  免安装中文版
+- 塞利尼|塞里尼 /SELINI   Build.21958772   免安装中文版
+- 善良都市/Nice City   Build.21975277  免安装中文版
+- 奔跑/The Run   Build.21738439  免安装中文版
+- 沉没的王国/Dredgers   Build.15024570  免安装中文版
+- 木偶往事/Once Upon A Puppet  v2.15.1.0  免安装中文版
+- 圆木骑士/Log Riders   Build.21946911 单机+联机  免安装中文版
+- 大宅邸的爱丽丝/Alice in the Manor   Build.21012922   免安装中文版
+- 梦幻球星明日翔/Fantasista Asuka   Build.21887456  免安装中文版
+- 遗忘别墅/Forgotten Villa   Build.22005490   免安装中文版
+- 梅加邦克/ Megabonk   Build.21639958 免安装中文版
+- 血统|血脉传说 /The Bloodline  Build.21657066   免安装中文版
+- 最后指令/ Last Command   Build.21665364  免安装中文版
+- 渔夫模拟器/Fisherman Simulator   Build.22008227   免安装中文版
+- 色彩枪2：平行宇宙/ChromaGun 2 Dye Hard   Build.21885984  免安装中文版
+- 野心余烬 /Ashes of Ambition  Build.21987122  免安装中文版
+- B17飞行堡垒：第八飞行中队重制版/B-17 Flying Fortress The Mighty 8th Redux   Build.21722720   免安装英文版
+- 真・三国无双 起源/ DYNASTY WARRIORS ORIGINS   v1.0.1.2  豪华版 全DLC 新增DLC梦幻四英杰 附MOD整合包 存档 送修改器    免安装中文版
+- 半剑 /Half Sword  v20260218  免安装中文版
+- 迷人的残酷 /The Sexy Brutale  v3.5   免安装中文版
+- 灰雨钢锋 /Of Ash and Steel  v1.06  免安装中文版
+- 侏儒和骑士 /Gnomes and Knights  Build.20416152  免安装中文版
+- 都市传说冒险团2：分身/Urban Legend Hunters 2 Double   v1.1.0   免安装中文版
+- 燕之低语|燕之呢喃 /Whisper of the Swallows    v0.17.23   免安装中文版
+- 毛线小精灵2/ Unravel Two  Build. 10350821   免安装中文版
+- 魔法之剑：起源/ Spellsword Cards Origins   Build.5285728   免安装中文版
+- 涅瓦/Neva  v20260219 全DLC   免安装中文版
+- 玩具熊的五夜后宫 陷落球池 /Five Nights at Freddy\\’s: Into the Pit   v1.0.11.7   免安装中文版
+- 潜水员戴夫/DAVE THE DIVER / PC+手机双端  v1.0.5.1791  全DLC 送修改器  免安装中文版
+- 欢迎来到娃娃镇/Welcome to Doll Town   Build.22033772   免安装中文版
+- 小米人的世界|凯夫林的世界/A World of Keflings   Build.21872762  免安装中文版
+- 卷轴法师 /Wish Me Well   v0.8.0.06   免安装中文版
+- 破神者/ GODBREAKERS/ 单机+联机   v2.1 免安装中文版
+- 扬帆起航/Sail Forth   v1.7.5   免安装中文版
+- 审判官的心灵|审问者的心和灵魂 /Inquisitor’s Heart and Soul  Build.22008647  免安装中文版
+- 咒印链接：鲜血的呼唤|咒印鲜血的呼唤 /Sealchain   Build.22042689   免安装中文版
+- 书籍走私者/Book Smugglers   免安装中文版
+- 麦：时代之子|迈：千年之子 / Mai Child of Ages   v1.18  免安装中文版
+- 以撒的结合  /The Binding of Isaac: Rebirth  v1.9.7.15   送修改器 单机+联机 重生+忏悔+胎衣DLC   免安装中文版
+- 深矿缺氧/Anoxia Station   v1.0.1   免安装中文版
+- 卡牌生存：热带岛屿/ Card Survival: Tropical Island   v1.05ae   免安装中文版
+- 不可视之轴|未见之界/ The Axis Unseen   v1.13  免安装中文版
+- 未元物质 /Primateria  v2.17.0  免安装中文版
+- 不朽猎手|不朽猎人/ Immortal Hunters   Build.22041546  免安装中文版
+- 挖掘者：银河宝藏|地心挖矿冒险银河宝藏 /Digger Galactic Treasuresv  v1.22  免安装中文版
+- 洛克妹：30XX/30XX   v1.4.0 全DLC   免安装中文版
+- 莫比乌斯机器 /The Mobius Machine   v1.2.4   免安装中文版
+- 铃隐空境 v1.0.0 免安装中文版
+- 魔法猫咪 /MagiCat   Build.22070597   免安装中文版
+- 掠夺传奇/ Overlooting  Build.22094105  免安装中文版
+- 王权：巫师 /Reigns The Witcher   Build.21966564   免安装中文版
+- 嗜血印/Bloody Spell   Build.22069271  全DLC 送修改器+全MOD  免安装中文版
+- 符文世界：龙之荒野/ RuneScape: Dragonwilds/ 单机+联机   Build.22096334   免安装中文版
+- 不/存在的逐梦者：银葱之森 /The NOexistenceN of Morphean Paradox The Forest of Silver Shallots  Build.22087872  免安装中文版
+- 洋流朋克/Ocean Punk   v1.8.4.5  免安装中文版
+- 杀手3 豪华版/ Hitman 3 Deluxe Edition  v3.260.1 全DLC 送修改器 赠全物品解锁存档  免安装中文版
+- 传颂之物：斩2 /Utawarerumono ZAN 2   Build.22071867   免安装中文版
+- OPUS：地球计划 /Opus The Day We Found Earth    v3.5.3   免安装中文版
+- 消逝的光芒2：人与仁之战 重装上阵版/ Dying Light 2 Stay Human/ 单机+联机   v1.27.2终极版 全DLC 送修改器+艾琳娜MOD   免安装中文版
+- 超级炸弹人合集 /SUPER BOMBERMAN COLLECTION  Build.22075591  免安装中文版
+- 小女孩学校内怪物 /GYLT   Build.22113435   免安装中文版
+- 城市猎人 /City Hunter  Build.22072443   免安装中文版
+- 心灵杀手：复刻版/Alan Wake Remastered    v1.33   免安装中文版
+- 鬼人KIKI / ONIBITO KIKI   v1.0.3  免安装中文版
+- 鬼怪传说/ Ghostlore  Build.22122022  免安装中文版
+- 范马刃牙：血之竞技场/Baki Hanma Blood Arena  v2.0.4  免安装中文版
+- 艾林旅社|艾琳/Elin  Build.22148004 附v23.83 MOD整合版   免安装中文版
+- 刺客信条兄弟会/Assassins Creed Brotherhood  Build.12901844   免安装中文版
+- 狂野星球复仇记/ Revenge of the Savage Planet/ 单机+联机   v117297  全DLC   免安装中文版
+- 忍者龙剑传4 豪华版 / NINJA GAIDEN 4      v1.0.4.0  全DLC 送修改器+VP9 Video游戏运行必备组件 免安装中文版
+- 蓝色火焰|蓝火 /Blue Fire  v6.0.4   免安装中文版
+- 随风飘荡/ Windswept    Build.21842490  免安装中文版
+- 失落城堡2/Lost Castle 2    v0.9.3.8    送修改器  免安装中文版
+- 网络爬虫/NET.CRAWL   Build.22198471  免安装中文版
+- 热带生存 /Tropicalia a Brazilian Game   Build.19364128   免安装中文版
+- 虚空航船/Void Crew /单机+联机   v1.2.6  免安装中文版
+- 连接：内心的恶梦 /Connection: The Nightmare Within   v20260304   免安装中文版
+- 希姆 /SCHiM   Build.21221121   免安装中文版
+- 生物湖/|生物之湖 – 变异鱼钓鱼  Lake of Creatures    Build.22177476  免安装中文版
+- 英灵神殿/Valheim/单机+联机  v0.221.12 送修改器  免安装中文版
+- 灵魂石幸存者/Soulstone Survivors  v1.5c  全DLC 送修改器   免安装中文版
+- 奥咕和秘密森林/Ogu and the Secret Forest    v1.3b 全DLC   免安装中文版
+- 从前从前有个块魂/ Once Upon a KATAMARI   v1.1.0 全DLC   免安装中文版
+- 探案法：加拿大档案/Methods: The Canada Files   v1.0正式版   免安装中文版
+- 愚者盛宴/Banquet for Fools   v1.0正式版   免安装英文版
+- 绽放传说 /Tales of Bloomrise   Build.22183781  免安装中文版
+- 琉隐：碎界转生 /shattered realm rebirth   Build.22222023   免安装中文版
+- 四郎/SIRO    免安装中文版
+- 溟渊卡境/Cards and Dungeons   Build.22148308   免安装中文版
+- 末日的回声：增强版 /Echoes of the End   v2.05  免安装中文版
+- 琉隐九绝/Nine Tereasures of Liuyin  Build.19904321  免安装中文版
+- 琉隐神渡/Redemption of Liuyin  19253137  免安装中文版
+- 琉隐无界/ Liuyin’s world   Build.21691855  免安装中文版
+- 巨龙已死/Dragon Is Dead  v1.21  免安装英文版
+- 维勒姆/ Vellum   v1.2.31  免安装英文版
+- 朝圣者/Pilgrims   v1.0.2   免安装中文版
+- 琉隐 /LIUYIN  Build.9448435  免安装中文版
+- 幻景7 /Mirage 7   Build.17656521   免安装英文版
+- 罗密欧是个绝命侠 /ROMEO IS A DEAD MAN  v1.4.200  免安装中文版
+- 熔炉密林/Rotwood/单机+联机   v1.0正式版  免安装中文版
+- 歪小子斯科特EX /Scott Pilgrim EX/ 单机+联机   Build.22186015   免安装中文版
+- 我即军团：替身幸存者 /I Am Legion Stand Survivors   v2.1.0d  免安装中文版
+- 欧洛/OOLO   Build.22195327   免安装中文版
+- 机器塔2984 /Machine Tower 2984  v1.0.2  免安装中文版
+- 预视武宗/ Forestrike   v1.0.2586  免安装中文版
+- 莱恩的岛|莱恩岛生存指南/Len’s Island /单机+联机  v1.1.45 全DLC  免安装中文版
+- 沉没意志/ Minds Beneath Us   Build.21223898  免安装中文版
+- 哈里发群岛/ Islands of the Caliph    Build.22254473  免安装中文版
+- 世界光环 /Aura of Worlds   v1.5.1 免安装中文版
+- 生化危机3 重制版  /Resident Evil 3   v20230925 送修改器+关键剧情点完美存档  免安装中文版
+- 泰拉瑞亚 /Terraria /单机+联机  v1.4.5.6 送修改器   免安装中文版
+- 桌面战争：兵团乱斗/D.O.T. Defence   Build.22271859  免安装中文版
+- 冥河：贪婪之刃 /Styx Blades of Greed  v20260309  免安装中文版
+- 同舟共济/Ship of Fools/单机+联机  v1.5.3 免安装中文版
+- 特斯拉之家：决定版 /The House of Tesla  v1.09  免安装中文版
+- 夜莺传说/Nightingale   v0.8.2  免安装中文版
+- 俄罗斯人对蜥蜴人2 / LIZARDS MUST DIE 2    v3.0  免安装中文版
+- 无限挖矿公司/ITER-8   v1.0.1   免安装中文版
+- 克丽特：共同防御 /Kritter Defend Together   Build.22293166  免安装中文版
+- 恩多深渊：地下城探索 /Depths of Endor Dungeon Crawler   v5.0   免安装中文版
+- 时光超市 /Time Supermarket   Build.22295556   免安装中文版
+- 神秘岛 重置版|烈文/ Riven   v1.8.5 支持VR   免安装中文版
+- 波斯王子：ROGUE/The Rogue Prince of Persia   v1.0.7  免安装中文版
+- 机械低语 /Whispers of a Machine   Build.4637238  免安装英文版
+- 圣戮 /Sancticide   Build.22296339   免安装英文版
+- 孤岛惊魂3/Far Cry 3   v1.05 送修改器   免安装中文版
+- 说谎公主与盲眼王子/The Liar Princess and the Blind Prince    Build.22083686   免安装中文版
+- 生命火热1：日沉以后/Desperate 1   Build.22249710  免安装中文版
+- 切碎|肢解/Chopped Up   Build.21773953  免安装中文版
+- 琪露诺！搬开巨石 /Cirno! Lifts a Boulder  Build.22250426  免安装中文版
+- 交响乐|天籁之国/Symphonia    Build.20272350  免安装中文版
+- 星际采矿公司/Star Ores Inc.   v1.0.41  免安装中文版
+- 小兵步枪|小兵带步枪/ RUNNING WITH RIFLES/ 单机+联机   Build.22291881 全DLC   免安装中文版
+- 掘地求财/A Game About Digging A Hole   v20260227  免安装中文版
+- 我们的旅程：无言之行 /Our Journey The Silent Voice   Build.21671666   免安装中文版
+- 恶魔之刃/ DAIMON BLADES   Build.22314719  免安装中文版
+- 三国天地·逆鳞英雄 Build.22321468 免安装中文版
+- 致命解药/ The Killing Antidote   v0.6.3e  全DLC  全MOD  免安装中文版
+- 深渊之潮/Abyssus/单机+联机  v1.2.57588    免安装中文版
+- 封印之噬：扩展版 /Sealed Bite Extended   Build.22330134   免安装中文版
+- 少林对武当：传奇/Shaolin vs Wutang Legends    Build.21687727   免安装中文版
+- 少女的移动城堡 /The Girl’s Moving Castle   Build.22207755   免安装中文版
+- 僵尸世界大战：劫后余生/ World War Z   v20260310 全DLC 送修改器 送999等级.荣誉技能.紫色荣誉头框.荣誉枪械技能.解锁存档    免安装中文版
+- 刺客信条：幻景/Assassin’s Creed Mirage  v1.1.1 (Build.21164535)修正版  送修改器+单板补丁  免安装中文版
+- 关联线索/Connected Clue   Build.22345137   免安装英文版
+- 霜华|霜雪/Rime   v1.04 送修改器   免安装中文版
+- 全金属狂怒/Full Metal Furies   v1.2.2   免安装中文版
+- 游离于世界之海|解除绑定：世界分离/Unbound Worlds Apart   v1.0.3   免安装中文版
+- 伏魔行者/ Twilight Monk   v1.4.1  免安装中文版
+- 精灵交涉人/Wisper   Build.19939613   免安装中文版
+- 死或生：维纳斯璀璨假期/Venus Vacation PRISM – DEAD OR ALIVE Xtreme   v1.05 全DLC  免安装中文版
+- 烛火地牢 /Tallowmere   v352.9    免安装中文版
+- 无声之怒|和平之怒|和平中的愤怒/Rage In Peace    v2.0   免安装中文版
+- 洪水世界：再次下潜/Diluvion Resubmerged   v1.2.33 送修改器   免安装中文版
+- 冥河：黑暗碎片|冥河：暗影碎片 /Styx Shards of Darkness   v1.02 送修改器   免安装中文版
+- 睡衣小英雄 ：黑夜英雄 /PJ MASKS HEROES OF THE NIGHT   完整版   免安装中文版
+- 狂野星球之旅|野蛮星球之旅/Journey to the Savage Planet    v1.0.10 送修改器   免安装中文版
+- 苍穹乾坤 /Firmament    v2.1.3  支持VR    免安装中文版
+- 少林与武当2|少林vs武当2 /Shaolin vs Wutang 2   Build.12918356    免安装中文版
+- 墨西哥英雄大混战2 /Guacamelee! 2   完全版   免安装中文版
+- 墨西哥英雄大混战：超级漩涡冠军版 /Guacamelee! Super Turbo Championship Edition   完整版   免安装中文版
+- 忍者印记：重制版 /Mark of the Ninja Remastered   v1.0   免安装中文版
+- 火线迈阿密|迈阿密热线/Hotline Miami    免安装中文版
+- 扳手侠DX/Ratcheteer DX    v1.0.3   免安装中文版
+- 皇家起义幸存者/ Royal Revolt Survivors    v1.0正式版  免安装中文版
+- 灵界女孩 /Whispering Willows   v1.6.4   免安装中文版
+- 再编译 /Recompile   v1.02   免安装中文版
+- 杀戮之源 /Rising Hell   v1.2.0    免安装中文版
+- 红帽仙踪 /Scarlet Hood and the Wicked Wood   v1.07   免安装中文版
+- 黑发大人的晚餐/Kurokami-sama’s Feast     免安装中文版
+- 落难航船：诅咒之岛的探险者/Stranded Sails – Explorers of the Cursed Islands    免安装中文版
+- 永世必死 /Aeon Must Die!   v1.17   免安装中文版
+- 晶灵小队/ Shard Squad   Build.22372616  免安装中文版
+- 康斯坦丝 /Constance  v1.1.0 免安装中文版
+- 消防模拟：火苗燃动/ Firefighting Simulator Ignite/ 单机+联机   v1.0040 全DLC  免安装中文版
+- 神弃之地/ GOD FORSAKEN  v1.0.7  免安装中文版
+- 允许开火 /Cleared Hot   v0.3.0   免安装中文版
+- 陨世之泪：涅槃/Fallen Tear The Ascension    v1.0.0   免安装中文版
+- 王牌与冒险/Aces and Adventures   v1.221   免安装中文版
+- 一切都会好的！/Everything Will Be Fine!   Build.22363262  免安装中文版
+- 面仙/face the immortal    免安装中文版
+- 斯盖尔之女VR版 /Maid of Sker VR   Build.22329117   免安装中文版
+- 硬币游戏|游乐场模拟器/The Coin Game   Build.22450623   免安装中文版
+- 鸟禽骑士/Avian Knights   Build.12857131   免安装中文版
+- 快打刑事X /RUSHING BEAT X Return Of Brawl Brothers   Build.22429707   免安装中文版
+- 蒸汽世界：挖掘2/SteamWorld Dig 2   免安装中文版
+- 疾风兔丸～冒险双奇谭～/Ninja Usagimaru Two Tails of Adventure   免安装中文版
+- 疯狂之门/Doors of Insanity   v1.0   免安装中文版
+- 冥河：暗影大师 /Styx Master of Shadows    完整版 送修改器    免安装中文版
+- 不义联盟2/Injustice: Gods Among Us Ultimate Edition 2   v20260311   全DLC 送修改器+满金币初始存档 附1代   免安装中文版
+- 无家可归|无路可归 /No Way Home   v2.0.276   免安装中文版
+- 小小梦魇2 /Little Nightmares II   PC/手机双端   v1165   免安装中文版
+- 武士 零 /Katana Zero  PC/手机双端   v1.5.9.0.2   免安装中文版
+- 小小梦魇1 /Little Nightmares   PC/手机双端   v1.0.43.1   免安装中文版
+- 无双深渊/ WARRIORS: Abyss   v1.8.0 全DLC 送修改器   免安装中文版
+- 王国 80年代/ Kingdom Eighties/ 手机+PC端双端   Build.17305417 免安装中文版
+- 命令与征服：变节者 /Command and Conquer Renegade   v1.037   免安装英文版
+- 东京巫女：幸存者/W.A.N.D. Project    v0.2.66   免安装中文版
+- 梦幻小镇 /Everdream Village   Build.22478811  免安装中文版
+- 恐龙之路/Dino Path Trail   Build.22416756   免安装中文版
+- 创世理想乡/ Craftopia  Build.22363068  送修改器   免安装中文版
+- 沙蟹 /DuneCrawl /单机+联机   v1.1   免安装中文版
+- 我穿越回末世5天前  Build.22341175  免安装中文版
+- 自由人：游击战争/Freeman: Guerrilla Warfare    v1.41+全武器全人物存档+内置修改器  免安装中文版
+- 破败之王：英雄联盟外传 /Ruined King A League of Legends Story   v1.8 全DLC 送修改器   免安装中文版
+- 金刚：绝境求生 /Kong Survivor Instinct   v1.0.4   免安装中文版
+- 镜头随身摄像机/FOOTAGE BODYCAM   免安装中文版
+- 幻日夜羽 湛海耀光/ YOHANE THE PARHELION BLAZE in the DEEPBLUE   v1.0.0  免安装中文版
+- 黑枪神悟空/Black Gunner Wukong  v1.0.0  免安装中文版
+- 驾战循环：幸存者/ Driveloop: Survivors   Build.22433427  免安装中文版
+- 最暗黑的故事 /The Darkest Tales   v1.09    免安装中文版
+- 爱、互联网、杀人魔法/Love, Internet, and Murder Magic     免安装中文版
+- 惊悚故事：异世迷境 /Creepy Tale: Some Other Place    v1.1.9    免安装中文版
+- 魔女庭院/Garden of Witches  v0.9.3  免安装中文版
+- 洛恩的诱惑/ Lorn’s Lure   v20260325  全DLC  免安装中文版
+- 乐高大乱斗 /LEGO Brawls /单机+联机   Build.20230831   免安装中文版
+- 大跳跃/Big Hops   Build.22490848   免安装中文版
+- 骑士精神2 /Chivalry 2 / 单机+联机  v1.0.48.0   免安装中文版
+- 宣誓高级版/Avowed Premium Edition   v2.1.0.0  送修改器   免安装中文版
+- 空洞骑士：丝之歌/ Hollow Knight: Silksong/ 单机+联机/ PC+手机双端  v1.0.30000  全DLC 送修改器   免安装中文版
+- 小女巫幸存者/ Little Witch Survivors  v2.3.1  免安装中文版
+- 拉娜星球|拉娜的星球|拉娜之星/Planet of Lana   v1.1.1.0  免安装中文版
+- 地平线之间 /Between Horizons   Build.22505113   免安装中文版
+- 1348：圣誓/1348 Ex Voto   v1.06  免安装中文版
+- 诺托里阿之书/Ars Notoria/单机+联机   v0.4.0.1   免安装中文版
+- VR战士5 R.E.V.O. 30周年纪念版/Virtua Fighter 5 R.E.V.O.    v1.10-联动 人中之龙-铁拳7+预购特典+全DLC   免安装中文版
+- 窗口游戏/Windowkill    v4.0.6b   免安装中文版
+- 只有向上：一起滑稽/Only Up: SKIBIDI TOGETHER/ 单机+联机   v1.4   免安装中文版
+- 空间之下| 幽宇空间/Underspace   v1.44.0   免安装中文版
+- 头条猎手/ The Headliners / 单机+联机  Build.22420424   免安装中文版
+- 新星漂移 |漂泊新星/Nova Drift    Build.22569821 全DLC    免安装中文版
+- 机械守护者|机器人任务/ Roboquest   v1.6.2  全DLC   免安装中文版
+- 海员人生：行船模拟/ Seafarer The Ship Sim   v0.2.6.1649  免安装中文版
+- 出口前：加油站/ Before Exit Gas Station   v3.1.3256  全DLC   免安装中文版
+- 挖掘岛 /Dig Island   Build.22538111   免安装中文版
+- 闪避刺客/SANABI: The Revenant   v1.3.53  免安装中文版
+- 黑水/ Darkwater/ 单机+联机   v1.0正式版  免安装中文版
+- 无尽星火/ Star Fire Eternal Cycle  v1.28.401  免安装中文版
+- 指环王：重返莫瑞亚|指环王：重返莫里亚 / The Lord of the Rings: Return to Moria   单机+联机   v1.6.7 全DLC 送原声带    免安装中文版
+- 恢复 /Restore   Build.22501330   免安装中文版
+- 派对狂欢 /Party Madness   Build.22404987   免安装中文版
+- 鲸中小镇 /A Completely Fictional Story About a City Inside a Whale   Build.22576059   免安装中文版
+- 恒星战术/Stellar Tactics   v1.0正式版    免安装英文版
+- 兔子武士/Rabbit Samurai   Build.21037559    免安装中文版
+- 黑道圣徒：重启版/ Saints Row/ 单机+联机   v1.6.1.4735700 送修改器 全DLC  免安装中文版
+- 剑星-虚拟机版/ Stellar Blade  v1.4.1|Build.19963153 终极版新补丁 送修改器   免安装中文版
+- 远方：涌变暗潮-虚拟机版 /FAR Changing Tides   v1.2.0   免安装中文版
+- 索尼克 超级巨星-虚拟机版/ Sonic Superstars   Build.20280032  免安装中文版
+- 鬼灭之刃 火之神血风谭-虚拟机版/Demon Slayer – Kimetsu no Yaiba    v1.83|Build.10714413   免安装中文版
+- 鬼灭之刃 火之神血风谭2-虚拟机版/ Demon Slayer-Kimetsu no Yaiba- The Hinokami Chronicles 2   v1.61（Build.22175057）免安装中文版
+- 星球大战：亡命之徒-虚拟机版/Star Wars Outlaws    v1.7|Build.Build.18870567   免安装中文版
+- 奇异人生：重逢-虚拟机版/Life is Strange Reunion    Build.22313698   免安装中文版
+- 原子陨落-虚拟机版 /Atomfall    v1.2.2（Build.20373765）   免安装中文版
+- 审判之逝：湮灭的记忆-虚拟机版/Lost Judgment   v1.12（Build.10792513）免安装中文版
+- 波斯王子 失落的王冠-虚拟机版 / Prince of Persia   Build.17528300    免安装中文版
+- 人中之龙7外传 无名之龙|如龙7外传：无名之龙-虚拟机版 /Like a Dragon Gaiden The Man Who Erased His Name    v1.22|Build.17235513  免安装中文版
+- 人中之龙8外传：夏威夷海盗|如龙8外传：夏威夷海盗-虚拟机版/Like a Dragon Pirate Yakuza in Hawaii     v1.14|Build.18023911    免安装中文版
+- 阿凡达：潘多拉边境-虚拟机版 / Avatar Frontiers of Pandora   Build.21582928_新版VBS补丁  免安装中文版
+- 怪物猎人：荒野-虚拟机版/ Monster Hunter Wilds    v1.041.03.00(Build.22067183)_新版VBS补丁    免安装中文版
+- 人中之龙 极3|人中之龙3 外传 Dark Ties-虚拟机版    v1.15(Build.22369130)_新版VBS补丁/  Yakuza Kiwami 3 and Dark Ties    免安装中文版
+- 人中之龙 维新！极|如龙：维新极-虚拟机版/Like a Dragon Ishin!    Build.17613625   免安装中文版
+- 女神异闻录4 无敌究极后桥背摔-虚拟机版/Persona 4 Arena Ultimax    Build.9549348   免安装中文版
+- 葛叶雷道复刻版：超力兵团奇谭-虚拟机版/RAIDOU Remastered The Mystery of the Soulless Army    v1.12|Build.20294993    免安装中文版
+- 索尼克 起源-虚拟机版 /Sonic Origins  v2.0.2(Build.12197262)_新版VBS补丁   免安装中文版
+- 任意迷途-虚拟机版/Lost in Random    Build.10359962   免安装英文版
+- 高地之歌 /A Highland Song   Build.14317554   免安装英文版
+- 光之子 /Child of Light   v1.0.31711   免安装中文版
+- 魔枪遁影/TeleMorpher    v1.0.0    免安装中文版
+- 情绪激荡！/Get Tilted! :)    v1.1   免安装中文版
+- 六面幽暗/Six Sides of Obscurity    免安装中文版
+- 加油！高尔夫 /Golfie  v2.0.5   免安装中文版
+- 闪耀火焰 /Sunblaze   Build.12422880   免安装中文版
+- 崩溃/Crumble    v2024.5.7   免安装中文版
+- DESORDRE：益智游戏冒险/DESORDRE : A Puzzle Game Adventure    免安装中文版
+- 包裹军团 /Parcel Corps   v20241005  免安装中文版
+- 表格作弊/SpreadCheat    Build.18413004    免安装中文版
+- 霓虹之血 /Neon Blood   v1.0.0   免安装中文版
+- 龙腾世纪2 /Dragon Age II   v1.04终极典藏版 全DLC 送修改器+最终装备战法贼套装含武器初始存档+原声音乐+攻略    免安装中文版
+- 凯恩的遗产：崛起 /Legacy of Kain Ascendance   Build.22506874   免安装中文版
+- 灯塔守护者联盟 |燃灯者联盟：豪华版 /The Lamplighters League   v1.3.1.67360   免安装中文版
+- 第一狂战士：卡赞-虚拟机版/ The First Berserker: Khazan  Build.22579715 送修改器  免安装中文版
+- 街头霸王6-虚拟机版/ Street Fighter 6   v2.0201.000（Build.22577077）免安装中文版
+- 布拉斯库巴斯的死后委托 /The Posthumous Investigation   v1.1.0.23    免安装中文版
+- 链轮Chained Wheels/ 单机+联机  Build.22575418   免安装中文版
+- 阿拉洛斯：四国战士 /Alaloth: Champions of The Four Kingdoms   v20260310  免安装中文版
+- 放血医师/BLOODLETTER    v0.1.1  免安装中文版
+- 神秘的电梯先生/MR.ELEVATOR   Build.21519459   免安装中文版
+- 真人快打1-虚拟机版 / Mortal Kombat 1  Build.17941244  免安装中文版
+- 怒之铁拳4/Streets of Rage 4/单机+联机  PC/手机双端   v08s   全DLC  送修改器    免安装中文版
+- 超级忍 反攻的斩击-虚拟机版 /SHINOBI Art of Vengeance /PC+手机双端  Build.22016198  免安装中文版
+- 孤独公会/ The Lonesome Guild   v1.5.0  免安装中文版
+- 残暴约翰2 / BRUTAL JOHN 2   Build.22454216  免安装中文版
+- 东方异域见闻/ Touhou Dystopian    v1.1.3a  免安装中文版
+- 诅咒之血 /Cursed Blood  Build.22618323   免安装中文版
+- 神魔山海经/ Gods Monster  v20260403 免安装中文版
+- 警区/The Precinct  v1.11.22854  免安装中文版
+- 死亡之种2：甜蜜家园 /Seed of the Dead: Sweet Home   v2.103   全DLC   免安装中文版
+- 战锤：末世鼠疫2/Warhammer: Vermintide 2/单机+联机    Build.13062024    免安装中文版
+- 受赞颂者：二人的白皇/Utawarerumono Mask of Truth    Build.6086446   免安装中文版
+- 除暴守卫 /GUARDS! /单机+联机   Build.13759846  免安装中文版
+- 终极猴子赛跑/Ultimate Monkey Race/ 单机+联机    v1.0.4   免安装中文版
+- 少女布丁旅情/GIRLS MADE PUDDING   v1.3.0 全DLC  免安装中文版
+- 亡灵桑拿 /Sauna of the DEAD   Build.22343268   免安装中文版
+- 托磨们/ Tomomon   Build.22070677   免安装中文版
+- 红霞岛-虚拟机版 /Redfall   Build.14381250  免安装中文版
+- 老鼠的冒险：归家之路 Season 1 /A Rat’s Quest – The Way Back Home   Build.22542392  免安装英文版
+- 恶煞车手：Rogue Shift /Carmageddon: Rogue Shift   v1.4.0  免安装中文版
+- 奥术塔幸存者 /Arcane Tower Survivors   Build.22637160   免安装中文版
+- 谁闭了马克斯叔叔的麦 /Who Pressed Mute on Uncle Marcus?   Build.17012174  免安装中文版
+- 艾尔登法环 黑夜君临/Elden Ring Nightreign /单机+联机  v1.03.5 全DLC 送修改器 免安装中文版
+- 龙的传人：孤旅/Dragonkin: The Banished   v1.4.69.54327  免安装中文版
+- 银河破裂者/The Riftbreaker /单机+联机  v1186.847 全DLC 送修改器 原声音乐   免安装中文版
+- 只有攀爬：共同进步 /Only Climb: Better Together    v1.1.0.9   免安装中文版
+- 被勒索的主播/Hacked The Streamer   Build.22662650   免安装中文版
+- 幻想乡：有罪推定~夜明前的三色堇 /Gensokyo Presumption of Guilt~Pansies Before Daw  Build.22631182  免安装中文版
+- 太空工程师2/Space Engineers 2  v2.2.0.2007  免安装英文版
+- 蒙福的负担 /Blessed Burden   Build.19855649    免安装中文版
+- 8号厕所/Toilet 8    Build.22216068   免安装中文版
+- 机动战队VS / Iron Saga VS   v1.4.6  全DLC   免安装中文版
+- 纸弹星球/Paper Planet   Build.15621175   免安装中文版
+- 战龟2 /War Tortoise   v10014   免安装中文版
+- 遗忘之海|被遗忘的海洋/ Forgotten Seas    单机+联机   v20260403  免安装中文版
+- 极地觉醒/ Arctic Awakening   v1.0.18  免安装中文版
+- 调试英雄/ Debugging Hero   Build.22108995  免安装中文版
+- 冥雄鬼屋：玫瑰与诅咒的奏鸣曲 /Elton Manor Requiem of the Cursed_Roses  Build.22674413   免安装中文版
+- 阿尼玛：黑暗统治/Anima The Reign of Darkness    Build.6791979   免安装中文版
+- 奇异马赛克 /Mosaic of the Strange   Build.22679034   免安装中文版
+- 零点协议 /Nullpoint Protocol   Build.22705132   免安装中文版
+- 街头霸王5 冠军版 /Street Fighter V   v7.011  整合Season5第五季 送修改器+赠音乐原声+全人物+全内容解锁存档   免安装中文版
+- 先祖：人类奥德赛/Ancestors: The Humankind Odyssey   v1.41   免安装中文版
+- 家里蹲/Pull Stay   v1.0.7   免安装中文版
+- 大地之道/Lay of the Land    v1.0.9   免安装中文版
+- 星空/ Starfield v1.16.236.0 全DLC 送修改器 赠原声音乐 赠原画电子书 赠第十一周目开局存档.全能力和技能满级 免安装中文版
+- 霍格沃茨之遗-虚拟机版 /Hogwarts Legacy   v1613387（Build.20773316）免安装中文版
+- 侠盗猎车手5|GTA5/Grand Theft Auto V Enhanced   v1013.34  增强版   送修改器  免安装中文版
+- 数字魅影 极限竞赛 /Meta Ghost: Breaking Show   v0.9.7.6   免安装中文版
+- 哥布林女仆大扫除/ Goblin Cleanup / 单机+联机   Build.22697083   免安装中文版
+- 古代战争：中世纪十字军东征/Ancient Wars Medieval Crusades    v0.46   免安装中文版
+- 亡灵舞者之裂隙|节奏裂隙/Rift of the NecroDancer   v1.14.0  全DLC  免安装中文版
+- 试炼之地2/The Trials 2   Build.19205380  免安装中文版
+- 幻兽帕鲁/ Palworld/ 单机+联机   v0.7.3.90464  送存档 送MOD整合版+送修改器    免安装中文版
+- 迷途猫的魔法冒险 /Whisker Wanderlust Unwritten Chapter   Build.22723913   免安装中文版
+- 藏身世界各地 /Hidden around the World   Build.22682753   免安装中文版
+- 科纳风暴2：迷雾|寒冬2 迷雾 /Kona II: Brume   v20240223-P2   免安装中文版
+- 多巴胺/Dofamine    Build.22005500  免安装中文版
+- 巨剑/ GIGASWORD   Build.22734827  免安装中文版
+- 心门守卫/ Gatekeeper   v1.2.0.25  全DLC  免安装中文版
+- 余烬骑士|微光骑士 / Ember Knights   v2.3.1   免安装中文版
+- 虫虫英雄：塔防/Bug Heroes: Tower Defense    v10002   免安装中文版
+- 乐高星球大战天行者传奇/LEGO Star Wars: The Skywalker Saga  v1.0.0.44657   全DLC   免安装中文版
+- 月姬格斗 /MELTY BLOOD: TYPE LUMINA/单机+联机    v1.43.1     免安装中文版
+- 孤羊战纪/ OVIS LOOP   v0.4.1 全DLC  免安装中文版
+- 坤坤的鸡窝 /KunKunNest   Build.22549381  免安装中文版
+- 禁忌星域 /Girl Frame    v2.0  免安装中文版
+- 梦之形/ Shape of Dreams / 单机+联机  v1.2.1.7s  送修改器   免安装中文版
+- 钢铁雷霆|金属雷霆/ Metal Thunder   Build.22757115  免安装中文版
+- 碧屿之下 妮娅与不思议齿轮 /Under The Island   v1.2.0   免安装中文版
+- 海绵宝宝：潮汐巨神/ SpongeBob SquarePants Titans of the Tide   v1.4.0.0  免安装中文版
+- 摩托狂飙：重生/Moto Rush Reborn  Build.21745058   免安装中文版
+- 卧龙：苍天陨落/Wo Long: Fallen Dynasty / 单机+联机   v1.304   免安装中文版
+- 在我走之前 /Before I Go   Build.22661558   免安装中文版
+- 弗洛伦斯 /Florence    Build.20230772     免安装中文版
+- 重返沼泽 /Back in the Swamp   Build.22649728   免安装中文版
+- 挺进地牢/Enter The Gungeon  v2.1.9a 送修改器+原声音乐+全人物.武器.BOSS解锁存档+原画PDF  免安装中文版
+- 小小勇士们|碎肉/ Morsels    v0.34.2  免安装中文版
+- 无望之海/ Hopeless Sea   Build.22747900  免安装中文版
+- 猎杀女巫/KILL THE WITCH    Build.22751907    免安装中文版
+- 审判之眼 死神的遗言 重制版-虚拟机版 /Judgment   Build.10792091   免安装中文版
+- 超越善恶：20 周年纪念版-虚拟机版 /Beyond Good and Evil – 20th Anniversary Edition  Build.15306523   免安装中文版
+- 潜行者2：切尔诺贝利之心/S.T.A.L.K.E.R. 2: Heart of Chornobyl   v1.9.0  全DLC 送修改器 免安装中文版
+- 苦痛庄园|苦痛殿堂/ Halls of Torment   Build.22764619   全DLC   免安装中文版
+- 天使时代 /Angeline Era   Build.22739990   免安装英文版
+- 火焰之中|深入火场/Into The Flames    v2092 全DLC    免安装中文版
+- 永恒幻境/ Eternal Dreamland    Build.22053920  免安装中文版
+- 指尖疾速：打字狂潮/Glyphica: Typing Survival    v20260414   免安装中文版
+- 脑怪来袭！脑晶保卫战/ Chip n Clawz vs The Brainioids    v1.0.24634   全DLC  免安装中文版
+- 吸血鬼幸存者/ Vampire Survivors / PC+手机双端  v1.14.112  全DLC  免安装中文版
+- 刺客信条：影-虚拟机版 / Assassin’s Creed Shadows   Build.22460987    免安装中文版
+- 宝可梦：零维E界 v2.0.0 免安装中文版
+- 边缘空间/Shattered Dimension    Build.22757613   免安装中文版
+- 雨世界/Rain World   v1.11.8   全DLC     免安装中文版
+- 神秘谋杀机器/Murder Mystery Machine   v1.0.3   免安装中文版
+- 神风蔬菜/Kamikaze Veggies   v1.02   免安装中文版
+- 黑白墓地：重制版/Nongunz Doppelganger Edition    免安装中文版
+- 仰冲异界 /Obduction   v1.8.4.1  免安装中文版
+- 钢之歌|铁之歌|钢之铸歌 /Song of Iron   v1.0.9.5   免安装中文版
+- 迷你忍者/Mini Ninjas    完整版   免安装中文版
+- 阿加莎·克里斯蒂 – 赫尔克里·波洛：最初的案件/Agatha Christie – Hercule Poirot The First Cases     v1.0.6   免安装中文版
+- 超级肉肉男孩3D /Super Meat Boy 3D   v1.5   免安装中文版
+- 勇敢的心 叶落归根-虚拟机版 /Valiant Hearts Coming Home   Build.19066588    免安装中文版
+- 超越钢铁苍穹|钢铁天空外|超越钢铁天空 /Beyond a Steel Sky    v1.5.29158 全DLC    免安装中文版
+- 红围巾/Scarf   v1.1  免安装中文版
+- 流浪汉侠|乞丐超人|波美曼 /BOMJMAN   Build.7929183   免安装中文版
+- 全职猎人：NEN×IMPACT/ HUNTER×HUNTER NEN×IMPACT /单机+联机   v1.3.2   全DLC  免安装中文版
+- 国王永不倒下 /Kings Do Not Fall   Build.22857053   免安装中文版
+- 3D密室逃脱：遗产的诅咒/3D Escape Room Cursed Legacy   Build.22794371   免安装中文版
+- 序章：重返往昔！/Prologue Go Wayback!    Build.22833191   免安装中文版
+- 咩咩启示录/ Cult of the Lamb/ 单机+联机/ PC+手机双端   v1.5.25.1048 全DLC 送修改器  免安装中文版
+- 小小世界：原野求生/ Smalland: Survive the Wilds/ 单机+联机   v2.3.1  免安装中文版
+- 绿茵谷物语/Greenfield Valley    Build.22773631   免安装中文版
+- 暴走甜心！/Don’t Stop Girlypop!   v1.0.12  免安装中文版
+- 灵视异闻 FILE38 伊势人鱼物语/PARANORMASIGHT The Mermaid’s Curse   Build.22496791  免安装中文版
+- 遗忘之灵/Forgotlings   v1.2.0.1  免安装中文版
+- 末日清理专家/Doom Sweeper   Build.22711157   免安装中文版
+- 最强城堡 /Castle Craft    Build.22910659   免安装中文版
+- 永久与神树的祈愿者/ Towa and the Guardians of the Sacred Tree /单机+联机   Build.20976006    全DLC  免安装中文版
+- 奇怪的RPG 2 / Weird RPG 2   v1.1.4  免安装中文版
+- 核能烈焰 /Nuclear Blaze    v1.5.0   免安装中文版
+- 武德岭 DX：初级小兵反击战/Wunderling DX    v1.4.8961   免安装中文版
+- Shirone：龙族少女/Shirone the Dragon Girl    v1.0.0   免安装中文版
+- 装甲圣骑士|帕拉丁装甲 /Panzer Paladin    v1.0.0.12969    免安装中文版
+- 黑风/Blackwind    v1.0.2.5   免安装中文版
+- 第三天/The Third Day    完整版    免安装中文版
+- 洛可岛：结束痛苦的钟声 /Rocco’s Island Ring to End the Pain   v1.0.0   免安装中文版
+- 瓦尔法瑞斯/Valfaris    Build.7810105   免安装中文版
+- 酉閃町 /Dusk Diver    完整版    免安装中文版
+- 不寐之境：女巫与魔咒 /Never Grave The Witch and The Curse   Build.22831728   免安装中文版
+- 绝对魔权/ Absolum/ 单机+联机   v04.r35080   免安装中文版
+- 龙珠战士Z|龙珠格斗Z|龙珠斗士Z/DRAGON BALL FighterZ /单机+联机   v1.50 全DLC 送修改器+音乐原声   免安装中文版
+- 双截龙外传：双龙出海/DoubleDragonGaiden_ROTD   v20260421  免安装中文版
+- 模拟法官/ Judge SIM     Build.22903449   免安装中文版
+- 地狱即我们/ Hell is Us  v1.6.48.48649   全DLC 送预购奖励+原声音乐+数字画册  免安装中文版
+- 摄像头惊魂2/CAPTURED 2    Build.22941214    免安装中文版
+- 驾驶地平线/ Drive Beyond Horizons / 单机+联机/ PC+手机双端   Build.22542763   免安装中文版
+- 掘地求狗 /Pratfall /单机+联机   Build.22903190  免安装中文版
+- 漫漫长夜/The Long Dark   v2.55   全DLC  免安装中文版
+- 凯恩的遗产：嗜血狂魔 复刻版 /Legacy of Kain Defiance Remastered   v1.0.7  免安装中文版
+- 巴塞罗那酒店/ HOTEL BARCELONA   v1.2.0  全DLC    免安装中文版
+- DROVA – 被遗弃的血亲|德洛瓦：被弃之族|困兽之国/ Drova – Forsaken Kin   v1.3.4.2   免安装英文版
+- 二击必杀/Two Strikes   v20260422 全DLC   免安装中文版
+- 离火长明 /Nocturnal    Build.22954501   免安装中文版
+- 灵魂附身/SoulSwap   Build.22830225   免安装中文版
+- 混乱女孩|混沌女孩 /Chaos Girl  v1.3.2  免安装中文版
+- 疯狂兔子：奇遇派对|疯狂兔子：传奇派对-虚拟机版/ Rabbids Party     v1.0.001  免安装中文版
+- 火柴人征战异世界：开局只有一把刀/ Stickman Strikes Conquer Fantasy World   v0.3.1  全DLC   免安装中文版
+- 小黄鸭卡牌：静谧之旅/Placid Plastic Deck – A Quiet Quest   Build.22350466  免安装中文版
+- 恶意不息/ No Rest for the Wicked  v29466  送修改器+存档  免安装中文版
+- 符文工房 龙之天地/ Rune Factory Guardians of Azuma   v1.1.4  全DLC  免安装中文版
+- 回旋镖杰克 /Boomerang Jack   Build.22961900    免安装中文版
+- 碎拍超人/BrebeMan    Build.22652261  免安装中文版
+- 恐惧试炼 /Dread Trials    Build.22955045   免安装中文版
+- 幽闭深渊/ Hidden Deep/ 单机+联机  v0.97.69  免安装中文版
+- 1428：西里西亚上空的阴影 /1428: Shadows over Silesia  Build.22921231  免安装中文版
+- 灾厄逆刃/ScourgeBringer    Build.22921618   免安装中文版
+- 我们的王国 蚀时果实与远古魔物 /Kingdom’s Return Time-Eating Fruit and the Ancient Monster    Build.22935250   免安装中文版
+- 小小梦魇VR：异境回响 /Little Nightmares VR Altered Echoes   Build.22695609   免安装中文版
+- 觉醒者：遗忘之誓 /The Awakener: Forgotten Oath   Build.21049482   免安装中文版
+- 七龙珠 电光炸裂！ZERO / Dragon Ball Sparking Zero /单机+联机   v20260422  角色补充包2 全DLC 送修改器   免安装中文版
+- 杀死砖块人|杀死砖男/Kill the Brickman    Build.20096440   免安装中文版
+- 泽克西昂/Zexion   Build.22958417  免安装中文版
+- 多重花园/Manifold Garden   v1.1.0.17370  免安装中文版
+- 贪婪之秋2：垂死世界/GreedFall II: The Dying World    v1.2  免安装中文版
+- 远日点 /Aphelion   Build.22817886   免安装中文版
+- 神器行者：重生/Artifact Seeker    v1.4.13   免安装中文版
+- 骰子闯魔城/ Dice and Fold  v1.5.0  免安装中文版
+- 生存主义：隐形异变/ Survivalist: Invisible Strain   v277   免安装中文版
+- 球比伦战记/ BALL x PIT   v20260428  免安装中文版
+- 寄生虫/ The Parasites  v0.1.5.0.0  免安装中文版
+- 深渊绝赌：千王处刑/All in Abyss: Judge the Fake  Build.20728715  免安装中文版
+- 托马斯和朋友：多多岛奇观/Thomas & Friends Wonders of Sodor    Build.22865235  免安装中文版
+- 无敌少侠VS /Invincible VS   Build.23039865  免安装英文版
+- 王国循环/Kingdom Loop    Build.22986938   免安装中文版
+- 苍穹浩瀚：奥西里斯重生 /The Expanse Osiris Reborn    v0.9.0.2433    免安装中文版
+- 救赎少女/ Maid of Salvation   v1.1.3   免安装中文版
+- 多多里 /DODORI   Build.22916300   免安装中文版
+- 寻找小猫咪/Kitty Finder    Build.22343120   免安装中文版
+- 不良兄弟 /BAD BOY BROTHER    Build.20267596    免安装中文版
+- 猎人X：代号T / HunterX: code name T   v1.1.0  免安装中文版
+- 古墓丽影三部曲：重制版|古墓丽影1-3 重制版/Tomb Raider I-III Remastered Starring Lara Croft   v20260501   免安装中文版
+- 拥有者|所有者/ Possessor(s)   Build.22843153  免安装中文版
+- 链枪 /ChainStaff   Build.22982804  免安装中文版
+- 刺客信条：起源|刺客信条7 -虚拟机版/Assassin’s Creed Origins   v1.62   免安装中文版
+- 孤岛惊魂5-虚拟机版 /Far Cry 5    v1.016     免安装中文版
+- 无限机兵/AI LIMIT   v1.2.003  送修改器   免安装中文版
+- 消逝的光芒：困兽失地复苏版/Dying Light The Beast/单机+联机   v1.6.4 全DLC 送修改器 免安装中文版
+- 千棋百计/Gambonanza    v1.0.0s   免安装中文版
+- 久我山栞的死法手账 /Kugayama Shiori’s Death Diary   Build.23065819   免安装中文版
+- 忍者神龟 斯普林特的命运|忍者神龟：破碎命运/Teenage Mutant Ninja Turtles: Splintered Fate/单机+联机    v1.14.1 全DLC   免安装中文版
+- 无尽猎杀/Grind Survivors    v4053   免安装中文版
+- 杰与沉默鲍勃：慢性重拳/Jay and Silent Bob Chronic Blunt Punch     Build.22858920  免安装英文版
+- 兽角骑士/Horned Knight  v1.1.6_Build6252943   免安装中文版
+- 修仙故事: 无尽剑域/Cultivation Story Infinite Sword Realm  v0.81  免安装中文版
+- 黑暗密友：望升院/Dark Pals    Build.23045593   免安装中文版
+- 外卖疾送/DOSTAVKA    Build.23058688   免安装中文版
+- 极痛 /Excrucia   Build.22271553   免安装中文版
+- 崩坏世界的指引之人/Navigatore of the Ruined World    Build.22729182   免安装中文版
+- 爱莉丝迫降/Alice Landing    Build.22845809   免安装中文版
+- 东方华心传 /Touhou Blooming Soul   Build.23067658   免安装中文版
+- 索拉斯塔2/Solasta II   v0.3.5.90393  免安装中文版
+- 梦幻主义/ Onirism   v20260504   免安装中文版
+- 赤海狂盗：卡牌远征 /Red Rogue Sea   Build.23068556     免安装中文版
+- 无限的迷宫城/Rustil Eternal Labyrinth Castle   v1.0.20   免安装中文版
+- 消失的钓鱼|去钓鱼了/GONE Fishing/单机+联机   v7.1.2   免安装中文版
+- 矮人领域|矮人王国/ Dwarven Realms   Build.22657254   免安装中文版
+- 一切都好：极限硬撑 /This Is Fine Maximum Cope   v0.9.1   免安装中文版
+- 高塔逃脱/Tower Escape   v1.12.5    免安装中文版
+- 少女与学院城 /Kotama and Academy Citadel   v1.01.01.02   免安装中文版
+- 科洛博克：疾病模拟器/Koloboke Sickness Simulator    Build.23106058   免安装中文版
+- 无目低语 /Whispers of the Eyeless   v1.1.0.3  免安装中文版
+- 打工火柴人/ Stick It to the Stickman  Build.23112809   免安装中文版
+- 和朋友一起赌博 /Gamble With Your Friends/单机+联机     v1.0.7   免安装英文版
+- 狐狸的故事/A Fox Tale    Build.22989810   免安装中文版
+- 斗食战酱/GladiEATers    Build.23129113   免安装中文版
+- 面包师 /El Panadero -The Baker-   Build.21218927   免安装中文版
+- 救援行动！/SOS OPS!   v1.5.0  全DLC   免安装中文版
+- 废土履迹 /Existential Treads   Build.23100269    免安装中文版
+- 卡莱蒙沃之塔/Tower of Kalemonvo   Build.21538246   免安装中文版
+- 我看人下碟 /Wax Heads   Build.23128932   免安装英文版
+- 负熵幸存者/ Entropy Survivors / 单机+联机  v1.7.3  免安装中文版
+- 小小大冒险：双子星传奇 /Little Big Adventure – Twinsen’s Quest    v1.1.3   免安装中文版
+- 收获日3/PAYDAY 3 /单机+联机   v1.0.0.0.941010 全DLC   免安装中文版
+- 混音青春|混音带 /Mixtape  v1.1   免安装中文版
+- 飞儿 /Phoenix’s Faye   Build.23096323   免安装中文版
+- 达尔文悖论/ Darwin’s Paradox!    v1.0.2.25172    免安装中文版
+- 永恒天空/ Forever Skies/ 单机+联机  v1.2.2.44694 全DLC  送修改器 送原声带  免安装中文版
+- 奥布林派对/Oblin Party    Build.17856349   免安装中文版
+- 雪地奔驰高级版 /SnowRunner  /单机+联机   v20260319   全DLC   送修改器   免安装中文版
+- 特里的其他游戏合集/Terry’s Other Games    Build.18792189   免安装中文版
+- 浮雕 /Reliefs The Time of the Lemures   Build.14857217   免安装中文版
+- 泰坦之旅2/ Titan Quest II    v0.5.0.126509   送修改器  免安装英文版
+- 德米欧 地城奇谭|德米欧：PC版/Demeo   v1.42.40693   免安装中文版
+- 窃血之徒/ Bloodthief   v1.2.3  免安装中文版
+- 蛙穿雪境/Froggy Hates Snow    v1.0.2    免安装中文版
+- 挖！挖！挖！|继续挖掘|挖挖挖/Keep Digging /单机+联机   Build.23056890   免安装中文版
+- 碧蓝幻想Versus：崛起/Granblue Fantasy Versus: Rising /单机+联机  v2.51 全DLC  免安装中文版
+- 缠魂/TetherGeist    Build.23157409   免安装中文版
+- Eko与被诅咒之地/Eko and the Bewitched Lands     Build.23157642   免安装中文版
+- 真人快打：遗产合集/ Mortal Kombat Legacy Kollection/ 单机+联机   v20260428 免安装英文版
+- 心之眼/MindsEye  v7331134  免安装中文版
+- 兵连祸结/ Wartor   v20260319  免安装中文版
+- 拉娜之星2 /Planet of Lana II   v1.1.10  免安装中文版
+- 蠢蠢角斗士/ Gladio Mori / 单机+联机   Build.23124189   免安装中文版
+- 我的英雄学院 无尽正义/MY HERO ACADEMIA All’s Justice/单机+联机   v3.00  免安装中文版
+- 耳语山爆发|鬼山魔音爆发/ Whisper Mountain Outbreak   Build.22674705  免安装中文版
+- 黄金河计划/ The Gold River Project   Build.23135474   免安装中文版
+- 紧急服务/Responding   Build.23066867   免安装中文版
+- 惊悚游戏2：疯狂牧羊 /Scary Game 2 The Mad Shepherd    Build.23167280    免安装中文版
+- 东方华彩乱战2 /Touhou Blooming Chaos 2   v1.11a   免安装中文版
+- 生化危机7 黄金版/Resident Evil 7 Biohazard   v1.0.0.7   全DLC  送修改器   送BGM     免安装中文版
+- 真三国无双6：猛将传终极版 /DYNASTY WARRIORS 7 Xtreme Legends Definitive Edition   Build.3345452   免安装中文版
+- 真三国无双7：猛将传完全版/DYNASTY WARRIORS 7: Xtreme Legends Complete Edition     Build.3602035    免安装中文版
+- 魔法司书阿莉艾娜～七英杰之书～ /Ariana and the Elder Codex    v1.0.2  免安装中文版
+- 血之诗：月之蚀/Poetry of Blood   v0.7.6.5  免安装中文版
+- 寄宿之恋/Karigurashi Ren’ai Living on Borrowed Love    Build.22629912   免安装中文版
+- 古神之呼唤/Call of the Elder Gods    Build.23095004   免安装中文版
+- 夺宝奇兵 古老之圈/The Great Circle   v20260512  全DLC 送修改器    免安装中文版
+- 前方高能|内容警告/Content Warning /单机+联机  v1.24.0   免安装中文版
+- 炼金与魔法/ Alchemage  Build.22865239  免安装中文版
+- 文字光辉：符文探险 /Effulgence RPG  Build.23185197  免安装中文版
+- 波普乱战/Bopl Battle/单机+联机   Build.18644642   免安装中文版
+- 茜塔和世界线悖论 /Theta and Paralldox on Worldlines  Build.23168654   免安装中文版
+- 江湖录/ JIANGHU CHRONICLES    v1.2.1  送修改器    免安装中文版
+- 克苏鲁：恐怖深渊/Cthulhu The Cosmic Abyss    Build.23114800   免安装中文版
+- 格里米斯工匠/The Artisan of Glimmith    v20260510  免安装中文版
+- 救命！怎么又塌了!/ Haste /单机+联机  v1.11.B   免安装中文版
+- 虐杀熔炉/ KIBORG   v20260511 全DLC  免安装中文版
+- 盒子：失落的碎片 |盒子：丢失的碎片 /Boxes: Lost Fragments    Build.23009012   免安装中文版
+- 贪婪大地/ Greedland   v1.1.12  送修改器  免安装中文版
+- 人类一败涂地/ Human Fall Flat / 单机+联机  Build.23044358   免安装中文版
+- 史莱姆牧场2 / Slime Rancher 2/ 单机+联机   v1.2.3   全DLC   免安装中文版
+- 深入矩阵/ Into The Grid    v0.3.4  免安装中文版
+- 缺陷 /FLAW   Build.23203802  免安装中文版
+- 极光山庄：第2章/Aurora Hills Chapter 2    Build.22858586   免安装中文版
+- 18层楼/18th Floor    Build.17820596   免安装中文版
+- 终世传说/Lastlore Saga    Build.23245162    免安装中文版
+- 一步一脚印/ Baby Steps/单机+联机   Build.21168055   免安装中文版
+- 最后一位守护者|最后的守护者 / The Last Caretaker  v0.7.5.610707  免安装中文版
+- 赛菲莉娅/ Sephiria / 单机+联机  Build.23215285_v0.12.0    免安装中文版
+- 色彩难题/Chromatic Conundrum   Build.22520080      免安装中文版
+- 原爆点/Ground Zero    v20260514   免安装中文版
+- 星界战士|星座上升/Astral Ascent    v2.6.0    全DLC 送原声音乐+艺术书   免安装中文版
+- 妖精的尾巴：地下迷城/FAIRY TAIL DUNGEONS    v1.2.16  免安装中文版
+- 异星探险家/ASTRONEER /单机+联机   v1.40.3 全DLC   免安装中文版
+- 明日潮汐 /Tides of Tomorrow     Build.23130799    免安装中文版
+- 死亡日：狂杀末路/ Deadly Days Roadtrip   Build.23045293_v0.20.4     免安装中文版
+- 哥布林维克：窃贼大亨/Goblin Vyke The Thief Tycoon    v1.0.21 免安装中文版
+- 星际飞船EVO/Starship EVO    Build.23228573    免安装中文版
+- 阿斯加德的陨落/Asgard’s Fall — Viking Survivors   Build.23195795_v0.2.4c      免安装中文版
+- 伊里迪奥/Iridio    Build.23199609   免安装中文版
+- 惊悚故事：雪孩子 /Creepy Tale Snow Child   Build.23255606   免安装中文版
+- 她梦/NIDANA    Build.19338357   免安装中文版
+- 威尔：追随灯光 /WILL Follow The Light   v20260515   免安装中文版
+- 巨人杀手：暗黑之潮/Jotunnslayer: Hordes of Hel   v1.2.3  全DLC  免安装中文版
+- 暴打联盟 /Underling Uprising   Build.23179233   免安装中文版
+- 亦春秋/Power Of Seasons    Build.6180346   免安装中文版
+- 海行者传奇/Sea Walker Saga    Build.23222877   免安装中文版
+- 轮回战纪/Mad King Redemption    Build.23238162   免安装中文版
+- 猫岛雨香/Cat Island Petrichor    Build.23253844   免安装中文版
+- 痛苦平原/ Plains of Pain/单机+联机   Build.22815050   免安装中文版
+- 哥特少女勇闯恶魔城/SiNiSistar Lite Version   Build.20282374     免安装中文版
+- 哥特少女勇闯恶魔城2/SiNiSistar 2    Build.23210101   免安装中文版
+- 复古狂热爷爷/ Grandpa High on Retro    v20260514   免安装英文版
+- 桌游like/Boardlike    Build.23240014   免安装中文版
+- 万象群侠传/WanXiang    v1.2.0   免安装中文版
+- 动感冒险/Moventure    Build.23270387   免安装中文版
+- 万物皆可蟹：动物进化/ Everything is Crab The Animal Evolution Roguelite   v1.0.1.8213   免安装中文版
+- 低魔时代/Low Magic Age   v0.92.05  免安装中文版
+- 斯基吉尔 /Skigill   Build.23269669  免安装中文版
+- 命运之弦11：魔法幻梦/Strings of Fate XI Magic dream   Build.23255955   免安装中文版
+- 格瑞维亚|格兰维尔/ Granvir/ 单机+联机    v2.31.2    免安装中文版
+- 魔鸡马奇克2 /Machick 2   v1.1.8   免安装中文版
+- 铁骑少女/ Cavalry Girls    v2.6.2801    全DLC   免安装中文版
+- 伊卡鲁斯跑酷|伊卡洛斯跑酷 /Ikarus Parkour  Build.22517430    免安装中文版
+- 死亡线/DeadWire    Build.23213823   免安装中文版
+- 刺客信条英灵殿-虚拟机版/ Assassins Creed Valhalla    v1.7.0_支持Windows 11 24H2    免安装中文版
+- 兔子与钢铁 /Rabbit and Steel /单机+联机   v2.0.2.7   送修改器   免安装中文版
+- 地下矿工2|矿坑之下2 / UnderMine 2   v0.7.0  免安装中文版
+- 静脉注射2/ Intravenous 2  v1.4.10  全DLC   免安装中文版
+- D.M.L.C.！欢闹炸恋生死斗 /Death Match Love Comedy!    Build.21694728   免安装中文版
+- 漫威宇宙入侵 /MARVEL Cosmic Invasion / 单机+联机   v1.0.0.13170   全DLC   免安装中文版
+- 欧洲卡车模拟2 / Euro Truck Simulator 2  / 单机+联机   v1.59.1.3s 全DLC  附遨游中国MOD   免安装中文版
+- 罪恶装备：STRIVE|罪恶装备：奋战 /GUILTY GEAR -STRIVE- /单机+联机   v2.01 全DLC    免安装中文版
+- 阿喀琉斯：幸存者|阿喀琉斯：生存者 /Achilles: Survivor   v1.5   全DLC  免安装中文版
+- 驯鹿之径/The Caribou Trail    Build.23014040   免安装英文版
+- 佩布尔骑士/Pebble Knights    Build.23233524    免安装中文版
+- 失踪的偶像 /Pricolage Pricolage -IDOLIZED-   Build.13532595   免安装中文版
+- 夜下降生2/ UNDER NIGHT IN-BIRTH II Sys:Celes2/ 单机+联机/ PC+手机双端/    Build.24122025   全DLC   免安装中文版
+- 饥荒/ DONT STARVE TOGETHER/单机+联机/ 手机+PC双端   v728321   免安装中文版
+- 语言奇境：英语/WonderLang English    Build.23058064   免安装中文版
+- 炼魂之地：神偶剧院/Crisol Theater of Idols   v1.2     免安装中文版
+- 圣杯誓约/ SWORN / 单机+联机  v1.2.0.0.1220  免安装中文版
+- 黑域领主 /Dark Dominion   v20260519   免安装中文版
+- 尼拉航海者 /Voyagers of Nera   v0.16.12.45577   免安装英文版
+- 觉醒者：战斗之潮 /The Awakener Battle Tendency   v1.010   免安装中文版
+- 食魂徒：蓝色圣殇/Shikhondo Blue Pieta    Build.23229636   免安装中文版
+- 皓白初晓/Alabaster Daw    Build.23324848   免安装中文版
+- 鬼行域 /Haunted Lands  v1.0.9   免安装中文版
+- 墓棘/Gravethorn    v1.021  免安装中文版
+- 利刃战士 /Re Blade   Build.23308999   免安装中文版
+- 夜间：鬼屋之旅 /At Night Haunted Ride   Build.23303809   免安装中文版
+- 矮人元祖/ First Dwarf /单机+联机    Build.23304548   免安装中文版
+- 纺织者之咏/Voice of Belldona    Build.23316788   免安装中文版
+- 苍翼：混沌效应/ BlazblueEntropyEffect   v1.0.9.142083  全DLC 送修改器   免安装中文版
+- 萨姆森 /Samson   v20260520  免安装英文版
+- 口袋勇气| 口袋勇者/Pocket Bravery   v3.08 全DLC   免安装中文版
+- 烦恼驿站/Burden Street Station    Build.23341307   免安装中文版
+- 巨击大乱斗/GigaBash   v1.8.4 全DLC  免安装中文版
+- 全能私立侦探社/Hyper Euphoria    Build.23046365   免安装中文版
+- 地狱黑杰克/Black Jacket     Build.23306404   免安装中文版
+- 失落余烬：重燃版/LOST EMBER Rekindled Edition    Build.23305858   免安装中文版
+- 剑术格斗|地狱剑术/ Hellish Quart    Build.23046301    免安装中文版
+- 潜渊症|浅渊症|恐怖潜艇/ Barotrauma / 单机+联机    v1.12.7.0  全DLC   免安装中文版
+- 废墟国度：符文之门 /Regions of Ruin Runegate   v1.0.30   免安装中文版
+- 退换者|替换者/REPLACED   v1.1.2.0   免安装中文版
+- 巴萨卡狂潮/Berserker Onslaught    Build.23343151   免安装中文版
+- 乐高蝙蝠侠：黑暗骑士之遗-解压即玩版/ LEGO Batman Legacy of the Dark Knight   Build.23314029 全DLC   免安装中文版
+- 自然守护者 /The Guardian of Nature   v1.0正式版   免安装中文版
+- 执念刑警之消失的证人 Build.23364488 免安装中文版
+- 巴布西4D /Bubsy 4D   Build.22924744   免安装中文版
+- 暗黑血统：战神版/ Darksiders Warmastered Edition   Build.23328763  送修改器+一周目通关存档(9格血槽和6格怒气好像+有深渊铠甲+传说级附魔都找到+主线已通武器是末日审判之剑)+音乐原声    免安装中文版
+- 死亡迪斯科|亡命迪斯科/Dead as Disco    Build.23332779   免安装中文版
+- 火湖/SULFUR   v0.16.10  免安装中文版
+- 一掷百万/Dice A Million    Build.23297001   免安装中文版
+- 穹顶守护者/Dome Keeper/单机+联机   v5.0.4  全DLC  免安装中文版
+- 泪景/Tearscape     Build.23328004   免安装中文版
+- 勿忘我/Remember Me    Build.22897524   免安装中文版
+- 冬日生存工程/Winter Survivor Protocol     Build.23374706    免安装中文版
+- 咒语旅团/ The Spell Brigade/ 单机+联机   v1.0.4.17009  免安装中文版
+- 马克塔拉：史莱姆掠宝祭 /Maktala Slime Lootfest    Build.23313667   免安装中文版
+- 随机鼠/Randomice    Build.22973450   免安装中文版
+- 真三国无双7 帝国/ Dynasty Warriors 8 Empires   Build.1023275    免安装中文版
+- 钢铁巨像 机甲觉醒 /Gigantes Ex Machina  Build.22474592   免安装中文版
+- 萌宠竞技场/Fluffy Arena    Build.23373347    免安装中文版
+- 腾兽：蜂群|腾兽：蜂拥之群  / Temtem: Swarm /单机+联机   v1.0.9   免安装中文版
+- 创伤创伤快消失！/Pain Pain Go Away!    Build.23304912   免安装中文版
+- 吃豆人 吃遍世界2 / Pac-Man World 2   v20260522   免安装中文版
+- 命运之前/Before Fate    v1.0.151  免安装中文版
+- 神陨之地/Shattered Divinities    Build.23382877   免安装中文版
+- 黑森町绮谭/Tales of the Black Forest    Build.23320703   免安装中文版
+- 粪勇前进/UNKO TECHNICA    Build.22923779   免安装中文版
+- 魔王大人，击退勇者吧 /Legend of Keepers   v1.1.0.3   全DLC    免安装中文版
+- 潜入欢乐城卢迪尔/Infiltrating Roudille    Build.23397534   免安装中文版
+- 合租恋人：恋爱进行时 /Roommate Lover Love in Progress    Build.23249832   免安装中文版
+- 浮空岛|云顶之上/ Aloft/ 单机+联机   v0.3.5.18   免安装中文版
+- 钓鱼哥的奇妙冒险/ Nice Day for Fishing   Build.23008790 全DLC    免安装中文版
+- 方舟：生存飞升/ ARK: Survival Ascended/ 单机+联机   v87.17 全DLC   免安装中文版
+- 生命效应：生存 /LIFE EFFECT Survival    Build.23401140_v0.44.2    免安装中文版
+- 仁王3 / Nioh 3 / 单机+联机   v1.06.00   数字豪华版  送修改器+通关存档+VP9解码器[游戏弹报错必装]  免安装中文版
+- 非生物因素/Abiotic Factor /单机+联机   v1.3.0.26036  免安装中文版
+- 方舟：生存进化  终极生存者版/ARK: Survival Evolved /手机+PC双端   v361.8  全DLC+原声带    免安装中文版
+- 深红誓言 /Crimson Oath    v1.4.19   免安装中文版
+- 嗜血之王：崛起/Vampires Bloodlord Rising/单机+联机    v1.5.0.21247   免安装中文版
+- 字节之链|字节纽带|机器人特遣队/ Bytebond   Build.21747466   免安装中文版
+- 因果循环/Causal Loop    Build.23387974   免安装中文版
+- 球体探索/Sphaera    Build.2913421   免安装中文版
+- 法师的复仇/Revenge of the Mage   Build.23148983    免安装中文版
+- 例外配达 /[Chilla’s Art] Night Delivery 例外配達     Build.6942096   免安装中文版
+- 公路警察模拟器 /Highway Police Simulator    v1.1.0.28847   免安装中文版
+- 特警指挥官/SWAT Commander   v0.7.9.4   免安装中文版
+- 梅索凯/Mesoké    Build.23387226   免安装中文版
+- 西部幽魂 /Rose and Locket   v1.0.47   免安装中文版
+- 虚实之间2/SYNTHETIK 2   Build.23399302   免安装中文版
+- 图腾 /Tootum    Build.23421552   免安装中文版
+- 薛定谔的电话 /Schrödinger’s Call    Build.22764367   免安装中文版
+- 回声世代2/Echo Generation 2     v1.0.42   免安装中文版
+- 直入炼狱/ INTO EVIL   Build.23040736   免安装中文版
+- 夜族崛起|吸血鬼崛起/ V Rising/ 单机＋联机    v1.1.13.0   全DLC   送修改器   免安装中文版
+- A.A.U. 黑色站点/A.A.U. Black Site     Build.23247392   免安装英文版
+- 巴别号漫游指南/A Guidebook of Babel    Build.12897353   免安装中文版
+- 芳草地/Yerba Buena    Build.23284364   免安装中文版
+- 饥兽之战/ Hordes of Hunger   v20260401  免安装中文版
+- 鸦卫奇旅/Ravenswatch   v1.05.00   全DLC  免安装中文版
+- 饿狼传说：群狼之城/FATAL FURY: City of the Wolves /单机+联机    v2.1.2   全DLC  免安装中文版
+- 铁拳8/TEKKEN 8    v3.01.01 全DLC 送修改器   免安装中文版
+- 风中行者/ Windblown/ 单机+联机   v0.9.4.1  免安装中文版
+- 深岩银河：幸存者/Deep Rock Galactic: Survivor   v1.1.36P  全DLC  送修改器   免安装中文版
+- 异种弹珠/ XENOTILT: HOSTILE PINBALL ACTION    Build.22770954    免安装中文版
+- 卡带小子 /CASSETTE BOY   v1.2.1  免安装中文版
+- 地心护核者|护核纪元/ Core Keeper/ 单机+联机   v1.2.1.4 送修改器  免安装中文版
+- 超级肌肉猫|超级筋肉猫/KinnikuNeko SUPER MUSCLE CAT     Build.22621148   免安装中文版
+- 终极幸运之塔/ Lucky Tower Ultimate   v1.0.12  免安装中文版
+- 勇敢大陆骑士/Knights of Braveland     Build.23428949   免安装中文版
+- COGEN：大凤羽空与刻之剑/COGEN Sword of Rewind     Build.20236241   免安装中文版
+- 骑马与砍杀2：霸主/Mount and Blade II: Bannerlord  单机+联机   v1.4.5 全DLC 送修改器 衣谷三国MOD  免安装中文版
+- 海特尔/Hytale   v0.5.1.B14   免安装英文版
+- 深海迷航/Subnautica/单机+联机   v83031   送修改器   免安装中文版
+- Kioku：夏日记忆岛/Kioku Last Summer    Build.23453193   免安装中文版
+- 错误 /Mistaken    Build.23452034   免安装中文版
+- 绘途寻踪 /Map Map – A Game About Maps    Build.23454596   免安装中文版
+- 石之圣战 /Stonemachia    Build.23412030  免安装英文版
+- 僵尸部队4：死亡战争-虚拟机版/Zombie Army 4: Dead War     Build.9025691 全DLC    免安装中文版
+- 狂野之心-虚拟机版 /WILD HEARTS    v1.6.3.9|Build.12142996   免安装中文版
+- 伊甸园创世纪 /Eden Genesis   Build.16378615   免安装中文版
+- 异变金属/Morbid Metal   v21188   免安装中文版
+- 喇叭之城/Phonopolis    v1.0.3   免安装中文版
+- 他们来了/It Reaches    v20260527     免安装中文版
+- 天外世界：太空人之选 /The Outer Worlds   v2.5.8.1  免安装中文版
+- 辐射4：周年纪念版/ Fallout 4 – Anniversary Edition    v1.11.221.0   全DLC 送修改器   免安装中文版
+- 翼星求生/ ICARUS / 单机+联机   v3.0.12.152317  全DLC 送修改器   免安装中文版
+- 死亡搁浅2：冥滩之上/ DEATH STRANDING 2: ON THE BEACH   v1.8.81.0  免安装中文版
+- 红色沙漠-虚拟机版/ Crimson Desert HYPERVISOR    v1.09.00|Build.23465675   免安装中文版
+- 土豆兄弟/ Brotato / PC+手机双端    v1.1.15.4 全DLC   免安装中文版
+- 灰烬之国/Cinderia    v0.6.8   免安装中文版
+- 卡片魔王：只剩个头/Demon Lord Just a Block    v260526  免安装中文版
+- 重铸纪元：自由地/ Age of ReforgingThe Freelands   v1.22b  免安装中文版
+- 史莱姆矿难/Into the Slimy Mines     v1.0.3   免安装中文版
+- 赛博矩阵/CYBERMATRIX    Build.23474575   免安装中文版
+- 奈斯启示录/ Necesse/ 单机+联机   Build.23470192   免安装中文版
+- 废都电锯姬/MOTORSLICE   v1.05   免安装中文版
+- 巫毒钓鱼|巫毒垂钓  /Voodoo Fishin’/单机+联机    Build.23423847   免安装中文版
+- 海珂：北境极光/ HYKE Northern Light   v1.1.0   免安装中文版
+- 决斗公司 /Duel Corp.  Build.22514979   免安装中文版
+- 大尾松鼠 /Tail of Glory   Build.23121172   免安装中文版
+- 挖掘者米娜/ Mina the Hollower    Build.23482251    免安装中文版
+- 人渣/ SCUM / 单机+联机/ 手机+PC双端   v1.3.0.1.118271  全DLC  免安装中文版
+- 战锤40K 星际战士2 /Warhammer 40,000: Space Marine 2    v13.1.0.1 全DLC 送修改器+整合4K纹理包    免安装中文版
+- 炸弹兔/Bombun    Build.22958796   免安装中文版
+- 东方之茵/Eastshade    Build.20251455   免安装中文版
+- 魔女祇兵/ Majogami   v1.2.1   免安装中文版
+- 荣耀死斗|凡人的荣耀 /Mortal Glory   Build.20301274   免安装中文版
+- 我是耶稣基督/I am Jesus Christ   v1.2.2   免安装中文版
+- 汽水侠/ Sodaman   v1.0正式版    免安装中文版
+- 布鲁伊的寻找金色画笔之旅 /Bluey’s Quest For The Gold Pen    Build.21975708   免安装中文版
+- NODE：安塔瑞族的最终馈赠/NODE The Last Favor of the Antarii    v1.1.314   免安装中文版
+- 蛇之凝视/Serpent’s Gaze    Build.23502073   免安装中文版
+- 深海迷航2|异星水域2/ Subnautica 2/ 单机+联机    v0.10.3|Build.23446003   免安装中文版
+- 卡牌生存：奇幻森林/ Card Survival: Fantasy Forest    v0.64c   免安装中文版
+- 桥梁建造师2|桥梁建筑师2/Poly Bridge 2    v1.66   免安装中文版
+- 进城吧！/ Go-Go Town! / 单机+联机   Build.23426022    免安装中文版
+- 毁灭之军/Army of Ruin    Build.23504375   免安装中文版
+- 无人深空/ No Man’s Sky / 单机+联机   v169265 全DLC   送修改器+赠音乐原声 赠满金币.水荫.纳米星团初始存档  免安装中文版
+- 鲁特里一家死了/ The Roottrees are Dead   v20260518  免安装英文版
+- 弈战征途 /Master of Piece   v1.6.18    免安装中文版
+- 封锁协议 /LOCKDOWN Protocol/单机+联机   Build.23497098    免安装中文版
+- 百日战纪 最终防卫学园 /The Hundred Line -Last Defense Academy-    v1.2.2   免安装中文版
+- 僵尸火车生存/ Zompiercer  Build.23322000    免安装中文版
+- 永恒围城：无尽纪元/EverSiege Untold Ages    Build.23452430   免安装中文版
+- 狩猎之道2 /Way of the Hunter 2     Build.23432580    免安装中文版
+- 守卫虎牢 /Pass Tiger Cage  v0.8.0  免安装中文版
+- 超级幻想王国/ Super Fantasy Kingdom   v0.7.085   免安装中文版
+- 勇闯死人谷：暗黑之日/ Into the Dead: Our Darkest Days    v0.14.19563  送修改器    免安装中文版
+- 钢铁之种 /Steel Seed    Build.23469492   全DLC    免安装中文版
+- 秽水/Unclean Water    v1.0.9   免安装中文版
+- 热血西游记 天竺奇谭 /River City Saga Journey to the West    v1.0.2   免安装中文版
+- 背包闯江湖 /Backpack Jianghu   v1.0.99.1  免安装中文版
+- 机器人角斗场 /Clone Drone in the Danger Zone/ 单机＋联机   v1.9.0.116   免安装中文版
+- 法师与魔物2|魔法师与怪物2/ Mage and Monsters II   v1.16c   免安装中文版
+- 黑帮大佬：夜生活|黑帮大佬：犯罪帝国/ The Boss Gangsters Nightlife |The Boss Gangster: Criminal Empire   Build.23388141   免安装中文版
+- 暗影地牢|黑暗中的火花 /Spark in the Dark    v0.3.15  免安装中文版
+- 禁酒兽影/PROHIBEAST    Build.23557282    免安装中文版
+- 8020号指令 /Directive 8020   v20260603   免安装中文版
+- 又一个僵尸幸存者/ Yet Another Zombie Survivors   v0.9.2a   免安装中文版
+- 高能人生2 /High On Life 2   v20260601  免安装中文版
+- 哈迪斯2 |黑帝斯2 / Hades 2   v1.138464    送修改器   免安装中文版
+- 第七访客：重制版 /The 7th Guest Remake   Build.23546132   免安装中文版
+- 罗马拓荒录 /Romestead/ 单机+联机    v0.25.1.9   免安装中文版
+- 德米欧 x 龙与地下城：战痕/ Demeo x Dungeons and Dragons Battlemarked  v5.1.35228    免安装英文版
+- 百万深度|百万深渊/ Million Depth   v2.2.4   免安装中文版
+- 火灵之源 /Solateria   v1.0.50   免安装中文版
+- 墨境/ Realm of Ink   v20260602  送修改器   免安装中文版
+- 毁灭协议/ Moros Protocol   v1.0.15   免安装中文版
+- 夜勤人2：无尽宝库/ Moonlighter 2 The Endless Vault    v0.19.30.1  免安装中文版
+- 一起抓兔兔/Paquerette Down the Bunburrows   v1.1.4   免安装中文版
+- 零希沃特/ ZERO Sievert   v1.2.71   免安装中文版
+- 风之马传说/The Legend of Khiimori   v0.9.1   免安装中文版
+- 最终幻想7：重生/ FINAL FANTASY VII REBIRTH    v1.005   全DLC 送修改器   免安装中文版
+- 向彩虹致敬/Hail to the Rainbow   v1.08   免安装中文版
+- 死域Rogue/Deadzone: Rogue/单机+联机   v1.4.2.0  免安装中文版
+- 北欧之烬：诸神黄昏幸存者/Nordic Ashes: Survivors of Ragnarok   v3.1.0  全DLC  免安装中文版
+- 007 初露锋芒-虚拟机版/ 007 First Light HYPERVISOR  v1.0.3|Build.23531465  免安装中文版
+- 机械制造者|赛道大师/ Trailmakers/单机+联机   v235.512.378.0  全DLC   免安装中文版
+- 迷失在艺术中/Lost in Art a Miniature Realm     Build.23498451   免安装中文版
+- 服从那个声音 /Obey the Voice   Build.21754461   免安装英文版
+- 宝石少女 2nd.cut：For the Exquisite Attire /Putrika 2nd.cut For the Exquisite Attire   Build.23587952    免安装中文版
+- 牧羊骑士/Shepherd Knight    Build.23003619   免安装中文版
+- 昏迷/Comatose    Build.23566520   免安装中文版
+- 魔女：终末旅途 /Witch’s Apocalyptic Journey    Build.23582866    免安装中文版
+- 深海工厂 /Deep Crafter   Build.23570076    安装中文版
+- 自由落体 ’95/Freefall ’95    Build.23491380   免安装中文版
+- 哥特王朝：重制版/Gothic 1 Remake      Build.23589065    免安装中文版
+- 深渊之印/ Mark of the Deep   v2.3.7   全DLC  免安装中文版
+- 部队|军队/ The TROOP    v20260604   全DLC   免安装中文版
+- 剑星-解压即玩版/ Stellar Blade  v1.4.1 全DLC 送修改器  免安装中文版
+- 怪物：拉什神话(汉化+免付费解锁完整版）
+- 火影战记（鸣人技能无冷却）
+- 雷纳提斯（SWITCH手机版）
+- 猫咪斗恶龙（SWITCH手机版）
+- 暗黑血统：创世纪（SWITCH手机版）
+- 黑神话：悟空 像素版
+- 地牢寻求者（解锁大量货币）
+- 武士少女（SWITCH手机版）
+- 哈迪斯（SWITCH手机版）
+- 如龙：人中之龙 极
+- 勇士的黎明：混沌之战（解锁全角色）
+- 热血三国志2：乱世风云（SWITCH手机版）
+- 桑塔和七赛莲全DLC
+- 勇士之塔（解锁大量货币）
+- 热血少女2（免付费解锁完整版）
+- 守护骑士（解锁大量货币）
+- 影子杀手（内置MOD菜单）
+- 恐龙新世纪（无限投币）
+- 怪物猎人2：毁灭之翼（SWITCH手机版）
+- 英雄闪电战（大量资源）
+- 饥饿鲨：史前世界（内置MOD菜单）
+- 末日大本营模拟（免广告直接获得奖励）
+- 超自然博物馆避难所（内置作弊菜单【刚进可能有点卡】）
+- 无限轮回国际版（内置作弊菜单【含免广告】）
+- 搜打撤模拟器（修复版）
+- 无限轮回（内置作弊菜单）
+- 极品采花郎/Soundtrack|V2.1|STEAM官中
+- 颠覆|v1.2.01|全DLC|官方英文|Subverse
+- 超音速/Supraland
+- 霓虹深渊2/Neon Abyss 2/支持网络联机
+- 爆旋陀螺X：进化对决/BEYBLADEXEVOBATTLE
+- 荒野大镖客2
+- 消逝的光芒：困兽
+- 漫威蜘蛛侠2
+
+---
+
+## 模拟经营（892 款）
+
+- Key Mapper PRO已解锁会员功能
+- 阳光物语/ Sunshine Story    Build.21328507   免安装中文版
+- 中世纪机器制造者/Medieval Machines Builder   Build.20105750   免安装中文版
+- 模拟火车世界3 / Train Sim World 3    v1.0.2231.0 全DLC    免安装中文版
+- 网球世界巡回赛/ Tennis World Tour   v1.14.00   免安装中文版
+- 杂货店大亨/ Grocery Store Tycoon   Build.20996554   免安装中文版
+- 酒馆好时光/ Inn Tycoon   v43  免安装中文版
+- 小黄鸭模拟器|疗愈橡皮鸭模拟器/ Placid Plastic Duck Simulator  v2.2.6 全DLC   免安装中文版
+- 战争浩劫：重制版 /Scourge of War Remastered    Build.20075782 全DLC    免安装中文版
+- 赤|血色荣耀 /Cabernet   v1.1.25   免安装中文版
+- 水培农场和商店模拟器|水产商店模拟器/Hydroponics Farm & Store Simulator  Build.21369582  免安装中文版
+- 沙盒 /Sand:box   Build.21238121  免安装中文版
+- 第二战场/Second Front   v1.468   免安装中文版
+- 候鸟/Migrant  免安装中文版
+- 太空谍影2/SpaceBourne 2   Build.21364792  免安装英文版
+- 海岸厨房模拟器 /Coastal Kitchen Simulator   v1.0.1  免安装中文版
+- 模拟火车2022 模拟列车2022 RW13 /Trainz Railroad Simulator 2022   v72.0a  集成最全中国插件还有成渝线.兰新西等26条线路.支持ICE列车的运行  免安装中文
+- 包裹模拟器/Parcel Simulator  Build.21379006   免安装中文版
+- 跨西伯利亚铁路模拟器/ Trans-Siberian Railway Simulator   v20251218  免安装中文版
+- 天空旅者 /Sky traveler  Build.10681219   免安装中文版
+- 杯杯倒满/ Feed The Cups/ 单机+联机    v0.8.54  免安装中文版
+- 摔跤擂台物语/Pro Wrestler Story  v1.24  免安装中文版
+- 胡闹厨房/Overcooked   Build.2270609  免安装中文版
+- 餐车帝国有限公司/Food Cart Inc.   Build.21267589   免安装中文版
+- 岛上赌场模拟器 /Casino Island Simulator  v1.0.2.2  免安装中文版
+- 老爹的披萨店/Papa’s Pizzeria Deluxe   v1.0.1  免安装英文版
+- 废品大亨/ Barn Finders   v27551 全DLC   免安装中文版
+- 分拣员模拟器/Ship，Inc.   v1.1.2  免安装中文版
+- 游戏开发巨头|游戏发展国 /Game Dev Tycoon  Build.20332874   免安装中文版
+- 占山为王2/king of the hill 2  v2.1007a   免安装中文版
+- 欺心恋曲/亵渎神明的少女 /Deceptiive Love Ballad The Blasphemer  v20251004  免安装中文版
+- 别跑!美女在追你!/Seduction of Beauty  Build.13851858 全DLC  免安装中文版
+- 探险异星飞行队 /Final Frontier Story  Build.21202903   免安装中文版
+- 警察模拟器：巡警 /Police Simulator: Patrol Officers  v22.2.2 全DLC  免安装中文版
+- 漫长等待 /THE LONGING  v1.9.0   免安装中文版
+- 国产之光 免安装中文版
+- 光年边疆|光年拓荒|光年边境/ Lightyear Frontier / 单机+联机  v0.7.2015  免安装中文版
+- 一起划船 /Boat Together /单机+联机  v1.2.3 免安装中文版
+- 亩地|英亩/ ACRES   Build.21508054  免安装中文版
+- 勇者蛋生 /Yolk Heroes: A Long Tamago   Build.21487480   免安装中文版
+- 吸血鬼酒吧大亨/Blood Bar Tycoon   v1.1.10794  全DLC  免安装中文版
+- 工业的崛起2|工业崛起2 /Rise of Industry 2  v1.3.1 全DLC  免安装中文版
+- 奇巧匠：手工经商模拟/CraftCraft Fantasy Merchant Simulator  v1.2.13  免安装中文版
+- 桌游模拟器 /Tabletop Simulator  v14.1.8  免安装英文版
+- 希克斯之歌 /Songs of Syx   v0.70.30  免安装中文版
+- 竞技场翻新/Arena Renovation  v1.0.256  免安装中文版
+- 牧野之歌/Song Of The Prairie   v1.3.108  免安装中文版
+- 建筑模拟3/Construction Simulator   Build.20229825  +建筑模拟2  v2.0.0.1   免安装中文版
+- 东京都市谜案特搜事件簿/TOKYO PSYCHODEMIC   Build.20268963  免安装中文版
+- 漫步人生 /Minabo – A walk through life  Build.20619909  免安装中文版
+- 银河尽头的餐馆/ The Diner at the End of the Galaxy  Build.21255328  免安装中文版
+- 桥梁建造师/Poly Bridge   Build.20230316  免安装中文版
+- 农场补给模拟器25/Farm Supply Simulator 25   Build.21555433  免安装中文版
+- 战利与账簿/Loot and Ledger   Build.21575610  免安装中文版
+- 小小暖屋|小空间/Small Spaces  Build.21448451   免安装中文版
+- 汉尘：腐草为萤/ HanChen   v0.7af8  免安装中文版
+- 丰收轮回/ Harvest Loop  v1.65  免安装中文版
+- 法兰德斯/Farlanders  Build.21502968  免安装中文版
+- 隔离僵尸 /Quarantine Zombies  Build.21589303   免安装英文版
+- 公路漂移：哈贾瓦模拟/Highway Drifter Hajwala Simulator   Build.21191863  免安装英文版
+- 迷失在太空废墟中的母亲/Mom Stolen in Space   Build.21535212   免安装中文版
+- 魔力熔炉大亨 /Magic Forge Tycoon  Build.21583562  免安装中文版
+- 小小的岛 /TinyIsle  Build.21629527  免安装中文版
+- 高考恋爱100天/Gaokao.Love.100Days   Build.18683402 全DLC   免安装中文版
+- 租车模拟器24|租车模拟24/ Rent A Car Simulator  24v1.1.0   免安装中文版
+- 方舟动物园/Ark Nova   Build.20006876  免安装中文版
+- 搬家模拟器 /Moving Simulator  Build.21576570  免安装中文版
+- 牧场模拟器/ Ranch Simulator /单机+联机  v1.182s 全DLC  免安装中文版
+- 宝石殿堂/ Gemporium A Cute Mining Sim    Build.21261384  免安装英文版
+- 装甲纷争：决定版 /Cry of War  Build.21364281  免安装中文版
+- 有线电视模拟/ Blippo+    v1.0.3  免安装中文版
+- Sisters~夏日的最后一天~/Sisters Last Day of Summer   Build.16898375   免安装中文版
+- 巴士模拟21/ Bus Simulator 21/ 单机+联机   v2.34 全DLC  免安装中文版
+- 套索牧场/Wrangle Ranch   Build.21629585  免安装中文版
+- 二战重建者/WW2 Rebuilder  v20260119 全DLC  免安装中文版
+- 电玩人生/Gamer Stop Simulator   Build.21621428  免安装中文版
+- 货物模拟器/ Cargo Simulator   Build.21650786  免安装中文版
+- 星露谷物语/ Stardew valley/ 单机+联机/ PC+手机双端   v1.6.15 全DLC  送300MOD   免安装中文版
+- 角落里的艾果 /Eggo  Build.21531841  免安装中文版
+- 坎巴拉太空计划1/ Kerbal Space Program 1   v1.12.5.3190   免安装中文版
+- 大麻种植伙伴/GrowBud  免安装中文版
+- 适应性 /Adaptory  Build.21677199  免安装英文版
+- 学生逃亡潜行|逃跑男孩 /SchoolBoy Runaway   Build.21129685  免安装中文版
+- 黑莓诺娃 /BlackberryNOVA  v2.03b  免安装中文版
+- 还有一个岛/ One More Island   v1.8.2   免安装中文版
+- 摄影师生活模拟器/ Photographer’s Life Simulator   Build.21682957    免安装中文版
+- 机场CEO/ Airport CEO   v1.1.3 全DLC    免安装中文版
+- 涂鸦英雄工厂/ ShapeHero Factory  v1.1.1  免安装中文版
+- 太空医院 /Galacticare  v20260128 全DLC  免安装中文版
+- 自动王国/Automatic Kingdom   Build.21708675   免安装中文版
+- Miss World世界小姐养成日记 /Miss World Love Growth Diary  Build.20413760  免安装中文版
+- 恋爱0公里 /Ren’ai 0 Kilometer  Build.20599834  免安装中文版
+- 命运石之门：比翼恋理的爱人/STEINS;GATE My Darling’s Embrace   Build.5491638  免安装中文版
+- 魔药经济学：神秘的魔法药水商店/Potionomics   v20260128 全DLC  免安装中文版
+- 购物中心模拟器/ Mall Simulator   Build.21722697   免安装中文版
+- 学习工厂/Learning Factory  v1.1.8.601  免安装中文版
+- 奇果工坊/Idle Colony  Build.20916779  免安装中文版
+- 地下酒吧模拟器/Speakeasy Simulator   Build.21722493  免安装中文版
+- 超级电影大亨/ Super Movie Tycoon   v1.2.3   免安装中文版
+- 直播时代 /LiveStream Era  Build.21411136  免安装中文版
+- 打造世界|创造世界/ Craft The World  v1.11.011 全DLC   免安装中文版
+- 看不见的手 |无形之手/The Invisible Hand   Build.20315951  免安装中文版
+- 古城|古代城市/ Ancient Cities    Build.21735546  免安装中文版
+- 章鱼炖肉/Octopus Goulash   Build.21757097   免安装中文版
+- 殖民地/AColony  v0.5.092  免安装中文版
+- 挖油吧！爸爸 /Fuel Harvest Together  Build.21750406   免安装中文版
+- 逐光：致监星官/Lightracer ForJudge  v1.0.8  免安装中文版
+- 走开！/Buzz Off!  Build.21740267  免安装中文版
+- 要塞传奇STEAM版/Stronghold Legends Steam Edition   v1.3  免安装中文版
+- 失业模拟2018/Unemployment Simulator 2018   Build.21737870  免安装英文版
+- 火柴人战壕 /Stickman Trenches   Build.20595134  免安装英文版
+- 盛世繁荣：皇冠之重 / Thrive Heavy Lies The Crown   v1.1.0210  免安装中文版
+- 盲行者 /Blind Touch  Build.21791192  免安装中文版
+- Monstrix集换式卡牌商店Monstrix TCG Card Shop   Build.21649084  免安装中文版
+- 主播生活模拟器2|主播人生模拟器2/Streamer Life Simulator 2    Build.21799183  免安装中文版
+- 我的声音动物园/MyVoiceZoo   Build.21141231  免安装中文版
+- 乱剪一通：总监模拟器 /Choppy Cuts  Build.21811973   免安装中文版
+- 鸽子飞行模拟器 /Pigeon Flight Simulator  Build.17995555  免安装中文版
+- 板块群岛/Isles and Tiles  Build.20966521   免安装中文版
+- 大厨的轮班/The Chef’s Shift   Build.20591795    免安装中文版
+- 汽车工厂帝国/ Car Factory Empire    Build.21817993  免安装中文版
+- 生态朋克 /Ecopunk   Build.21529490   免安装中文版
+- 领地：种田与征战/Territory: Farming and Fighting   v1.0正式版  免安装中文版
+- 台北大空襲|奇袭台湾/Raid on Taihoku    免安装中文版
+- 商业模拟器2026 /Business Simulator 2026  Build.20996585  免安装中文版
+- 空气 /AIR   v1.2.1.3   免安装中文版
+- 前进！！英雄战队物语 DX /Legends of Heropolis DX   v2.3.4  免安装中文版
+- 魔王城物语/Demon Castle Story   v1.37    免安装中文版
+- 乾卡|坎加/ QANGA  v0.0.19c  免安装中文版
+- 军火贸易大亨：坦克/ Arms Trade Tycoon: Tanks   v1.1.9.2  免安装中文版
+- 猫遇咖啡/Bean Meets Paw    Build.21865907  免安装中文版
+- 这宏伟的人生2|绚丽人生2 / This Grand Life 2    v1.02.18  免安装中文版
+- 蜜蜂岛 /Bee Island   Build.21850611   免安装中文版
+- 铁路帝国2 / Railway Empire 2   v1.8.1.64758 全DLC   免安装中文版
+- 多洛可小镇/Doloc Town   v0.95.12  免安装中文版
+- 镜头人生-模特写真馆/PHOTO STUDIO SIMULATOR   v20260212  全DLC  免安装中文版
+- 头文字漂移在线 /Initial Drift Online   Build.21783739   免安装中文版
+- 美女，游泳健身了解一下 v20260212 免安装中文版
+- 伊甸岛/Eden Island   Build.18922200   免安装中文版
+- 调香师小铺/Perfume Atelier   Build.21836082  免安装中文版
+- 南国盛宴 /Feastopia  v1.0.10.0  免安装中文版
+- 帝王牌局：古国纷争/ Hexarchy  Build.21867816  免安装中文版
+- 咖啡店主理人模拟器/ Cafe Market Simulator   v1.0.3  免安装中文版
+- ANLIFE：运动学习生命进化|人工生命：动作学习进化论/ ANLIFE Motion-Learning Life Evolution   v1.0.5  免安装中文版
+- 围攻 /Besiege  Build.21870743 全DLC   免安装中文版
+- 约会老师 /DATE TEACHER  Build.21931285  免安装中文版
+- 世界岛 · 宅急送 /Dino Ramen Express   Build.21977297  免安装中文版
+- 1998：收费员的故事/ 1998 The Toll Keeper Story   v1.1.0f9  免安装中文版
+- 整理拾光/ Organized Inside   v1.5.0  免安装中文版
+- 巴别塔：垂直国度/ STARIO Haven Tower   v0.3.1  免安装中文版
+- 便当盒/Bento Blocks   Build.21768576  免安装中文版
+- 玻璃背后：水族馆模拟器 /Behind Glass: Aquarium Simulator   Build.21947672  免安装中文版
+- 合法太空企业模拟公司/Legitimate Space Corp Simulator LLC   Build.21972081  免安装中文版
+- 袜罪并罚！/Guilty as Sock!   v2.0.3  免安装中文版
+- 桌面战斗模拟器 /Table Battle Simulator  v0.0.5  免安装中文版
+- 喵喵茶餐厅 /PurrPlate   v1.1.1   免安装中文版
+- 鼠鼠餐厅/ Restaurats/ 单机+联机   v0.19.3.0 免安装中文版
+- 医院计划 /Project Hospital  v1.2.23726  全DLC 送修改器+沙盒模式满金币初始存档  免安装中文版
+- 烟花模拟器/ Fireworks Mania – An Explosive Simulator/ 单机+联机   v2026.2.2  免安装中文版
+- 人类快餐/ Human Fast Food   v1.0.1  免安装中文版
+- 烘焙人生：咖啡馆模拟器/ The Roast – Coffee Shop Simulator   v0.9.6   免安装中文版
+- 研究物语/Research Story   v1.1.11  免安装中文版
+- 浣熊通缉犯 /Wanted Raccoon   Build.21854157   免安装中文版
+- 我的面包房帝国 /My Bakery Empire   Build.14426988   免安装中文版
+- 垃圾回收中心模拟器/ Recycling Center Simulator   v20260220 免安装中文版
+- 砖厂/ Brick Rigs   v1.10.6  免安装中文版
+- 加油站大亨|加油站模拟器/Gas Station Simulator  v1.0.2.52930S 全DLC 送修改器  免安装中文版
+- 办公室模拟器 /Office Simulator   v1.2.0  免安装中文版
+- 霓虹枪 /NeuraGun  Build.22008729   免安装中文版
+- 炸鸡主理人/Chicken Fries  Build.22075545   免安装中文版
+- 玉米地|富饶之乡/ Cornucopia    v9.7   免安装中文版
+- 珍珠奶茶革命/Bubble Tea Revolution   Build.20982112   免安装中文版
+- 自动化：汽车公司大亨/Automation：The Car Company Tycoon Game   Build.21962633免安装中文版
+- 内脏清洁工 /Viscera Cleanup Detail  Build.6199993   免安装英文版
+- 前线/The Front   v1.5.10  免安装中文版
+- 冰汽时代2/ Frostpunk 2   v1.5.4 全DLC  送修改器   免安装中文版
+- 魔哆魔哆/Modo Modo   v1.98   免安装中文版
+- 微风烘焙模拟器 /Breezy Bakes Simulator   Build.22105762   免安装中文版
+- 征服的荣耀：围城 /Gloria Victis Siege Survival   v20251018   免安装中文版
+- 九州：立志/ Nine Ambition  v1.0.1015  免安装中文版
+- 满庭芳：宋上繁华/Thriving City: Song   v1.8.5R 送修改器    免安装中文版
+- 猎户座/Avorion    v2.5.12  全DLC   免安装中文版
+- 三国画卷/The Three Kindoms Scroll   v0.0.5   免安装中文版
+- 怪兽护理模拟器|怪兽照护模拟器/ Monster Care Simulator  v1.1.1  免安装中文版
+- 监狱大佬 全城禁令 /Prison Boss Prohibition   Build.21971755 支持VR   免安装中文版
+- 我的领域：我的宝贝龙 /My Universe – My Baby Dragon   Build.10618729   免安装中文版
+- 割草模拟器/Lawn Mowing Simulator   Build.20841748  全DLC   免安装中文版
+- 寅体纪元 /Epoch Cycle   Build.21643004   免安装中文版
+- 神来之笔：心之奇旅/The Perfect Pencil   v20260227   免安装中文版
+- 仓储大战：拍卖模拟器 |仓库大亨/Storage Hustle   Build.20650181   免安装中文版
+- 犯罪模拟器/ Crime Simulator /单机+联机 v1.42  免安装中文版
+- 破晓战纪/Sunbreak War   Build.22150322   免安装中文版
+- 僵尸治疗实验室/Zombie Cure Lab   v1.0.1   免安装中文版
+- 蛇女村：祭品 /Snake Village Sacrifice   Build.22148256   免安装中文版
+- 殖民者/Colonize   v1.0正式版  免安装中文版
+- 我的冬季汽车/ My Winter Car   Build.21340786   免安装英文版
+- 嘟嘟嘟~恋爱信号响不停，美女室友们教我如何淡定？/Roommates Romance and Ringing Hearts  Build.22173934    免安装中文版
+- 净化扇区 /DEFRAG   Build.21398112   免安装中文版
+- 不可以和偶像XXX吗？ 免安装中文版
+- B计划：启程拓殖|备用计划：家园/ Plan B: Terraform  v1.0.6 免安装中文版
+- 泳池清洁模拟器/ Pool Cleaning Simulator  v1.7.0.6  免安装中文版
+- 幻兽大农场：放置好时光/ Your Big Cute Monster Farm   v1.5.3  免安装中文版
+- 错位 /DYSPLACED   Build.22197213   免安装英文版
+- 梦之球/ The Dream Globe  v20260305  免安装中文版
+- 游乐园建造师/ Parkitect   v1.12d2  全DLC 送原生画集   免安装中文版
+- 一起来建动物园 |来建一家动物园|让我们建一个动物园吧  /Let\\’s Build a Zoo  v1.1.16    免安装中文版
+- 仓库猎人模拟器|仓库猎手模拟器/Storage Hunter Simulator /单机+联机  Build.22160137 免安装中文版
+- 后勤模拟器|坦克维修模拟|坦克修理模拟/Tank Mechanic Simulator   v1.6.2  全DLC   免安装中文版
+- 车组成员/ TRAIN CREW   Build.21644493  免安装中文版
+- 过山车大亨 经典版 /RollerCoaster Tycoon Classic  Build.20471858  免安装中文版
+- 打包人生/Packing Life   Build.22055563   免安装中文版
+- 古农庄 /Ancient Farm  Build.21813945   免安装中文版
+- 船舶墓地模拟器2/Ship Graveyard Simulator 2   v13650 全DLC   免安装中文版
+- 快递湾/Courier Bay   Build.22098193   免安装中文版
+- 异域风情2：宠物店模拟器/ Exotica 2 Pet Shop Simulator    v1.1.6.1  免安装中文版
+- 开罗游戏大合集62款 62款合集礼包/KAIROSOFT COLLECTION GAMES    免安装中文版
+- 奇物工厂/ The Artifactory   Build.22276544   免安装中文版
+- 方寸牌局/Card Corner   Build.22284964  免安装中文版
+- 火腿公司 /HAM The Game /单机+联机   Build.22219083  免安装中文版
+- 小狗乐园 /Puppy Park   Build.22265872   免安装中文版
+- 寿司模拟器 /Sushi Simulator  Build.22286151  免安装中文版
+- 赌场模拟器/Casino Simulator    Build.22295659   免安装中文版
+- 泡泡星宇宙 /Bubblegum Galaxy   Build.22298047  免安装中文版
+- 模拟火车世界6 / Train Sim World 6    v20260206   全DLC   免安装中文版
+- 寻宝湾 /Collector’s Cove   Build.22195052   免安装中文版
+- 我的机器人女友 /Robot Girlfriend   Build.22314596   免安装中文版
+- 多洛可小镇/Doloc Town   v0.95.15   免安装中文版
+- 创世神器：放置沙盒模拟器（文字游戏制作大师）/Genesis Relic Idle Sandbox Simulator   Build.22072933   免安装中文版
+- 异梦残响/Endless Dream    免安装中文版
+- 迷走深空：碎舰师/Hardspace Shipbreaker   Build.22302871  免安装中文版
+- 宇宙探索家DX/Stellar Wanderer DX   Build.22318085   免安装中文版
+- 一块一块 |一块接一块 /Piece by Piece   Build.22323345   免安装中文版
+- 疯狂碰撞2/Turbo Dismount 2   Build.22330670   免安装英文版
+- 废品店模拟器 /Salvage Shop Simulator   Build.22330231   免安装中文版
+- 太空超市模拟器 /Space Supermarket Simulator   v1.0.0   免安装中文版
+- 太空猴子号 /Go Ape Ship!  Build.22269285   免安装中文版
+- 夏日美味模拟器 /Summer Delicious Simulator   Build.22333807   免安装中文版
+- 另一款关于自动化的游戏 /Another Game About Automation   v1.0.4   免安装中文版
+- 披萨店模拟器 /Pizza Shop Simulator   Build.19108710   免安装中文版
+- 运势无常 崇高命运 /Noble Fates   v0.31.2.5   免安装中文版
+- 伯吉的温馨厨房 /Burgie’s cozy kitchen   Build.22126212   免安装中文版
+- 超级英雄模拟器/Superhero Simulator   Build.22329857  免安装中文版
+- 苦役 /DRUDGE  Build.21996808   免安装中文版
+- 烟店模拟器|烟草店模拟器/ Tobacco Shop Simulator /单机+联机   v1.03 免安装中文版
+- 狂野西部时代 /Wild West Dynasty    v1.0.9739    免安装中文版
+- 警情，消防，急救|消防警情急救模拟/Flashing Lights /单机+联机  v20260317 全DLC  免安装中文版
+- 小小厨师：闲意巧炊 /Little Chef Cozy Cooking   Build.22423451   免安装中文版
+- 梅林回响/ Echoes of the Plum Grove   v1.0.6.05s  免安装中文版
+- 凯撒朋克/KAISERPUNK   v1.02.01  免安装中文版
+- 汽车销售生活|4S店模拟器/Auto Sale Life   v1.0a   免安装中文版
+- 旁观者2|观众2/Spectator 2    免安装中文版
+- 书呆子模拟器/ Nerd Simulator   Build.22379461  免安装中文版
+- 蚁托邦/ Microtopia  v1.2.1  免安装中文版
+- 水族店模拟器|水生商店模拟器/ Aquatic Store Simulator   Build.22368826  免安装中文版
+- 村庄商人 /Village Merchant   Build.22440634  免安装中文版
+- 美国式家长|青春叙曲 /Growing Up    v1.2.3933   免安装中文版
+- 审判：末日生存模拟/Judgment: Apocalypse Survival Simulation    v1.2.4290   免安装中文版
+- 清明/Qingming     免安装中文版
+- 修理厂：修复模拟器 /The Repair House Restoration Sim    v1.6   免安装中文版
+- 游戏商店模拟器/ Console Shop Simulator  Build.13422560   免安装中文版
+- 工人与资源：苏维埃共和国/Workers & Resources: Soviet Republic   v1.1.1.6   全DLC  免安装中文版
+- 不撞机：FPV无人机模拟器/Uncrashed : FPV Drone Simulator   Build.22431976  免安装中文版
+- IT专家模拟器 /IT Specialist Simulator  Build.22438578  免安装中文版
+- 城市游戏工作室|游戏大亨：都市工作室 / City Game Studio: a tycoon about game dev  Build 22310321   免安装中文版
+- 在线商店大亨 /Webstore Mogul   Build.22479024  免安装中文版
+- 采矿机器/ Mining Mechs   Build.22481277   免安装中文版
+- 王国重生/ Kingdoms Reborn    Build.21894337  免安装中文版
+- 匠人/Craftlings    v1.1.3   免安装中文版
+- 与你在一起BnB/TOGETHER BnB    Build.21922474   免安装中文版
+- 盒子面包坊 /Box Bakery  Build.22562800   免安装中文版
+- 空乘人生模拟器/Cabin Crew Life Simulator   Build.22514154  免安装中文版
+- 巴士达人/ Bus Flipper Renovator Simulator   v1.0.30 全DLC   免安装中文版
+- 酒庄模拟器/ From Soil to Bottle     Build.22490093  免安装中文版
+- 烘焙咖啡馆模拟器/ Bakery Cafe Simulator   Build.22540096  免安装中文版
+- 泡泡糖点点乐/Idle Gumball Machin    Build.22400100   免安装中文版
+- 我的海岛庄园 /Island Market Simulator   Build.22573125   免安装中文版
+- 无限截止日|无尽DDL/INFINITY DEADLINE    Build.22450471    免安装中文版
+- 双点博物馆-虚拟机版/ Two Point Museum   v8.0（Build.22389256）免安装中文版
+- 侏罗纪世界：进化3-虚拟机版/ Jurassic World Evolution 3   v1.2.6(Build.22195615)_新版VBS补丁   免安装中文版
+- 建筑模拟器-虚拟机版/Construction Simulator    Build.20222345   免安装中文版
+- 加班帝国 /Overwork Empire   Build.22588867   免安装中文版
+- 漫游驿站/Wanderstop   v15493   免安装中文版
+- 工厂小镇|工业小镇 /Factory Town   v2.2.10  免安装中文版
+- 修仙实操手册/Practical Manuals    Build.22617485  免安装中文版
+- 数据中心/Data Center   v1.0.40   免安装中文版
+- 失物招领模拟器/ LostButFound   v1.3.0  免安装中文版
+- 拆箱房间/Unbox the Room   Build.22466228   免安装中文版
+- 汽车修理工模拟2021/ Car Mechanic Simulator 2021   v1.0.39.hf1   全DLC   免安装中文版
+- 飞机失事模拟器/Plane Accident   Build.17655277   免安装中文版
+- 太空引擎/SpaceEngine  v0.991.50.2125 全DLC  免安装中文版
+- 漫画书店模拟器/Comic Book Store Simulator  v3.1.9  免安装中文版
+- 城市公交模拟-虚拟机版 /The Bus  Build.22508815   免安装中文版
+- 怪物实验室模拟器 /Monster Lab Simulator  Build.22605604  免安装中文版
+- 日落汽车旅馆/ Sunset Motel   v1.0.18   免安装中文版
+- 行李箱的故事/Suitcase Stories   Build.22536630   免安装中文版
+- 机器之子 /Machine Child   Build.22661711    免安装中文版
+- 商场争霸/Mall Rivals    Build.22654046   免安装中文版
+- 农庄牌/Cropdeck    v1.0.7   免安装中文版
+- 行星生命|星球生活/ Planetary Life   Build.23303726   免安装中文版
+- 宗门起源 /Eastern Era   v1.0.48  免安装中文版
+- 西部牛仔的一生/Cowboy Life Simulator   Build.23253249   免安装中文版
+- 不可思议的烘焙与屋造 /Whimsy Bake and Craft     v1.3.0    免安装中文版
+- 废品场模拟|垃圾场模拟器/ Junkyard Simulator    v4.2.0    免安装中文版
+- 农夫王朝2 /Farmer’s Dynasty 2   Build.23258408   免安装中文版
+- 洗衣店模拟器/ Laundering Simulator – Clean Cash and Laundry   Build.22867719   免安装中文版
+- 仙之气/Aura of Immortals    Build.23357693   免安装中文版
+- 阿兹特克：最后的太阳/ Aztecs The Last Sun    v1.0正式版  免安装中文版
+- 电玩大亨：肉鸽模拟器/ Gamestonk Simulator Gone Rogue   v1.0正式版   免安装中文版
+- 盲盒店模拟器 /Blind Box Shop Simulator   Build.23364259   免安装中文版
+- 雾隐天途 /DarkSwitch   v20260522  免安装中文版
+- 煎蛋卷由你做|你有饼吗？/Omelet You Cook   Build.23305852   免安装英文版
+- 拓荒商客|售货精英|拓荒者/Saleblazers   v0.21.0.1     免安装中文版
+- 自动工厂/AutoForge    Build.23316312   免安装中文版
+- 我的小宇宙/My Little Cosmos    Build.22955534   免安装中文版
+- 微观之城/Microlandia   Build.23377367   免安装中文版
+- 澳洲梦想镇|金垦小镇/ Dinkum/ 单机+联机  v20260519   送修改器   免安装中文版
+- 蘑菇秘语 /Mushroom Nook   Build.22986202   免安装中文版
+- 指环王：夏尔传说/ Tales of the Shire   v1.0.2.1  免安装中文版
+- 翻转世界/Overthrown /单机+联机   v20260326    免安装中文版
+- 模拟人生4/The Sims 4 / PC+手机双端   v1.124.63.1020   全DLC  免安装中文版
+- 拆解大师|拆迁模拟器/ Deconstruction Simulator   v8442   免安装中文版
+- 造房子/MakeRoom   Build.23348423   免安装中文版
+- 最后的加油站/ The Last Gas Station   Build.23357418   免安装中文版
+- 星际钻探站/Space Drilling Station    Build.23377733   免安装中文版
+- 超级跑车收藏模拟器/ Supercar Collection Simulator/ 单机+联机/ 手机+PC双端   Build.23360069   原版+MOD版   免安装中文版
+- 摩天法师塔 /Tower Wizard   Build.23289626   免安装中文版
+- 英灵殿之子/Sons of Valhalla   v2.0.29   送修改器  免安装中文版
+- 黄金矿主模拟器：阿拉斯加淘金热/Alaska Gold Fever   Build.23368670   免安装中文版
+- 地铁模拟/Hmmsim Metro    Build.23006037   免安装英文版
+- 喂蚁后吃饼/FEED THE QUEEN    Build.23396367   免安装中文版
+- 铸剑吟/Bladesong   Build.23342274     免安装中文版
+- 伊甸园工匠/Eden Crafters /单机+联机  Build.23379760   免安装中文版
+- 虎皮鹦鹉的昆虫小店 /Budgie’s Bug Shop    Build.23373316     免安装中文版
+- 加勒比传奇：海盗时代 /Caribbean Legend Age of Pirates   v20260525   全DLC   免安装中文版
+- 为堕入黑暗的你献上花束 /Bouquet for you in the dark～   Build.23379894   免安装中文版
+- 桥梁建筑师3 |桥梁建造师3 /Poly Bridge 3 / PC+手机双端   v1.5.13   免安装中文版
+- 中国式相亲/Matchmaking Inc.  v2.2.1   免安装中文版
+- 帝国霸业：银河生存/ Empyrion – Galactic Survival   v1.17.0   全DLC    免安装中文版
+- 灭绝之日 /Extinction Day   Build.23367570   免安装中文版
+- ServiceIT：你可以做IT | IT公司模拟器|IT服务公司/ ServiceIT: You can do IT   v1.2.0   全DLC  免安装中文版
+- 伊尔2：多佛白崖闪电版 IL-2 Sturmovik: Cliffs of Dover Blitz Edition    v5.047     免安装中文版
+- 精神检验师/Mind Scanners    v20220523    免安装中文版
+- 卡车机械师：危险道路 /Truck Mechanic Dangerous Paths    v1.0.2   免安装中文版
+- 肯特开拓史/ Kentum  Build.21705552   免安装中文版
+- 无声舰队/Modern Naval Warfare    Build.23345700   免安装英文版
+- 炒股模拟器|股票市场模拟器|东京股神/ STONKS-9800 Stock Market Simulator   Build.23403144   免安装中文版
+- 小梯田 /Tiny Terraces   Build.23272110   免安装中文版
+- 云族裔/ inZOI  v0.8.6  全DLC 送修改器 免安装中文版
+- 搬家 /Moving Houses    Build.23431424    免安装中文版
+- 枪匠模拟器/ Gunsmith Simulator   v1.6.19   全DLC   免安装中文版
+- 黎明时分 /Dawn Apart  Build.21227895   免安装中文版
+- 牧场物语 来吧！风之繁华集市/STORY OF SEASONS Grand Bazaar   v1.5.0   豪华版 全DLC 送修改器  免安装中文版
+- 汀可镇/ Twinkleby    Build.22570640   免安装中文版
+- 动物海湾/ Critter Cove   Build.23448755    免安装中文版
+- 法医调查员：尸检协议 /FORENSIC – M.E. Protocol     Build.23253357   免安装中文版
+- 模拟农场25/ Farming Simulator 25 / 单机+联机   v1.19.0.0   全DLC MOD合集  免安装中文版
+- 餐厅兄弟2 /Diner Bros 2     Build.23379503   免安装中文版
+- 桌游商店模拟器/ Tabletop Game Shop Simulator   v1.0正式版   免安装中文版
+- 同步音律喵赛克：回归/MUSYNX RETURN   Build.23407991  免安装中文版
+- 外星市场模拟器/ Alien Market Simulator   v1.0正式版  免安装中文版
+- 诈骗园区模拟器：地下王国/ Scam Centre Simulator Under Kingdom    Build.23486175  免安装中文版
+- 九霄仙途 /Sky Realm Idle   v0.12.8   免安装中文版
+- 恐龙牧场/Paleo Pines    Build.23433413    免安装中文版
+- 菜市场模拟器/Old Market Simulator  v2.1.2  免安装中文版
+- 大地基石2 / Terra Firma 2    Build.23465712   免安装中文版
+- 牧场模拟器：建造、狩猎、农场/Ranch Simulator /单机+联机   v1.214s  全DLC    免安装中文版
+- 鱼屋模拟器/Fish House Simulator     Build.23430858   免安装中文版
+- 森林角落的茶话会 /Nom Nom Cozy Forest Café  v1.0.8.1 免安装中文版
+- 重建你的岛屿/Restore Your Island    Build.23455179   免安装中文版
+- 无径之林/Pathless Woods    v0.5235   免安装中文版
+- 沙龙模拟器/Saloon Simulator   Build.23449680   免安装中文版
+- 族人 /Clanfolk    v0.640    免安装中文版
+- 装机模拟器2 / PCBuildingSimulator2    v1.16.05   送修改器   免安装中文版
+- 传说酒馆/ Ale and Tale Tavern/ 单机+联机    Build.23486662   免安装中文版
+- 爱情商店模拟器|成人用品店/LOVE SHOP Simulator     免安装中文版
+- 变废为宝哥布林/ Trash Goblin   v1.5.9789   全DLC   免安装英文版
+- 纪元117：罗马和平-虚拟机版 / Anno 117 Pax Romana    v1.5.2|Build.23292885   免安装中文版
+- 城市：天际线2|都市：天际线2 / Cities: Skylines II   v1.5.10f1  全DLC 送修改器   免安装中文版
+- 厨师物语|烹饪冒险/ Chef RPG   v0.8    免安装中文版
+- 像素人生/ To Pixelia   v1.1.27  免安装中文版
+- 钢铁动脉：铁路城市建造者/Steel Artery Train City Builder    v1.0.6   免安装中文版
+- 银行家模拟器|银行人生 / Banker Simulator   Build.23091402   免安装中文版
+- 战列舰指挥官：沙恩霍斯特号/Battleship Command    Build.23522153   免安装英文版
+- 酒馆带老板/ Tavern Keeper   v0.75.9   免安装中文版
+- 终落之城 /ALL WILL FALL    v1.1.3f1   免安装中文版
+- 水上乐园模拟器/ Waterpark Simulator   v0.4.30   免安装中文版
+- 自在城镇/Town To City   v1.0.2.10293   免安装中文版
+- 原始定居者|人类纪元/ Humanica    Build.23471371     免安装中文版
+- 骇客枢纽：终极黑客模拟器|黑客中心：终极模拟器/HackHub – Ultimate Hacker Simulator   Build.23545561   免安装中文版
+- 繁星旅途 /Stardeus   Build.23193502   免安装中文版
+- 超级大卖场模拟器/Megastore Simulator   Build.23530094  免安装中文版
+- 挖矿大亨模拟器 /Crypto Miner Tycoon Simulator    Build.23526998   免安装中文版
+- 难忘挚爱|难忘的爱 /Unforgettable Love   Build.23558171   免安装中文版
+- 工业巨头|工业部长/Captain of Industry   v0.8.5  全DLC   免安装中文版
+- 阿卡迪亚咖啡馆/Arcadia Cafe     Build.23413303   免安装中文版
+- 蛮荒计划/FEROCIOUS    v1.0.8   免安装中文版
+- 太空工程师1 /Space Engineers   v1.209.024   全DLC  免安装中文版
+- 天朝上国/ Celestial Empire   v0.9.375   免安装中文版
+- 芬兰小屋模拟器/Finnish Cottage Simulator    Build.23532664      免安装中文版
+- 汽车经销商模拟器/ Car Dealer Simulator    v1.0.0.5272  全DLC   免安装中文版
+- 大荒先民/ Primitive Society Simulator   Build.23490616   免安装中文版
+- 肉丸烹饪：盛满快乐/KuloNiku Bowl Up!     Build.23471291    免安装中文版
+- 重型货运：卡车模拟器/ Heavy Cargo – The Truck Simulator   Build.22400017  免安装中文版
+- 卷饼屋模拟器|沙威玛传奇联机版|卷饼小店模拟器  /Wrap House Simulator /单机+联机Build.23477045    免安装中文版
+- 露营地经营/Campsite Hustle! – Management Simulator    Build.23576838    免安装中文版
+- 生物厨房/Creature Kitchen   Build.23440579   免安装英文版
+- inKONBINI：一家小店，故事多多/inKONBINI One Store. Many Stories    Build.23545231   免安装中文版
+- 无人机模拟器|无人机竞速模拟器|TRYP FPV：无人机竞速模拟器/ TRYP FPV : The Drone Racer Simulator  Build 23437616     免安装中文版
+- 代号三国：龙起/The Three Kingdoms Rebirth   Build.23143939   免安装中文版
+- 酒店建筑师/Hotel Architect   v1.0.1.5  免安装中文版
+- 球星卡牌店模拟器/Sports Card Shop Simulator     Build.23590276   免安装中文版
+- 冰淇淋模拟器 /Ice Cream Simulator    Build.23525370   免安装中文版
+- 记忆之城 /MEMORIAPOLIS    v1.5.377   免安装中文版
+- 异食工厂/Snacktorio    Build.23585695   免安装中文版
+- 太阳疆域：太空探索管理者 /Solar Expanse – Space Exploration Manager    Build.23344524   免安装中文版
+- 雄心壮志/ Big Ambitions     Build.23453427    免安装中文版
+- 廉价汽车维修 /Cheap Car Repair   Build.23527322     免安装中文版
+- 铁路公司2 /Railroad Corporation 2    Build.23572449    免安装中文版
+- 咖啡馆经营模拟/Cafe Business Manager    Build.23555789   免安装中文版
+- 武馆模拟器/ Fight School Simulator   Build.23565178    全DLC  免安装中文版
+- 医疗兵：太平洋战争/Medic Pacific War    Build.23586078   免安装英文版
+- 随时在一起：云自习 /On-Together Virtual Co-Working   v1.1.1   全DLC   免安装中文版
+- 塔楼网络公司 /Tower Networking Inc.   Build.23486818   免安装中文版
+- 漂泊牧歌|流浪村庄|漫游乡/The Wandering Village   v1.1.6    免安装中文版
+- 梦幻魔法公主/Magical Princess    v1.1.1    免安装中文版
+- 迪士尼梦幻星谷/Disney Dreamlight Valley    v1.23.2.4 全DLC   送修改器   免安装中文版
+- 淘金热/Gold Rush: The Game   v1.10.5.4   全DLC 送修改器+赠官方原声14首BGM+赠满金币.黄金初始存档+赠游戏攻略PDF   免安装中文版
+- 集换式卡牌检验员 /Trading Card Inspector   Build.23610003  免安装中文版
+- 打骨折超市日记/ Discounty   v1.2.0   免安装中文版
+- 哥布林寿司/Goblin Sushi   v0.4.10  免安装中文版
+- 世外桃源 /Land Of Idyllic Beauty   v1.3.2.8   免安装中文版
+- 西奥小镇/ TheoTown    Build.23194570   免安装中文版
+- 导师模拟器 /Professor Simulator    Build.23617649    免安装中文版
+- 星际矿业/Starminer    Build.23494868   免安装英文版
+- 复古浪潮 2/Retrowave 2+1    Build.20991011 附1代     免安装中文版
+- 乌克兰战争戈斯托梅利勇士|乌克兰战争：戈斯托梅尔英雄 /Ukrainian Warfare Gostomel Heroes   v1.01.539   免安装中文版
+- 野狼谜踪：周年纪念版/WolfQuest Anniversary Edition   v3.0.1h  全DLC 免安装英文版
+- 料理模拟器2|烹饪模拟器2：合作无间/Cooking Simulator 2 Better Together/单机+联机    Build.23471187   免安装中文版
+- 十三州行动：三国搜打撤/Warlords Battleground Extraction    Build.23632636    免安装中文版
+- 图书管理员：整理魔法图书馆吧/Librarian Tidy Up the Arcane Library    v1.0.10   免安装中文版
+- 梦想办公室 /The Dream Office   Build.23289774   免安装中文版
+- 将军：古典时代/Strategos   v1898   免安装中文版
+- 深海刮刮乐/Scale the Depths    v1.0.3   免安装中文版
+- 一起农场2 / Farm Together 2/ 单机+联机   v20260608   免安装中文版
+- 密室逃脱模拟器/ Escape Simulator /单机+联机   v38287r  全DLC  免安装中文
+- 典当行模拟器 /Pawnbroker Simulator   v1.1.3.16  免安装中文版
+- 八月之前/The August Before   Build.22521510     免安装中文版
+- 模块工厂自动化大亨 /Modulus Factory Automation   v1.0.5  免安装中文版
+- 拉斯维加斯模拟器/Grand Casino Simulator The House Always Wins/单机+联机     v1.0.6.2    免安装中文版
+- 环世界|边缘世界/ RimWorld   v1.6.4850  全DLC 附MOD版  免安装中文版
+- 深夜拉面 /Midnight Ramen    Build.23400487   免安装中文版
+- 料理模拟器|烹饪模拟器/ Cooking Simulator   v7.4.0  全DLC 送修改器 赠满技能.金币.烹饪点初始存档    免安装中文版
+- 机场安检真麻烦！/Airport Security Sucks!/单机+联机    v148     免安装中文版
+- 我的时光：大学日记 /College Life  Build.21997613  免安装中文版
+- 锚定港湾/ Docked   v1.4.0   全DLC  免安装中文版
+- 农民的生活/Farmer’s Life   v1.1.3 全DLC   送原声带   免安装中文版
+- 堡垒：猎鹰战纪/ Bulwark: Falconeer Chronicles    Build.23592287    全DLC   免安装中文版
+- 终极影院模拟器|影院管理模拟器/ Ultimate Theater Simulator   v1.3.9  免安装中文版
+- 覆雪之上/Above the Snow   Build.23580408   免安装中文版
+- 军工放置大亨 /Military Incremental Complex   Build.23628006     免安装中文版
+- 庞贝：遗产/ Pompeii The Legacy  Build.23612345   免安装中文版
+- 可口的披萨 |美味的披萨/Good Pizza, Great Pizza /PC+手机双端    v5.52.1  全DLC   免安装中文版
+- 前往中世纪/ Going Medieval   v1.0.100   送修改器   免安装中文版
+- 超市模拟器/ Supermarket Simulator/ 单机+联机/ PC+手机双端    v1.4.2 送修改器   免安装中文版
+- 梦境搁浅/Dreamstranded    Build.23672497   免安装中文版
+- 欢迎光临 /Beastro    Build.23627177   免安装中文版
+- 超级市场模拟器|大型超市模拟器 /Hypermarket Simulator    Build.23684536    免安装中文版
+- 青岚物语/Tales of Seikyu   v1.0.10   免安装中文版
+- 二战空军飞行基地模拟器|王牌战场|王牌基地 /Ground of Aces  Build.23643101   免安装中文版
+- 迷你高速公路/Mini Motorways   v20260609   免安装中文版
+- 矮人防线/ Gnomes   Build.23676542   免安装中文版
+- 书店模拟器/ Bookshop Simulator  Build.23597425   免安装中文版
+- 别让它挨饿/Don’t Let It Starve     Build.23704828    免安装中文版
+- 囚徒的柜台/Teller’s Duty     Build.23700587   免安装中文版
+- 灾后修复师/RoadCraft /单机+联机   v7.0 免安装中文版
+- 烤肉串模拟器|烤串大厨! 餐厅模拟器/Kebab Chefs! – Restaurant Simulator / 单机+联机   Build.23703417  免安装中文版
+- 缺氧：眼冒金星/Oxygen Not Included  单机+联机   v737195  全DLC    免安装中文版
+- 珊瑚礁生活/Life Below    v1.1.3    免安装中文版
+- 战国王朝/Sengoku Dynasty /单机+联机   v1.2.2.1  全DLC 送修改器   免安装中文版
+- 中世纪王朝/ Medieval Dynasty / 单机+联机   v2.6.0.1  全DLC  送修改器  免安装中文版
+- 幸福工厂/Satisfactory/ 单机+联机  v1.2.3.0  赠官方原声BGM+修改器+赠120h+成长性存档  免安装中文版
+- 星砂岛 /Starsand Island   v1.0.0.11085   免安装中文版
+- 农场男孩先生|农场先生/MR FARMBOY   Build.23548570    免安装中文版
+- 沙粒模拟场|沙盒模拟器/ Sandboxels    Build.22237020   免安装中文版
+- 中央车站模拟器 /Center Station Simulator   Build.23679801    免安装中文版
+- 星际裂变 /StarRupture  /单机+联机   v0.2.7  免安装中文版
+- 合同村|合约村|契约小镇/ ContractVille / 单机+联机   v1.8.6  全DLC   免安装中文版
+- 佐兹镇/Town of Zoz   Build.23328759   免安装中文版
+- 矿物开采模拟器/Mineral Mining Simulator   Build.23697224   免安装中文版
+- 轮到你，敢不敢？|你开车吗？/ Will You Wheel？  Build.23552481   免安装中文版
+- 热带度假村经营模拟器 /Tropical Resort Simulator    Build.23643626   免安装中文版
+- 修仙：但系统让我种田 /Immortal Farmer System\\’s Mandate    Build.23723575   免安装中文版
+- 平行人生 /Paralives     v0.1.3b.20057   免安装中文版
+- 面面俱盗/ Thick As Thieves   v20260610   免安装中文版
+- 吾皇万岁 /Long Live The Emperor    Build.23725108   免安装中文版
+- 特里修斯之门/ The Doors of Trithius    Build.23710480   免安装中文版
+- 克鲁赛德战记英雄之城 /Crusaders Quest Hero Town   v2.0.1 免安装中文版
+- 星辰群鸟|星辰群岛/ Star Birds    v0.3.7   免安装中文版
+- 末日降临！被美女们关进避难所 /Beauties and the Stranded    Build.23638499   免安装中文版
+- 小环礁/Tiny Atolls    Build.15340275   免安装中文版
+- 房产达人2 / House Flipper 2 / 单机+联机   v20260611 全DLC   免安装中文版
+- 缮写室羊皮卷大师 /Scriptorium Master of Manuscripts   v1.1.1  免安装中文版
+- 收获咖啡馆/Harvest Cafe    Build.22650177   免安装中文版
+- 水族馆模拟器 建造水族馆，繁殖鱼类，拓展你的业务! / Aquarist    v20260404 全DLC   免安装中文版
+- 零售之王2 / King of Retail 2   Build.22639318   免安装英文版
+- 迷你高速公路/Mini Motorways   v20260406   免安装中文版
+- 自力更生：投资人生模拟器/SELF MADE Investment Life Sim    Build.22704747   免安装中文版
+- 瘟疫公司：物竞天择 /Plague Inc Evolved   v1.23.0.7 送修改器   免安装中文版
+- 庞贝：遗产/ Pompeii The Legacy  Build.22710196    免安装中文版
+- 动物园之星 -虚拟机版/ Planet Zoo   v1.20.1（Build.19133017）免安装中文版
+- 花林物语：英语学习游戏/Blossom’s Grove An English-Learning Game   v1.79  免安装中文版
+- 星球田园诗/ Farlands   Build.22725315  免安装中文版
+- 火星第一物流/ Mars First Logistics   Build.22689339   免安装中文版
+- 垃圾场建造者/ Junkyard Builder    Build.22695895   免安装中文版
+- 暗影帝国 /Shadow Empire   Build.22677451 全DLC   免安装英文版
+- 旅者之憩/旅客休息/Travellers Rest /单机+联机  v0.7.5.0.10 免安装中文版
+- 哪种香肠，伙计？/Which Sausage Mate    Build.22740562    免安装中文版
+- 克苏鲁信徒|克苏鲁崇拜者/ Worshippers of Cthulhu   v1.0.0.4  免安装中文版
+- 占领火星/ Occupy Mars: The Game / 单机+联机   v1.0.14   免安装中文版
+- 铁路调度模拟器|铁路路线/Rail Route   v2.3.24  全DLC  免安装中文版
+- 矮人防线/ Gnomes   Build.22696252   免安装中文版
+- 虫群来袭 /Here Comes The Swarm  Build.22662913  免安装中文版
+- 银行模拟器/Bank Simulator   Build.22739552  免安装中文版
+- 宇宙沙盒|宇宙沙盘 /Universe Sandbox  v36.0.2  免安装中文版
+- 在太空中寻找 100 只鸭子并炸飞它们！！！/Find 100 Ducks and Blast Them…IN SPACE!!!   v1.0.0   免安装中文版
+- 米斯特里亚牧场|米斯特利亚牧场/Fields of Mistria  v0.15.3   免安装英文版
+- 运输大亨 /OpenTTD  v15.3  免安装中文版
+- 静语农庄/PeacefulFarm    Build.22149156   免安装中文版
+- 佐兹镇/Town of Zoz   Build.22703993   免安装中文版
+- 美妆店模拟器 /Beauty Store Simulator   Build.22743132   免安装中文版
+- 噩梦之夜 /Night of Nightmare  Build.21712547   免安装中文版
+- 清理地球|地球清洁工 /Clean Up Earth  Build.22731971  免安装中文版
+- 迪斯科灯光下：80年代酒吧模拟器 /Under the Disco Lights – 80’s Bar Simulator   Build.22763688   免安装中文版
+- 植物庄园 /Botany Manor  v1.0.0  免安装中文版
+- 洗衣模拟器 /Laundry Simulator 2026   Build.22777996   免安装中文版
+- 黑客模拟器 /Hacker Simulator   Build.22676869   免安装中文版
+- 自动售货机商业模拟器/ Vending Machine Business Simulator   Build.21947965  免安装中文版
+- 巨型水族馆  /Megaquarium   v5.1.2  全DLC  免安装中文版
+- 夜总会模拟器/Night Club Simulator /单机+联机  v0.1.7   免安装中文版
+- NBA 2K24-虚拟机版   Build.17177048   免安装中文版
+- 迷你空管/Mini Airways   Build.22731062   免安装中文版
+- 华夏山河 /Chinese Frontiers    v2.2.2417    免安装中文版
+- 赛博牛马/Bit Buddy    Build.22213037   免安装中文版
+- 叛逆AI放置征服/Rogue AI Desktop    Build.21928830   免安装中文版
+- 日本田园生活冒险|和风田园慢生活 /Japanese Rural Life Adventure   v1.1.4  免安装中文版
+- 极限叉车3/Extreme Forklifting 3    Build.22744885   免安装中文版
+- 埃斯玛尔探险家/Explorers of Esmar   Build.22803916    免安装中文版
+- 凯蒂猫岛屿冒险-虚拟机版/Hello Kitty Island Adventure    Build.22723795   免安装中文版
+- 帕夏时代/Roots of Pacha/PC+手机双端   v1.3.1.1 免安装中文版
+- 加油模拟器2|加油站模拟器2 /Pumping Simulator 2    v1.2    免安装中文版
+- 模拟山羊3/ Goat Simulator 3 / 单机+联机/ PC+手机双端   v1.2.1.1 全DLC 含重制版   免安装中文版
+- 缺氧：眼冒金星/Oxygen Not Included  单机+联机   v722606 全DLC    免安装中文版
+- 奠基/Foundation   v1.11.0.17  免安装中文版
+- 中国火车之旅/Chinese Train Trip    免安装中文版
+- 萌族纪元/Animalkind    v0.6.10   免安装中文版
+- 清洁大作战！/Cleaning Up!   Build.22878168  免安装中文版
+- 回转寿司模拟器/Conveyor Belt Sushi Simulator    Build.22871756   免安装中文版
+- 缮写室羊皮卷大师 /Scriptorium Master of Manuscripts   v1.0.0   免安装中文版
+- 地下机修工|地下车库 /Underground Garage   v1.02  免安装中文版
+- 汽车销售模拟器2023|二手车买卖模拟器/Car For Sale Simulator 2023 /单机+联机   v1.3.3  免安装中文版
+- 铣削机模拟器/Milling machine simulator  Build.22799686   免安装中文版
+- 邪教之国 /Cult Nation   Build.22881609   免安装中文版
+- 遗民天境 /CLOUD DWELLERS   Build.22830892   免安装中文版
+- 筑城记：中世纪/ City Tales Medieval Era  v1.2.0.1  免安装中文版
+- 女神驾到：夏日甜心 /Happy together    收藏版    免安装中文版
+- 时尚梦想家/ Retail Company Simulator   v1.0.61  免安装中文版
+- 我家有矿 /Fracture Field   v1.1.0   免安装中文版
+- 洗衣店模拟器/Laundry Store Simulator   v7.1.4   免安装中文版
+- 牧场农场与商店模拟器/ Ranch Farm and Store Sim   Build.22897912   免安装中文版
+- MMO98 Build.22894330 免安装中文版
+- 全球热潮/ Worldwide Rush  Build.22854717   免安装中文版
+- 射击场模拟器/Shooting Range Simulator  Build.22930527  免安装中文版
+- 超级情圣1/Super Seducer How to Talk to Girls    v6509984    免安装中文版
+- 架空地图模拟器/Fantasy Map Simulator   Build.22904094   免安装中文版
+- 大锻造师/ Medieval Crafter Blacksmith    v1.0.1  免安装中文版
+- 清洁模拟器/ Cleaning Simulator   Build.22904640    免安装中文版
+- 天空终端市场/Sky End Market     Build.21085832    免安装中文版
+- 中世纪王朝/ Medieval Dynasty / 单机+联机   v2.5.2.1 全DLC  送修改器  免安装中文版
+- 超级便利店 |超级迷你超市/Super Mini Mart  Build.22908799   免安装中文版
+- TCG卡牌商店模拟器|集换卡店模拟器|TCG卡牌店模拟器/ TCG Card Shop Simulator: Prologue / PC+手机双端   v0.70.3 内置mod版+原版+单独mod整合包   免安装中文版
+- 二手车模拟器/Used Cars Simulator  Build.22832915   免安装中文版
+- 放置老鼠：岛屿挖掘者/Idle Rat Island Digger    Build.22342401   免安装中文版
+- 鼠宝小镇/ Whiskerwood   v0.6.192.0  免安装中文版
+- 牛头人迷阵 /Minos  v1.0.2   免安装中文版
+- 贸易征服 /Trade Conquest   Build.22816069   免安装中文版
+- 虫群霸主2 /Buggos 2   Build.22933306   免安装中文版
+- 深核放置/Idle Deepcore    Build.22858531   免安装中文版
+- 模拟铁路：铁路模拟器/SimRail：The Railway Simulator   v20260417 全DLC  免安装中文版
+- 绝命毒师模拟器2 |毒枭模拟器2 /Drug Dealer Simulator 2/单机+联机  v20260423 全DLC   免安装中文版
+- 密室逃脱模拟器/ Escape Simulator /单机+联机   v37800r  全DLC  免安装中文
+- 房车越野模拟器/ RV There Yet?|我们到了吗？/ 单机+联机   Build.22864294  免安装英文版
+- 宝贝别怕，有我在 Build.22436647 免安装中文版
+- 湖畔酒馆/Lakeside Bar   Build.22808717  免安装中文版
+- 贝塔咖啡馆：书写你的爱情故事/Beta Kafe Write Your Love Story    Build.22891919   免安装中文版
+- 城市：天际线1| 都市天际线1 / Cities: Skylines v1.21.1-f5豪华版 全DLC 赠官方原声13首OST+修改器+200实用资产MOD+满金币初始存档 免安装中文版
+- 海盗的诅咒 /Curse of Pirates   Build.22939306   免安装中文版
+- 简易飞机2/SimplePlanes 2    Build.22905559   免安装英文版
+- 城市交通模拟2026|城市公共交通模拟器2026-虚拟机版 /City Transport Simulator 2026  Build.22811200   免安装中文版
+- 十三州行动：三国搜打撤/Warlords Battleground Extraction    Build.22956327  免安装中文版
+- 银河旅店|银河酒店 /Hotel Galactic   v0.6.6  免安装中文版
+- 人生公司/Life Inc.   Build.22954977   免安装中文版
+- DVD商店模拟器 /DVD Store Simulator   Build.21288467   免安装中文版
+- 112接线员/112 Operator   v0.260424  免安装中文版
+- 收费站模拟器 /Toll Booth Simulator   Build.22981860   免安装中文版
+- 冒险家商店/Loot Tycoon    Build.22989934   免安装中文版
+- 典当行模拟器 /Pawnbroker Simulator   v1.1.3.13  免安装中文版
+- 不小心远征队/ Away Team  v722176  免安装中文版
+- 戴森球计划/Dyson Sphere Program   v0.10.34.28524  送修改器  免安装中文版
+- 铸造厂/ FOUNDRY /单机+联机  v0.6.0.26485   免安装中文版
+- 法国小馆儿模拟器 /Parisian Brasserie Simulator    v0.8.1   免安装中文版
+- 模块工厂自动化大亨 /Modulus Factory Automation   v1.0.4  免安装中文版
+- 建筑也有感情/Buildings Have Feelings Too!    免安装中文版
+- 瓦特的极限？/Watt’s the Limit    Build.23036456    免安装中文版
+- 克鲁赛德战记英雄之城 /Crusaders Quest Hero Town   v1.2.5   免安装中文版
+- 紧急清理公司/Emergency Cleanup Co.  v0.6.32  免安装中文版
+- 航空运营/Airline Ops    Build.22540538   免安装中文版
+- 矿脉探寻|余烬石|余烬矿工/ Orebound / 单机+联机  Build.22947883   免安装中文版
+- 史前王国/Prehistoric Kingdom  v1.16.38  免安装中文版
+- 工人物语：新兴同盟-虚拟机版/The Settlers New Allies    r857241   免安装中文版
+- 凯撒大帝3/Caesar III    免安装中文版
+- 失恋玩家/Dating 4 Girls    Build.23077418   免安装中文版
+- 哥布林寿司/Goblin Sushi   v0.4.9  免安装中文版
+- 小马游戏 /Horsey Game   Build.22948587    免安装英文版
+- 帝国陨落/Fall of an Empire   v1.246.1 全DLC    免安装中文版
+- 刮个爽/Scritchy Scratchy   v1.1.12d   免安装中文版
+- 战国王朝/Sengoku Dynasty /单机+联机   v1.2.1.2  修复闪退 全DLC 送修改器   免安装中文版
+- 军工放置大亨 /Military Incremental Complex   Build.22999260    免安装中文版
+- 逃脱计划 /Project Breakout    Build.22965810   免安装中文版
+- 赞美神球/All Hail the Orb    Build.23073093   免安装中文版
+- 斯拉维利亚卡车司机/The Slaverian Trucker    v20260502   免安装英文版
+- 未来城市沙盒|反乌托邦/ Dystopika   v1.7.9  免安装中文版
+- 修车吧！兄弟！/Car Service Together /单机+联机   v0.97F5   免安装中文版
+- 触手回春/ Do No Harm   v1.2.8   免安装中文版
+- 海港物语/Havendock   v1.4.16  全DLC   免安装中文版
+- 三明治模拟器/Sandwich Simulator   v1.1.0.1  免安装中文版
+- 自动售货机模拟器 /Vending Machine Co.    v1.1.1  免安装中文版
+- 一起农场2 / Farm Together 2/ 单机+联机   v20260504   免安装中文版
+- 遗忘週一咖啡馆/Not Monday Cafe    v1.4.3   免安装中文版
+- 酒类商店模拟器/ Liquor Store Simulator   v1.3.5   免安装中文版
+- 星河战队：终焉虫潮 /Starship Troopers Ultimate Bug War!   Build.22832378  免安装中文版
+- 乡村市场模拟器/Farmer’s Market Simulator    Build.23047125    免安装中文版
+- 机场安检模拟器|机场X光模拟器 / Airport X-Ray Simulator   Build.23092033   免安装中文版
+- 房产达人1 / House Flipper  v20260505 全DLC   免安装中文版
+- 现金清理模拟器|浣币模拟器/ Cash Cleaner Simulator   v1.7.2.1304 全DLC   免安装中文版
+- ΔV：土星环/ ΔV: Rings of Saturn  v1.89.2 全DLC    免安装中文版
+- 越狱模拟器：挖掘/Prison Escape Simulator Dig Out / PC+手机双端   v20260505 免安装中文版
+- 纹身大亨/ Tattoo Tycoon   Build.22903486   免安装中文版
+- 海狸浮生记/ Timberborn  v1.0.13.1  免安装中文版
+- 劫后公司/ After Inc.  Build.23091253   免安装中文版
+- 中央车站模拟器 /Center Station Simulator   Build.23118078    免安装中文版
+- 远征：泥泞奔驰游戏/Expeditions: A MudRunner Game/单机+联机   v20260122   全DLC    免安装中文版
+- 合同村|合约村|契约小镇/ ContractVille / 单机+联机   v1.8.5 全DLC   免安装中文版
+- 装修大师|家装大师/ Furnish Master   Build.23076510   免安装中文版
+- 喷漆模拟器/Spray Paint Simulator     v2902  全DLC   免安装中文版
+- 地铁模拟2 / SubwaySim 2    v20260507   全DLC   免安装中文版
+- 失控车手/Racer Overdrive    Build.23013715  免安装中文版
+- 超级市场模拟器|大型超市模拟器 /Hypermarket Simulator    Build.23169129   免安装中文版
+- 护林员之路：国家公园模拟器 /Ranger’s Path National Park Simulator  Build.22940557免安装中文版
+- 啤酒制造模拟器/Beer Manufacture Simulator   Build.23031595   免安装中文版
+- 披萨店模拟器/Pizza Slice   Build.23027348   免安装中文版
+- 快捷洗车模拟 /Express Car Wash Simulator   Build.23146564   免安装中文版
+- 罪托邦 /Sintopia   v1.0.5.541  免安装中文版
+- 狂野西部：传承 /Wild West Legacy   v1.0.9753   免安装中文版
+- 阿斯卡/ ASKA/ 单机+联机     v1.33.230426    免安装中文版
+- 末日水蚤实验室 /Post Apocalypse Microbe Lab   Build.23092886   免安装中文版
+- 街角商店：夜班 /Corner Shop NightShift   Build.22889656  免安装中文版
+- 太空避难所/Space Haven   Build.23178724   免安装中文版
+- 太空站长|空间站工程师/ Stationeers/单机+联机   Build.21501725  免安装中文版
+- 珊瑚岛/ Coral Island    v1.3-366   免安装中文版
+- 料理模拟器|烹饪模拟器/ Cooking Simulator   v7.3.3   全DLC 送修改器 赠满技能.金币.烹饪点初始存档    免安装中文版
+- 埃及前沿/Egypt Frontiers   v1.0.4  免安装中文版
+- 矿物开采模拟器/Mineral Mining Simulator   Build.23229775    免安装中文版
+- 二战空军飞行基地模拟器|王牌战场|王牌基地 /Ground of Aces  Build.23214995   免安装中文版
+- POJANGMACHA：韩国街头美食经营模拟器 /POJANGMACHA Korean Street Food Management Simulator   Build.23191718   免安装中文版
+- 新闻大厦/ News Tower   v1.1.123r   免安装中文版
+- 全球救援/Global Rescue    Build.23200147    免安装中文版
+- 裁缝模拟器 /Tailor Simulator  Build.22964862   免安装中文版
+- 牛马三百六十行/ Walk of Life /单机+联机    v1.0.2  免安装中文版
+- 小小书店/ Tiny Bookshop   v1.1.6  免安装中文版
+- 足球青训学院经理 /Football Academy Manager  Build.23231072  免安装中文版
+- 滨海长廊建造者 /Boardwalk Builders   Build.23216888   免安装中文版
+- 美国卡车模拟/ American Truck Simulator/ 单机+联机   v1.59.2.0s  全DLC   免安装中文版
+- 咒术师学院/ Spellcaster University   v1.07   免安装中文版
+- 书店模拟器/ Bookshop Simulator  Build.23212122   免安装中文版
+- 我自成道/I Am The Dao   v0.6.01   免安装中文版
+- 港务局 /Port Authority   Build.23236441   免安装中文版
+- 服务区模拟器 /Service Area Simulator   Build.23240962    免安装中文版
+- 冰淇淋革命 /Ice Cream Revolution   Build.21816396   免安装中文版
+- 咖啡店革命 /Cafe Revolution   Build.23246490   免安装中文版
+- 太阳基因|太阳系指挥官 /Solargene    Build.23126971    免安装中文版
+- 伊始之地/Terra Nil   v1.2.12  免安装中文版
+- 退货专卖店模拟器/ Returns Outlet Simulator   Build.23251241   免安装中文版
+- 覆雪之上/Above the Snow   v1.1  免安装中文版
+- 夕阳游戏店/Sunset Game Shop Shayou     Build.23194029   免安装中文版
+- 希望物语/Seeds of Calamity  Build.23278262   免安装中文版
+- 火星人闹翻地球/Mars Attracts   Build.22435182   免安装中文版
+- 巴斯蒂德/Bastide   Build.23275352   免安装中文版
+- 大麻超市模拟器/Weed Supermarket Simulator    Build.23232039    免安装中文版
+- 巨著 /Opus Magnum   Build.23205350     全DLC   免安装中文版
+- 星际卡车司机/ Star Trucker   v1.73.2  全DLC  免安装中文版
+- 修仙：但系统让我种田 /Immortal Farmer System\\’s Mandate    Build.22692423      免安装中文版
+- 请提供服务/Service Please    Build.23179557   免安装中文版
+- 内啡肽狂欲/Endorphin Vice    Build.23169298   免安装英文版
+- 海参大作战/NAMAKORIUM   v1.0正式版  免安装中文版
+- 房屋建造者/ House Builder  v20260518   全DLC  免安装中文版
+- 洗刷刷模拟器/Monster Mop Up /单机+联机     v0.8.417    免安装中文版
+- 沉没引擎/ Sunken Engine  Build.23288546   免安装中文版
+- 被感染者/The Infected   Build.23100209    免安装中文版
+- U型潜艇 /UBOAT     v2026.1.Patch19 全DLC    免安装中文版
+- 海盗崛起 /Rise of Piracy   v20260518   免安装英文版
+- 星际迷航：航海家号 – 穿越未知 /Star Trek Voyager Across the Unknown   v1.7.24346   免安装中文版
+- 宇宙牌加油站/ Roadside Research  Build.23307608   免安装中文版
+- 堡垒：猎鹰战纪/ Bulwark: Falconeer Chronicles    Build.23313890    全DLC   免安装中文版
+- 冲突时代：世界大战模拟器/ Ages of Conflict: World War Simulator   v4.4.1   免安装中文版
+- 淘淘旧货铺/Thrifty Business   Build.23232326    免安装中文版
+- 车祸模拟器|拟真车祸模拟/ BeamNG.drive / 单机+联机/ PC+手机双端   v0.38.6.0 免安装中文版
+- 休息区模拟器 /Rest Area Simulator   Build.23292536   免安装中文版
+- 面面俱盗/ Thick As Thieves   Build.23321950   免安装中文版
+- 药店模拟器/Pharmacy Simulator   Build.23311617   免安装中文版
+- 私酿酒师模拟器|私酿达人模拟器/Moonshiner Simulator    Build.23310936   免安装中文版
+- 包裹配送模拟器 /Parcel Delivery Simulator   Build.23252756   免安装中文版
+- 食品加工模拟器|食品加工模拟 /Food Processing Simulator   v1.0.40    免安装中文版
+- 我来自江湖/ From Jianghu   v0.6.12   送修改器  免安装中文版
+- 星露谷物语/病娇版
+- 疯狂水世界无限内购
+- 亲爱的农场（无限资源货币）
+- 史莱姆农场（免付费解锁完整版）
+- 魔女的商店（大量货币）
+- 商业传奇：钓鱼大师（使用货币不减反增）
+- 动物园大亨（使用星星不会减少）
+- 放置供应大亨（大量货币）
+- 宝可梦咖啡馆
+- 小小铁路（大量伙伴）
+- 百货店RPG（大量资源）
+- 不要喂食猴子（内置MOD菜单）
+- 喵咪学校（免广告获取奖励）
+- 从零开始建造工厂（大量货币等）
+- 星露谷物语（原版+大量金币存档）
+- 恐龙主题乐园（免广等）
+- 开心农场
+- 船舶墓地模拟器（内置MOD菜单）
+- 武器商店大亨
+- 高速收费站（大量货币）
+- 动物农场（大量货币）
+- 太空农夫（使用货币不减）
+- 守墓人（大量金币）
+- 集合啦！动物森友会（SWITCH手机版）
+- 洗衣店模拟器（大量货币）
+- 家园与探险（大量资源）
+- 超市模拟器（内置MOD菜单）
+- 迷宫贩~魔王城的开店还债之旅（SWITCH手机版）
+- 我的游轮（使用货币不减反增）
+- 狩猎帝国（vip免广告获取奖励）
+- 太空业务大亨（大量货币）
+- 闲置的滑雪大亨（使用货币不减反增）
+- 东海道（免付费解锁完整版）
+- 动物森友会：口袋露营广场（免付费解锁完整版）
+- 潜水员戴夫全DLC（SWITCH手机版）
+- 从零开始的一人公司（免广告等）
+- 是的，陛下（免付费解锁完整版）
+- 持续挖掘（steam移植+免付费解锁完整版）
+- 烹饪王国（无限体力）
+- 冒险代理人：大地的冒险者（钻石，祈祷使用反加）
+- 监狱建筑师（SCP特殊版）
+- 这城有良田（附GM后台）
+- 放置农场（免付费解锁完整版）
+- 当铺人生2（内置作弊菜单）
+- 开个密室馆（内置大量货币）
+- 王铲铲的致富之路（内置MOD菜单）
+- 安娜的怪物农场：起始之地（无限金币钻石）
+- 蜜林（内置作弊菜单）
+- 梦想城镇（钞票反增）
+- 掌上土地（金币钥匙使用不减）
+- 无悔入华夏
+- 我在桃源有个家（免广）
+- 勇士食堂（内置MOD菜单）
+- 月兔冒险（内置MOD菜单）
+- 映泉乡（免广货币任意用）
+- 我是掌门
+- 鼠鼠百货
+- 兔克创业记（免广 反增）
+- 我的煎饼摊（免广告）
+- 梦幻经营家（大量钻石货币反增）
+- 梦境桃源
+- 猫咪奥德赛：渔夫（大量货币）
+- 猫咪和汤（内置MOD菜单）
+- 模拟农场18（无限金币）
+- 农场小镇（无限金币钻石）
+- 牛仔谷（无限金币）
+- 开店日记（货币反增）
+- 胡记布庄（免广告）
+- 疯狂大厨（无限金币）
+- 功夫圣手（货币反增）
+- 出家模拟器2（无限资源 免广）
+- 超冒险小镇物语（无限咸鱼币）
+- 创造都市岛物语（内置MOD菜单）
+- 艾人的远征修改版
+- 艾人的长夜
+- 爸爸的面馆（免广告）
+- 从贫民到大亨：奇妙人生
+- 神女仙宗
+- 自行车经理2024（免广告获取奖励）
+- 篮球经理24（免广告获取奖励）
+- 江湖医馆
+- 模拟村庄（使用钻石不减反增＋免广）
+- 逆袭之重回巔峰
+- 魔兽养殖场
+- 太空农夫
+- 我靠钓鱼买座岛
+- 我要当食神2
+- 方块农场（使用货币不减反增）
+- 蚁群模拟器
+- 中世纪大亨（大量金币＋免广）
+- 开局重生当富豪
+- 舒适森林：露营精神|舒适森林:营地精神（免付费解锁完整版）
+- 警局模拟器
+- 部落幸存者（免付费，中文完整版，解锁所有章节）
+- 林地勇士（资源使用不减反增）
+- 路边估车王
+- 买楼吧哥哥
+- 农场丰收（内置MOD菜单）
+- 富翁之路（无限金币）
+- 幸福路上的火锅店（无限金币）
+- 院长模拟器（免广告获取奖励）
+- 我在江南开客栈（元宝使用不减反增）
+- 像素文明（免广告获取奖励）
+- 闲置银行大亨（免广告获取奖励）
+- 闲置咖啡厅（无条件使用钻石）
+- 星露岛（免广告获取奖励）
+- 幸福公寓物语
+- 我的农业帝国（货币使用不减反增）
+- 我的卡牌超市(免广告获取奖励)
+- 托卡世界|托卡生活世界（游戏速度加快）
+- 我的月球超市（免广告获取奖励）
+- 怪物烹饪日记|烹饪怪物日记（辅助菜单）
+- 烤肉模拟器（免广告获取奖励）
+- 时光烧烤摊（免广告获取奖励）
+- 糖葫芦达人（免广告获取奖励）
+- 喵星人度假村（无条件使用钻石）
+- 空闲合并烹饪（金币钻石反加）
+- 机场城市（无限金币钞票，提示谷歌断网一次就行了）
+- 舒适小镇（解锁大量金币）
+- 机场大亨（功能菜单）
+- 登月探险家（免广告获取奖励）
+- 哆啦A梦的铜锣烧店物语（解锁付费完整版）
+- 猫猫小吃店|猫咪小吃店（无限宝石）
+- 采矿大亨（无限购买金币）
+- 篮球经理（免广告获取奖励）
+- 海绵宝宝：大闹蟹堡王（功能菜单）
+- 阿卡姆岛医院（进入游戏获得大量钻石）
+- 恐龙帝国（内置菜单）
+- 法拉费之王（免广告获得奖励抽奖）
+- 老六致富（免广告获取奖励）
+- 深夜的烧烤店（免广告获取奖励）
+- 魔法之光（免广告获取奖励）
+- 猫咪森林（内置MOD菜单）
+- 矿工物语（出售材料获得大量钞票）
+- 驾驶学校大亨（免广告获取奖励）
+- 村庄日记2（签到获得大量资源）
+- 胡椒大厨（免广告获取奖励）
+- 航空公司指挥官（无限货币）
+- 豪门家主模拟器（免广告直接获得奖励）
+- 佣兵小镇（免广告_自动拾取）
+- 我独自生活（内置作弊菜单）
+- 老板模拟器（内置海量资源_免广告）
+- 我是大东家（内置GM后台）
+- 集装箱模拟器（免广告_资源不减反增）
+- 三国人生（内置作弊菜单）
+- 当铺人生传奇（内置作弊菜单）
+- 江南第一主播公司（免广告【弹出广告直接关闭即可】）
+- 当代人生（内置作弊菜单）
+- 三国人生2（内置作弊菜单）
+- 我家后院有座岛（免广告获取奖励）
+- 我靠医院赚大钱
+- 吸血鬼学院吸血鬼学院（免广告获取奖励）
+- 我的摆摊记
+- 小小客栈
+- 修仙寻道无限氪金
+- 小小狩猎场（免广）
+- 地府日记
+- 我在地府有座城
+- 口袋公司
+- 古代房东日记
+- 我的梦幻小岛（内置作弊菜单）
+- 潜水员戴夫（内置作弊菜单_解锁全DLC）
+- 动物餐厅国际版（免广告直接获得奖励）
+- 我要当房东（内置大量资源）
+- 大航空时代（汉化+免付费解锁完整版）
+- 铁匠铺传奇（内置多功能菜单）
+- 打工生活模拟器（免广告+设置里有GM菜单）
+- 都市之王（内置MOD菜单）
+- 寒境庇护所（菜单版+完整版）非常好玩的末日建造幸存者基地的游戏！
+
+---
+
+## steam移植（852 款）
+
+- Wallpaper Engine手机版 v2.7.4
+- 【安卓】GameNative 手机畅玩Steam游戏
+- 血岸岛Bloodshore[完整版]Steam移植
+- 黯海Siltv1.0.5[完整版]Steam移植
+- 暗影之中v1.5[完整版]Steam移植
+- 我的孩子生命之泉v2.0.111[完整版]Steam移植
+- 掘地求升2v1.2[完整版]Steam移植
+- 坏结局剧院v1.8.0（完整版）Steam移植
+- 粘土果酱  经典版（完整版）Steam移植  童年经典！
+- 幽灵诡计   v1.0.1（完整版）Steam移植
+- 下一站江湖2 全DLC（免付费解锁完整版）Steam移植
+- 超级光矛 v1.1.12（完整版）Steam移植  冷门的快节奏光矛投掷模拟游戏！
+- 全球鱼友俱乐部放置好时光（完整版）Steam移植  钓佬狂喜3D像素风钓鱼养鱼挂机游戏！
+- 史莱姆牧场（内置多功能菜单）Steam移植
+- 墙门之外  v2.4.1（完整版）Steam移植
+- 辛普森一家：横冲直撞  v1.0.2（完整版）Steam移植  辛普森版的gta你玩过吗？
+- 遗忘週一咖啡馆（完整版）Steam移植  放置型模拟经营游戏
+- 部落与弯刀（解锁完整版全DLC）Steam移植
+- 战魂铭人  v3.3.0（无限内购））Steam移植  仙宫失序，裁决降临两名新英雄，来自仙宫城！道具羁绊系统上线！
+- 背包乱斗（内置多功能菜单）Steam移植  96%好评如潮的肉鸽自走棋+背包管理烧脑整理好玩上头！
+- 史诗征服2（内置作弊菜单）Steam移植  经典的单人开放世界动作RPG游玩推荐！
+- 边缘空间（完整版）Steam移植
+- 蓝火|蓝火：空洞世界  BlueFire（内置作弊菜单）Steam移植  空洞骑士+塞尔达传说的缝合体！
+- 红警2：尤里的复仇（汉化＋端游完美移植）
+- 英雄无敌3（steam移植+汉化）
+- 旁观者（steam完美移植版）
+- 魔兽争霸3：冰封王座（steam移植）
+- 亚托莉我挚爱的时光（steam移植）
+- 饥荒（steam移植+整合热门模组解锁全人物）
+- 方舟：生存进化 终极重制版全DLC（steam移植）
+- 二击必杀（steam移植+免付费解锁完整版）
+- 僵尸毁灭工程（steam移植+免付费解锁完整版）
+- 奏（steam移植+免付费解锁完整版）
+- 首尔驱魔人（steam移植+免付费解锁完整版）
+- 吾王保卫战（steam移植+免付费解锁完整版）
+- 红警2共和国之辉（steam移植）
+- 冷酷流浪2（steam移植）
+- 反叛公司（steam移植+内置MOD菜单）
+- 史诗战斗幻想4Epic Battle Fantasy4（免付费解锁完整版+steam移植）
+- 农夫对抗土豆（内置MOD菜单+steam移植）
+- 旋转轮胎：泥泞奔驰（内置mod菜单Steam移植）
+- 拉力赛艺术（完整版+DLC Steam移植）
+- 月影之塔（steam移植，免付费解锁完整版）
+- 水隐之城（steam移植）
+- TOEM摄影冒险（steam移植）
+- 雅皮士精神（steam移植）
+- 三国志曹操传（同人移植版）
+- 半剑|半血残刃（steam移植+免付费解锁完整版）
+- 567款安卓Steam移植游戏合集史上最全，持续更中！
+- 小小炼狱v2.0.3.2[完整版]Steam移植
+- 锈湖 旅馆v3.1.3[完整版]Steam移植
+- 地铁繁花v1.1.17[完整版]Steam移植
+- 光剑小骑士v1.21[完整版]Steam移植
+- 70亿人7 Billion Humans v1.0.4.2[完整版]Steam移植
+- 行尸走肉第一季v1.20[汉化版+完整版]支持安卓14游玩Steam移植
+- 冰冷地狱DRAW CHILLY v1.0.51[完整版]Steam移植
+- 奥罗拉山第1章Aurora Hills Chapter 1v1.0.3[完整版]Steam移植
+- 请，触摸艺术v1.0.43[完整版]Steam移植
+- 超阈限空间Superliminalv1.13[完整版]Steam移植
+- 失忆症：黑暗后裔v1.7.7[完整版]Steam移植
+- 五个约会v1.9[完整版]Steam移植
+- 铁路帝国Ticket to Ride v1.5.0[完整版]Steam移植
+- 沙皮克月球探索v1.082.032[完整版]Steam移植
+- 玩具熊的五夜后宫v2.0.6[完整版]Steam移植
+- 雷霆战魂Thunder Ray[完整版]Steam移植
+- 空中楼阁Pavilion v1.41[完整版]Steam移植
+- 先发制人First Strike v4.11.2[完整版]Steam移植
+- 高级战争Warbits Plus[完整版]Steam移植
+- 弗兰的悲惨之旅v1.0.2[完整版]Steam移植
+- CD2：陷阱大师 [完整版] Steam移植
+- 盖世魔王  Overboss  v0.13.10  [完整版]  Steam移植
+- 妖怪猎人伸太郎  Yokai Hunter Shintaro [完整版] Steam移植
+- 沙威玛传奇 v1.0.35 [完整版] Steam移植
+- 异星装置博物馆v1.21.157[完整版]Steam移植
+- 悖论圣诞节[完整版]Steam移植
+- 悖论实验室v1.3[完整版]Steam移植
+- 船舶墓地模拟器 v138 [完整版] Steam移植
+- 波比的游戏时间第一章v1.0.18[完整版]Steam移植
+- 永夜/永恒之夜v1.0.2[完整版]Steam移植
+- 博德之门增强版v2.6.6.12[用mt管理器安装](支持安卓14游玩)[完整版+DLC]Steam移植
+- 邪恶冥刻v1.0.1[完整版]Steam移植
+- 火车危机v3.0.6[完整版]Steam移植
+- 星夜骑士 Starry Knight  v2.3 [完整版] Steam移植
+- 稍温屠杀杀手有可能是个白痴  v2.1.2 [完整版] Steam移植
+- 子午线157第一章  v1.2.4 [完整版] Steam移植
+- 印斯茅斯秘史疯狂山脉  [完整版]  Steam移植
+- 子午线157第3章 v1.1.9 [完整版] Steam移植
+- 子午线157第2章 v1.1.5 [完整版] Steam移植
+- 昏迷2恶毒姐妹  v1.0.4 [完整版] Steam移植
+- 阿里克与废墟王国 v1.2.11 [完整版] Steam移植
+- 鳄鱼侦探布罗格尾诞节v1.0.4[完整版]Steam移植
+- 意外事件v1.0.90[完整版]Steam移植
+- 密教模拟器v3.6.11[完整版+DLC]Steam移植
+- 红浪人RedRoninv1.0.16[完整版]Steam移植
+- 倾听EQQOv1.3[完整版]Steam移植
+- 魔水战士Konsui Fighterv3.2024.12.147[完整版]Steam移植
+- 小小梦魇v140[完整版]Steam移植
+- 甜甜圈工厂Freshly Frostedv1.25[完整版]Steam移植
+- 白色情人节恐怖学校v21.1.109[完整版]Steam移植
+- 隐藏在我的天堂v1.2.1[完整版]Steam移植
+- 哀恸之日v3.0.3[完整版]Steam移植
+- 幸运房东v1.2.13[完整版]Steam移植
+- 飞龙武士完全典藏版[完整版]Steam移植
+- 学校英雄School Herov3.0.4[完整版]Steam移植
+- 胜利热血拉力赛v3.2.1[完整版]Steam移植
+- 桌面赛车世界巡回赛v1.5.2[完整版]Steam移植
+- 重生大冒险Reventurev1.9.6[完整版]Steam移植
+- 妙探寻凶Cluedov0.0.34[完整版]Steam移植
+- 她看见红色v1.73[完整版]Steam移植
+- 熊天堂之夜恐怖(小熊天堂)v1.92[完整版]Steam移植
+- 大头菜菜抢银行v1.4.40[完整版]Steam移植
+- 你好邻居v2.3.9[完整版]Steam移植
+- 熊天堂2晚汽车旅馆恐怖生存v1.42[完整版]Steam移植
+- 纸镜Tengamiv2.6[完整版]Steam移植
+- 熊天堂3恐怖列车v1.01[完整版]Steam移植
+- 古墓丽影传说迷踪(劳拉GO)LaraCroftGOv2.4[完整版]Steam移植
+- 小房间故事TinyRoomv2.6.28[完整版]Steam移植
+- 洗衣店模拟器v4.0.8[完整版]Steam移植
+- 茂林源记v1.32.3[完整版]Steam移植
+- 微型机器人传送门逃脱[完整版]Steam移植
+- 微型充电机器人v1.70[完整版]Steam移植
+- 命运石之门v2.0.5[完整版]Steam移植
+- 轨道小火车TeenyTinyTrainsv1.2.7[完整版]Steam移植
+- 未上锁的房间The Roomv1.09[完整版]Steam移植
+- 未上锁的房间2v1.11[完整版]Steam移植
+- 历历在目v1.2.69[完整版]Steam移植
+- 新神偷卡门v1.0.1g[完整版]Steam移植
+- 骗子酒馆v0.4.2[官方版+完整版]Steam移植
+- 劫后公司v1.1.1[完整版+中文版]Steam移植
+- 将军诅咒ShogunCursev1.1[完整版]Steam移植
+- 都市卡牌v1.1.7[完整版]Steam移植
+- 异星指令v1.3.16[完整版]Steam移植
+- 几何幸存者[完整版]Steam移植
+- 我是猫IAmCatv1.0.1[完整版+中文版]Steam移植
+- 异形隔离v1.4.1RC1[完整版+DLC]Steam移植
+- 无限弹球v1.12.0[完整版]Steam移植
+- 残酷世界的拯救之道v1.0.4.134[完整版]Steam移植
+- 猫与花毯v1.0.215[完整版]Steam移植
+- 战国姬歌时果之契[完整版]Steam移植
+- 怪物猎人物语v1.0.6[汉化版+完整版+菜单版]Steam移植
+- 向左一点橱柜与抽屉v3.2.9[完整版]Steam移植
+- 往左一点v3.2.9[完整版]Steam移植
+- 房车生活模拟器[完整版]Steam移植
+- 小小危险地下城重制版v1.0.1[完整版]Steam移植
+- 七天之内懂你v1.2[完整版]Steam移植
+- 虚构世界v1.7.1[完整版]Steam移植
+- 中世纪2全面战争v1.4.1RC5[完整版+DLC]Steam移植
+- 烛火地牢2猫咪的诅咒v0.4.0f[完整版]Steam移植
+- 超级种田男孩v1.0.6[完整版]Steam移植
+- 罗马全面战争v2.0RC18[完整版]Steam移植
+- 连环清洁工中文版[完整版]Steam移植
+- 终极对决The Last Gamev1.5.2[完整版]Steam移植
+- 历史巨轮v2.19.1063[完整版+DLC]Steam移植
+- 8号出口[完整版]Steam移植
+- R.E.P.O.v1.0.6[完整版+中文版]Steam移植
+- 设备大亨[完整版]Steam移植
+- 魔法气泡6[完整版]Steam移植
+- 车票之旅v1.7.2[完整版+DLC]Steam移植
+- 小鸭魔法师v1.0.3[完整版]Steam移植
+- 墙世界v1.1.1.0[完整版]Steam移植
+- 恐惧岩地牢2v1.0.6[完整版]Steam移植
+- 王座TheThrone[完整版]Steam移植
+- 幻日夜羽蜃景努玛梓v1.0.1[完整版]Steam移植
+- 征服者v27[完整版]Steam移植
+- 法老王青铜帝国v0.8.6[完整版]Steam移植
+- 猫岛TheIsleofCatsv1.0.2[完整版]Steam移植
+- PUSS喵咪v1.3.7[完整版]Steam移植
+- 灵动骑士v1.3.1[完整版+mod版]Steam移植
+- 车票之旅v1.8.0[完整版+DLC]Steam移植
+- 新星大奖赛v1.0.12[完整版]Steam移植
+- 雪居之地v1.2.3[完整版]Steam移植
+- 大富翁4Funv7.9[完整版]Steam移植
+- 寻找外星人v1.0.56[完整版]Steam移植
+- 火星归来v2.0.2[完整版]Steam移植
+- 国会议员2[完整版]Steam移植
+- 战龟2v1.06.10[完整版]Steam移植
+- 约翰曼波JohnMambo[完整版]Steam移植
+- 盒子丢失的碎片v1.28[完整版]Steam移植
+- 三国志汉末霸业[单机版+完整版]Steam移植
+- 兽嚎瘟疫v1.2.0.568-282574[完整版]Steam移植
+- 战地防御3高清版v1.6.47[完整版]Steam移植
+- 闪耀祖玛2v1.2.5.2[完整版]Steam移植
+- 魔骰大陆纷争[完整版]Steam移植
+- 极限拉绞v1.0.1[完整版]Steam移植
+- 匹普历险记v3.0[完整版]Steam移植
+- 武士零v1.1.10[完整版]Steam移植
+- 友谊炸弹ThemBombsv3.0.0[完整版]Steam移植
+- 终端灭绝永恒v1.3.2.1[完整版]Steam移植
+- 破门而入行动小队v1.2.4[完整版]Steam移植
+- 格莉斯的旅程GRISv1.0.3[完整版]Steam移植
+- 曲奇必死v2.1.02[完整版]Steam移植
+- 雅皮士精神v2.7.6b44[完整版]Steam移植
+- 奥德玛Oddmarv0.111[完整版]Steam移植
+- 炸裂树莓浆v1.7.12[完整版]Steam移植
+- 粘粘世界2[完整版]Steam移植
+- 巴西沙雕党1[完整版]Steam移植
+- 蜘蛛龙Spidersaurs(蛛龙)v1.00.04[完整版]Steam移植
+- RWBY冰雪弓矢v1.0.1[完整版]Steam移植
+- 神奇小子:龙之陷阱v1.1.3[完整版]Steam移植
+- 死亡与税赋vm1.2.94 [完整版]Steam移植
+- 铲子骑士口袋地牢v1.0.6098[完整版]Steam移植
+- 永不孤单[高清全屏+完整版]Steam移植
+- 字母人重制版v1.2.20[完整版]Steam移植
+- 黄油猫Cato[完整版]Steam移植
+- 魔王终局单机版[完整版+DLC]Steam移植
+- 桑塔和七赛莲v1.00.00[完整版]Steam移植
+- 托兹奥哈之夜德古拉的复仇v1.5.1[完整版]Steam移植
+- 皮克托探险PictoQuestv1.1.3[完整版]Steam移植
+- 太空角斗士v1.1.53[完整版]Steam移植
+- 寿司机器人v1.3.0[完整版]Steam移植
+- 兔子先生的魔术秀v1.1.3[完整版]Steam移植锈湖十周年新作品，来到了锈湖团队的工作室？
+- 诸神之劫自走棋[完整版]Steam移植
+- 泛滥死者布道[完整版]Steam移植
+- 堆叠丛林v1.1.11[完整版]Steam移植
+- 荒野探险v1.5.0[完整版]Steam移植
+- 狗狗冠军v1.02[完整版]Steam移植
+- 流浪王国[完整版]Steam移植
+- 恐怖故事3女巫v1.0.6[完整版]Steam移植
+- 枪之抉择GUNCHOv1.1[完整版]Steam移植
+- 如何说再见v1.0.8[完整版]Steam移植
+- 鼠之城邦v1.095[完整版+免内购版]Steam移植
+- 火花2进化v4.0[完整版]Steam移植
+- 失踪的班班v1.1.2[完整版]Steam移植
+- 魔法球塔Orb Towerv1.0.4[完整版]Steam移植
+- 航母对决苦尽甘来v1.13.12[完整版]Steam移植
+- 书雁传奇[完整版]Steam移植
+- 水果转转乐[完整版]Steam移植
+- 拉力赛艺术v1.0.7[完整版+DLC]Steam移植
+- 气球塔防5v4.6[完整版]Steam移植
+- 谁是你爸爸v1.0.1[完整版]Steam移植
+- 北境叛乱v15[完整版]Steam移植
+- 巨人旅途v2.2.7[完整版]Steam移植
+- 被遗弃的星球v1.2.8[完整版]Steam移植
+- 罗马英雄危险的道路[完整版]Steam移植
+- 珍妮的线索v2.5.1[完整版]Steam移植
+- 阿克里危机Acre Crisisv1.0.19[完整版]Steam移植
+- 小小铁路TinyRailsv2.13.20[完整版]Steam移植
+- 布莽邦大乱斗星陨传说v1.0.145[完整版]Steam移植
+- 世界盒子v0.50.5[完整版]Steam移植
+- 锦鲤农场v1.0.13[完整版]Steam移植
+- 奇幻高尔夫0.1.5[完整版]Steam移植
+- 魔法机器人Magibot v1.0.4[完整版]Steam移植
+- 大型暗黑肉鸽刷宝单机精品游戏合集来了❗附下载方法【整活】
+- 沉船遗礼Giftv1.1.25[完整版]Steam移植
+- 桥梁建筑师行尸走肉v1.4[完整版]Steam移植
+- 全面战争模拟器联机版v1.1.04[完整版]Steam移植支持联机游玩！
+- 整蛊邻居第1季v1.5.13[完整版]Steam移植
+- 背包英雄v1.0.5[完整版]Steam移植背包like+策略肉鸽超上头单机佳作！
+- 黑镜群民v1.3.16[完整版]Steam移植
+- 丑陋Uglyv1.2.0[完整版]Steam移植
+- 小小机器人2逃脱[完整版]Steam移植
+- 分形空间高清版v2.705[完整版]Steam移植
+- 骑士学院v1.0.1[完整版]Steam移植
+- 小松林PolyPine[完整版]Steam移植真诚的建议感兴趣就亲身游玩体验！
+- myPOPGOES[完整版]Steam移植
+- 灰色幻影扳机第3卷[完整版]Steam移植
+- 茶杯头中文v1.0.2[菜单版+完整版+DLC]Steam移植中文版Steam评分96%的神作！
+- 岛民新海岸[完整版]Steam移植
+- 细线SlenderThreadsv1.2[完整版]Steam移植
+- 沙丘帝国v3.3.6[完整版]Steam移植
+- 山海旅人v3.3[完整版]Steam移植超好玩！中国民俗特色+水墨风+像素上线啦！
+- 猫娘乐园2重制版v1.1[完整版]Steam移植支持中文！有新的CG等！
+- 钢铁六角v8.1.0[完整版]Steam移植
+- 累趴侠v1.0.2[完整版]Steam移植趣味休闲物理互动，疲惫夜晚还能这么过？
+- 生锈的机器人v1.0.32[完整版]Steam移植
+- 棋境漫游[完整版]Steam移植
+- 萨曼莎去哪了v1.10.69[完整版]Steam移植
+- 公路救赎v10.11[完整版]Steam移植暴力摩托的精神续作！
+- 迷失土豆v1.0.124[完整版]Steam移植土豆兄弟前传！
+- 终极赛车2D2v1.1.9[完整版]Steam移植
+- 复体v1.5[完整版]Steam移植
+- 镰刀战争v2.1.9[完整版]Steam移植游戏桌游界的革命之作！
+- 空中骑士永不屈服v1.0.97[完整版]Steam移植
+- 非常规台球subpar poolv1.0.7[完整版]Steam移植
+- ChoiceofLifeSamosborv1.05[完整版]Steam移植
+- 鸡械绿洲v1.0.1Steam移植肉鸽+塔防。非常上头很多搭配！
+- 时间线Timeliev1.0.12[完整版]Steam移植
+- 冷战热斗v1.4.10[完整版]Steam移植经典永不过时，超好玩的冷战桌游！
+- 太空计划SPACEPLANv2.0.7[完整版]Steam移植
+- 和平之怒v0.4[完整版]Steam移植
+- 黄昏电铁[完整版]Steam移植
+- 东方之影v1.0.5[完整版]Steam移植
+- 我的小鲨鱼[完整版]Steam移植
+- 迷途猫的灵魂碎片v2.1.0[完整版]Steam移植可爱治愈休闲寻物！
+- 怪客贾斯丁的黑客时刻v3.2.4[完整版]Steam移植
+- 激流快艇3叛逆者v2025.09.16[完整版]Steam移植童年
+- 拉娜之星v1.6.1[完整版]Steam移植诠释了横版动作冒险游戏中的第九艺术！
+- 扮演卡夫卡Playing Kafkav1.03[完整版]Steam移植
+- 旅行者2号v1.107[完整版]Steam移植
+- 武士刀型KatanaKatav1.0.8[完整版]Steam移植
+- 冰与火之舞v2.9.7[完整版]Steam移植
+- 骑士学院2v1.0.4[完整版]Steam移植
+- Z.A.T.O[完整版]Steam移植
+- 装甲纷争v2025.12.6.1-PBT[完整版]Steam移植
+- 当铺人生传奇v1.003[完整版]Steam移植经典续作在中世纪当奸商，原汁原味值得一入！
+- 寂静岭2[完整版]Steam移植
+- 细胞生存战Microcosmumv4.2.5[完整版]Steam移植
+- 永恒的城堡重制版[完整版]Steam移植移植自 1987 年那款被遗忘的经典之作的重制版！
+- 小小机器人LittleDroidv1.0.15[完整版]Steam移植
+- 安息死亡!Peace, Death!v1.9.30[完整版]Steam移植
+- 埃尼普尼翁的重梦v1.07[完整版]Steam移植
+- 僵尸洞穴v1.4.9[完整版]Steam移植经典游戏新体验超吸引人的艺术风格略简单的RPG元素等！
+- 请勿乱动v3.1.5[完整版]Steam移植
+- 四叶草深渊[完整版]最新Steam移植好玩上头的休闲肉鸽老虎机“戒赌模拟器”游玩推荐！
+- 我和她们的研修日志v2.3.2[完整版]Steam移植
+- 霰弹枪国王终局将死[完整版]最新Steam移植国际象棋与肉鸽游戏的趣味结合游玩推荐！
+- 铁肺IronLungv1.10[完整版]Steam移植我愿称之为深海步行模拟器成功把我吓到了！氛围塑造得挺好
+- 快乐游戏v2.0.0[完整版]Steam移植
+- 狼人清洁工v1.0.8[汉化版+完整版]Steam移植
+- 地狱边境v1.22[完整版]Steam移植
+- 银河历险记2v2.44.0[完整版]Steam移植
+- 日本事故物件监视协会2[完整版]Steam移植
+- 东京暗影v1.0.2[完整版]Steam移植
+- 911接线员v6.08.19[完整版+DLC]Steam移植
+- 异变小镇v1.83.5888[完整版]Steam移植
+- 杀手GOv1.16.7[完整版]Steam移植
+- 连环清洁工v1.1.9[完整版]Steam移植
+- TOEM摄影冒险[完整版]Steam移植
+- 王国两位君主奥林匹斯试炼v2.2.0[完整版+DLC]Steam移植
+- 反叛公司v1.16.5[完整版]Steam移植
+- 巡警BeatCopv1.0.1[完整版]Steam移植
+- 大大大战争vr3.2[完整版]Steam移植强烈建议喜欢棋类策略的玩家游玩！
+- 断剑2烟镜重制版v3.5.3[完整版]Steam移植
+- 方块堡垒2v1.00.07[完整版]Steam移植
+- 这是我的战争v1.6.9[完整版+DLC]Steam移植
+- 地牢突袭[完整版]Steam移植暗黑➕肉鸽➕卡牌构筑➕地牢爬塔 的精品单机游戏❗
+- 离开家Leavinghomev1.4[完整版]Steam移植
+- 蛾湖诡谜v1.1.41[完整版]Steam移植
+- 这是我的战争父亲的承诺v1.0.7[完整版]Steam移植
+- 幼儿园3Kindergarten3[完整版]Steam移植
+- 芒果海洋馆v1.3[完整版]Steam移植
+- 亡灵巫师v1.6[完整版]Steam移植
+- 故事创说人Storytellerv1.1.19.2[完整版]Steam移植
+- 忍者神龟施莱德的复仇v1.2.17[完整版+DLC+菜单版]Steam移植
+- 真实恐惧被遗弃的灵魂3v1.1.66[完整版]Steam移植
+- 北境之地v2.2.2[完整版+DLC]Steam移植
+- 小动物自走棋v180Steam移植自走棋类的巅峰之作！非常好玩上头就是对手太胡了很难10连胜吃鸡！
+- 海克斯炸欢天英雄联盟外传v1.0.9[完整版]Steam移植
+- 魔君致命错误[完整版]Steam移植
+- 卡卡颂v1.11[完整版+DLC]Steam移植经典超级好玩！
+- 金偶像谜案v1.4[完整版]Steam移植
+- 气球塔防6v49.3[免内购版+完整版+DLC]Steam移植
+- 奇异园艺v1.1.634[完整版]Steam移植
+- 炸弹鸡v44[完整版]Steam移植
+- 像素世界杯足球赛终极版v1.301[完整版]Steam移植
+- 妙探寻凶经典版v2.10.4[完整版+DLC]Steam移植支持多人游玩推荐游玩很好玩的棋盘游戏！！！！！
+- 氏族ClanNv1.3.2[完整版]Steam移植
+- 迷失岛前传海边游乐园v1.0.25[完整版]Steam移植
+- 60秒重制版v1.2.5[完整版]Steam移植
+- 超级六边形SuperHexagon v2.7.7[完整版]Steam移植
+- 书呆子侦探亨利[完整版]Steam移植
+- 边境丧尸检察官v1.0.2[完整版]Steam移植
+- 梦魇迷宫D’LIRIUMv1.4.16[完整版]Steam移植
+- 午夜幻想曲v1.0.9[完整版]Steam移植
+- 石油大亨v3.0.68[完整版+DLC]Steam移植
+- 生命回响[完整版]Steam移植
+- 掘地求财[完整版]Steam移植只花14天，做了款真人版‘黄金矿工’，疯狂挖矿，停不下来！
+- 波比的游戏时间第四章v1.0.5[完整版]Steam移植
+- 桥梁建造师工作室[完整版]Steam移植
+- 灰色幻影扳机第1卷[完整版]Steam移植
+- 部落幸存者v1.0.57[完整版]Steam移植
+- 触摸艺术2V1.0.2[完整版]Steam移植
+- 骑士传奇Bravelandv1.6.4[完整版]Steam移植卡通轻量版英雄无敌+国王的恩赐
+- 枢纽Traffixv9.2.0[完整版]Steam移植
+- 人生游戏2v1.0.4[完整版+DLC]Steam移植
+- 大理石时代重制版v1.09a[完整版]Steam移植
+- 这个座位有人坐吗？[完整版]Steam移植
+- 成长机器人Growbot[完整版]Steam移植
+- 伊始之地v1.2[完整版]Steam移植
+- 史前埃及v1.1a[完整版]Steam移植
+- 程序员升职记v1.0.6.4[完整版]Steam移植
+- 埃及古国v2.0.5a[完整版]Steam移植
+- 像素哥3v1.1.9[完整版]Steam移植
+- 蜡笔小新我与博士的暑假没有终点的七日之旅[完整版]Steam移植
+- 节奏盒子v0.8.5[完整版]Steam移植
+- 派对杀手(疯狂派对)GOv0.100034[完整版]Steam移植
+- 二击必杀v1.1.0[完整版]Steam移植支持联机游玩哟！其实一击就杀了，几分钟就通关！
+- 监狱建筑师v2.0.9中文[完整版+DLC]Steam移植
+- 模拟城市重建王国v3.0.0[完整版]Steam移植
+- TinyTerraces[完整版]Steam移植摸鱼福音，全新农场摸鱼放置游戏来了！
+- 勇敢的心世界大战[完整版+中文版]Steam移植，老游戏优化，适配全面屏安卓12以上！
+- 挺进地牢单机版v1.0.508[完整版]Steam移植支持中文了！肉鸽神作，玩过之后我无敌了！
+- 块块星球埃齐[完整版]Steam移植
+- 猫娘乐园1重制版v1.2[完整版]Steam移植支持中文！有新的CG等！
+- 逃出地牢0.0.2[完整版]Steam移植
+- 时空幻境纪念版Braidv2.0.32[完整版+网飞版]Steam移植
+- 弗兰的悲惨之旅[完整版+中文版]Steam移植
+- 班迪与油印机v840[完整版]Steam移植
+- 钢铁陆战队Iron Marinesv1.9.9[完整版]Steam移植
+- 朝圣者v1.1.9[完整版]Steam移植
+- 未上锁的房间3v1.09[完整版]Steam移植
+- 天坛之眼v1.5.4.115[完整版]Steam移植高自由度冒险解密神作！
+- 班班幼儿园2v1.0.10[完整版]Steam移植
+- 费斯熊佛莱迪的比萨饼餐厅模拟器v1.0.8[完整版]Steam移植
+- 冲突时代世界大战模拟器v4.2.1[完整版]Steam移植
+- 班班幼儿园3V1.0.5[完整版]Steam移植
+- 钢铁战队入侵v0.16.73[完整版]Steam移植
+- 特工A伪装游戏v5.5.8[完整版]Steam移植
+- 班班幼儿园6 v1.0 [完整版] Steam移植
+- 洛娜色彩之境v0.1.89[完整版]Steam移植
+- 巴别塔圣歌v1.0.1[完整版]Steam移植非常有趣，算是独创一个赛道，推理解谜爱好者必玩！
+- 班班幼儿园7v1.0[完整版]Steam移植
+- 来人LIGHTWORKERSv1.1.1[完整版+中文版]Steam移植
+- 玩具熊的五夜后宫4v2.0.4[完整版]Steam移植
+- 小黄鸭模拟器[完整版]Steam移植
+- 逃出百慕大v1.7.8[完整版]Steam移植
+- 友谊炸弹Them Bombsv3.0.3[完整版]Steam移植
+- 真相之影VR侦探v2.9[完整版]Steam移植
+- 人狼村之谜v1.1.2g[汉化版+完整版]Steam移植
+- 狼奔豕突v4.4.15[完整版]Steam移植
+- KeeponMining![完整版]Steam移植93%特别好评玩法纯粹的休闲挖矿爽游！
+- 再见OnceAgainv2.9.5[完整版]Steam移植
+- 艾力达边远地区的觉醒v1.39.4[完整版]Steam移植
+- 锈湖天堂岛v3.1.4[完整版]Steam移植
+- 浪痕回忆密码[完整版]Steam移植
+- 玩具熊的五夜后宫3v2.0.4[完整版]Steam移植
+- 饥饿派画家v1.33[完整版]Steam移植
+- 浮生千百事v1.0.37[完整版]Steam移植
+- 玩具熊的五夜后宫2v2.0.7[完整版]Steam移植
+- 开箱整理Unpackingv1.1[完整版]Steam移植
+- 红怪v1.0.40[完整版+DLC]Steam移植特别好特别好特别好玩大家快玩!
+- 60秒原子冒险60 Secondsv1.3.154[完整版]Steam移植
+- 里奥的财富Leo’s Fortunev1.0.11[完整版]Steam移植
+- 最终前哨最终版v2.3.23[完整版]Steam移植
+- 逃离方块合集v1.4.8[完整版]Steam移植
+- 天鹅绒流星队长JUMP+异世界的小冒险v1.2.3 [完整版]Steam移植
+- 轮回的房间Samsara Roomv1.3.7[完整版]Steam移植
+- 非常英雄v1.2[完整版]Steam移植
+- 命运之夜v1.0.4[完整版]Steam移植
+- 玩具熊的五夜后宫v2.0.7[完整版]Steam移植
+- 缠结塔TangleTower[完整版]Steam移植
+- 低模之战v2.14.0.14524[完整版]Steam移植
+- 极简塔防[完整版]Steam移植请一定要尝试极简塔防它能给你最纯粹的塔防体验！
+- 米洛和喜鹊v1.0.6[完整版]Steam移植
+- 死亡细胞v3.5.9[完整版+DLC+菜单版]Steam移植终焉将至！最终版本更新
+- 抑郁的房间v0.6[完整版]Steam移植
+- 未晓星程EOSv1.0.1[完整版]Steam移植
+- 新弹丸论破V3大家的自相残杀新学期v1.0.4[完整版]Steam移植
+- 月影之塔v1.1[完整版]Steam移植
+- 毛线先生CHUCHELv2.0.143[完整版]Steam移植
+- (保利桥3)桥梁建造师3v1.1.6[完整版]Steam移植
+- 夏目缭乱高能筋肉妖狐的恋爱奇谭v1.0.0[完整版]Steam移植
+- 终极自定义夜v1.0.9[完整版]Steam移植
+- 怒之铁拳4v1.4.5[完整版+DLC+菜单版]Steam移植
+- 机械迷城v3.5.0[完整版]Steam移植
+- Resolutiion[完整版]Steam移植浓郁的赛博朋克美术风格碎片化叙事，意识流对话，职业病复发!
+- Ruby’sRealmsv1.15[完整版]Steam移植
+- 用心组装v1.14.164[完整版]Steam移植
+- 卡牌之王v1.4.32[完整版]Steam移植
+- 地球上最长的路v1.0.4[完整版]Steam移植
+- 灵魂绑定冥界物语中文switch模拟器！(游戏)
+- 2112TD塔防生存v2.03.117[完整版]Steam移植
+- 东篱之下[完整版]Steam移植93％特别好评超治愈沙盒建造游戏！
+- 虚空穹牢v2.5.22[完整版+菜单版]Steam移植
+- 水果山v1.0.0[完整版]Steam移植
+- 迷幻追踪黑暗之伤v1.009.397[完整版]Steam移植
+- 塔防领域TowerDominionv1.108[完整版+菜单版]Steam移植这是25年最好玩的安卓肉鸽塔防游戏！
+- 伊甸园eden*v1.0.65[完整版]Steam移植
+- 请快来吧狐莉小姐v1.0.1[完整版]Steam移植
+- 王权陨落v2.12.11[完整版]Steam移植
+- DealersLifev1.28[完整版]Steam移植
+- 烽火SetaWatch[完整版]Steam移植
+- 报废Scrappagev1.1.47[完整版]Steam移植
+- 走过至暗时刻v1.0.18[完整版]Steam移植
+- 幕府之争上兵伐谋[完整版]Steam移植
+- 亚托莉我挚爱的时光v1.0.3[完整版]Steam移植
+- 小小星球大碰撞v1.0.46[完整版]Steam移植
+- 交战Firefightv11.5.1[完整版]Steam移植
+- 松树之心v1.4.0[完整版]Steam移植
+- 王国保卫战5联盟大圣游记v6.00.112[完整版+DLC]Steam移植
+- 宝石奇才v1.50.1[完整版+汉化版]Steam移植
+- 迷你空管v1.0.180[完整版]Steam移植
+- 业力轮回v1.2[完整版]Steam移植
+- 王国保卫战5联盟免谷歌版v6.00.112[菜单版+完整版+DLC]Steam移植
+- 桥梁构造者2v1.72[完整版]Steam移植
+- 机器老鼠MouseBotv2025.09.16[完整版]Steam移植
+- 孤独的村庄v1.6.18[完整版]Steam移植
+- 平行实验v1.0.7[完整版]Steam移植
+- 蔓不生长v0.3.19[完整版]Steam移植
+- 细胞迷途v1.3.10[完整版]Steam移植非常完美的作品，我要把它推荐给每一个喜欢2d横版游戏的人.jpg
+- 幸存者苦难v1.5.8.4[完整版]Steam移植
+- 往事WhenPastWasAround v1.128[完整版]Steam移植
+- 小丑牌类游戏王机制模组整合版Steam移植牌佬狂喜！全新玩法体验！
+- 埃尔希乔荒野西部的传说v1.0.2[完整版]Steam移植
+- 钢铁吞噬[完整版]Steam移植
+- 毁灭战士1v1.0.12[完整版]Steam移植
+- 光盲DeLightv72[完整版]Steam移植
+- 小小大工坊v1.0.16[完整版]Steam移植
+- 毁灭战士2v1.0.12[完整版]Steam移植
+- 卡片爬行冒险[完整版]Steam移植
+- 凯西雷恩导演剪辑版[完整版]Steam移植
+- 班班幼儿园8[完整版]Steam移植
+- 迈阿密热线v1.0.43[完整版]Steam移植游戏真上头，停不下来！音乐，美术，玩法，都是无敌的！
+- 请上车!火车防御特快v1.1.1[完整版]Steam移植
+- 成为你的男仆[完整版]Steam移植
+- 仙境幽谷中文版v1.2.4[完整版]Steam移植
+- 爱与恨2AboutLoveand Hate2v1.2.0[完整版]Steam移植
+- 班班幼儿园4  v1.0.8 [完整版] Steam移植
+- 银河历险记2（steam移植）
+- 像素世界杯足球赛（steam移植）
+- 达芬奇密室3（steam移植）
+- 梦魇（steam移植）
+- 沙丘帝国（steam移植）
+- 杀出重围GO（steam移植）
+- 纸境（steam移植）
+- 杀手GO（steam移植）
+- 岛潮酒店（steam移植）
+- 真实驾驶卡车模拟器（steam移植）
+- Kamaeru世蛙桃源（Steam移植）根本停不下来非常上头收集➕培育稀有新品种青蛙➕重建湿地环境！
+- 生长机器人（steam移植）
+- 幽浮2典藏合集全DLC（steam移植）
+- 这是警察2（steam移植）
+- 速降王者（steam移植）
+- 逃出百慕大（steam移植）
+- 南极洲88：恐怖行动生存(解锁所有物品+steam移植)
+- 疯人院Sanitarium  v1.1.5（Steam移植）
+- 52号空间站谋杀案  v1.14（Steam移植）
+- 全面三国：塔防|全面塔防：三国（steam移植+内置大量资源）
+- 恐怖逃脱 Metel v1.04（Steam移植）
+- 大Boss疑云（Steam移植）
+- 巫师之昆特牌流浪法师 v1.0.8（完整版+DLC   Steam移植）
+- 殖民之书 v2.3.2（Steam移植）
+- 血根森主（Steam移植）
+- 下一站江湖2 全DLC（Steam移植）
+- 裂隙纷争v1.2.2[完整版]Steam移植简约像素风和超高容错的策略塔防游戏！
+- 误入迷途v1.0.2060[完整版]Steam移植
+- 盒子城2v2.15.2[完整版]Steam移植
+- 双向灵巧v1.2.0[完整版]Steam移植
+- 兽人麻将v1.40.00[完整版]Steam移植
+- 指挥官现代战争v1.0.1[完整版]Steam移植
+- 喷气背包博士v1.1.2[完整版]Steam移植
+- 太空大陆（steam移植）
+- 格里克：阿祖尔的回忆（steam移植+免付费解锁完整版）
+- 木筏求生（steam移植）
+- 美味星球2v1.8.4.0[完整版]Steam移植
+- 环形帝国[完整版]Steam移植
+- 噩梦大叔迷失梦境[完整版]Steam移植
+- 光明记忆无限v1.03[完整版+DLC+mod版]Steam移植
+- 窗台上的蝴蝶v1.0.2[完整版]Steam移植
+- 丹达拉恐惧试炼v1.5.21[完整版]Steam移植
+- 打造世界（steam移植）
+- 王权三国（steam移植，内置MOD菜单）
+- 暴政3kv1.2.31[完整版]Steam移植
+- 无尽劫掠v1.0.9.4[完整版]Steam移植
+- 未上锁的房间4旧罪v1.0.4[完整版]Steam移植
+- 飞飞公司FlyCorpv1.20[完整版]Steam移植
+- 生死永相随永相伴v1.0.1g[完整版]Steam移植
+- 花园之间v1.10[完整版]Steam移植
+- 午夜杀生重制版v1.0.6[完整版]Steam移植
+- 现代贪吃蛇v1.1.2[完整版]Steam移植
+- 小丑牌x宝可梦mod模组汉化整合版[完整版]Steam移植
+- 幻径Kenshōv1.9.8[完整版]Steam移植
+- 狐狸冲刺FoxyRush[完整版]Steam移植
+- 波比的游戏时间第三章v1.0.25[完整版]Steam移植
+- 波比的游戏时间第二章v1.42[完整版]Steam移植
+- 玩具熊的午夜后宫：姐妹地点（steam移植）
+- 七龙珠Z卡卡罗特优化版（steam移植）
+- 小小梦魇（steam移植）
+- 断剑圣殿骑士之影重制版[完整版]Steam移植
+- IronVillage铁村v1.1.00[完整版]Steam移植
+- 方舟动物园[完整版]Steam移植
+- 球型守卫v2.0.6[完整版]Steam移植
+- 火焰守护者v1.0.4[完整版]Steam移植 肉鸽➕暗黑➕动作➕刷刷刷 精品爽游❗
+- 星际小队传奇版[完整版]Steam移植
+- 虫虫英雄塔防（steam移植）
+- 黑塔逆流（steam移植）
+- 这就是警察（steam移植）
+- 笼中窥梦Moncagev1.07[完整版]Steam移植
+- 原初理想乡Archetype Arcadiav1.0.1g[完整版]Steam移植
+- 逃离蠕虫WormsterDashv0.9.15[完整版]Steam移植
+- 方块传说海盗Tile Tales Piratesv1.0.1[完整版]Steam移植
+- 锈湖天堂岛 v3.0.9 [完整版] Steam移植
+- 出售宇宙v1.0.4[完整版]Steam移植
+- 东京暗影[完整版]Steam移植
+- 坦克连接v1.01[完整版]Steam移植
+- 误入盲途Blind Drivev1.1[完整版]Steam移植
+- 疯狂派对v0.100034[完整版]Steam移植
+- 游戏开发巨头v1.0.511[完整版]Steam移植
+- 失落之语页面之外v1.1.20[完整版]Steam移植
+- 大波比车赛车大赛BIG-Bobby-Car – The Big Racev1.2[完整版]Steam移植
+- 地堡21Bunker21[完整版]Steam移植
+- Pine情与逝v1.4[完整版]Steam移植
+- 狼奔豕突2消失的信号v1.5.5[完整版]Steam移植
+- CD2：陷阱大师（steam移植）
+- 王子齐安Exolotl Zian[完整版]Steam移植
+- 席德梅尔的铁路v1.4RC10[完整版]Steam移植
+- 方块逃脱：悖论v1.2.19[完整版]Steam移植
+- 安提阿：猩红海湾v1.16[完整版]Steam移植
+- 怪物拉什神话v1.07[完整版]Steam移植
+- 坠落深井Downwell v1.2.3[完整版]Steam移植
+- 寻找埃文Evan’s Remains v1.3.7[完整版]Steam移植
+- 昏迷2：恶毒姐妹v1.0.0[完整版+DLC]Steam移植
+- 饼干点点乐Cookie Clickerv1.0.0[完整版]Steam移植
+- 杀手4血钱v1.2RC13[完整版]用mt管理器安装Steam移植
+- 单手鼓掌One Hand Clappingv1.0.48[完整版]Steam移植
+- 独轮车上的独角兽v1.2.0[完整版]Steam移植
+- 拆弹手册和拆弹专家1.10.10[完整版]Steam移植
+- 沙皮克任务v1.3[完整版]Steam移植
+- 僵尸之夜恐怖v2.0[完整版]Steam移植
+- 文明6v1.2.0b(支持安卓 14游玩)[完整版+DLC]Steam移植
+- 密教模拟器v3.6.1[完整版+DLC]Steam移植
+- 梦魇INCUBO M v1.0.1 [完整版] Steam移植
+- 时代之下2：发现 [完整版] Steam移植
+- 行尸走肉第二季 v1.35 [汉化版+完整版]  支持安卓14游玩  Steam移植
+- 摇曳露营山麓露营场篇  v1.2.3  [完整版]  Steam移植
+- 战环空间 v1.9.72 [完整版] Steam移植
+- 黑暗侦探1The Darkside Detective[完整版]Steam移植
+- 恐鬼症 [完整版] Steam移植
+- 破碎砖块复刻版 [完整版] Steam移植
+- 黑暗侦探2  黑暗中的摸索  [完整版]  team移植
+- 忆我 一个性格测试游戏v1.1.0304[完整版]Steam移植
+- 披萨塔Pizza Tower中文[完整版]Steam移植
+- 拆迁模拟器Building Destruction[完整版]Steam移植
+- 影子戏法Shadow Trick[完整版]Steam移植
+- 时代之下 v1.0.38 [完整版] Steam移植
+- 孤帆远航 v1.48 [完整版] Steam移植
+- 石油大亨 v3.0.68 [完整版] Steam移植
+- 杀令营 Slayaway Camp v4.15 [完整版] Steam移植
+- 吸血鬼：避世血族 – 纽约之影  v1.0.221  [完整版]  Steam移植
+- 决裁者：失落前哨 [汉化版+完整版] Steam移植
+- 葬花·暗黑桃花源  Steam移植
+- 安吉洛和狄蒙冒险 v1.8.4 [完整版] Steam移植
+- 血岸岛  Bloodshore  v1.1 [完整版] Steam移植
+- 往日阴云  v1.2  [完整版]  Steam移植
+- 真实恐惧被遗弃的灵魂 v1.5.10 [完整版] Steam移植
+- 孩子们  KIDS  v1.1.2 [完整版] Steam移植
+- 音律迷航Rytmos v1.92 [完整版] Steam移植
+- 我的城市与军队 v3.3.8 [完整版] Steam移植
+- 犯罪现场清理员 Crime Scene Cleaner 3D [完整版] Steam移植
+- 反叛公司 Rebel Inc.v1.16.5 [完整版+DLC] Steam移植
+- 恐惧岩地牢 DungeonsofDreadrock v1.14 [完整版] Steam移植
+- 风暴男孩 Storm Boy v1.5.7 [完整版] Steam移植
+- 链在一起 Chained Together [完整版] Steam移植
+- 西格玛理论谍战  Sigma Theory  v1.2.6 [完整版] Steam移植
+- 几何冲刺  Geometry Dash v2.2.142 [完整版] Steam移植
+- 爆炸猫  Exploding Kittens  v5.3.10  [完整版]  Steam移植
+- 摇曳露营本栖湖篇  v1.2.3  [完整版]  Steam移植
+- 拉库纳 [完整版] Steam移植
+- Pixel Studio像素工作室专业版v5.02[完整版]Steam移植
+- TCG卡牌商店模拟器v1.0.1中文[完整版]Steam移植
+- 午夜女孩Midnight Girl v1.0.1[完整版]Steam移植
+- 悖论：儿子的房间v1.3[完整版]Steam移植
+- 异星装置：阿特拉斯v1.1.12.37[完整版]Steam移植
+- 这就是总统 This Is the President v1.0.6 [完整版] Steam移植
+- 绿洲计划  Green Project  v1.4.2.02 [完整版] 适配高版本安卓Steam移植
+- 最深之剑 Deepest Sword v0.2.6 [完整版] Steam移植
+- 人生画廊 Life Gallery v2.1.1 [完整版+DLC] Steam移植
+- 箭之岛屿  Isle of Arrows  v1.1.4 [完整版] Steam移植
+- 非现实生活Unreal Life v3.0.10[完整版]Steam移植
+- 黏黏世界重制版 [完整版] Steam移植
+- 完美的一天[完整版]Steam移植
+- 灾厄逆刃v1.61.16[完整版]Steam移植
+- 森林四重奏[完整版]Steam移植
+- 马克思佩恩v1.7.AOC[完整版]Steam移植
+- 虚构世界2信条谷v1.0.56[完整版]Steam移植
+- 灵魂摆渡人v1.5.8[完整版]Steam移植
+- 拯救光界v1.300[完整版]Steam移植
+- 小丑牌官方版v0.4[完整版]Steam移植
+- 夏日追逐者Summer Catchersv1.5.3[完整版]Steam移植
+- 南极洲88号Antarctica 88v1.7.3[完整版]Steam移植
+- 小裂纹世界Trivia Crack Worldv2.0.0[完整版]Steam移植
+- 桥梁建筑师传送门  v5.2 [完整版] Steam移植
+- 地狱边境v1.21[完整版]Steam移植
+- 超级房车赛传奇豪华版[完整版]Steam移植
+- 神椿市协奏中  v1.0.4 [完整版] Steam移植
+- 迷失之地BADLANDv3.2.0.98[完整版]Steam移植
+- 叠层世界Stacklands[不闪退版]Steam移植!
+- 真实恐惧被遗弃的灵魂2  v2.3.51 [完整版] Steam移植
+- 百战天虫：战争武器Worms W.M.D[完整版]Steam移植
+- 超级肉男孩永恒[完整版]Steam移植
+- 燥热SUPERHOTv3.5[完整版]Steam移植
+- 十个约会  Ten Dates v1.4 [完整版] Steam移植
+- 瘟疫公司v1.19.19[完整版+DLC]Steam移植
+- 风之峰 v1.19.0 (断网运行) [完整版] Steam移植
+- 烛火地牢v352.10[完整版]Steam移植
+- 往左一点看星星v3.2.11[完整版]Steam移植
+- 吾之兔兄mybrotherrabbit[完整版]Steam移植
+- 圣诞怪杰圣诞大冒险[完整版]Steam移植
+- 无耻乱斗2v1.3[完整版]Steam移植
+- 鸭鸭侦探萨拉米的秘密v1.0.30[完整版]Steam移植
+- 幽浮小精灵Globsv2.0.1[完整版]Steam移植
+- 斯凯岛 Isle of Skye v101 [完整版] Steam移植
+- 马奇的冒险  Makis Adventure v1.5 [完整版] Steam移植
+- 劳拉与光之守护者v1.2.2RC1[完整版]Steam移植
+- 海市蜃楼之馆[完整版]Steam移植
+- 四海旅人v1.0.1[完整版]Steam移植
+- 返校Detentionv4.5[完整版]Steam移植
+- 国际篮球经理2023v1.3.0.1[完整版]Steam移植
+- 恐惧像素的噩梦IMSCAREDv1.0.21[完整版]Steam移植
+- 房产达人v1.600[完整版]Steam移植
+- 通往记忆女神的道路v1.10[完整版]Steam移植
+- 失落的海盗船Lost Shipv5.3[完整版]Steam移植
+- 营救魔法师v4.0[完整版]Steam移植
+- 黄金神像谋杀案v1.12[完整版]Steam移植
+- 黑荆棘城堡之谜v5.7[完整版]Steam移植宝藏小众经典解谜
+- 52号空间站谋杀案v1.14[完整版]Steam移植
+- Kamaeru世蛙桃源[完整版]Steam移植根本停不下来非常上头收集➕培育稀有新品种青蛙➕重建湿地环境！
+- 大Boss疑云[完整版]Steam移植
+- 巫师之昆特牌流浪法师v1.0.8[完整版+DLC]Steam移植结合了肉鸽随机元素、牌组构筑、战略制定等！
+- 血根森主[完整版]Steam移植
+- CD2陷阱大师[完整版]Steam移植肉鸽卡牌塔防游戏来啦游玩推荐！
+- 迷幻世界v3.8[完整版]Steam移植
+- 巴巴是你v598.0[完整版]Steam移植
+- 未晓星程EOSv1.0.2[完整版]Steam移植
+- 钢铁战队入侵v0.16.83[完整版]Steam移植
+- 西格玛理论谍战v1.2.12[完整版+DLC]Steam移植
+- 战争警告Warnamentv1.0.8.405[完整版]Steam移植简化版的钢铁雄心支持联机游玩！
+- 海郎Umirov1.1.0[完整版]Steam移植
+- 战争之棋PawnsofWarv1.0.2.5[完整版]Steam移植像素风格自走棋类！
+- 光明记忆无限v1.22[完整版+DLC]Steam移植超爽打击感FPS移植手游！高流畅度！
+- 心灵警探v1.4.3[完整版]Steam移植多周目❌高自由侦探游戏！
+- 傲气雄鹰重装上阵重制版[完整版]Steam移植绝对经典战斗体验火爆的高画质竖屏飞行射击游戏！
+- 美味星球5终极一口[完整版]Steam移植二十年如一，经典再现！
+- 像素世界杯足球赛终极版v1.310[完整版]Steam移植
+- 扣押豪华版[完整版]Steam移植很优秀的恐怖游戏！
+- 奇异世界蒙克历险记v1.0.7[完整版]Steam移植
+- 索尼克狂欢v5.5.3[完整版]Steam移植
+- 夏日追逐者v1.5.4[完整版]Steam移植
+- 旋转节奏XDv1.7.1[完整版]Steam移植搓碟，爽！！！超级好玩的高质量音游！
+- 夜班(晚班)LateShiftv2.1.1[完整版]Steam移植欧美真人影游巅峰！
+- 哥布林寿司[完整版]Steam移植沙威玛寿司肉鸽版，黑暗料理模拟经营！
+- 故事创说人v1.1.19.3[完整版]Steam移植
+- 绯红山谷[完整版]Steam移植
+- 瘟疫公司[完整版+DLC]Steam移植曾经的封神之作!世界等你研发解药来拯救！
+- 波坦尼庄园[完整版]Steam移植非常治愈的休闲游戏，喜欢植物和散步（）的不要错过！
+- 暴政3kv1.2.32[完整版]Steam移植
+- 植物精灵v1.0.276[完整版]Steam移植
+- 战争遗产合集[完整版]Steam移植曾经4399上的经典拉锯战出兵游戏！
+- 累趴侠v1.0.5[完整版]Steam移植趣味休闲物理互动，疲惫夜晚还能这么过？
+- 角斗士经理v3.15.2[完整版]Steam移植
+- 致亲爱的我[完整版]Steam移植这个游戏的音乐和美术风格真的绝了！！
+- 睡梦之中(梦意杀机)增强版[完整版]Steam移植一款操控婴儿的恐怖游戏，感受家庭暴力的黑暗！
+- 电钻少女[完整版]Steam移植2026超爽横版过关新游！
+- 王权巫师[完整版]Steam移植以全新视角勾勒猎魔人传奇！
+- 地牢战争[完整版]Steam移植初代经典塔防游戏！回忆满满！
+- 幻象破坏者战场终极版[完整版]Steam移植最新美少女战士+横版卷轴式清版动作爽游！
+- 异形隔离中文版[完整版]Steam移植汉化中文版兼容安卓15+最新v1.4.1版本！
+- 神秘之柱重制版v2.9[完整版]Steam移植数字类逻辑游戏的闯关冒险！
+- 崛起未来竞速[完整版]Steam移植激情竞速、爽快飘逸！
+- 安东大爆炸[完整版]Steam移植爽到爆炸类瓦力欧！
+- 王国保卫战5联盟巨龙战争v7.00.36[完整版+DLC]Steam移植
+- 背包乱斗单机版v1.0.9b[完整版]Steam移植96%好评如潮的肉鸽自走棋+背包管理烧脑整理好玩上头！
+- 王国保卫战5联盟巨龙战争免谷歌版v7.00.36[菜单版+完整版+DLC]版本来了真爽！
+- 学者冒险沉默之谜[完整版]Steam移植
+- 纪念碑谷2v3.11.505[完整版+DLC]Steam移植经典低多边形治愈风视觉错觉互动解谜！
+- 杀戮尖塔2[修复了声音问题+卡顿问题等]Steam移植全新的肉鸽+卡牌构筑神作！
+- 爆旋陀螺XXONE[完整版]Steam移植
+- 纪念碑谷3v1.6.20463[完整版+DLC]Steam移植依旧优雅，依旧美妙！
+- 古墓丽影1-3重制版[完整版]Steam移植高清化+支持自由转动视角这次不得不玩了！
+- 边境守护Outholdv1.1.4[完整版]Steam移植短小精悍的塔防游戏！
+- 奥罗拉山第2章[完整版]Steam移植
+- 文明6v1.2.5Steam移植，免谷歌最新中文版，直装安装即玩，全新优化整合全部DLC！
+- 迷宫鼠v1.0.18[完整版]Steam移植幸运房东作者新作吃豆人+幸存者有趣的肉鸽生存游戏！
+- 12分钟  v1.0.4816（Steam移植）
+- 全面战争中世纪2汉化版[完整版+DLC]Steam移植经典永不过时！
+- 魔王城物语（Steam移植）开罗新游！
+- 英雄征集（Steam移植）收集英雄牌,整体感觉还不错?!卡牌构筑肉鸽闯关！
+- 神之亵渎2(渎神2) 直装版（完整版）安卓党狂喜类恶魔城横板动作游戏竟能如此丝滑游玩推荐！
+- 月痕Moonscars（完整版）黑暗哥特像素风恶魔城类型砍杀新游！
+- 斯盖尔之女 v1.2.1（完整版）Steam移植  3A大作现实改编! 质量超高的硬核恐怖游戏！
+- 暴乱动荡（汉化版+完整版）Steam移植  这游戏终于有汉化的版本啦！复古像素策略战术游戏！
+- 拼贴冒险传  v5.1（完整版）Steam移植  相当出众的轻量肉鸽宝可梦操作简单，玩起来很上头！
+- 喵斯快跑  v6.0.1（完整版+DLC）Steam移植  新春大版本更新！潜水员戴夫联动「潜水员 布若」登场！
+- 咩咩启示录 直装版（完整版+DLC）一点爬塔式肉鸽战斗加模拟经营就停不下来了!
+- 共和国 République（完整版）Steam移植 早期最牛逼的潜行游戏潜行2014年的手机玩家能玩到这种质量的移植游戏简直太享受了！
+- 元素地牢  v3.1.0（菜单版+完整版）Steam移植  高品质像素地牢+肉鸽！元气骑士替代品？
+- 了不起的修仙模拟器 单机版  v1.2.0（完整版+菜单版）Steam移植  单机版来了真爽！
+- 历史时代3  v1.136（完整版）Steam移植
+- 超级房车赛：汽车运动 v1.10.2RC1（完整版+DLC）Steam移植
+- 苍翼混沌效应  v1.0.9  Steam移植  支持联机游玩！
+- 热血硬派国夫君外传热血少女1  v1.0.0（完整版）Steam移植
+- 挺进地牢 联机版  v1.0.511（完整版）Steam移植
+- 被遗忘的安妮（汉化版+完整版）Steam移植
+- 格雷克大冒险：阿祖尔的回忆  v1.2.9（完整版+菜单版）Steam移植
+- NBA2K26（完整版）Steam移植  NBA2K20集成NBA2K26模组，模组使用存档调出，内置多个存档自行体验！
+- 后院棒球97  v1.1.12（完整版）Steam移植  经典棒球游戏！休闲体验
+- 10秒忍者X  v1.0.36（完整版）Steam移植
+- 迷宫大侦探  v1.0.9（完整版）Steam移植
+- 猫猫钓游记（完整版+免内购）Steam移植  上班摸鱼神游！95%好评超可爱橘猫钓鱼！
+- 托兹哈之夜炼金术士团  v0.5.0.8（完整版）Steam移植
+- 刮个爽（完整版）Steam移植  一玩就停不下来只好直接通关了！超爽解压，极为优秀！
+- 西瓜游戏 Planet（完整版）Steam移植
+- 8号厕所（完整版）Steam移植  厕所里玩找异常越玩越抽象！
+- 拉吉远古传奇（完整版）Steam移植  印度味十足的游戏！
+- 咖啡心语中文（完整版）Steam移植  好评率95%的冷门作品来咖啡馆听听深夜故事吧！
+- 罗塔岛航海贸易记  v1.0.5（完整版）Steam移植
+- 攀爬动物在一起（完整版）Steam移植  什么集巴游戏里面全是福瑞建议低血压者必须游玩！
+- 星河拓荒（完整版）Steam移植
+- 都市传说解体中心（完整版）Steam移植  悬疑灵异推理游戏
+- 星期三Wednesdays（完整版）Steam移植
+- 堆叠太空 StacksSpace  v1.0.22（完整版）Steam移植
+- 双截龙三部曲 v1.8.5（完整版）Steam移植
+- 共鸣之心  v2.03.30（完整版+DLC）Steam移植  超火爆节奏类肉鸽幸存者轻松消磨上百小时！
+- 怪奇物语3  v1.4.0（完整版）Steam移植
+- 极渊INMOST  v2.62（完整版）Steam移植超级好玩的冷门游戏神作！
+- 办公室冒险  v6.00005（完整版）Steam移植
+- 异星验尸官（完整版）Steam移植
+- 过山车大亨 经典版  v1.2.655（完整版）Steam移植经典中的经典！
+- 洇客 Inked  v1.88（完整版）Steam移植
+- 九夜刺狼 v2.0（完整版）Steam移植
+- 小骨英雄杀手  v1.0.10（完整版+菜单版）Steam移植
+- 白门  TheWhiteDoor  v1.2.6（完整版）Steam移植
+- 1998收费员的故事（完整版）Steam移植
+- 遗迹猎人崛起（完整版+菜单版）Steam移植  离线射击/刷宝/角色扮演游戏!
+- 无畏行者  v1.0.9（完整版）Steam移植
+- 达芬奇密室  v1.1.52（完整版）Steam移植
+- 机甲妮卡  v1.2.2（完整版）Steam移植
+- 班迪孤狼  v2.0.0（完整版）Steam移植
+- 画个火柴人3  v1.10.19854（完整版）Steam移植
+- 巫毒侦探  v0.0.32（完整版）Steam移植
+- 蘑菇11  v1.13.23（完整版）Steam移植
+- 昆虫恐惧症  v1.09.137（完整版）Steam移植
+- 内在昔日  v7.9.0.0（完整版）Steam移植
+- 我的朋友佩德罗  v1.15（完整版）Steam移植
+- 心之蜃  v1.0.1（完整版）Steam移植
+- 请出示证件  v1.4.15（完整版）Steam移植
+- 老人之旅  v1.22（完整版）Steam移植
+- 野餐大冒险（完整版）Steam移植  非常好玩无论是玩法,画风还是配乐都非常有趣！
+- 水隐之城 v1.8（完整版）Steam移植
+- 蚂蚁文托  v1.2.6（完整版）Steam移植
+- 模拟人生2（完整版）Steam移植经典之作童年回忆，细节满满，可玩性很高！
+- 不幸小妹  v2.4（完整版）Steam移植
+- 围攻 Besiege  v1.0.2（完整版）Steam移植  一款物理建造游戏！
+- 灰色幻影扳机第2卷（完整版）Steam移植
+- 蓝色星期三  v1.0.0（完整版）Steam移植
+- 猫语翻译器 whileTrue learn v1.8.107（完整版）Steam移植
+- 追随真相 v1.1.42（完整版）Steam移植
+- 地牢战争3（完整版+菜单版）Steam移植  虽然一直不温不火但是真的好玩！
+- 星际幸存者  v1.0.349（完整版）Steam移植  科幻肉鸽+弹幕射击新作！
+- 特斯拉战队  v1.13.1（完整版）Steam移植
+- 阿克拉之路 PathofAchra  v1.4（完整版）Steam移植
+- 龙山英雄（完整版）Steam移植  一款轻松上手的横版卷轴动作游戏！
+- 轻松水族馆（完整版）Steam移植  特别好评的放置类生物收集游戏！
+- 一次机会世界 机器版（完整版）Steam移植
+- 铁路物语（完整版）Steam移植
+- 藏身世界各地（完整版）Steam移植
+- 放松时光与你共享Lo-Fi故事  v1.5.0（完整版）Steam移植  非常好强烈推荐的一款番茄钟！
+- 死亡重启（完整版）Steam移植
+- 拳击小子2（完整版）Steam移植
+- 萌宝连击遗产  v1.2.336（完整版）Steam移植
+- 夏末盛开的花  v3.0.0.3（完整版）Steam移植  唯美治愈的视觉小说
+- 千棋百计  v1.0.16（完整版）Steam移植  融合国际象棋和肉鸽元素的回合制游戏！
+- 赏金幸存者 高级版（内置多功能菜单）Steam移植
+- 超级兄弟剑与巫术（完整版）Steam移植  非常漂亮的像素画！
+- 亢宿与无星世界的复兴记（完整版）Steam移植  零压力模拟偶像养成记！
+- 冒险霓虹 Advent NEON®（完整版）Steam移植  超光速横板动作游戏！
+- 巫师华尔兹  v5.1.0.248（完整版+汉化版）Steam移植  好玩，小骷髅特别可爱！
+- 鬼谷八荒 国际服（内置作弊菜单）
+- 亚瑟爱西瓜（完整版）Steam移植
+- 菜市场模拟器（完整版）Steam移植  特别好评的模拟经营游戏豪丸我爱卖
+- 战术潜艇2  v1.4.32（完整版）Steam移植
+- 地下英雄 DunHero（完整版）Steam移植  极品肉鸽刷宝小游戏28个可玩职业!！
+
+---
+
+## 破解游戏（837 款）
+
+- 小蘑菇转刀（解锁大量货币）
+- 溪谷农场（无条件使用金币钻石）
+- 女剑士的秘密日记（大量货币＋无敌秒杀）
+- 侏罗纪末日生存（无条件建造＋无限拆分）
+- 工匠物语 重制版（解锁大量货币）
+- 星际指挥官（无条件使用货币购买皮肤）
+- 死亡扳机（解锁大量货币）
+- 狙击手3D（使用金币不减反增）
+- 地下城制造（免付费解锁完整版+大量货币）
+- 红色兄弟勇者团（每次过关货币数量变多）
+- 魔塔（解锁大量金币）
+- 最后一条路（大量汽油＋汽车不会破损＋汽车速度提升）
+- 爬塔之旅（解锁大量货币）
+- 水上乐园大亨（使用钞票不减反增）
+- 狂野飙车：极限越野（汉化+全解锁满级车辆）
+- 地牢女孩（解锁大量货币+高攻击）
+- 赫尔的海底都市计划（大量货币+免付费解锁完整版）
+- 僵尸战车塔防（解锁大量货币）
+- 建筑模拟器4（汉化+大量货币+免谷歌）
+- 合并魔法（解锁大量金币）
+- 异世界商人的生活（解锁大量金币）
+- 基地防御：僵尸生存（使用金币不减反增）
+- 我的邮轮（解锁大量货币）
+- 死亡突围（大量货币）
+- 王国反击战（大量红宝石和蓝宝石）
+- 星空终结者（解锁大量货币）
+- 狂野飙车：极速版2（大量货币）
+- 小小塔防（解锁大量货币）
+- 海洋守护者：穹顶生存（任意使用货币）
+- 战锤40K（大量货币）
+- 口袋建造|袖珍建造（大量资源）
+- 生存竞技场（大量货币）
+- 飞机大厨（无限燃油）
+- 沼泽激战（解锁大量资源）
+- 骑行至死（汉化大量货币版）
+- 薯仔特攻队（解锁大量货币）
+- 僵尸时代3高级版：生存（解锁大量货币）
+- 史莱姆战士（解锁大量货币）
+- 精灵训练师（解锁大量货币）
+- 猫咪渔场（货币不减反增）
+- 木筏之战（大量货币）
+- 小骷髅大冒险（解锁大量货币）
+- 战斗精灵（货币任意用）
+- 机甲战斗（大量货币）
+- 放置幸存者：僵尸浪潮（解锁大量货币）
+- 像素帝国（解锁大量货币）
+- 篝火猫咪咖啡馆（无条件使用货币）
+- 朋克塔防幸存者（解锁大量钻石）
+- 妖怪餐厅（大量货币）
+- 菲格涅莉亚（解锁白金套餐）
+- 巡警（解锁大量金币）
+- 僵尸防御：基地生存（无条件购买道具货币）
+- 小道猎魔人（第二次进入解锁大量货币）
+- 尸潮堡垒（大量货币）
+- 黑暗游侠（大量货币）
+- 活尸战棋（使用货币不减反增）
+- 战锤40k：战术（使用货币不减反增）
+- 环形帝国（使用资源不减反增）
+- 塔防大作战（大量货币）
+- 怪物召唤师（大量货币）
+- 王牌坦克（大量货币）
+- 神奇避难所（解锁大量货币）
+- 口袋妖怪：超进化精灵（大量货币）
+- 大狩猎（无限金币）
+- 恶棍英雄（全解锁）
+- 无双热战（使用钻石不减反增）
+- 王座破坏者（货币不减反增）
+- 小镇保卫战（大量货币）
+- 合并生存（大量货币）
+- 无限僵尸（解锁大量货币）
+- 岛屿特工队（使用货币不减反增）
+- 寻找灵魂：自由冒险（使用金币不减少）
+- 我的专属地下城（货币任意用）
+- 点阵Q塔防（免费升级）
+- 迷你DAYZ：1+2合集（无敌+无限资源）
+- 战争时代（解锁大量道具）
+- 食人星球3（货币不减）
+- 魔域塔防3（无限货币）
+- 地牢英雄小队（大量货币）
+- 灵魂收购2（大量钻石）
+- 末日求生（无限货币等）
+- 怪物冲突（使用货币不减少）
+- 报废（解锁货币任意使用）
+- 亡灵巫师（汉化+金币任意用）
+- 在异世界的黑暗中（大量货币）
+- 沙盒神游戏模拟器（大量货币）
+- 袖珍空间（无条件使用货币和技能点）
+- 萌物求生（大量资源等）
+- 僵尸大灾难（解锁大量货币）
+- 九个国王（大量货币）
+- 小村庄（永久加速）
+- 地下城卡牌冒险（大量资源）
+- 暴君的祝福（任意使用货币）
+- 勇者大陆：海盗（大量金币）
+- 最后一击（大量货币）
+- 黑域生机（大量货币）
+- 星河农场：3D合成塔防（大量钻石）
+- 勇闯死人谷2（大量货币）
+- 僵尸危机：杀出重围（解锁大量货币）
+- 台球大师（大量金币）
+- 西奥小镇（大量钻石）
+- 英雄射手（强制使用货币）
+- 荒岛求生：进化（无限货币）
+- 战棋英雄王子复仇记（大量货币）
+- 狂野飙车8（大量资源等）
+- 僵尸战争：空闲防御（使用货币不减少）
+- 让我们生存（无条件建造）
+- 骑士与龙2+3合集（大量金币+内置MOD菜单）
+- 无尽的波浪生存（大量升级点）
+- 我的城市与军队（内置MOD菜单+资源不减反增）
+- 杀戮目标（大量货币）
+- 包在我身上（解锁大量钻石）
+- 探险经纪人（使用货币不减少）
+- 呆子幸存者（大量金币）
+- 基辅罗斯2：高级版（大量货币）
+- 小小村民（使用货币不减反增）
+- 生存城市：皇家僵尸（大量货币）
+- 指挥官歌利亚（大量货币）
+- 我是弓箭手（大量钻石）
+- 地牢生存（大量货币）
+- 英雄生存IO（大量货币）
+- 幻想世界（大量货币）
+- 英雄传说（钻石任意用）
+- 生存危机：僵尸来临（大量货币）
+- 合成战争（大量货币）
+- 战争塔（大量货币）
+- 僵尸潮：灭绝（内置MOD菜单+升级，改核，修复费用为0）
+- 地狱战机（大量货币）
+- 死亡三角（大量货币）
+- 魔潮（金币不减反增）
+- 黑暗之石：卡牌战斗（大量货币）
+- 沼泽派对（大量货币）
+- 足球大战（大量货币）
+- 幸运猎人（大量金币天赋点）
+- 破碎黎明2（使用货币不减少）
+- 木筏生存：游牧民族（使用资源不减少）
+- 僵尸世界战争：新世界（解锁大量货币）
+- NBA 2K26（大量货币）
+- 夜幕：王国边境塔防（大量货币）
+- 幸存者：最强魔法师（大量体力）
+- 鲁莽大逃亡2（大量货币）
+- 慕府将军战争（使用货币不减少）
+- 亡者征程（大量货币）
+- 英雄冒险（大量货币）
+- 3D天堂岛（解锁大量货币）
+- 影子王国：边疆战争|暗影王国边境战争TD（无条件使用货币）
+- X生存（强制使用货币）
+- 史莱姆防守大师（使用货币不减反增）
+- 传奇战士（大量货币）
+- 星球爆炸模拟器2D（大量货币）
+- 永恒冒险（大量钻石）
+- 战略时代（钻石任意用）
+- 宝可梦：肉鸽（全精灵+无限金币+无限蛋券）
+- 塔王争霸（大量货币）
+- XP英雄（解锁金币任意用）
+- 中世纪RTS（强制使用货币）
+- 英雄塔战-合并拼图（大量货币）
+- 三国蜀汉刘备传（大量货币）
+- 史前蠕虫（大量货币）
+- 生存之日（大量货币等）
+- 公会会长（大量货币等）
+- 背包特工队（大量货币）
+- 家园7（大量货币）
+- 2112塔防生存（无条件建造等）
+- 气球塔防6（无限经验）
+- CarX公路赛车（大量货币）
+- 最终前哨：最终版（金币任意用）
+- 我的公司996（大量货币）
+- 魔法vs金属（金币任意用）
+- 觊觎女孩（货币任意用）
+- 英雄无限（内置海量资源）
+- 幻世修仙（内置大量货币）
+- 江湖侠客令（背包领取20亿元宝）
+- 炼仙传说（海量代金券【兑换码：vip888】）
+- 修仙四万年（解锁商店、建筑）
+- 乱世曹操（内置海量资源）
+- 羽衣轮盘（大量货币）
+- 最后的希望3（无限货币）
+- 幸存者小镇（无限金币体力）
+- 幸存者英雄（大量宝石）
+- 幸存者重置计划（无条件使用货币）
+- 现代战争3（免谷歌+大量货币）
+- 王国之战（无限钻石）
+- 玩具帝国（货币反增）
+- 欧战7：中世纪（大量勋章金币）
+- 炮塔模型TD（强制使用货币）
+- 深海庭院（大量货币）
+- 冒险日记（大量资源 钻石）
+- 命运秘境（大量金币宝石）
+- 僵尸尖叫2024（无限金币钻石）
+- 幕府帝国（无限金币）
+- 从零开始的勇者生活（无限钻石）
+- 王国防御：战争前线（解锁大量货币）
+- 闲置岛冒险（解锁大量钻石）
+- 魔窟暗黑世界（大量货币）
+- 60秒！太空冒险（食物不减少＋资源不减反增）
+- 黃昏旅店（解锁大量货币）
+- 玉米仔保家园（资源和货币不减反增）需要谷歌
+- 战斗军舰（无限美元和黄金）
+- 暴爽疯狂赛车2（解锁大量货币）
+- 波伊炮塔（解锁大量货币）
+- 地牢英雄：怪物（解锁大量货币）
+- 二战战争模拟器（汉化＋大量货币）
+- 二战名将：决胜时刻（无限钞票勋章）
+- 怪物老婆养成记（无限钻石）
+- 游戏王卡牌的力量（解锁大量资源）
+- 战斗吧兔子（无限货币胡萝卜钻石）
+- 足球巨星崛起（大量货币）
+- 自行车披萨外卖(大量货币)
+- 勇者斗恶龙5（汉化解锁无限金币）
+- 战斗星球红色警报（能量不减反增）
+- 真实赛车3（金币无限免谷歌进入游戏用WiFi更新）
+- 众神之争(无条件使用货币）
+- 一个人的战斗（碎片返加）
+- 英雄幻想曲（汉化＋大量货币）
+- 永不言弃（解锁大量金币）
+- 营地防御（大量货币）
+- 英雄生存IO2（解锁大量货币）
+- 源梦三国（VIP礼包无限制领取）
+- 瓦利弗：地牢战术（解锁大量黄金）
+- 拖拉机林场模拟器（无限金币）
+- 燃烧的1944|1944燃烧的桥梁（解锁大量货币）
+- 铁甲钢拳（金币金钱无限个可设中文）
+- 突击坦克（解锁大量金币）
+- 公路骑手（解锁无限金币）
+- 喵喵战士（无限货币不减反增，断网进）
+- 丧尸向前冲（无限货币）
+- 60秒差距（食物不减）
+- 僵尸冲击灭绝（加五万能量五万金属）
+- 顶尖越野模拟器（解锁无限金币）
+- 功夫Z（货币不减反增）
+- 口袋女孩（无限资源）
+- 漏洞漫游者|漏洞勇者（大量资源）
+- 米莉科拉|米利科拉：苏打之王（无限货币钻石）
+- 守卫城堡（大量金币钻石）
+- 每日僵尸（进入游戏赠送大量货币）
+- 大战陆军战略（大量金币勋章）
+- 废土帝国（货币使用增加）
+- 疯狂的足球（解锁无限资源）
+- 将军塔防将军塔防（解锁无限金币）
+- 跆拳道大奖赛（无限货币）
+- 欧洲战争7：中世纪（无限金币）
+- 节奏乒乓（金钱逆增长）
+- 空手道格斗（解锁大量资源）
+- 丧尸之城（无限货币）
+- 摩托平衡3D（解锁大量金币）
+- 汤姆猫跑酷（全资源破解）
+- 迷因朋友（足够的货币）
+- 点击启示录2（解锁大量货币）
+- 钢铁战队（无限点券 技能点，解锁全角色）
+- 沙漠漂移大师(大量金币)
+- 暴力街区（解锁无限资源）
+- 废土世界（完整版，无限金币）
+- 孤岛幸存者（购买金币反加）
+- 大坝建造者（大量货币）
+- 神秘之城寻物历险（解锁付费完整版+使用货币获得大量资源）
+- 阿多门宠物大战 （无限钻石）
+- 史诗滑板（解锁大量资源）
+- 豺狼射击手：陆军坦克（钻石反加）
+- 奇幻小岛奇幻小岛（大量钻石足够的金币越用越多）
+- 精灵村（大量金币）
+- 中世纪战争（货币不减反增）
+- 塔防王国进阶领域（无限金币）
+- 放置怪兽放置怪兽（用货币买食物不减反增）
+- 城堡守护者（无条件使用货币）
+- 疯狂小兵（无限金币，直接获得奖励）
+- 怪物钓鱼：锦标赛（无限货币宝石）
+- 地域骑士3|地狱骑士3（资源逆生长）
+- 勇者大陆：英雄（金币钻石经验以及加速修改）
+- 地牢爬行者2（货币不减反增）
+- 破碎的像素地牢  v3.3.2（解锁大量货币）
+- 成长帝国：罗马（无限资源和XP点+移除谷歌依赖）
+- 世界异化之后（附海量资源兑换码）
+- 火柴人诅咒（内置无限资源）
+- 占山为王2（资源使用不减反增）
+- 王国保卫战复仇（无限钻石_解锁全英雄）
+- 主公别闹（海量代金券）
+- 垂钓旅游（内置无限货币）
+- 镇魂街破晓|镇魂街:破晓（邮箱里领取代金）
+- 破碎的宇宙(破解内置作弊菜单版-无限金币资源道具)
+- 三国乱斗王者（无限体力版）
+- 后室公司联机版（大量金币）
+- 岛屿冲突（大量钻石金币）
+- 方块世界（内购）
+- 远征军团（解锁秒杀+局内无限货币）
+- 星际小队（无限货币）
+- 紙上王者（无限金币）
+- 最终黎明（货币使用不减反增）
+- 史诗英雄战争：暗影之王（大量货币）
+- 边境巡逻（使用货币不减反增＋免广告）
+- 空心城堡（无条件变身＋免广告）
+- 大哥饶命（免广告＋内置菜单）
+- 魔兽骑士（免广告+无限资源）
+- 植物守卫战（免广告获取奖励）
+- 汽车经销商（免广告获取奖励）
+- 合并仓鼠（免广告）
+- 放置文明（使用钻石不减反增+免广告）
+- 堆叠英雄（免广告获取奖励）
+- 小兵爱登顶（免广告＋内置菜单）
+- 放置冒险团（免广告+内置MOD菜单）
+- 吸血鬼幸存者：血潮崛起（免广告获取奖励+大量货币）
+- 微型军团（大量钻石+大量免广告券）
+- 打到100关（解锁大量货币+免广告）
+- TCG卡牌商店模拟器（免广告获取奖励）
+- MWT坦克大战（免广告获取奖励）
+- 房地产大亨（大量货币+免广告）
+- 军事战争：放置模拟（免广告+大量货币）
+- 网络战争（免广告获取奖励）
+- 明星崛起：篮球（大量钻石+免广告）
+- 勇士集结（免广告获取奖励+mod菜单）
+- 沙威玛传奇印度版（免广告获得奖励抽奖）
+- 星舰战斗：泰坦（免广告获取奖励）
+- 妖怪大作战（免广+货币使用增加）
+- 篮球经理25（免广告获取奖励）
+- 枪火勇士（免广告获取奖励）
+- 仿生英雄（去广告）
+- 沙威玛传奇（免广告获取奖励）
+- 我要去远航（免广告获取奖励）
+- 淘金模拟器（免广告获取奖励）
+- 僵尸生存：保卫战Z（免广告获取奖励）
+- 僵尸庇护所：合并与建造（免广告获取奖励）
+- 僵尸围境（免广告获取奖励）
+- 星际防线：虫袭（免广告获取奖励）
+- 勇闯王国（免广告获取奖励）
+- 勇士村庄（免广告获取奖励）
+- 末日交易所（免广告获取奖励）
+- 幸运升级（免广告获取奖励）
+- 鼠鼠商业街（免广告获取奖励）
+- 监狱突围（免广告获取奖励）
+- 曙光：绯色幻想（免广告）
+- 我的梦幻小岛（免广告获取奖励）
+- 子弹回声（去广告）
+- 丧尸围城（免广告获取奖励）
+- 枪炮与魔法（免广告获取奖励）
+- 卡皮巴拉冒险之旅（免广告获取奖励）
+- 背包壁垒塔防（免广告获取奖励）
+- 骗子酒馆（免广告获取奖励）
+- 攻城战（免广告获取奖励）
+- 女巫苏醒（免广告获取奖励）
+- 最强小兵（免广告获取奖励）
+- 小小庇护所（免广告获取奖励）
+- 石器帝国（免广告获取奖励）
+- 格里德小分队（免广告获取奖励）
+- 地下城进化版（免广告获取奖励）
+- 地狱之城（免广告获取奖励等）
+- 进击地下城（免广告获取奖励）
+- 前线突击（去广告）
+- 抽抽抽英雄（免广告获取奖励）
+- 最强进化（免广告获取奖励）
+- 刀片战争（免广告获取奖励）
+- 僵尸求生（免广告获取奖励等）
+- 螺旋挖掘机帝国（免广告获取奖励）
+- 911：猎物（免广告获取奖励）
+- 放置运动天堂（免广告获取奖励）
+- 死亡崛起（免广告获取奖励）
+- 元素塔防（免广等）
+- 生存农场：经营RPG（免广告获取奖励）
+- 放置女神（免广告）
+- 诅咒之岛（免广告获取奖励）
+- 寻剑迷途（去广告）
+- 僵尸围城（免广告）
+- 13F：公寓异常检测员（去广告）
+- 公海英雄（免广告获取奖励）
+- 地球净化工程（免广告等）
+- 小兵不能停（免广告获取奖励）
+- 末日大亨（免广告获取奖励）
+- 魔王缺小弟，急（免广告获取奖励）
+- 轮盘对局游戏（免广告）
+- 齿轮战斗（免广告）
+- 太平洋战争：战地（免广告获取奖励）
+- 塔防传奇5（免广告）
+- 铜铲铲之战（免广告）
+- 星际任务（免广告）
+- 冰河时代生存大亨（免广告）
+- 小岛幸存者基地（免广告）
+- 小兵特攻队（免广告获取奖励）
+- 建设城市：社区城镇（免广告等）
+- 领地保卫战（免广告）
+- 哇酷齿轮（免广告获取奖励）
+- 勇者也拿弓（免广告获取奖励）
+- 魔兽自走棋（免广告）
+- 公元（高级月卡免费用【相当于免广告】）
+- 球球英雄（免广告直接获得奖励）
+- 少年仙途（免广告直接获得奖励）
+- 弹雨风暴（免广告+内置海量资源）
+- 挂机打深渊（免广告直接获得奖励）
+- 原始人别嚣张（免广）
+- 阴阳锅（免广）
+- 宇宙战争幸存者（免广告获取奖励）
+- 小小塔防幸存者（免广 大量钻石）
+- 戏怨（免广）
+- 悟空快打修仙传（免广告）
+- 亡灵城（反增免广告）
+- 亡灵法师模拟器（免广）
+- 兄弟们上啊（免广告）
+- 生与死：起源（免广告获取奖励＋解锁大量货币）
+- 天神之战（免广告）
+- 胖兔文明（免广告）
+- 时光之晶（免广告）
+- 史莱姆联盟（免广告）
+- 神秘大陆探险（免广告获取奖励）
+- 喵咪射手（免广）
+- 魔女之战：僵尸战争|女巫之战：僵尸战争（免广告获取奖励+大量钻石）
+- 冒险与精灵（无限钻石免广告版）
+- 剑来（免广告）
+- 钓鱼修仙（免广告）
+- 疯狂南瓜塔防（免广告+大量货币）
+- 孤独（免广告）
+- 怪物来了（免广大量金币）
+- 抽卡大师（免广告）
+- 地府传说（免广告）
+- 大哥我错了（免广告）
+- 大话仙境（免广告）
+- 动物帮帮忙（免广告）
+- 冰雪幸存者基地（免广告）
+- 暗影格斗4（免广告获取奖励）
+- 背包特攻队（免广告获取奖励＋大量资源）
+- 懒懒猫咪村庄（货币使用不减反增＋免广告获取奖励）
+- 光头塔防（免广告获取奖励＋使用货币不减反增）
+- 小勇者阿玛（免广告）
+- 恐鬼症（汉化＋去广告）
+- 天命小妖（免广告）
+- 暗影传奇（解锁全部角色＋免广）
+- 传奇幸存者（免广告获取奖励）
+- 忍喵自走棋（免广告获取奖励）
+- 僵尸杀手：死亡战车（免广告获取奖励）
+- 无尽飞剑（免广告获取奖励）
+- 峡谷自走棋（免广告获取奖励）
+- 背包之王（免广告获取奖励）
+- 进击的喵喵（免广告、秒杀、无敌、超级攻速）
+- 猪猪保卫战（免广告获取奖励）
+- 找茬脑洞王|脑洞找茬王（免广告获取奖励）
+- 重生大冒险（完整版 移植版，去除广告）
+- 重逆（无广告）
+- 野生城堡（免广告获取奖励）
+- 异世界废物摆烂崛起之无限启灵（免广告获取奖励）
+- 小鸡舰队出击（免广告获取奖励）
+- 小番茄炒僵尸（免广告获取奖励）
+- 小矮人传说（免广告获取奖励）
+- 小妖问道（免广告、加速砍树、战斗倍速、装备自动拾取、血脉激发加速）
+- 小小战争（免广告获取奖励）
+- 我的斧头会变长（免广告获取大量钻石）
+- 投胎模拟器（免广告获取奖励）
+- 我是显眼包（免广告获取奖励）
+- 玩梗找茬王|爆梗找茬王（免广告获取奖励）
+- 末日也躺平（免广告获得奖励）
+- 去魔王城上班（免广告）
+- 太空异形生存者（免广告获取奖励）
+- 木筏战争（免广告获取奖励）
+- 麒麟传03版（免广告）
+- 僵尸小队：战斗英雄（免广＋大量钻石）
+- 哥布林屠戮者（免广告获取奖励）
+- 隆隆背包：背包乱斗（免广告获取奖励）
+- 蛋蛋九州行（免广告获取奖励）
+- 逆转魔卡（免广告获取奖励）
+- 挂机暴风城（免广告获取奖励）
+- 防御之王3（大量钻石＋免广告）
+- 城堡战争防御（免广告获取奖励）
+- 超级狗狗（免广告获取奖励）
+- 彩色世界的故事（免广告获取奖励）
+- 神器传说（免广告获取奖励）
+- 丧尸特攻队（大量货币＋免广告）
+- 史莱姆村（免广告获取奖励）
+- 符石远征军（免广告获取奖励）
+- 合并礼包猫（免广告获取奖励）
+- 卡皮巴拉幸存者（免广告获取奖励）
+- 皮皮公主：冰雪城堡（免广告获取奖励）
+- 魔龙之旅（免广告获取奖励）
+- 爱乐小镇爱乐小镇（免广告获取奖励）
+- 剑御九州（免广告获取奖励）
+- 僵尸防御·生存战争（免广告获取奖励）
+- 模拟篮球赛（去除广告）
+- 装备守护者（免广告直接获得奖励）
+- 末日求生（免广告+无限金币）
+- 猫咪勇士冒险（解锁秒杀免广告等）
+- 吃不到我呀（免广告直接获得奖励）
+- 无尽噩梦2：诡医院（免广告）
+- 阴阳锅3阴缘牵（免广告直接获得奖励）
+- 最强宗主（免广告）
+- 择日修仙（免广告）
+- 姐是好女孩（免广告直接获得奖励）
+- 无尽箭域（免广告直接获得奖励）
+- 人机战士王者（免广告【点设置再点公告打开GM工具】）
+- 后宫之王就是我（内置海量资源_免广告）
+- 游三界（免广告直接获得奖励）
+- 神武剑仙（免广告直接获得奖励）
+- 我在末日送快递（免广告直接获得奖励）
+- 掌门模拟器（免广告_资源使用不减反增）
+- 无限流修仙模拟器（免广告直接获得奖励）
+- 躺平发育（免广告直接获得奖励）
+- 冰霜传奇：塔防（内置菜单+免广告+伤害倍数）
+- 武侠人生模拟器（免广告获得奖励）
+- 元素冒险家（免广告）
+- 卡包荒野（免广告直接获得奖励）
+- 无限流修炼模拟器（免广告获取奖励）
+- 小小生存队（局内免广告直接获得奖励）
+- 辉煌时代（免广告）
+- 失落的花朵（没有广告）
+- 敲背王（免广告获取奖励）
+- 吸油记（免广告获取奖励）
+- 未来人生（免广告获取奖励）
+- 菇勇者传说（免广告）
+- 冲呀背包猪（免广告）
+- 上帝模拟器世界国王（免广告获取奖励）
+- 勇猛之路：二战（免广）
+- 小小骑士团（免广）
+- 修仙大乱斗（免广告）
+- 最后的守卫（免广告直接获得奖励）
+- 武侠大明星（免广告）
+- 小怪大冒险（免广告、加速开箱、自动钓鱼）
+- 茶叶蛋大冒险（免广告【第一次进比较慢，耐心等待】）
+- 末世求生者（免广告）
+- 卡包修仙（免广告直接获得奖励）
+- 转世成为异界剑仙（免广告直接获得奖励）
+- 百亿家族（免广告获取奖励）
+- 梦幻奇路（免广告直接获得奖励）
+- 生存33天（免广告+锁血）
+- 二次元抽卡爽（免广告）
+- 病毒大逃杀|黎冥杀机（免广告+无限内购【设置左上角有GM工具】）
+- 齿轮兽卫队（免广告）
+- 遗弃之地（解锁免广告+无敌）
+- 幸存者岛屿（免内购）
+- 需要多少人（免广告等）
+- 勇者突围（内置免广告+秒杀+移速）
+- 明星经纪人：心跳链接（免广告）
+- 枪魂狙击（免广告+无限子弹+超级秒杀）
+- 转转大冒险（免广告+无限内购+内置GM工具）
+- 99强化木棍（内置作弊菜单）
+- 生存33天官服②（免广告+攻速+锁1血）
+- 超级转职系统（内置多功能(商店无限购，大量资源等)）
+- 一直刷（解锁免广告）
+- 杀手：狙击手（免内购）
+- 像素刀片M VIP（解锁内购）
+- OWRC：开放世界赛车（免内购）
+- 海鲜工厂大亨（免内购）
+- 放置战舰大亨（免广＋免内购）
+- 合并魔法公主（免内购）
+- 泽诺尼亚5（汉化+免内购）
+- 地牢杀手（解锁免内购）
+- 开心机场模拟器（商店直接购买）
+- 僵尸大战群魔乱舞（免内购）
+- 殡葬帝国（免内购）
+- 小小幸存者（免广告免内购）
+- 战士大师（免内购）
+- 合并梦幻岛（免内购）
+- 口袋英雄：神改版（免内购）
+- 怪物门（免内购钻石）
+- 轰炸机朋友（解锁全皮肤）
+- 生存之地（免内购）
+- 像素泰拉（免内购）
+- 轻松做皇帝（免内购）
+- 诸神战纪：龙之利刃（解锁无条件购买）
+- 诸神战纪EX：血族国度（无条件购买）
+- 泽诺尼亚3：尘世传说（免内购）
+- 勇者传说：暗黑勇士（免内购）
+- 丧尸猎人：求生（免广告内购）
+- 冰川时代生存大亨|冰河时代生存大亨（免内购）
+- 像素地下城勇者（解锁大量货币+无条件购买皮肤）
+- 僵尸森林3（免内购）
+- 塔防最终战斗（免内购）
+- 神秘之剑（免内购）
+- 芥末特别行动（免内购）
+- 最后的屋顶：生存（免广+免内购）
+- 王座持有者（免内购）
+- 奥咕和秘密森林（免内购）
+- 口袋英雄（免内购）
+- 放置战争商人（免内购）
+- 幸存者防御：僵尸狂潮（免内购等）
+- 混沌冲击塔防（免内购）
+- 生存城市建造者（免内购）
+- 冒险生活（免内购）
+- 蘑菇英雄（免广告+免内购）
+- 阿图埃尔河（免内购）
+- 特格拉：僵尸生存岛（免内购）
+- 远古众神（商城任意购买）
+- 太空小队：生存（免内购）
+- 帝国勇士TD高级版（免内购）
+- 黑曜石骑士（免内购）
+- 方块要塞2（任意购买）
+- 阿尼玛：灵魂（免内购）
+- 弓箭手（免内购）
+- 地铁2055（免内购）
+- 孤舟求生（无条件购买）
+- 僵尸猎人2（免内购）
+- 荒野猎人（免内购）
+- 帝国时代（免内购）
+- 无尽宇宙（解锁全部角色皮肤）
+- 僵尸小岛（免内购等）
+- 宝箱是我的（免内购）
+- 战车撞僵尸（免费购买箱子等）
+- 科幻幸存者（免内购）
+- 纸杯英雄（内置作弊菜单【有无限内购】）
+- 我要渡劫啦（免广告+无限内购）
+- 萌果小分队（无限内购_免广告等）
+- 千炮达人捕鱼（无限内购【断网进游戏，后面再连网】）
+- 小猪大冒险（内置作弊菜单【有无限内购】）
+- 逆袭成富豪（免广告+无限内购）
+- 生存传奇（免广告+无限内购）
+- 暗影猎人（内置作弊菜单【有无限内购】）
+- 辐射避难所（无限内购）
+- 滑雪大冒险（无限内购）
+- 狂斩三国3（无限内购）
+- 魔影之剑（无限内购）
+- 元气武侠（无限内购）
+- 阴阳三国志（无限内购）
+- 末日城堡（内置作弊菜单【有无限内购等】）
+- 亚特兰蒂斯入侵者（无限内购）
+- 英雄不灭（免费内购免广告获得奖励）
+- 英雄制造工厂（内购免广告）
+- 勇者传说暗黑勇士（无限内购）
+- 纸人幸存者（无限内购）
+- 勇士回归（免广内购）
+- 亡灵杀手：夏侯惇（内购）
+- 我在乡下开餐馆（内购免广）
+- 死亡之岛（内购）
+- 土豆兄弟（无限内购）
+- 我的小宇宙（内购）
+- 帕拉狗骑士（内购）
+- 梦境防御（内购）
+- 龙兽总动员（免广告+内购）
+- 寒刃（内购）
+- 果宝三国（内购）
+- 单机大天使（内购）
+- 地牢求生（商店用钻石购买）
+- 奥特曼之热血格斗（无限内购）
+- 爱养成3（无限内购）
+- 暴击英雄（内购）
+- 电影院大亨（免广告＋无条件购买）
+- 魔君：致命错误（直接购买，钻石不减反增）
+- 传送门2（汉化＋免付费+大量金币）
+- 国王或失败（免费内购+资源不减）
+- 太空小队生存（免费购物）
+- 最強小兵（免费内购）
+- 走出去归途24小时（无限内购）
+- 培养合成兽大师（免费内购）
+- 漂流少女（免费内购）
+- 运输公司（免费内购）
+- 纸牌人生（免费内购）
+- 一命通关（无限内购）
+- 蚁群模拟器2（大量货币＋无条件购买）
+- 英雄王国（MOD菜单免费内购）
+- 星际矿工（解锁无限购买）
+- 闪电突破（商店里无条件购买）
+- 吃俺一刀（解锁免费内购）
+- 帝国王国闲置塔防（免费内购免广告）
+- 闲置塔防御|塔闲置塔防（解锁商店付费物品）
+- 漆黑卡组（免内购）
+- 死亡日记2（无限内购）
+- 生存世界（大量金币红宝石、美元可内购、解锁地图）
+- 猫咪健身房（免费内购）
+- 忍者修炼模拟器（商店免费内购）
+- 伐木猫猫队（免费购买）
+- 猫咪魔法学校（免费内购）
+- 放置烹饪学院（断网玩，无条件购买付费物品）
+- 怪物冒险（免费内购）
+- 最终点击幻想（免费内购 + 资源反加）
+- 火柴人恶魔城之战（免费内购）
+- 海盗船建造与战斗 (免费内购)
+- 武馆模拟器（免费购物+steam移植）
+- 全球飞行模拟器（免费购买+解锁全球+steam移植）
+- 开放世界警察追逐模拟器|OWRC警察：追逐模拟器（无限内购）
+- 狼模拟器（免费购物）
+- 成长与征服（免费购物mod）
+- 口袋故事（免费内购+资源不减）
+- 无名猫|无名的猫（免费购物）
+- 保卫萝卜3（无限内购）
+- 守护城堡（内置作弊菜单【有无限内购】）
+- 时空战场（无限内购）
+- 最后军团：塔防（无限内购）
+- 极品螳螂（无限内购）
+- 铁路帝国（免费内购【断网玩】）
+- 椿之歌（无限内购）
+- 死亡袭击（免广告_无限内购）
+- 末日之后：僵尸求生|末日之后:僵尸生存（内置作弊菜单【有无限内购】）
+- 奥尼罗（内置作弊菜单【有无限内购】）
+- 地球娱乐室（无限内购）
+- 猫咪零食吧（免广告_无限内购）
+- 六界飞仙（无限内购）
+- 动物餐厅（无限内购）
+- 客满啦！我的幸福旅店（无限内购）
+- 疯狂砖块破坏者（无限内购）
+- 什么鸭子（免广告+无限内购）
+- 亡灵攻城（内置作弊菜单【有无限内购】）
+- 幻影船|幻影游船（内置作弊菜单【有无限内购】）
+- 野兽驯兽师|野兽驯服者（无限内购）
+- 我的战舰（免广告_无限内购）
+- 死亡地带（无条件购买武器_无限升级）
+- 不死城（内置菜单_无限内购）
+- 神庙逃亡2（无限内购）
+- 亡灵射手（内置作弊菜单【有无限内购】）
+- 仙剑诀（无限内购）
+- 北方战争岛屿防御（内置作弊菜单【有有无限内购】）
+- 星际霸主（无限内购）
+- 沉默传奇（无限内购）
+- 六角战士（内置作弊菜单【有无限内购】）
+- 太空饥饿大逃杀（免广告+无限内购）
+- 圣战传奇2（无限内购）
+- 深鸢（无限内购）
+- 舅舅带我去异界（免广告+内购）
+- 街机达人捕鱼（内购）
+- 幻想小勇士（无限内购）
+- 另一个人生（内购）
+- 节奏之星（内购）
+- 机战王（内购）
+- 塔防之王3（内置作弊菜单【有无限内购】）
+- 炮弹人冲冲冲（免内购）
+- 暗影杀手：最后的勇士（商城内无需支付即可购买）
+- 万界掌门（免广告+内购）
+- 小小掌门（无限内购）
+- 狙击手围攻（解锁无限内购+免广告）
+- 像素刀片革命R（免费内购）
+- 银行大亨（无限内购）
+- 灵魂地牢（解锁无限内购）
+- 整理女王（无限内购）
+- 铁匠之王（免费内购）
+- 机器人冒险世界（内置菜单【有无限内购】）
+- 最后的生存（无限内购）
+- 泰坦之魂（内置作弊菜单【含无限内购】）
+- 幸存者史诗射击（无限内购）
+- 蛐蛐也瘋狂（无限内购）
+- 女神学院（无限内购）
+- 幸存者之王：射击（无限内购）
+- 宇宙入侵者2（无限内购）
+- 火柴人大师（内置作弊菜单+无限内购）
+- 愤怒的小鸟嘉年华版（无限内购）
+- 就我眼神好（免广告免费购买礼包）
+- 建造舰船（破解内购）
+- 熊出没之熊大快跑（无限内购）
+- 元素射手|元素弓箭手（内置作弊菜单【含无限内购】）
+- 熊出没之机甲熊大（无限内购）
+- 暗影之子（完整版）一款专为移动端设计的高品质暗黑刷宝街机风格RPG游戏，融合了奇幻美感与黑暗刺激！
+- 孤胆枪手2传奇（完整版+菜单版）Steam移植  适合摸鱼放松的爽快的射击割草游戏！
+- 动漫传奇（无限内购）
+- 魔法合并配对（内置作弊菜单【含无限内购】）
+- 银河飞翼零式（内置作弊菜单【含无限内购】）
+- 贪婪洞窟（内置作弊菜单【有无限内购】）
+- 人类黎明（解锁大量科技点）
+- 法提的异世界（免广告获得奖励+解锁角色大量货币资源）
+- 伏魔天师（无限金币法力）
+- 疯狂塔防物语（货币反增）
+- 火星归来（免广告＋大量货币）
+- 哈利波特：解谜魔咒（无限道具爱心）
+- 哈利波特霍格沃茨之谜（无限钻石）
+- 皇家冒险团（大量货币）
+- 魔法生存（大量货币）
+- 天道洪荒模拟器（免广告+大量资源+资源反增）
+- 条码指可梦（无限金币 不减反增）
+- 特工使命（第二次进入游戏解锁无限资源）
+- 盖亚幸存者（人物无敌，无限钻石）
+- 王国保卫战5（解锁无限钻石）
+- 暴力摩托（完成教程即可获取无限资源）
+- 火箭联盟极限汽车赛（任意获得货币即解锁大量货币）
+- 士兵永不凋零（免广告获取大量货币）
+- 天国旅立（蒲公英反加）
+- 网吧模拟器（点左边.collect获得大量金币）
+- 维京人末日生存（无限货币）
+- 我们是战士（货币不减反增）
+- 图腾王（使用货币不减反增）
+- 异世界僵尸生存（无广告版，无限资源）
+- 进化大师进化大师（大量货币＋货币不减反增）
+- 流浪汉模拟器（汉化＋大量资源）
+- 寒霜避难所（免广告＋大量钻石等）
+- 英雄混沌传奇（内置菜单+大量灵魂+免广告）
+- 唯我独尊（无限货币版）
+- 魏蜀吴：像素|像素魏蜀吴（无限元宝，购买即可无限）
+- 无尽剑道（无敌＋无限召唤）
+- 养剑大师（大量钻石 能力点 药水）
+- 小小大工坊（货币不减）
+- 刺客信条海盗奇航（无限资源优化版）
+- 海盗突袭（免费内购+货币反加）
+- 末世防线：僵尸突袭（大量货币等）
+- 足球俱乐部经理2025（强制使用金币、钞票）
+- 美食大战老鼠（内置局内无限阳光）
+- 烁石物语（大量货币）
+- 开心商店（解锁大量货币）
+- 神偷鲍勃4无限金币+解锁关卡
+- 永霜（解锁大量局内金币）
+- 小小炼狱（无限币无限邮票）
+- 三国志刘备传（神秘商店随意购买【可实现无限铜钱】）
+- 疯狂动物园（货币使用不减反增）
+- 逆转漂流者（内置秒开箱+开箱倍率+战斗加速）
+- 全明星弈战（秒杀+局内无限货币）
+- 饥饿鲨世界（内置无限资源）
+- 滑雪板派对（大量货币高级版）
+- 警察大战僵尸（大量钻石）
+- 汉堡店物语（无限资源）
+- 扑克宝历险记（大量金币）
+- 传奇塔防（无限药水钻石）
+- 超级猫兄弟2 (破解无限金币版-冒险闯关游戏)
+- 敌方水域v1.054（解锁大量钞票）
+- 沙漠骑手（解锁大量资源）
+- 海战2（大量钻石）
+- 抽卡监狱2（免广告+资源反增）
+- 英雄召唤（内置无限资源）
+- 鱼吃鱼（内置大量钻石+免广告）
+- 地牢战争2（完整版+菜单版）Steam移植非常好玩耐玩，不可多得的很爽的塔防游戏！
+- 吸血鬼之殇（完整版+菜单版）非常好玩的暗黑破坏神风➕卡牌构筑➕rpg冒险游戏！
+- 像素工厂（完整版）Steam移植  一款具有RTS和塔防元素的开放式工厂管理游戏！
+- 魔物娘传奇（内置菜单【开启后无限资源】）
+- 塔和剑（内置作弊菜单）
+- 植物大战僵尸3（内置无限阳光菜单）
+- 疯狂喷气机（内置大量货币【挂T子或者加速器进游戏】）
+- 天堂灰烬 v4.0（完整版）
+- 鬼谷八荒tap版（修改立绘+解锁全DLC+内置作弊器）
+- 抓抓地牢（免付费解锁完整版）Steam移植  肉鸽抓娃娃机卡牌游戏！
+- 超进化精灵2（内置多功能菜单【含无限内购】）
+- 大江湖之苍龙与白鸟（免付费解锁完整版【直接点击购买即可】）Steam移植
+- 守护王冠（无限内购）
+- 莽荒纪（无限内购）
+- 防线幸存者（内置mod菜单【含无限内购】）
+- 薄雾（无限内购【打开功能，点菜单右上角保存，重进游戏即可内购】）
+- 恶魔猎手：暗影世界（内置作弊菜单【含无限内购】）
+- 忍者信条2（无限内购）
+- 离冥杀机（免广告+无限内购）
+- 灵魂猎手（内置作弊菜单【含无限内购】）
+- 咸鱼之王（无限内购）
+- 史诗王者英雄（无限内购）
+- 奥加部落探险（内置菜单【含无限内购】）
+- 恶龙守不住（内置作弊菜单+免广告）
+- 战舰激战|战舰激斗（内置多功能菜单【含无限内购】）
+- 楚新钓（超级秒杀）
+- 王国持有者|王座持有者（内置作弊菜单【有无限内购】）
+- 登山赛车2（无限内购）
+- 灵魂猎手：地牢（免内购等）暗黑地牢风割草➕肉鸽➕刷宝的超爽好玩俯视角砍杀游戏！
+- 恶龙别过来（免广告+无限内购）
+- 颜色大作战（内置菜单【含无限内购】）
+- 城市岛屿6：建造人生（无条件使用货币）
+- 命悬一日（内置作弊菜单【第一次进可能比较慢】）
+- 植物大战僵尸2国际版（大量资源+内置多功能菜单）
+- 部落冲突（内置海量资源+无限内购+右下角新闻有GM工具）
+- 油管主播的生活2（完整版）Steam移植
+- 暗影格斗2（内置无限资源）
+- 开心消消乐（无限步数）
+- 保卫向日葵 美服（菜单版）整理背包+随机策略+植物养成，多机制结合的塔防玩法，真的上头！
+- 福蒂亚斯传奇|福迪亚斯传奇（内置作弊菜单【含无限内购】）
+- 植物大战僵尸2（内置作弊菜单）
+- 植物萌斗（1亿代金）
+
+---
+
+## 策略战略（823 款）
+
+- 咒术之手/Hand of Hexes    Build.21855321   免安装中文版
+- 输出牧场/Output Pasture   Build.5094472   免安装中文版
+- 魔族公主打搜撤 /Demon Princess Retreat   Build.23959066   免安装中文版
+- 要么打字要么死 /Type or Die   Build.23933592  免安装中文版
+- 防御阵型 /Holding Pattern   Build.22964085   免安装中文版
+- 地产大亨：星球大战正邪交锋-虚拟机版 /Monopoly Star Wars Heroes vs. Villains   Build.23705706   免安装中文版
+- 地牢炸弾人/Dungeon Bombe    Build.24013823   免安装中文版
+- 对抗月球/Against The Moon
+- 阿门罗 /Armello   Build.20278580   免安装中文版
+- 三国志经典/Three Kingdoms Classic     v1.0.0.3    免安装中文版
+- 大制药厂/Big Pharma   v1.08.12   免安装中文版
+- 小小修仙者 /Little Immortal Cultivator   Build.23700703   免安装中文版
+- 大荒消劫录/Barren Chronicles    v1.0.10   免安装中文版
+- 三国演义：汉朝再兴之梦 /Three Kingdoms Restoration of Han   Build.24074500   免安装中文版
+- 暗黑修仙塔防 /Era of Elements   Build.24026213   免安装中文版
+- 黑圣化 悟空/Black Saint Goku    Build.23686011  免安装中文版
+- 宏图策：三国/ ThreeKingdoms   v1.24   免安装中文版
+- 三国义/Three Kingdoms Yi    Build.24130998   免安装中文版
+- 奥术上升/Arcane Ascent    Build.24150343   免安装中文版
+- 机械末日/ Machinefall    Build.24159808   免安装中文版
+- 放置：纸色新境/idle Doodle Realm    Build.24164939   免安装中文版
+- 五行幻境：荒渡 /Five Elements Illusion Realm Forsaken Wasteland    v0.33   免安装中文版
+- 齐射/ SALVO  Build.23658935  免安装中文版
+- 逻辑之王/ LogiKing   Build.12340895  免安装中文版
+- 乞丐的生活/ Beggar’s Life   Build.23735654   免安装中文版
+- 木星地狱/ Jupiter Hell   Build.23761494  免安装英文版
+- 别让猛鬼靠近我/Ghosts Keep Out   Build.4785570   免安装中文版
+- 狭间格斗2/2 Fights in 2 Tight Spaces    v0.3.22671   免安装英文版
+- 幽影光辉 /Umbra Lumen    Build.23016711    免安装中文版
+- 枪乔 /GUNCHO   Build.20267201   免安装中文版
+- 矿业帝国 /Mine Empire    Build.23877747   免安装中文版
+- 克里姆林宫危机：冷战/Crisis in the Kremlin The Cold War    v1.2.0.4    免安装英文版
+- 创造之球/Orb of Creation    v1.0.0   免安装英文版
+- 太空战士：时空碎片 /Space Grunts Chrono Shard    v1.0.2   免安装中文版
+- 王朝协议/Dynasty Protocol    v1.0.0    免安装中文版
+- 怪棋物语/GuaiQiWuYu    v20260627  免安装中文版
+- 第一个100万/The First Million    Build.23926806    免安装中文版
+- 无限进化塔防/Infinite Evo TD    Build.23939554   免安装中文版
+- 神话与传说/ Myths and Legends   v20250925  免安装中文版
+- 宝藏三重奏/ Treasure ‘n Trio   v1.1.2   免安装中文版
+- 末日求生|余波求生|劫后余生/ Surviving the Aftermath   Build.20299819   免安装中文版
+- 毁灭之王/ Lords of Ravage   Build.20398831   免安装中文版
+- 遇见造物主/ Meet Your Maker    Build.16010694  免安装中文版
+- 循环勇士/ Loop Hero   v1.154   免安装中文版
+- 斗技场的阿利娜/ Alina of the Arena   Build.20395701  免安装中文版
+- 德米欧战役/ Demeo Battles   v1.40.305978   免安装中文版
+- 亡者之地/ The Land Beneath Us   v1.8.6  免安装中文版
+- 最后的圣女/ The Last Saintess    v1.5.6   免安装中文版
+- 航海日记：起航/ Uncharted Ocean   Build.15601224   免安装中文版
+- 1944年海滩入侵/ Beach Invasion 1944   Build.11080409   免安装中文版
+- 桥梁构造者中世纪/ Bridge Constructor Medieval   v2.1   免安装中文版
+- 狭间骑士/Knights in Tight Spaces   v1.2.19677   免安装中文版
+- 迷你地铁|迷你都市|模拟地铁/Mini Metro  Build.20446475  免安装中文版
+- 圣铠：地下城君主/ Vambrace Dungeon Monarch   v1.0.8  免安装中文版
+- 裂隙纷争/ Rift Riff   v1.2.2  免安装中文版
+- 寻剑迷途/ Lost For Swords   Build.19061809   免安装中文版
+- 幸运猎人/ Lucky Hunter   Build.19300185   免安装中文版
+- 伊格利亚战记/ The Heroic Legend Of Eagarlnia   v1.086 全DLC   免安装中文版
+- 双门勇者棋/ Luck Auto Chess   v2024.11.13   免安装中文版
+- 财阀崛起/ Plutocracy   v0.251021  免安装中文版
+- 死亡红心赌局/ Deadly Heart Gambit   免安装中文版
+- 白日升/ Rise Of The White Sun   Build.20530700 全DLC   免安装中文版
+- 无星深渊：克苏鲁选集/ Starless Abyss   v1.2.4  免安装中文版
+- 奥术之路/ Arcane Path   v20251024   免安装中文版
+- 无命令战术/ Zero Orders Tactics   v1.1  免安装中文版
+- 命运转轮/ Slots and Daggers   Build.20540229   免安装中文版
+- 惊魂快车/ Spooky Express   Build.20498409   免安装中文版
+- 巫师与学徒/ Arcana Academy    Build.20553337   免安装中文版
+- 耶兰多的低语：克苏鲁选集   Build.20338322   免安装中文版
+- 对决见证者/ Behold Battle   v1.14   免安装中文版
+- 魔法巫术之地/ Lands of Sorcery    v3.6   免安装中文版
+- 巫师石/ Witching Stone   v1.30.8   免安装中文版
+- 战略指挥：二战太平洋战场/ Strategic Command WWII: War in the Pacific   v1.03.04 全DLC  免安装中文版
+- 解放者塔防/ Liberator TD    v1.0.0   免安装中文版
+- 达芬奇密室2 / The House of Da Vinci 2   Build.6381373   免安装中文版
+- 指尖传说/ Touch Type Tale    v1.2.68   免安装中文版
+- 战术的故事书/ Storybook of Tactics   免安装中文版
+- 十字军之王2|王国风云2 / Crusader Kings II    v3.3.0 全DLC 送修改器   免安装中文版
+- 布洛古拉/ Brocula    v1.0.0.30   安装中文版
+- 领主与村民/ Lords and Villeins   v1.6.15  免安装中文版
+- 五军争霸/ Five Nations   v1.2.6.0 全DLC   免安装中文版
+- DSS 2：战争工业/ DSS 2 War Industry   Build.20606944   免安装中文版
+- 圈地大战/ Square Wars   免安装中文版
+- 小小侠客模拟器|小虾米模拟器  v20250421  免安装中文版
+- 幽浮：奇美拉战队/ XCOM Chimera Squad    v1.0.0.46049 送修改器   免安装中文版
+- SGS淞沪会战/ SGS Battle For Shanghai   Build.20638442   免安装中文版
+- 诸神灰烬：救赎/ Ash of Gods: Redemption/ PC+手机双端    Build.20638209   免安装中文版
+- 远征飞马系|飞马座远征/ The Pegasus Expedition   Build.20666135  免安装中文版
+- 911接线员/ 911 Operator   v1.37.18   免安装中文版
+- 塔防策略/ TDS – Tower Defense Strategy   v20251006   免安装中文版
+- 妖精之地/ Goblin Lands   Build.20510589   免安装中文版
+- 诸神灰烬：抉择/ Ash of Gods: The Way   v1.11.8.0   免安装中文版
+- 火车山谷：起源/ Train Valley Origins   Build.20706932   免安装中文版
+- 信长之野望 新生 威力加强版   v1.1.7 全DLC 送修改器    免安装中文版
+- 三国志14 威力加强版/ SAN14 PK/ PC/手机双端    v1.0.9 全DLC 送修改器 赠全制霸存档.真·全古武将存档    免安装中文版
+- 高塔领主/ Tower Lords   v1.05   免安装中文版
+- 再来一回合/ Next Run   v1.0.12   免安装中文版
+- 桌面防卫者/ Desktop Defender   Build.20701670   免安装中文版
+- 铁壁矩阵：轴突塔防/ Axon TD: Uprising   Build.20706370   免安装中文版
+- 灵动骑士/ Vivid Knight    Build.20331705 原声音乐   免安装中文版
+- 高尔夫之巅/ Golf Peaks   v3.62  免安装中文版
+- 商业力量/ Mercantile Might    Build.20728040   免安装中文版
+- 波拿巴 – 机甲大革命/ Bonaparte – A Mechanized Revolution    Build.20729022   免安装中文版
+- 史莱姆：3K / Slime 3K: Rise Against Despot   v1.0.3   免安装中文版
+- 君主制/ Monarchy   免安装中文版
+- SGS：夏威夷行动/ SGS Operation Hawaii    Build.20750773   免安装中文版
+- SGS保卫战：马德里/ SGS Battle For Madrid   v23.11.29   免安装中文版
+- SGS：北约的噩梦/ SGS NATO’s Nightmare   v2023.0630   免安装中文版
+- SGS非洲军团：突尼斯/ SGS Afrika Korps Tunisia   v23.05.26   免安装中文版
+- SGS仁川登陆战/ SGS Korean War   v22.11.19   免安装中文版
+- SGS没落行动/ SGS Operation Downfall    v22.08.09   免安装中文版
+- 小丑牌/ Balatro/ PC+手机双端   v1.0.1o   免安装中文版
+- 超光速小队/ FTL Team    v1.0.0   免安装中文版
+- 神启的呐喊/ Divine’s Howl   v1.0.107   免安装中文版
+- 玩具塔防|玩具郡|玩具领地/ Toy Shire    v0.7.42   免安装中文版
+- 地下城3 / Dungeons 3   v1.7   免安装中文版
+- 倒霉的炼器师/ POOR ARTIFACT MAKER   v20251022   免安装中文版
+- 又一个攀登游戏/ Yet Another Climbing Game   Build.20803718   免安装中文版
+- 卡尔玛之骰/ Dice of Kalma   Build.20754381   免安装中文版
+- 王座陨落|王国陨落|王权陨落/ Thronefall   v2.12   免安装中文版
+- 矮人要塞/ Dwarf Fortress   v53.04   免安装中文版
+- 自由锁链/ Chains of Freedom   v1.0.4  免安装中文版
+- 天空极限麻将/ Sky’s The Limit MAH-JONG    v1.0.0   免安装中文版
+- 右与下与骰子/ Right and Down and Dice   v1.1.1   免安装中文版
+- 死去活来/ Live Hard Die Hard  v1.0.0  免安装中文版
+- 骰子大改造/ Pip My Dice   v1.1.0   免安装中文版
+- 气球塔防5 / Bloons TD 5   Build.20236644  免安装英文版
+- 疯狂游戏大亨2/Mad Games Tycoon 2   Build.20855306  免安装中文版
+- 法老王：青铜帝国/Ozymandias   v1.6.0.11   免安装中文版
+- 火星地平线/ Mars Horizon   Build.20691746   免安装中文版
+- 原始混战/Primal Fray   Build.20919137  免安装中文版
+- 姬子的觉醒 /Himeko Sutori   Build.14655153   免安装中文版
+- 钻头鸟/Drill Bird    Build.20920706   免安装中文版
+- 深渊之战 /Battle Of The Abyss   Build.20860106   免安装中文版
+- 麻将的远征 /Mahjong Expedition   v20251029  免安装中文版
+- 战争熔炉——巴巴罗萨/Cauldrons of War – Barbarossa  Build.20947621  免安装中文版
+- 王冠之约/Crownbound – Fantasy Kingdom Sim  Build.20918275   免安装中文版
+- 水星潮/ Mareld   v1.1.6b   免安装中文版
+- 根 /Racine  v1.1.1  安装中文版
+- 红色警戒合集/红警合集/Red Alert   含红警1+2+3代所有版本 内含明细介绍 免安装中文版
+- 战锤：全面战争2/全面战争：战锤2/Total War: WARHAMMER II   v1.12   免安装中文版
+- 露娜和索尔：梦境守护者/Luna and Sol Nightmare Ward   Build.20978131   免安装中文版
+- 出将入相/ Lyric Reaper    v1.0.113000  免安装中文版
+- 奇幻打怪/Fantasy Monster Hunt   Build.20975978  免安装中文版
+- 是的，皇后/ Yes, My Queen    Build.20963752   免安装中文版
+- ​岛民: 新海岸 /Islanders New Shores   Build.20970575   免安装中文版
+- 封神|封神传 v25.7.31 全DLC 免安装中文版
+- 爆连方块 /Stackflow   Build.20968540   免安装中文版
+- 战场兄弟/Battle Brothers  v1.5.1.7  送修改器  免安装中文版
+- 边缘群岛 /Edge Islands  v0.907   免安装中文版
+- 战巡大作战/Battlecruisers    Build.20820339   免安装中文版
+- 魅魔的游戏 /Soul Touch   Build.21052270   免安装中文版
+- 背包战棋 /BackpackBattleChess   v1.16   免安装中文版
+- 我的星球：大师矿工版 /A Planet of Mine MasterMine Edition    Build.21024508   免安装中文版
+- 元素与构筑 /Elements and build    Build.16890963    免安装中文版
+- 提取器防卫小队 /Puropu Defense Squad   v1.23e   免安装中文版
+- 无境空界/Holder of Place    Build.21064102    免安装中文版
+- 航母对决：太平洋海战 /Carrier Battles 4 Guadalcanal   v1.14.14 全DLC   免安装中文版
+- 虚妄轮回 /Looper Tactics   v20251206   免安装中文版
+- 东篱之下|保护区/Preserve   Build.21115501 全DLC   免安装中文版
+- 星球殖民|假想地球|幻想地球/Imagine Earth    v1.21   免安装中文版
+- Nimbatus：太空无人机构造者 /Nimbatus – The Space Drone Constructor    v1.1.5   免安装中文版
+- 统一指挥2/Unity of Command 2    v20251211  全DLC    免安装中文版
+- 火花奇遇记：自动化冒险/Oddsparks: An Automation Adventure/单机+联机    v1.0.S31386 全DLC   免安装中文版
+- 绝望信仰 /Faith in Despair   Build.21074189    免安装中文版
+- 肉鸽工坊 /RogueCraft   Build.20177816   免安装中文版
+- 漂亮女孩：速度 /Pretty Girls Speed    v1.0.0    免安装中文版
+- 魔塔三国之曹操传奇 免安装中文版
+- 戰國代 /Sengodai   v1.0.0   免安装中文版
+- 守个蛋 /Screw That    v1.0.0.93    免安装中文版
+- 伽蓝战歌 /GalanWarSong    v20251024    免安装中文版
+- 英雄之时/Hero’s Hour  v2.8.3   免安装中文版
+- 将熄之焰/ The Last Flame   v20251111   免安装中文版
+- 不要喂食猴子/Do Not Feed the Monkeys   v1.0.6.10 全DLC   免安装中文版
+- 太阁立志传1-5合集/Taikou Risshiden 1-5  免安装中文版
+- 无尽太空2 /ENDLESS Space 2   v1.5.75豪华版 全DLC    免安装中文版
+- 斗阵骑士/Knightica  v1.2.0h  免安装中文版
+- 幻影旅团/Phantom Brigade  v2.1.0   免安装中文版
+- 茂林源记/Root   v2.1.3 全DLC   免安装中文版
+- 猫老板的秘密食谱 /Abra-Cooking-Dabra   v1.0.18  免安装中文版
+- 洪荒：夜幕降临/ Mythic Dawn Nightfall    v1.0.1.3  免安装中文版
+- 肉鸽麻将 /Rogue Mahjong    v20251214   免安装中文版
+- 全面战争:三国/Total War:Three Kingdoms /单机+联机   v1.7.8 全DLC 送修改器 赠音乐原声+赠董卓派系解锁存档+赠壁纸立绘包+自动打开steam 解决办法   免安装中文版
+- 暗月/ Dark Moon  v1.02   免安装中文版
+- 幽深密室：复活/Deepest Chamber   v1.088    免安装中文版
+- 我的世界 基岩版/ Minecraft: Bedrock Edition  v1.21.130  免安装中文版
+- 钢铁战队：入侵 /Iron Marines Invasion   v0.18.32  PC/手机双端   免安装中文版
+- 王国保卫战 /Kingdom Rush – Tower Defense   v5.6.12   免安装中文版
+- 钢铁战队/Iron Marines   v1.6.10    免安装中文版
+- 战斗天幕：冲突状态 /Battlefall State of Conflict   v0.1.3   免安装中文版
+- 魔卡地下城/Dungeon Drafters   Build.21246375   免安装中文版
+- 插槽与地牢|老虎机与地下城/ Slot and Dungeons  v0.6.0   免安装中文版
+- 企鹅救援/Gentoo Rescue   Build.21276870  免安装英文版
+- 秘林之外 /Beyond the Grove  Build.21250494   免安装中文版
+- 虫巢 /The Hive  v1.3.9   免安装中文版
+- 自走骑士团/ Tiny Auto Knights   v2.7.0   免安装中文版
+- 虚空穹牢/Vault of the Void  v2.7.54.0  免安装中文版
+- 航母指挥官2/Carrier Command 2   Build.21272083   免安装中文版
+- 最短地球之旅/Shortest Trip to Earth    Build.21259539 全DLC   免安装英文版
+- 破碎新生 /Wreckborn  Build.21278988   免安装中文版
+- 翡翠山谷/Emerald Valley   Build.21130171   免安装中文版
+- 生命工艺 /Lifecraft   Build.21268611   免安装中文版
+- 旗帜/BANNERMEN   Build.3908307   免安装中文版
+- 我独自象棋 /Solo Chess   Build.21007479   免安装中文版
+- 离家出走/Away From Home    Build.21301967   免安装中文版
+- 全息探索者/ HoloSeeker   Build.21225100  免安装中文版
+- 失落科技 /Lost Technology   Build.21301063   免安装中文版
+- 三国志14威力加强版/SAN14 PK   v1.0.9 全DLC 新增曲海金戈全MOD 送修改器 赠全制霸存档.真·全古武将存档 PC/手机双端   免安装中文版
+- 幸运爆表/Luckyest    Build.21173551    免安装中文版
+- 哨卫计划 /SENTRY/单机+联机   v0.9.27757   免安装中文版
+- 解封契约 /Unsealed Pact   Build.20874829   免安装中文版
+- 翻天喜地凑大钱/This Ain’t Even Poker Ya Joker    v1.0.6   免安装中文版
+- 棋弈无限：中国象棋/Just Xiangqi    v1.1.2   免安装中文版
+- 桥梁建造师工作室 /Bridge Constructor Studio   Build.20827363 支持VR   免安装中文版
+- 规划大师/Masterplan Tycoon   v1.4.205   免安装中文版
+- 国王的新牌/ The Royal Writ   v1.1.0.1  免安装中文版
+- 荒野战纪/Untamed Tactics   v1.0103   免安装中文版
+- 历史巨轮/ Through the Ages   v2.19.1133   免安装中文版
+- 狄仁杰之锦蔷薇/Detective Di: The Silk Rose Murders  Build.21336955  免安装中文版
+- 战镰数字版|镰刀战争/ Scythe Digital Edition   Build.20691797   免安装中文版
+- 诺森德塔防：矿脉防线/ Deepstone Rift   Build.21283386   免安装中文版
+- 国战2：列国志传| 春秋霸业/ NationWar2   Build.18506815   免安装中文版
+- 天体冒险/ Astrosphere   v0.32   免安装中文版
+- 就在那里：欧米茄版/ Out There: Ω Edition   v3.3  免安装中文版
+- 城堡|月兽围城/ Becastled   v1.0.46  免安装中文版
+- 骰子浪游者/DICEOMANCER    v1.1.18    免安装中文版
+- 江湖侠客行 免安装中文版
+- 休闲麻将 /Casual Mahjong  v1.2.2   免安装中文版
+- 字谜探案 /Detective Worden  Build.20531336   免安装中文版
+- 一起五子棋/Gomoku Let’s go   Build.8656300   免安装中文版
+- 一起翻转棋 /Othello Let’s Go   Build.6301233    免安装中文版
+- 西娅：觉醒 /Thea The Awakening   Build.21115726   免安装中文版
+- 敲棺盖/Knock on the Coffin Lid   v1.3.20.0 全DLC   免安装中文版
+- 符文竞技场/Rune Coliseum   v4.5.1002.1216   免安装中文版
+- 王冠之心/HEART of CROWN Online  免安装中文版
+- 游戏王：决斗者遗产链接进化 /YU-GI-OH! Duel Monsters Legacy of the Duelist -Link Evolution  完整版  免安装中文版
+- Ara：不为人知的历史/ Ara: History Untold /单机+联机   v2.0.0.528 全DLC  送修改器  免安装中文版
+- 混沌银河2 /Chaos Galaxy 2  Build.20357448  免安装中文版
+- 铁锈风云/Grit and Valor – 1949  v1.4.2  免安装中文版
+- 战甲王牌/ Battle Suit Aces  v1.0.48  免安装中文版
+- 花牌|日本花札纸牌/ Koi-Koi Japan [Hanafuda playing cards   v2.3.1  免安装中文版
+- 霓虹攀升 /Neon Ascending   Build 19454864   免安装中文版
+- 成圣之道/Becoming Saint   Build.20463869   免安装中文版
+- 魔卡棋兵 /ArcaneDeck ChessWraith  v1.2   免安装中文版
+- 外星贸易公司/Offworld Trading Company  Build.20831447 全DLC  免安装中文版
+- 机器人世界奥德赛 /Botworld Odyssey  Build.20914822  免安装中文版
+- 战斧：斯大林格勒/Cauldrons of War – Stalingrad    Build.21414064   免安装中文版
+- 银河守卫战 /Galaxy Defense War  Build.21322350  免安装中文版
+- 恶魔之塔 /Devils Tower  v20251223  免安装中文版
+- 末日，美女避难所 /Apocalypse Love Shelter   Build.14596776   免安装中文版
+- 强国争坝|水坝战争|弹幕/Barrage   Build.21336923 免安装中文版
+- 土地名称/Landnama   v2.3.6  免安装中文版
+- 因狄斯的谎言2：燃烧的火种/ Indies’ Lies 2 Fire Seed    v0.9.22   免安装中文版
+- 异变麻将 /Anomaly Mahjong  v1.28   免安装中文版
+- 进化防线/Evolit   Build.21456275  免安装中文版
+- 剑与魔法：征服之路 /Swords And Magic Path Of Conquest   v0.8.20   免安装中文版
+- 胜利之海：大西洋/Victory at Sea Atlantic：World War II Naval Warfare  v1.0.7.9  免安装中文版
+- 从光荣到毁灭/From Glory To Goo  v0.2.3f  免安装中文版
+- 帝国时代3：决定版/Age of Empires III: Definitive Edition  v100.15.59076.0 全DLC 送修改器   免安装中文版
+- 罪孽的遗产：父亲的牺牲 /Legacy of Sin The Father Sacrifice  Build.21482010  免安装中文版
+- 洲际弹道导弹 /ICBM  v1.2.3  免安装中文版
+- 货币制造工厂 /Coin Factory   Build.16833941  免安装中文版
+- 孤王绝境/Lost In The Open  v0.8.47  免安装中文版
+- 纸境小仙途 /Paper Xian  v20251228  免安装中文版
+- 孤岛猎神/ Day of the Shell   v1.1.12  免安装中文版
+- 伪神的弃牌 /The False God’s Fold  Build.21529429  免安装中文版
+- 纪元1800/Anno 1800  v18.4.1412158  全DLC 送修改器   免安装中文版
+- 围棋征服战 /The Conquest of Go  Build.21484550   免安装中文版
+- Hololive 对抗机器人/Holo vs Robo Build.21566607  免安装英文版
+- 终结者 黑暗命运 反抗/Terminator Dark Fate Defiance   v1.08.1173  全DLC 送修改器   免安装中文版
+- 三国时代3 v3.9.2  免安装中文版
+- 霜雪列车2 / Frostrain 2    Build.21509204   免安装中文版
+- 霜雪列车/ Frostrain   Build.19009509   免安装中文版
+- 造物主2/Reus 2    v1.11.0 全DLC   免安装中文版
+- 度假天堂 夏日群岛 /Summer Islands   Build.21551966  免安装中文版
+- 冲突：动荡/RIOT Civil Unrest   Build.3614496  免安装中文版
+- 晶石战记  v0.3.3  免安装中文版
+- 黑手党：黑帮之城/Omerta – City of Gangsters   v1.4.4 全DLC  免安装中文版
+- 我独自飞升成仙/I Ascended to Immortality Alone   Build.20890366   免安装中文版
+- 微观文明 /Microcivilization  v1.0正式版  免安装中文版
+- 炼金之道/WaysOfAlchemy  v1.1.1.1612026  免安装中文版
+- 魔法书自走棋：契约 /MagicBookAutoBattler  Build.19143590  免安装中文版
+- 纵横七海：船运世界/ SeaOrama: World of Shipping   Build.21615324  免安装中文版
+- 异界失控/Anomaly Collapse   v1.0.14695   免安装中文版
+- 村与地下城/Villages&Dungeons  Build.21465205  免安装中文版
+- 诺森德塔防 /Northend Tower Defense  PC/手机双端    Build.21628705   免安装中文版
+- 后坐攻击/Sit-Back Attack   Build.21639755  免安装中文版
+- 地牢幻阵 /Dungeon Slayer Tactics  Build.21637921  免安装中文版
+- 罗马凯旋：生存城市建造者/Roman Triumph: Survival City Builder  Build.21633126    免安装中文版
+- 终噬虚空/Ultra Void   Build.21646159  免安装中文版
+- 钢铁指挥官/Mechabellum  v1.9.0.4  免安装中文版
+- 致命追逐 /Murderous Pursuits  Build.3354691  免安装中文版
+- 绝望之地/ Desperate Place   Build.18895224   免安装中文版
+- 王权领主/Royal Lord   Build.21604158  免安装中文版
+- 可执行突击2 /Executive Assault 2   v1.0.9.212  免安装英文版
+- 杀戮尖塔/ Slay the Spire/ PC+手机双端   v6 MOD整合版   免安装中文版
+- 无限二十一点 /RogueJack21  Build.21631113  免安装中文版
+- 最终兵器鼠鼠/MOCHI-O   Build.21597096  免安装中文版
+- 一回杀/One Turn Kill   Build.21509908   免安装中文版
+- 果壳机动：钛垣防线/ShellMobile Titan Rampart    Build.21374392   免安装中文版
+- 文明6 / Sid Meier’s Civilization VI/ PC+手机双端/ 单机+联机   v1.0.12.68 全DLC 赠九只气球七大奇观罗马辐射投石空运存档 赠音乐原声 赠多项xg器  赠文明345合集   免安装中文版
+- 皇帝游戏：天下-皇游天下 v20251107   免安装中文版
+- 边境开拓者/Border Pioneer   v1.1.43  免安装中文版
+- 扫雷清洁工/BroomSweeper   Build.21673302   免安装英文版
+- Rogue骰子R/RogueDiceR   Build.21662024   免安装中文版
+- 抵抗魅魔-被魔纹侵蚀的女骑士的末路/Resist the succubus—The end of the female Knight   Build.15180389   免安装中文版
+- 尾牙/ Tooth and Tail   v1.9.0.0   免安装中文版
+- 丹墨三国：弈/ Danmo Three Kingdoms Battle of Wits   v20260128  免安装中文版
+- 神秘大地/ Terra Mystica   Build.21589425   免安装中文版
+- 迷宫童话/ Maze and Fairy tale   Build.21448778   免安装中文版
+- 这里没有兽人/ There Are No Orcs   Build.21547055   免安装中文版
+- 蔷薇的夜宴1/Phantom Rose   v2.0.5  免安装中文版
+- 默特术士/ MoteMancer    Build.21560778  免安装中文版
+- 神笔谈兵/Inkulinati   Build.21718765 全DLC  送原声画集  免安装中文版
+- 罪恶的遗产血誓|罪孽的遗产：血誓/Legacy of Sin blood oath   Build.21649955  免安装中文版
+- 不被信任：黑客横行/Untrusted hackers at large   Build.21717414   免安装中文版
+- 骰子传奇/ Dice Legends   Build.21716265  免安装中文版
+- 巴尔的遗产/Loot of Baal   v1.0.40.14113 免安装中文版
+- 赤色黎明 /RED DAWN   Build.21674760  免安装中文版
+- 商业奇才：舌尖上的路边摊 /Business Heroes Street Grub   v1.2.6   免安装中文版
+- 我的牌更好！/ My Card Is Better Than Your Card!   Build.21698281  免安装中文版
+- 咒语力量3：陨落神明 /SpellForce 3 Fallen God   v1.6_Build80331 送修改器   免安装中文版
+- 咒语力量3：灵魂收割 /SpellForce 3 Soul Harvest   v1.05 Rev75935 送修改器+存档   免安装中文版
+- 心跳弹珠台/ Plinbo Roguelike Plinko  Build.21736171   免安装中文版
+- 展翅翱翔/ Wingspan   v1.7.1147 全DLC   免安装中文版
+- 咒语力量3|咒术力量3/Spellforce 3   v1.40 送修改器+存档+局域网联机  免安装中文版
+- 咒语力量3：增强版/SpellForce 3 Reforced   v163238 送修改器   免安装中文版
+- 特遣舰队上将：第一卷 – 美国航母战 /Task Force Admiral – Vol.1 American Carrier Battles   Build.21754814  免安装英文版
+- 巨浪滔天/Flooded   v1.0.8.2   免安装中文版
+- 都市20 /City 20  Build.21680988  免安装英文版
+- 棋境漫游 /Chessarama  Build.16554000   免安装中文版
+- 我蛋呢？/Where’s my egg?     Build.21777472  免安装中文版
+- 地狱卡牌/Hellcard   v1.1.260203  免安装中文版
+- 逐鹿汉末 v0.0.56 免安装中文版
+- 霓虹新城|霓虹花园 /Neongarten  Build.21729254  免安装中文版
+- 地牢开发者/Dungeon Dev   Build.16852117  免安装中文版
+- 半女神！|半神之女 /Demigoddess!   Build.21548694    免安装中文版
+- 无尽劫掠/Megaloot   v1.23.1  免安装中文版
+- 战斗吧！勇者学院/ Battle On! Hero Academy   v1.1.110    免安装中文版
+- 超级键盘侠/Meme Mayhem   v0.24.47  免安装中文版
+- 机器人公司/RoboCo   Build.20194442  免安装英文版
+- 行政人员 – 电影业大亨 |电影大亨：执行官/The Executive – Movie Industry Tycoon   v1.2.1  免安装中文版
+- 不容进犯 /None Shall Intrude  v1.0.0517  免安装中文版
+- 太平洋雄风 /Victory At Sea Pacific  v1.14.2  免安装中文版
+- 三国志曹操传 /Sango CCZ  原版+300部MOD大全  免安装中文版
+- 战争之眼 /Eyes of War  v1.0.19  免安装中文版
+- 挂机手游模拟器  v1.5.3  免安装中文版
+- 下界战棋 /Underboard  Build.21855416   免安装中文版
+- 防御兄弟 /Defender Bros   Build.21457011   免安装中文版
+- 密教模拟器/ Cultist Simulator   Build.20249566 全DLC  免安装中文版
+- 凤凰点：周年版 /Phoenix Point Year One Edition    v1.30.1  全DLC 送修改器+满科技.材料.食物初始存档+音乐电子书原画设定集   免安装中文版
+- C.A.R.S.：打造荒诞混乱秀/ C.A.R.S. – Creating A Ridiculous Shitshow    Build.21626139  免安装英文版
+- 全面战争：法老 王朝版 /Total War PHARAOH DYNASTIES  v2.1.6 全DLC  免安装中文版
+- 猫与花毯 /Quilts and Cats of Calico  Build.21795706   免安装中文版
+- 环形帝国战术/Circle Empires Tactics   Build.20287387    免安装中文版
+- 环形帝国竞争者|环形帝国对决|帝国战争循环圈 /Circle Empires Rivals  Build.20301607  免安装中文版
+- 银河灰暗角落 /Nonentity Galaxy  Build.21905209  免安装中文版
+- 钴之核|钴芯/ Cobalt Core   v1.2.9  免安装中文版
+- 竞时英雄 /Heroes Against Time  Build.20517605  免安装中文版
+- 我们•革命/We. The Revolution   Build.21820378  免安装中文版
+- 青天井/ Aotenjo   v0.5.1.1  免安装中文版
+- 蚀心钓局/ Mind Lure   Build.21746897  免安装中文版
+- hololive Holo’s花札 / hololive Holo’s Hanafuda   v1.4.1 全DLC   免安装中文版
+- IDUN – 阵线推进官/ IDUN – Frontline Survival   v1.06   免安装中文版
+- 三国志之姜维传 v1.0.4  免安装中文版
+- 星舰设计师/Cosmoteer  Build.21875348  免安装中文版
+- 银河霸主 /Master of Orion  Build.4762723  免安装中文版
+- 肉鸽文明/ Rogue Hex  v1.1.1  免安装中文版
+- 莎拉的黑店/ Dungeon Inn   v0.7.0.260219  免安装中文版
+- 飞艇：征服天空/Airships: Conquer the Skies   v1.2.10.1   免安装中文版
+- 处刑执行者 |处决/Execute   Build.21834889  免安装中文版
+- 神骰传说 /Dicefolk   Build.20267582 全DLC 送修改器  免安装中文版
+- 掼蛋纯净版/Guandan   v1.9.3  免安装中文版
+- 秦尸之乱/Zombie Defense   v1.1   免安装中文版
+- 风暴之桥/Stormbridge   v0.85.6   免安装中文版
+- 方块公国/ Drop Duchy  v1.2.19 全DLC  免安装中文版
+- 职业篮球经理2022/Pro Basketball Manager 2022   v1.31   免安装中文版
+- 坦克碾压/TANCRUSH   Build.21928350   免安装中文版
+- 萌兽镇：建城卡斗/Wild Country   v1.0.0.6.1   免安装中文版
+- 地牢守护者/Dungeon Defenders  v10.6.2 全DLC  免安装英文版
+- 蟑螂邮局/Roach Post   Build.21973919   免安装中文版
+- 再来一张/ Dungeons and Degenerate Gamblers   v1.4.7   免安装中文版
+- 口袋狂奔 /Pocket and Zooom  Build.18877474   免安装中文版
+- 这是我的战争/ This War of Mine/ PC+手机双端   v20260225 全DLC  送修改器+原声音乐+壁纸  免安装中文版
+- 矿物防御/Mineral Defense   Build.21269455   免安装中文版
+- 酒后出牌 /Capote/单机+联机   v0.9.2    免安装中文版
+- 围攻/围剿/Besiege  v1.77  全DLC   免安装中文版
+- 另一个肉鸽农场/Another Farm Roguelike Rebirth   Build.21282981   免安装中文版
+- 关于喂养黑洞的游戏/A Game About Feeding A Black Hole    Build.21819059  免安装中文版
+- 机甲浩劫/ Mech Havoc   Build.21754002  免安装中文版
+- 掠夺阴谋 /LOOTPLOT  Build.21430360   免安装中文版
+- 经典塔防2 /Classic Tower Defense 2   Build.21968223   免安装中文版
+- 尘埃舰队/Dust Fleet   v6.4.10  免安装中文版
+- 奥术扳机/ Arcane Trigger  v1.16  免安装中文版
+- 疯狂餐厅人|疯狂服务生 /Mad Restaurant People  v1.8.3.1  免安装中文版
+- 可怕的河流/Dreadful River   Build.22151034  免安装英文版
+- 殖民者/ The Colonists/ 单机+联机    v1.9.21.2   免安装中文版
+- 夺牌狂飙 /Rungore   Build.21398275    免安装中文版
+- 卡牌工厂/ Factory Planner   v1.0.11   免安装中文版
+- 北境之地|北加尔 / Northgard / 单机+联机   v4.0.19.43315 全DLC  免安装中文版
+- 怪物对决自走棋/Monster Battles  v0.3.6.3  免安装中文版
+- 海岸桃源：文明之种/Kainga: Seeds of Civilization   v1.2.21   全DLC  免安装中文版
+- 后汉姬异录  v016.13  免安装中文版
+- 幻灵降世录 ：女巫的面纱/Lost Eidolons: Veil of the Witch  v1.3.16  免安装中文版
+- 卡牌迷境/CARD QUEST  Build.20329684   免安装中文版
+- 寿司猫：塔防/Sushi Cat – Tower Defense   Build.22160201  免安装中文版
+- 机甲要塞/Mech Fortress   Build.22227562   免安装中文版
+- 文任务：战争领主|符文任务战争领主 /RuneQuest Warlords   v1.0.3  免安装中文版
+- 春销卡牌斗士/Hustle Battle Card Gamers   Build.22223016   免安装中文版
+- 卜算子/Guardians of Dao   Build.22230970   免安装中文版
+- 铁匠大师/ Blacksmith Master  v0.8.245  免安装中文版
+- 丘比娃娃机 /Cupiclaw  v1.0.1   免安装中文版
+- 防御阵型2 /DG2: Defense Grid 2    Build.20278204   免安装中文版
+- 史诗自动塔防/Epic Auto Towers   v0.98g  免安装中文版
+- 桌面奇幻战争 /Tabletop Fantasy War   Build.22191751   免安装中文版
+- 肉鸽怪兽冲刺 /Rogue Monster Rush   Build.22247893   免安装英文版
+- 过山车大亨3：完全版/RollerCoaster Tycoon 3 Complete Edition    Build.21670417   免安装英文版
+- 埃伦加德：升天/ Elengard Ascension   v1.21.2  免安装中文版
+- 哥布林传说/Goblins of Elderstone   v2.0.21   免安装中文版
+- 墩墩守卫战：青铜危机 免安装中文版
+- 星际工艺/Stellarcraft   Build.22277306   免安装中文版
+- 三国志8重制版/三国志8 REMAKE  v1.1.3  全DLC 送修改器   免安装中文版
+- 萌犬悖论 /The PARADOGX Incident   v1.0.0正式版    免安装中文版
+- 时空泰坦/Temporal Titans   Build.22285845   免安装中文版
+- 双喵成行 /Replicat  Build.22277608  免安装中文版
+- 异能重组 /Powers Reconfiguration  v1.15.3  全MOD  免安装中文版
+- 炙热黄铜 /Hot Brass   Build.20282289   免安装中文版
+- 星萼/Calyx  Build.22264937    免安装中文版
+- 骰子阿瓦隆/ Dicealot    Build.22327745    免安装中文版
+- 废土快递 /WasteLand Express  v1.21.146 全DLC  免安装中文版
+- 极简塔防/Minimalist Tower Defense  v1.2.17  免安装中文版
+- 海上力量：导弹时代的海军作战|海上力量：导弹时代海战/Sea Power : Naval Combat in the Missile Age   v0.7.9  免安装中文版
+- 王国保卫战5：联盟/ Kingdom Rush 5: Alliance TD /手机+PC双端   v7.00.62  全DLC  免安装中文版
+- 角落的矿工/Miner’s Nook   Build.21624008   免安装中文版
+- 自动化：工厂拼图|自动化：工厂谜题 /Automate It: Factory Puzzle    v1.2.0.4   免安装中文版
+- 神国：创造 /The Kingdom of God   v3.0.3.8   免安装中文版
+- 桌宠大乱斗/Berserk B.I.T.S   Build.21817014  免安装中文版
+- 异端尖叉 /Heretic\\’s Fork   v1.3.3.26 全DLC   免安装中文版
+- 超级卷心菜轰击/Super Cabbage Kabumi   v1.1.31  免安装中文版
+- 地球不屈/ Terra Invicta  v1.0.32  免安装中文版
+- 天选花园/Chosen Garden   Build.22356496   免安装中文版
+- 梦幻地下城：放置好时光/Fantasy Idle Dungeon   v1.1.16.2   免安装中文版
+- 沙路/Pathway   v1.4.1   免安装中文版
+- 要塞：决定版/Stronghold: Definitive Edition  v1.34 全DLC   免安装中文版
+- 军团纪元 /Age of Legion   v1.37   免安装中文版
+- 血牌2：浓雾/Blood Card 2 Dark Mist   v1.0    免安装中文版
+- 太阳神之子/Sons of Ra   v1.0.0.4   免安装中文版
+- 安魂挽歌/ElegySoulGame    v1.2.3  免安装中文版
+- 时代一号/ ERA ONE   Build.22434608  免安装中文版
+- 角斗士血域/ Bloodgrounds   Build.22399607  免安装中文版
+- 一瓣一瓣 /Petal by Petal   Build.22415240   免安装中文版
+- 绿林英雄/Forest Heroes   v1.4.1.9   免安装中文版
+- 忠诚之盾/ Shields of Loyalty   v1.0.8  免安装中文版
+- 超英派遣中心/ Dispatch   v1.0.16898   免安装中文版
+- 双点校园  /Two Point Campus   v0.0.13_Epic无D加密版  免安装中文版
+- 横跨方尖碑|穿过方尖碑/ Across the Obelisk /单机+联机   v1.7.5 全DLC  免安装中文版
+- 诸神之劫：自走棋/Gods vs Horrors  Build.18336371    免安装中文版
+- 建筑师的回声/Echoes of the Architects   v1.1   免安装中文版
+- 异星工厂/ Factorio/ 单机+联机  v2.0.76  全DLC 送秘籍   免安装中文版
+- 哥布林弹球/Peglin  v2.0.6   免安装中文版
+- 铁血联盟3/Jagged Alliance 3    v1.5.2 全DLC 送修改器   免安装中文版
+- 命运与征服3：凯恩之怒/Command And Conquer 3 Kanes Wrath    免安装中文版
+- 最高指挥官2/Supreme Commander 2   v1.260  免安装中文版
+- 龙魂：魔都异闻 /DragonSpirits 2    v1.0.0    免安装中文版
+- 历史年代2 /Age of History 2   v1.25   免安装中文版
+- 矢量区/VECTOR ZONE    免安装中文版
+- 幻想将军2/Fantasy General II    v1.02.12853    免安装中文版
+- 尸姬之梦/ Dream of Corpse Lady   v1.272   免安装中文版
+- 耀斑纪元/New Cycle  Build.22500225   免安装中文版
+- 咔砰！玩具乱斗屋 /Toy Smash Kaboom!   v1.1.3  免安装中文版
+- 波利塔防/Poly TD   v1.0.1.30   免安装中文版
+- 前线任务1：重制版 /FRONT MISSION 1st: Remake   v3.0.2   免安装中文版
+- 前线任务2 重制版/Front Mission 2: Remake   v1.1.1  免安装中文版
+- 风暴之城/Against the Storm  v1.9.8   全DLC 送修改器   免安装中文版
+- 过山车之星2-虚拟机版/Planet Coaster 2    v1.8.2|Build.21103777   免安装中文版
+- 文明7|席德·梅尔的文明VII-虚拟机版 / Sid Meier’s Civilization VII / PC+手机双端  v1.3.2|Build.22096604    免安装中文版
+- 战锤40K：混沌之门-恶魔猎人|战锤40K：混沌之门-恶魔猎手-虚拟机版 /Warhammer 40,000: Chaos Gate – Daemonhunters     Build.20865149    免安装中文版
+- 侏罗纪世界：进化2-虚拟机版 /Jurassic World Evolution 2    v1.11.3(Build.18857191)   免安装中文版
+- 庄园领主/Manor Lords   v0.8.065  送修改器   免安装中文版
+- 魔界战记7 /DISGAEA 7  v1.12   免安装中文版
+- 巴黎2000年/Paris in 2000 Years   v1.0.0    免安装中文版
+- 苦痛之冠 /Crown of Pain   v1.0.4    免安装中文版
+- 傲世三国之三分天下 免安装中文版
+- 信长之野望15大志 /NOBUNAGA\\’S AMBITION: Taishi   v1.07 附1-14历代合集 送修改器+存档   免安装中文版
+- 雪原余烬 /Snow Ash  v20260402  免安装中文版
+- 星之侵略者/StarVaders  v2.0.5  免安装中文版
+- 机器人电子 /COMBOTRONICA    Build.22588175    免安装中文版
+- 红至日2：幸存者/Red Solstice 2: Survivors /单机+联机    v3.17 全DLC 送修改器    免安装中文版
+- 王国地下城与英雄 /Kingdom, Dungeon, and Hero   Build.18755184    免安装中文版
+- 采矿法师/Mining Wizards   v1.0.1.2   免安装中文版
+- 受赞颂者：虚伪的假面/Utawarerumono Mask of Deception    Build.6086398   免安装中文版
+- 罗马执政官 高清重制版 /Praetorians – HD Remaster    v1.04    免安装中文版
+- 千年一弈 /Millennium Strategy   Build.22626653   免安装中文版
+- 字节战争/A Byte War  v1.0.2  免安装中文版
+- 塔工厂/Tower Factory   v0.5.0.1  免安装中文版
+- 欧陆风云4 /Europa Universalis IV /单机+联机  v1.37.4.0 全DLC  免安装中文版
+- 战锤西格玛时代：毁灭之境-虚拟机版 /Warhammer Age of Sigmar Realms of Ruin   v1.2.1（Build.16842927）免安装中文版
+- 最后的咒语/The Last Spell    v1.3.32.10 全DLC 送修改器+原生音轨 免安装中文版
+- 吾王保卫战：正义国王/Just King   v1.4.1c   免安装中文版
+- 仙王座协议/Cepheus Protocol    Build.22244860  免安装中文版
+- 萌虫骰战 /Dicey Bugs   Build.22652774   免安装中文版
+- 奥德赛光之越/Jumplight Odyssey    v0.3.1   免安装中文版
+- 军团战棋/Legion War   v2.2.22 全DLC   免安装中文版
+- 除魔英雄/Idle Exorcism Hero   v1.6.0    免安装中文版
+- 全面冲突：抵抗/ Total Conflict: Resistance    v20260406   免安装中文版
+- 黄道信条/ Moon’s Creed   Build.20838591  免安装中文版
+- 黄金与坟墓/Gold and Graves  Build.22661742  免安装中文版
+- 昭明日月 /Pax Serica Rise of the Ming   v0.938.04   免安装中文版
+- 黑暗神灵2/Dark Deity 2   v1.16  免安装中文版
+- 全面战争模拟器 /Totally Accurate Battle Simulator    v1.1.8.7   免安装中文版
+- 全面战争传奇：不列颠王座/Total War Saga: THRONES OF BRITANNIA   v20230703  送修改器   免安装中文版
+- 圣战群英传：统治/ Disciples Domination   v1.6.0.3500  免安装中文版
+- 信号区/Signal Zone    Build.22684795   免安装中文版
+- 卡牌编码器 /Card Coder   Build.22691580   免安装中文版
+- 合并大师 /Merge Maestro   Build.22338682  免安装中文版
+- 灰蛊 /Grey Goo   终极版   免安装英文版
+- 旋转地牢 /Spinny Dungeon   Build.22709800   免安装中文版
+- 异形：坠入黑暗/Aliens: Dark Descent   v129578  免安装中文版
+- 恐慌抛售2 /Panic Sell 2   Build.22657245   免安装中文版
+- 帝国 希腊战争/Imperiums: Greek Wars    v1.422  全DLC     免安装中文版
+- 高空之上/High Above   Build.22716459   免安装中文版
+- 砍树/Chop Chains   Build.22746269   免安装中文版
+- 全面战争 拿破仑|拿破仑：全面战争/Total War: NAPOLEON  v1.30   免安装中文版
+- 卡牌王国/Kingdoms Deck   v1.3.3  免安装中文版
+- 四叶草深渊/ CloverPit   Build.22750951  免安装中文版
+- 荣耀之轮/ Gears of Glory   Build.22718016  免安装中文版
+- 拾取循环 /Loot Loop  Build.22751592   免安装中文版
+- 致命地牢 /Lethal Dungeon   Build.22610365   免安装中文版
+- 虚拟国家/Dummynation  Build.20788119  免安装中文版
+- SOG：越南/SOG Vietnam    Build.22701550   免安装中文版
+- 地产大亨：狂乐派对-虚拟机版/Monopoly Madness   Build.11315089  免安装中文版
+- 斯佩尔斯森/Spellmasons  Build.22638314   免安装中文版
+- 心入妙境 /Elemental Realms   Build.16358515   免安装中文版
+- 种呱得呱/Rana Card   v1.4.12   免安装中文版
+- 黑暗草案/ Draft of Darkness  Build.22548811  免安装中文版
+- 决胜千里：三国/Victory of Kilomiles Away：Three Kingdoms    Build.22796239   免安装中文版
+- 废墟之城 /Skid Cities   Build.21397413   免安装中文版
+- 谢尔曼指挥官 /Sherman Commander   v1.5   免安装中文版
+- 法牌英雄 /Heroes of Magic and Cards   Build.22806582  免安装中文版
+- 超级机器人大战Y / UPER ROBOT WARS Y   v1.3.0 全DLC 送修改器    免安装中文版
+- 怪物火车2/ Monster Train 2   v20260414  全DLC  免安装中文版
+- 气球塔防6|猴子塔防6 / Bloons TD 6/ 单机+联机/ PC+手机双端   v54.1  免安装中文版
+- 灾难天使：特快专递 /Calamity Angels Special Delivery   Build.21748474   免安装中文版
+- 战争号令：装甲精英/ Call to Arms Panzer Elite/ 单机/联机   v0.07.02  免安装中文版
+- 奇迹时代4/ Age of Wonders 4/ 单机+联机   v1.014.005.120707 全DLC  送修改器   免安装中文版
+- 灵动世界/ Vivid World    v1.1.1   免安装中文版
+- 霰弹枪王：最后的将死/ Shotgun King: The Final Checkmate   Build.22839057   免安装中文版
+- 地心工业线 /Chipmatic    Build.22924386    免安装中文版
+- 领主争锋/Rising Lords   v1.5.1   全DLC   免安装中文版
+- 殖民地生存/ Colony Survival/ 单机+联机    Build.22847151   免安装中文版
+- 镇民/TownsFolk    Build.22882895   免安装中文版
+- 夺宝砖家/Dialoop -Roguelite Puzzle-    Build.22902054    免安装中文版
+- 指挥部：冷战/Headquarters Cold War    v1.01.06   免安装中文版
+- 零压力之王：放置防御 /Zero Stress King Idle Defense   Build.22944080     免安装中文版
+- 恶土小队/Badlands Crew   v20260421   免安装中文版
+- 塔防统治|塔防领域/Tower Dominion   v1.66   免安装中文版
+- 北风之境/ Northwind   Build.21684553   免安装中文版
+- 骗子酒馆/ Liar’s Bar /单机+联机/ PC+手机双端   v0.985   送伸头MOD+新增角色小熊猫   免安装中文版
+- 铁路物语/ Iron Roads   Build.22784217  免安装中文版
+- 巫妖之门：幸存塔/Lichgate Tower Survivor    Build.22954151   免安装中文版
+- 超越世界战争/地下城争夺战/War for the Overworld   v2.1.4 全DLC 送原生画集   免安装中文版
+- 防御遗产/ Legacy of Defense   Build. 22794319   免安装中文版
+- 邦尼熊的蛙蛙大冒险 /Bonnie Bear Saves Frogtime   Build.22841116   免安装中文版
+- 霓虹村/Neon Village    v1.0.0.2  免安装中文版
+- 3k专制 /Despotism 3k  Build.22926940   免安装中文版
+- 死而符生/ Runeborn   v1.0.57  免安装中文版
+- 这是我的宝藏！/Treasure’s Mine!   Build.22986282   免安装中文版
+- 盟军敢死队：起源/Commandos: Origins   v1.6.0   全DLC 送原声带   免安装中文版
+- 黎明施法者/Dawncaster | The RPG Cardventure    Build.22957463    免安装中文版
+- 异形工厂2/Aooni    v1.0.3   免安装中文版
+- 历史时代3 |文明时代3/Age of History 3    v20260424   免安装中文版
+- 王国保卫战：复仇/Kingdom Rush Vengeance – Tower Defense     v1.16.4.0 全DLC  送修改器    免安装中文版
+- 沙行者/ Sandwalkers   v2.2.6  免安装中文版
+- 反叛公司：局势升级/ Rebel Inc: Escalation   v1.6.1.0  全DLC 送修改器   免安装中文版
+- 绝不后退！苏德战场1941-1945 /No Retreat! The Russian Front    Build.23015738   免安装中文版
+- 织谜十字 /CiniCross    Build.22872590  免安装中文版
+- 菜园无双/Agrivore Incremental Farming     v1.0.1   免安装中文版
+- 恐龙世纪|爬行之地 /Repterra   v0.14.1S   免安装中文版
+- 丰收牌局/Deck of Harvest    Build.23050955  免安装中文版
+- 猿猴战争/Apes Warfare   v1.0正式版   免安装中文版
+- 妖谈2：九尾异闻/Yokai Art 2 Tales of the Nine-Tails    Build.23038353    免安装中文版
+- 卢克满月光市集 /Luxman Moonlit Market   Build.22868602  免安装中文版
+- 命令与征服2 泰伯利亚之日+烈火风暴/Command and Conquer 2：Firestorm     2.03 WIN11兼容  免安装中文版
+- 命令与征服：心灵终结  v3.3.6  免安装中文版
+- 法老王与埃及艳后 /Pharaoh    高清版   免安装中文版
+- 阵地之王：卫国战争 /Trench Lord Eastern Front   v1.04.007.1   免安装中文版
+- 吸血鬼爬行者：屠戮地牢的吸血鬼幸存者/Vampire Crawlers     v1.4.1  免安装中文版
+- 好莱坞动物/ Hollywood Animal   v0.8.70  免安装中文版
+- 风暴崛起|红色警戒续作/Tempest Rising    v1.8.0.57140   送修改器   免安装中文版
+- 怪兽分解公司/Kaiju Cracking Corporation    Build.22826685    免安装中文版
+- 贪婪之冠 /Crown of Greed   v1.1.1f8   免安装中文版
+- 棋盘由你掌控/The Board is Yours    Build.23010987   免安装中文版
+- 凛冬前线 /FrostBound   Build.23579257  免安装中文版
+- 王朝：将军觐见/General Present Himself    Build.23675391   免安装中文版
+- 羊群之门/ Wool at the Gates   Build.23689354  免安装中文版
+- 恒星战争 /Stellar Warfare    Build.23455659    免安装中文版
+- 洲际导弹：全面升级/ ICBM: Escalation/ 单机+联机  v1.1.3  全DLC   免安装中文版
+- 星河战队：人类指挥部/ Starship Troopers: Terran Command   v6.4.3  全DLC   免安装中文版
+- 最后的星舰 /The Last Starship   Build.23704726   免安装中文版
+- 钢铁雄心4/ Hearts of Iron IV/ 单机+联机   v1.19.0.1  全DLC  送修改器   免安装中文版
+- 王之凝视/ The King is Watching   v1.3.1  全DLC  免安装中文版
+- 火星求生：重启版|火星求生：重制版 / Surviving Mars Relaunched   v1.0.7.396501  免安装中文版
+- 王牌特工：冷战风云2/Maestro’s Cold War 2    Build.23727158   免安装中文版
+- 黎明之人|晨曦族人/Dawnfolk   v1.5.0  免安装中文版
+- 国家的崛起：扩展版/ Rise of Nations: Extended Edition   免安装中文版
+- 帝国时代：终极版/4/3/2/1/9部合集/ Age of Empires: Definitive Edition   v46777   免安装中文版
+- 王朝：将军觐见/General Present Himself    v20260429   免安装中文版
+- 前哨塔防|边境守护 /Outhold    v1.1.8   免安装中文版
+- 末日电涌/Rogue Voltage   Build.23048578  免安装中文版
+- 历史的终结 / The End of History  Build.22829377  免安装中文版
+- 狂野都市 /Wild City   Build.23060450   免安装中文版
+- 幻想大陆战记：露纳希亚战记|幻想大陆战记：卢纳基亚传说/Brigandine The Legend of Runersia   v1.02   免安装中文版
+- 战争边缘|战争边界 / Warside   v1.6.1  免安装中文版
+- 双重地牢|多贝尔地牢|骰子地牢 /Dobbel Dungeon  v1.1.3  免安装中文版
+- 王牌妖相/Prime Monster    Build.22978422   免安装中文版
+- 一个关于创造行星的游戏/A Game About Making A Planet    Build.23125097   免安装中文版
+- 兵者诡道决定版/R.U.S.E. Definitive Edition    Build.23111487   免安装中文版
+- 机器意识 /Machine Mind    v1.1.0  免安装中文版
+- 焕然异星/Terraformers   v1.7.82 全DLC  免安装中文版
+- 王国：两位君主/ Kingdom Two Crowns / PC+手机双端   v2.4.0  全DLC  免安装中文版
+- 肋萨拉：顶峰王国|峰顶王国/ Laysara: Summit Kingdom   Build. 22563403   免安装中文版
+- 异虫清洗|异形净化|猎人之首 /Xenopurge    v20260504   免安装中文版
+- 汪!巫!录! / DOG WITCH   v1.3   免安装中文版
+- 无限卡牌 /Infinite Cards   v1.0.5   免安装中文版
+- 三维弹球塔防版/Bumper Blitz TD    v1.4.22   免安装中文版
+- 闻鼓而战/Wardrum   v1.0.1D  免安装中文版
+- 寂静之歌/Songs of Silence /单机+联机   v1.9.0  全DLC   免安装中文版
+- 死亡呼啸 /Death Howl   Build.22568280   免安装中文版
+- 武装博弈/Turnbound    Build.23111899   免安装中文版
+- 指尖术士/Handmancers    Build.23125274   免安装中文版
+- 全球商业大亨 /Global Business Tycoon   Build.23154627   免安装中文版
+- 扑克瀑布 /Cascadou   Build.23078436   免安装中文版
+- 无用之人：登神长阶 /Wretch Divine Ascent    v1.3.6   免安装中文版
+- 蜀末：血月三国/Three Kingdoms: The Blood Moon   v3.9.115  免安装中文版
+- 迷你坦克大乱斗/ Mini Tank Mayhem  v1.0.4  免安装中文版
+- 沙之神 /Gods of Sand   Build.22890361   免安装中文版
+- 战术扫雷：肉鸽Plus/Infinity Sweeper    Build.23143536   免安装中文版
+- 新月沃土/TFC The Fertile Crescent   Build.23122097     免安装中文版
+- 地下蚁国/Empires of the Undergrowth   v1.200003   全DLC  免安装中文版
+- 转啊转/Bingle Bingle    v0.8.1   免安装中文版
+- 坦克小队 /Tank Squad   v1.3.0  免安装中文版
+- 欢乐牌 /Happy Poker   Build.17702307   免安装中文版
+- 杜里亚诺 /Duriano   Build.23191358   免安装中文版
+- 人类 / HUMANKIND   v1.0.30.4814    全DLC 送修改器 赠音乐原声  免安装中文版
+- 群星/ Stellaris / 单机+联机   v4.3.7 全DLC   送修改器 赠音乐原声 赠满资源初始存档 附多彩MOD整合+壁纸+OTS+电子书  免安装中文版
+- 西游释厄传/XiYouShiEZhuan    Build.23212747    免安装中文版
+- 车票之旅 /Ticket to Ride   v1.11.0 全DLC  免安装英文版
+- 王国历史：三国志 /History of Kingdoms Three Kingdoms   Build.23234047    免安装中文版
+- 装甲军团2：轴心国行动/Panzer Corps 2   v1.18.5    全DLC   免安装中文版
+- 史莱姆之路/Slimeward    Build.23001928   免安装中文版
+- 降妖散记/Yao-Guai Hunter    v1.2.9      免安装中文版
+- 指挥部：二战/Headquarters: World War II /单机+联机   v1.04.13  全DLC  免安装中文版
+- 渔业公司 /Fishing Inc   Build.22941804_v2.6.4     免安装中文版
+- 肉鸽指挥部|肉鸽指挥官/ Rogue Command    v1.0.3    免安装中文版
+- 月球骗子/ Bogos Binted    Build.23218943_v1.1.3   免安装中文版
+- 请勿投喂病毒 – 增量放置版 /DO NOT FEED THE VIRUS – Incremental   Build.23248539   免安装中文版
+- 贴纸弹珠/STICKER BALL    Build.23144571   免安装中文版
+- 地牢战争3/ Dungeon Warfare 3   v1.1.2   免安装中文版
+- 智械工厂|异步解离 /Desynced    v1.0.17817  免安装中文版
+- 纵火游戏 /ARSONATE   Build.23263060   免安装中文版
+- 裂隙防线/ Repel The Rifts    v0.16.9   免安装中文版
+- 战争警告/Warnament   v1.0.11    全DLC  免安装中文版
+- 全面战争：战锤3-虚拟机版/ Total War WARHAMMER III  v7.2.1|Build.22883775   免安装中文版
+- 内幕交易 /Insider Trading   Build.23072873    免安装中文版
+- 浮岛新世界/ Outpath  v1.1.0a   免安装中文版
+- 弧种/ARC SEED   Build.22501606     免安装中文版
+- 幽室鬼牌/ Deck of Haunts   v1.36   免安装中文版
+- 黑暗任务4 / Dark Quest 4/单机+联机    Build.21498002   免安装中文版
+- 长夜之后/ AFTER LONG NIGHT   v20260428   免安装中文版
+- 列国模拟器/Simulator of Countries    Build.22901493   免安装中文版
+- 卡车城 /Truck City    Build.21942343   免安装中文版
+- 太阳帝国的原罪2/Sins of a Solar Empire II   v1.60.5   全DLC   免安装中文版
+- 地牢守护者：觉醒 /Dungeon Defenders Awakened   v2.1.0.36196  全DLC    免安装英文版
+- 鸡械绿洲 /Cluckmech Oasis    Build.19241510   送修改器    免安装中文版
+- 硬件大亨/Hardware Tycoon    v0.2.1   免安装中文版
+- 二木的推箱冒险 /Armu’s Sokoban Adventure   Build.23327906   免安装中文版
+- 海盗：加勒比海战 /Corsairs – Battle of the Caribbean   Build.23307645   免安装中文版
+- 莱萨里亚：英雄之歌/ Lessaria Fantasy Kingdom Sim   Build.22696603   免安装中文版
+- 突袭5/Sudden Strike 5   Build.23131255   免安装中文版
+- 驼鹿矿工 /Moose Miners   Build.22429210   免安装中文版
+- 旅人公会/Backpacker Guild    Build.23303552   免安装中文版
+- 桌面纳德：骰子放置 /Desktop Nard Dice Idle   Build.23331486   免安装中文版
+- 战锤40K：格雷迪厄斯遗迹之战/ Warhammer 40,000: Gladius – Relics of War   v1.18.0  全DLC  免安装中文版
+- 明日之星2 / Rising Star 2   v2.98.397  全DLC   免安装中文版
+- 祖先遗产 /Ancestors Legacy    Build.21883107   免安装中文版
+- 元素：重铸/ Elemental Reforged   v1.1  全DLC  免安装英文版
+- 护身符：数字第五版|圣符国度：数字第五版  /Talisman Digital 5th Edition   v86596   全DLC    免安装中文版
+- 魔王将至/He is Coming   v0.8.81   免安装中文版
+- 三国志7 威力加强版/ Romance of the Three Kingdoms VII with Power Up Kit   Build.2278666  免安装中文版
+- 三国志9 威力加强版/ Romance of the Three Kingdoms IX with Power Up Kit   Build.3717947  免安装中文版
+- 三国志10 威力加强版/ Romance of the Three Kingdoms X with Power Up Kit   Build.2456531  免安装中文版
+- 三国志11 威力加强版/ Romance of the Three Kingdoms XI with Power Up Kit  Build.2520441  免安装中文版
+- 三国志12 威力加强版 送极品女武将MOD/ Romance of the Three Kingdoms XII with Power Up Kit  Build.4476690  免安装中文版
+- 安尼姆的无尽旅途 /DONG WU ODYSSEY   Build.23365768   免安装中文版
+- 纳瓦尔艺术/ NavalArt    Build.23361379    免安装中文版
+- 巫师之昆特牌：流浪法师/GWENT: Rogue Mage   Build.22463824   免安装中文版
+- 爪子列车 /Transpawt Train    Build.23396326    免安装中文版
+- 星际工业国 /Space Industrial Empire   v1.1.9.0   免安装中文版
+- 遥远行星：建造师/Astrobuilder    Build.23405602    免安装中文版
+- 人工智能的选择/ Heart of the Machine  Build.23405139   免安装中文版
+- 万千网友共修仙   Build.21628763   免安装中文版
+- 王国风云3|十字军之王3：东方王朝/ Crusader Kings III / 单机+联机   v1.19.0.6   全DLC 送修改器    免安装中文版
+- 要塞十字军东征：决定版/ Stronghold Crusader Definitive Edition /单机+联机   v2.71 全DLC 送修改器   免安装中文版
+- 星河战队：人类指挥部/ Starship Troopers: Terran Command   v6.4.0  全DLC   免安装中文版
+- 战锤40K：战斗区域|战锤40K：战区/Warhammer 40,000: Battlesector    v1.7.1   全DLC    免安装中文版
+- 无尽帝国2 / ENDLESS Legend 2 /单机+联机   v0.0.80.0106  免安装中文版
+- 疫区档案/Vultures – Scavengers of Death    v1.0.8  免安装中文版
+- 钻核公司/ Drill Core   v1.254   全DLC   免安装中文版
+- 挂机西游模拟器 /Idle Quest Simulator   v1.15.9   免安装中文版
+- 蜀仙传·挂至飞升    Build.23423869   免安装中文版
+- 皇帝与社稷   v0.65a  免安装中文版
+- 矮人吞山/Dwarf Eats Mountain     v1.1.0.0   免安装中文版
+- 罗马陨落/Yield! Fall of Rome   v1.1.1.1  免安装中文版
+- 欧陆风云5 / Europa Universalis V / 单机+联机   v1.2.5 全DLC  送修改器   免安装中文版
+- 深矿防线/Hold The Mine    Build.23409034   免安装中文版
+- 月之魔印 /Moonsigil Atlas    Build.23406162    免安装中文版
+- 魔法与钢铁：英雄牌局 /Heroes of Magic and Steel    Build.23425567   免安装中文版
+- 文明时代2：终极版 /Age of History 2 Definitive Edition    Build.23333946    免安装中文版
+- 以邪神之名/Worship    Build.20684343   免安装中文版
+- 代号：西娅 /Project Thea   Build.23431926   免安装中文版
+- 要战便战/Diplomacy is Not an Option   v1.0.152   免安装中文版
+- 荣誉骑士2：君主/Knights of Honor II: Sovereign /单机+联机     Build.20268462    全DLC  免安装中文版
+- 贝尔福蒂斯/Bellfortis     Build.23222048    免安装中文版
+- 跨越列车 /Trackastrophe!    Build.23431348   免安装中文版
+- 英雄连3：豪华版 /Company of Heroes 3    v2.4.2.46673   全DLC 送修改器   免安装中文版
+- 维多利亚3 / Victoria 3 / 单机+联机   v1.13.8  全DLC  送修改器   免安装中文版
+- 断箭/ Broken Arrow   v1.1.0.2  全DLC   送修改器  免安装中文版
+- 群星收割者/Starvester    Build.23485205   免安装中文版
+- 蜂巢疫灾/Hive Blight   Build.23434892   免安装中文版
+- 星云：战舰指挥官/NEBULOUS Fleet Command    Build.23489157   免安装中文版
+- 欧皇VS非酋/All About Luck    Build.23491468   免安装中文版
+- 17波塔防 /17.waves TD   Build.23461964   免安装中文版
+- 夺海奇航/ Reclaim The Sea   Build.22770817   免安装中文版
+- 银河文明4：超新星/ Galactic Civilizations IV: Supernova /单机+联机   v3.30   全DLC 送修改器   免安装中文版
+- 符文之骰/Rune Dice    Build.23461980   免安装中文版
+- 轨道矿机 /Orbitmine   Build.23318988  免安装中文版
+- 摔跤象棋 /Lucha Chess    Build.23498352   免安装中文版
+- 帝国时代4：周年纪念版|帝国时代4：年度版/Age of Empires IV   v16.2.10604    全DLC 送修改器   免安装中文版
+- 繁星苦旅/Per Aspera   Build.23457069   全DLC   免安装中文版
+- 指挥大师/ Master of Command   v1.5.1  全DLC   免安装中文版
+- 一战天空  /Skies above the Great War   Build.22384094   免安装中文版
+- 骰死地牢|死于地下城 / Die in the Dungeon   v5.0.3  全DLC   免安装中文版
+- 农场经营世界/Farm Manager World    Build.23451898   全DLC   免安装中文版
+- 潘多拉的玩具盒/Pandora’s Toybox    v1.0.8   免安装中文版
+- 浣熊推币机 /RACCOIN Coin Pusher Roguelik     v1.0.25   免安装中文版
+- 弑神者竞技场/Godslayer Arena   v0.8.0.1   免安装中文版
+- 筑梦颂|多罗曼蒂克|浪漫小村/Dorfromantik   Build.23523974   免安装中文版
+- 灾厄浩劫/ The Scouring/单机+联机    Build.23520647   免安装中文版
+- 进击!要塞!/ Forts/单机+联机   v1.37.0   全DLC  免安装中文版
+- 太空殖民地|星际殖民地/ Astro Colony   v1.0正式版     免安装中文版
+- 小火车世界/ Mashinky   Build.23516684    免安装中文版
+- 魔法门之英雄无敌：上古纪元/ Heroes of Might and Magic Olden Era/单机+联机    v0.80.20   送修改器   免安装中文版
+- 驴子史密斯：武器与战士/Jacksmith Weapons and Warriors     Build.18571048   免安装英文版
+- 橡木塔/ Oaken Tower   Build.23474776     免安装中文版
+- 虚妄之盒/ Cubic Cosmos   v1.0.5  免安装中文版
+- 战锤40K：机械神教2 /Warhammer 40000 Mechanicus II   v1.0.0.25  免安装中文版
+- 山河小侠   v1.23.1 免安装中文版
+- 无感染区/ Infection Free Zone    Build.23547655   送修改器   免安装中文版
+- 外卖李水  Build.23328268  免安装中文版
+- 出击!福建舰 /FuJianStrike   Build.23589399   免安装中文版
+- 最终战略/Final Strategy    Build.23575962   免安装中文版
+- 杀手精神病兔子… 在太空！新星拓荒～ /Astral Lords    Build.23586636   免安装中文版
+- 电竞教父/ Esports Godfather   v3.1.40   全DLC 送修改器   免安装中文版
+- 放置Boss战/ IDLE BOSS RUSH    Build.22871006    免安装英文版
+- 伐木狂潮 /Timber Rush  v1.1.2  免安装中文版
+- 罗马之城 /Nova Roma   Build.23569777    免安装中文版
+- 驯牌师/ Decktamer   v1.6.7  免安装中文版
+- 永夜之围/ As We Descend   v0.14.0.0  免安装中文版
+- 杀戮尖塔2 / Slay the Spire 2 / 单机+联机   v0.107.0    送修改器  免安装中文版
+- 维拉克塔尔/ Viractal   v1.2.2  免安装中文版
+- 地壳/ The Crust   v0.99.90   免安装中文版
+- 旧世界/ Old World    v1.0.83788  全DLC   免安装中文版
+- 预先号令/WARNO  v193438  全DLC 送修改器   免安装中文版
+- 沙盘战争：三国 /SandTable War Three Kingdoms    v1.37.0  免安装中文版
+- 文明法则2 / Lawgivers II / 单机+联机   v0.16.13  免安装中文版
+- 100%鲜橙汁|百分百鲜橙汁/100% Orange Juice    Build.23589288   全DLC    免安装中文版
+- 异世界冒险者公会/Isekai Adventurer Guild     Build.23492614    免安装中文版
+- 全球协议：新世界秩序/Global Protocol New World Order     Build.23606295   免安装中文版
+- 钢铁六边形|钢铁六角形/ Hex of Steel   Build.23608038   免安装中文版
+- 战术地牢/Crawl Tactics   Build.23607785   免安装中文版
+- 工厂肉鸽/A Factory Roguelike    Build.23634630   免安装中文版
+- 兵团|军团 /Regiments   v1.5.5S   全DLC    免安装中文版
+- 三国志汉末霸业/ Three Kingdoms: The Last Warlord  v1.1.14.4078  免安装中文版
+- 元卡牌之背包传说/Meta Card Backpack Legend    v2.1.0.8   免安装中文版
+- 帝国幻想乡/TOHOTOPIA   v0.7.3   免安装中文版
+- 冥狱战术/ Hadean Tactics   v2.1.15  免安装中文版
+- 艾特尔：神祇之路 /Atre Dominance Wars    Build.23629121   免安装中文版
+- 诺德堡|诺德要塞|诺德霍尔/Nordhold   v1.1.21  免安装中文版
+- 阿斯特赖亚：六面先知/Astrea: Six：Sided Oracles /手机+PC双端    v1.2.957  全DLC    免安装中文版
+- U.V.S.化现号/U.V.S. Nirmana    Build.23579384   免安装中文版
+- 卡牌修仙传 /Card Cultivation   v2.2.0.22   免安装中文版
+- 战争号令地狱之门：东线|战争召唤地狱之门：东线 / Call to Arms – Gates of Hell: Ostfront/单机+联机   v1.063.0  全DLC   免安装中文版
+- 沙丘：帝国/ Dune: Imperium    Build.23647685    全DLC  免安装中文版
+- SGS 葛底斯堡战役 /SGS Battle for Gettysburg   Build.23636811   免安装中文版
+- SGS 雪崩战役 /SGS Avalanche    Build.23598659   免安装中文版
+- SGS 海狮行动/SGS Sealion     Build.23049118   免安装中文版
+- 百创数独/Bactron     Build.23616731   免安装中文版
+- 遗物守护者/ Relic Guardian   v1.17  免安装中文版
+- 电视台模拟国 /Entertainment Simulator   v0.91.26   免安装中文版
+- 龙胤立志传   v1.0.12f1  送修改器   免安装中文版
+- 神话时代：重述版/ Age of Mythology: Retold / 单机+联机   v100.19.14612  全DLC    免安装中文版
+- 星际争霸：重制版/ StarCraft Remastered   v1.23.10.12409  免安装中文版
+- 帝国时代2：决定版/Age of Empires II: Definitive Edition/ 单机+联机    v178524   全DLC 新增DLC“三国志” 送修改器   免安装中文版
+- 塞壬的沉默|海妖的沉默/Silence of the Siren    Build.23660746   免安装中文版
+- 地下城4/Dungeons 4   v1.11.0   全DLC 送修改器  免安装中文版
+- 泽丰/ ZEPHON/ 单机+联机   v1.3.6 全DLC   免安装中文版
+- 异种航员2/Xenonauts 2   v7.24.2   免安装中文版
+- 帕格尼物语/ Pioneers of Pagonia/ 单机+联机   v1.3.2  全DLC   免安装中文版
+- 九王/9 Kings   v0.9.2.2  免安装中文版
+- 最远的边陲|遥远的边陲/ Farthest Frontier   v1.1.2a  全DLC   免安装中文版
+- 深渊洞穴/Into The Depths     Build.23655002   免安装中文版
+- 桌上谈兵 /Tabletop Tavern    Build.23692438   免安装中文版
+- 深层公司/Deep Corp    Build.23571878     免安装中文版
+- 拿破仑之鹰：拿破仑战争游戏/ Napoleon’s Eagles Game of the Napoleonic Wars  v1.9.1 全DLC  免安装中文版
+- 苏丹的游戏/ Sultan’s Game    v1.0.19681   送修改器   免安装中文版
+- 愿景之城/ TerraScape / 单机+联机   v2.0.0.9  全DLC   免安装中文版
+- 钢铁雄心4/ Hearts of Iron IV/ 单机+联机   v1.19.0 全DLC  送修改器   免安装中文版
+- 征服之歌/Songs of Conquest   v1.10.3  全DLC 送修改器   免安装中文版
+- 诺兰德/ Norland   v0.5350.9186.0   送修改器   免安装中文版
+- 背包乱斗：福西法的宝藏/Backpack Battles / 单机+联机/ PC+手机双端   v1.1.6  免安装中文版
+- 亚力克：失落的王国 /Alek – The Lost Kingdom     Build.21570729    免安装中文版
+- 帝国时代：终极版/4/3/2/1/9部合集/Age of Empires: Definitive Edition
+- 群星/Stellaris
+
+---
+
+## 射击游戏（727 款）
+
+- 《Far Cry 5 孤岛惊魂5》v1.011 豪华中文版+全DLC|解压即撸|
+- 《使命召唤14：二战》v1.25.2244937 免安装简体中文版|解压即撸|
+- 《使命召唤15：黑色行动4》 全DLC 免安装绿色中文版|解压即撸|
+- 《使命召唤10：幽灵》汉化中文全DLC终极版|解压即撸|
+- 皇牌空战7：未知空域豪华版/ACE COMBAT 7: SKIES UNKNOWN Deluxe Edition
+- 亡灵女仆/Maid of the Dead  v1.0.5  免安装中文版
+- 杀手13  重置版/XIII – Remake    免安装中文版
+- 地牢狂飙/ Dungeons & Drivers   Build.20052820  免安装中文版
+- 普尼西机人2 / PUNIHI LOADER 2   Build.20059905  免安装中文版
+- 饮魔人/ Devilated   Build.19801359  免安装英文版
+- 潜行者：切尔诺贝利的阴影 增强版/S.T.A.L.K.E.R.: Shadow of Chernobyl   v1.10.1.27021   免安装中文版
+- 战争机器：重装上阵|战争机器：重载/Gears of War Reloaded  v1.0.1.3816947  免安装中文版
+- 枕头大战/ Bulanci   v3.7  免安装中文版
+- 猪面/PIGFACE   v0.21b  免安装英文版
+- 俄罗斯战地/ RUSSIA BATTLEGROUNDS    Build.16867397   免安装中文版
+- 拜托了！佐伊/ ZOE Begone!   Build.19887338  免安装中文版
+- 兰多战姬/RANDOMAX  Build.19528492  免安装中文版
+- 漆黑猎场 Build.19156385（Dark Hunting Ground）免安装中文版
+- 超级特种船员DX/Super Destronaut DX   v2896893   免安装中文版
+- 巫蛇夜宴 Build.14344582（Snake Crush）免安装中文版
+- 时间浪费者|时间幽灵 Build.18392463（Time Wasters）免安装中文版
+- 随身摄像机 Build.18511434 单机+联机（Bodycam）免安装中文版
+- 又一个僵尸幸存者 v0.8.1a（Yet Another Zombie Survivors）免安装中文版
+- 黑暗2 / The Darkness 2   免安装中文版
+- 不屈者/ UNYIELDER   Build.20217296  免安装中文版
+- 战术小队/ Squad /单机+联机   Build.25092025  免安装中文版
+- 光环 士官长合集/ Halo: The Master Chief Collection   v1.3528.0.0   包含光环1234.ODST.致远星全6部   免安装中文版
+- 暴徒猎手/ HUNTDOWN   v1.278  免安装中文版
+- 潜行者：晴空  增强版/S.T.A.L.K.E.R.: Clear Sky   v1.10.1.27021   免安装中文版
+- 生物相/B.I.O.T.A.   Build.17619221  免安装中文版
+- 绝境使者/TimeTreker  Build.19954268  免安装中文版
+- 断钢/Severed Steel  Build.19942714  免安装中文版
+- 流血|血战/ Bloodshed   v1.0.15  免安装中文版
+- 跑造砰！|奔跑吧，建设者！/ Run Build Pew!   v2.1HF  免安装中文版
+- 吸血鬼猎人/Vampire Hunters   Build.19824971  免安装中文版
+- 六角风暴/Hex Blast  Build.19831816  免安装中文版
+- 阿纳克西斯/The Anacrusis /单机+联机  v4.1  免安装中文版
+- 百战天虫：大混战/Worms Rumble /单机+联机  v2016.748356  免安装中文版
+- 舌尖上的魔术师/MagicCar of Delicious  Build.19892212  免安装中文版
+- 猫猫海兵团/Neko Navy  Build.1895992  免安装中文版
+- 堕落王牌/Fallen Aces  Build.19799849  免安装英文版
+- 异形战机2 豪华版/R-Type Final 2  v2.0.4  免安装中文版
+- 心灵深处|皮肤深处/ Skin Deep   v20251006  免安装中文版
+- 末日绿钞/ GROSS   Build.20258379  免安装中文版
+- 披萨猎客（Pizza Bandit）免安装中文版
+- 喵喵幸存者（Feline Survivor）免安装中文版
+- 魔书射爆 Build.19717942（Book Shooter）免安装中文版
+- 反冲枪 Build.19682420（Kickback Shoot to Move!）免安装中文版
+- 末日行者 Build.19677662（To the Eden）免安装中文版
+- 皮卡布停 Build.19201470（Pikabuu STOP!）免安装中文版
+- 临界出口 Build.19595570（Liminal Exit）免安装中文版
+- 遏制行动2 Build.19412755（Containment Initiative 2）免安装中文版
+- 神之打击/ Godstrike   Build.20267860  免安装中文版
+- 失踪的班班 Build.19165118（Missing Banban）免安装中文版
+- EX-黄道十二宫 v0.11.5（Ex-Zodiac）免安装中文版
+- 内脏|血腥突击/Viscera   v1.0.0   免安装中文版
+- 项目塔|塔楼计划（Project Tower）免安装中文版
+- 阿比斯终焉幸存者 v1.00.10（Abyss Eschaton Survivors）免安装中文版
+- 弃置者|冗余 v1.0.0（The Redundant）免安装中文版
+- 夜袭者行动|夜间突击者 Build.19496139（Operation Night Strikers）免安装中文版
+- 逆向：豪华版 Build.19530622（INVERSUS Deluxe）免安装中文版
+- 驭字修士：雷伊·比庇亚行传 Build.19467525（The Textorcist The Story of Ray Bibbia）免安装中文版
+- 钢之战骑/ Steel Knight’s ARMIS   Build.19779572   免安装中文版
+- 四色战队/ Ultra Sentai Color Ranger    v1.4.0   免安装中文版
+- 星驰神机 Build.2802438（Promethium）免安装中文版
+- 国外警察模拟器|警察枪战 v02.06.2022（Police Shootout）免安装中文版
+- 工兵：拆弹模拟器 Build.10219819（Sapper：Defuse The Bomb Simulator）免安装中文版
+- 回力镖X|回旋镖X（Boomerang X）免安装中文版
+- 心灵入侵（The Mindvasion）免安装中文版
+- 飞速电梯 v1.24（Savant – Ascent REMIX）免安装中文版
+- 蜂族英雄：害虫爆破手 v1.0.1（Bee Hero Bug Blaster）免安装中文版
+- 魔法森林 Build.16670982（Machick）免安装中文版
+- 键盘大战 Build.19432241（Keytamine）免安装中文版
+- 丧尸突袭：没有人能幸存/ZOMBIE RAID No One Survives /单机+联机 Build.18307375   免安装中文版
+- 他人即地狱 v2.1.6（Hell is Others）免安装中文版
+- 新手：动物王国（The Novice Animal Kingdom）免安装中文版
+- 深空幸存者 Build.17398107（EON Fighter）免安装中文版
+- 进击之钢 Build.19213693（Attack on Steel）免安装中文版
+- 报答老板 Build.19324082 免安装中文版
+- SCP：绝密事件 v0.5.3（SCP EVENT CLASSIFIED）免安装中文版
+- 战斗太空2 v1.00（Warspace 2）免安装中文版
+- 我们的战争：火力压制 v1.0.0（Our War Firepower Suppression）免安装中文版
+- 机械觉醒 v1.0.03（M.O.O.D.S.）免安装中文版
+- 旭日战姬（Rising Sun – Iron Aces）免安装中文版
+- LIMSCAPE：临界空间探索者 v1.0.0（LIMSCAPE THE LIMINAL SPACE EXPLORER）免安装中文版
+- 热爱射击：混音版 v6356294（TRIZEAL Remix）免安装中文版
+- 科技商店模拟器 v1.0.0（Tech Market Simulator）免安装中文版
+- 至日编年史：MIA Build.19023729（Solstice Chronicles MIA）免安装中文版
+- EXZEAL v6356324 免安装中文版
+- 技术灭绝 v1.3.0（Technocide）免安装中文版
+- 末日幸存者 v1.0.0（Apocalypse Survivors）免安装中文版
+- 仙音烛（MarqueeCandle）免安装中文版
+- 伤痕引导：救赎 v1.0.0（Scar-Lead Salvation）免安装中文版
+- 勇者串串烧：泡泡幸存者 v1.2.1.0（Skewer of Heroes）免安装中文版
+- 碳酸危机/ Soda Crisis   v10664633  免安装中文版
+- 羽田女孩（Haneda Girl）免安装中文版
+- 硝基特快 v1.0.0（Nitro Express）免安装中文版
+- 宇宙角斗场（Cosmic Coliseum）免安装中文版
+- 妻福冲击2 Build.16300535（WAIFU IMPACT 2）免安装中文版
+- 后室清洁小队/Backrooms Cleanup Crew（单机+联机）
+- 黑暗古阳2：无界空间 v20240718（Dark Old Sun II: Unspace）免安装中文版
+- 块块星球：埃齐（Planet Cube: Edge）免安装中文版
+- 重装前哨 v20241226 送修改器（outpost）免安装中文版
+- 深岩银河 v1.39.113250.0 全DLC 单机+联机（Deep Rock Galactic）免安装中文版
+- 战火英雄 v1.29 全DLC（Strike Force Heroes）免安装中文版
+- 末世少女 v1.0.0（Zombie Girl）免安装中文版
+- 地球防卫军6 v20250122 全DLC 单机+联机 附送5代+铁雨（EARTH DEFENSE FORCE 6）免安装中文版
+- 零世代 v2921874 送修改器（Generation Zero）免安装中文版
+- 术士计划2 v0.9.0.39（Project Warlock II）免安装中文版
+- 狙击精英4 v1.5.0（Sniper Elite 4）免安装中文版
+- 伊松佐河 v517.60280（Isonzo）免安装中文版
+- 战锤40K 爆矢枪 v1.22.68871.33（Warhammer 40,000: Boltgun）免安装中文版
+- 狙击手：幽灵战士契约 2 v1.03 全DLC（Sniper Ghost Warrior Contracts 2）免安装中文版
+- 战地风云5（Battlefield V）免安装中文版
+- 兔耳战姬 Build.13693429（Bunny Guntz）免安装中文版
+- 逃离塔科夫/Escape from Tarkov  v0.16.9.0.40087  普通版+离线中文魔改版   免安装中文版
+- 孤岛危机2：重制版 v20221118（Crysis 2 Remastered）免安装中文版
+- 傲气雄鹰：重装上阵 v3397294（Sky Force Reloaded）免安装中文版
+- 孤岛危机3：重制版 v7983.0.0.1（Crysis 3 Remastered）免安装中文版
+- X入侵者 v1.1.0（X Invader）免安装中文版
+- 抑制 单机+联机（Contain）免安装中文版
+- 在深渊的尽头你看到了什么（ABYSS SEEKER）免安装中文版
+- 少女狙击手 v1.5.4（Heroine of the Sniper）免安装中文版
+- 光环：无限（Halo Infinite）免安装中文版
+- 东方月神夜 v1.2.4.6（Touhou Luna Nights）免安装中文版
+- 蔓延 v1.6（SPRAWL）免安装中文版
+- 星际幸存者 v1.0.19（Star Survivor）免安装中文版
+- 纸袋勇者 v1.0.5（Pape Rangers）免安装中文版
+- 御剑山海经（Sword of the King
+- 愤怒锁链 v1.0.1.3（Chains of Fury）免安装中文版
+- 王牌求生（ACESurvivor）免安装中文版
+- 前线：突击军团二战 v1.0.24L（Frontline: Assault Corps WW2）免安装中文版
+- 愤怒的大脚 v1.46（Anger Foot）免安装中文版
+- 圣诞节启示录 v1.1.5（Xmas Apocalypse）免安装中文版
+- 机器双雄 v20241021（Akimbot）免安装中文版
+- 上行战场 Build.8098462 整合DLC 送修改器（The Ascent）免安装中文版
+- 海参2 v2484（Trepang2）免安装中文版
+- 黎明前20分钟 v1.0.3（20 Minutes Till Dawn）免安装中文版
+- 黑客竞技场（HackeRPG）免安装中文版
+- 雷霆一号 v1.4.1（Thunder Tier One）免安装中文版
+- 弹珠地狱洛坎塔（Lokanta）免安装中文版
+- 爬行实验室 v1.7.2（Crawling Lab）免安装中文版
+- 轰祖之战（Boomcestors）免安装中文版
+- 光环：致远星（Halo: Reach）免安装中文版
+- 迷雾之舟 v1.0.0（Ship Of Mist）免安装中文版
+- 救援女孩行动：代号X（Rescue Girl Operation Code X）免安装中文版
+- 狂躁 v1.0.9（Maniac）免安装中文版
+- 空壳 v1.5b（EMPTY SHELL）免安装中文版
+- 战争沙盒 Build.15583711（Warbox Sandbox）免安装中文版
+- 魔法书幸存者 Build.15569051（Spellbook Demonslayers）免安装中文版
+- 我的朋友佩德罗 v1.03（My Friend Pedro）免安装中文版
+- 灵能觉醒 v0.1.8（Psionic Awake）免安装中文版
+- 12比6好 v3612466（12 is Better Than 6）免安装中文版
+- 二战：地堡模拟器 全DLC（WW2: Bunker Simulator）免安装中文版
+- 傲气雄鹰周年版（Sky Force Anniversary）免安装中文版
+- 厄尔大战变异怪 Build.15295941（Earl vs. the Mutants）免安装中文版
+- 嗜血猎犬 恶魔猎人 Build.14109082+复古风格DLC（Bloodhound）免安装中文版
+- 重金属 地狱歌手 v1.0.0（Metal: Hellsinger）免安装中文版
+- 洪流之灾 v3.5.24（Diluvian Ultra）免安装中文版
+- 阿斯加德的陨落 v0.2.0.d（Asgard\\’s Fall — Viking Survivors）免安装中文版
+- 月球之谜 v1.10（Moon Mystery）免安装中文版
+- 赛博城 Build.16893271（Cyborg City）免安装中文版
+- 屠戮者：起源（Slasher: Origins）免安装中文版
+- 锈迹兄弟（Rusty Dudes）免安装中文版
+- 英雄萨姆：西伯利亚狂想曲 v1.07（Serious Sam: Siberian Mayhem）免安装中文版
+- 幻影行动 v1.0.0（Phantom Ops）免安装中文版
+- 小魔女诺贝塔 v1.1.2（Little Witch Nobeta）免安装中文版
+- 熊熊魇杀队 v1.0.4（STUFFED）免安装中文版
+- 掠食 v12742273（Prey）免安装中文版
+- 幸存者之海 v7607（Sea of Survivors）免安装中文版
+- 烟火枪手（Smoking Gun）免安装中文版
+- 阴影围攻 v1.0.0（Shadow Siege）免安装中文版
+- 炽天使的最后一刻 塞拉弗的最后一站 b3.3（Seraph\\’s Last Stand）免安装中文版
+- 尸城营救（Zombie City Rescue）免安装中文版
+- 瓦尔法瑞斯：兽神归来 v1.1（Valfaris Mecha Therion）免安装中文版
+- 术士计划1 v1.0.7.14（Project Warlock）免安装中文版
+- 恶魔弹珠 v1.81（DEMON\\’S TILT）免安装中文版
+- 对战GO v2024.7.10（Versus GO）免安装中文版
+- 41小时 v1.0（41 Hours）免安装中文版
+- 弹反者 v1.2.0.3（Deflector）免安装中文版
+- 闻菇而战 v20240906（Smells Like a Mushroom）免安装中文版
+- 二进制恋人 v1.0.0.10（Monospaced Lovers）免安装中文版
+- 黄昏HD v20241211（DUSK）免安装中文版
+- 燥热之地（Swelter）免安装中文版
+- 僵尸建造防御2 12.9（Zombie Builder Defense 2）免安装中文版
+- 改装机甲大战（CUSTOM MECH WARS）免安装中文版
+- 外星原人：入侵 v1.3.1（Alien Hominid Invasion）免安装中文版
+- 这是我的土地 v1.0.3.19014（This Land Is My Land）免安装中文版
+- 最后的伊甸 v1.0.0（Final Eden）免安装中文版
+- 百倍于我 v3569263（One Hundred Times Me）免安装中文版
+- 圣剑幸存者（Saber Survivors）免安装中文版
+- 红色贝雷帽 v1.0.0（The Red Beret）免安装中文版
+- 像素猎魔人（Monster Coming）免安装中文版
+- 突击队英雄2：第一滴血 v1.0（Commando Hero 2 : First Blood）免安装中文版
+- 黑暗展望 v1.0.0 单机+联机（Dark Prospect）免安装中文版
+- 星际孤狼 v1.0.0（Star Lone Wolf）免安装中文版
+- 赛博战神3003 v3.0（Cyborg3003）免安装中文版
+- 太空旋风 v1.0.0（Air Twister）免安装中文版
+- 堕天灭域 v1.0.06（Angelstruck）免安装中文版
+- 轻骑兵 Build.17414514 支持VR（The Light Brigade）免安装中文版
+- 雇佣兵战斗连队 死神 v1.0.1（Mercenary Battle Company: The Reapers）免安装中文版
+- 惬意的太空幸存者 v1.5.6（Cozy Space Survivors）免安装中文版
+- 铠甲头 v1.703（ARMORED HEAD）免安装中文版
+- 灵魂追猎者 v1.0.2（Soul Stalker）免安装中文版
+- 死亡边缘：铀空天下 v1.0.1.4（Edge Of Dead: Under A Uranium Sky）免安装中文版
+- 带枪的变异熊鲍里斯 v3019393（BORIS the Mutant Bear with a Gun）免安装中文版
+- 黑暗引力 Build.13947486（Dark Gravity）免安装中文版
+- 荒野守护者崛起 v0.1.1602（Wildkeepers Rising）免安装中文版
+- 牛仔3030 v1.0（Cowboy 3030）免安装中文版
+- 奇异海域 v1.0.0（Strange Ocean）免安装中文版
+- 弧光行者 v1.1.0.6（ArcRunner）免安装中文版
+- 空洞幸存者 Build.18101050（Hollow Survivors）免安装中文版
+- 空战 v10478561（Dogfight）免安装中文版
+- 凤凰战队 v472701（Phoenix Force）免安装中文版
+- 猎枪农民 Build.17284566（Shotgun Farmers）免安装中文版
+- 红蓝细胞（Red Blue Cell）免安装中文版
+- 音降 v2024.8.20（Soundfall）免安装中文版
+- 时间幸存者 v1.01（Time Survivors）免安装中文版
+- 像素幸存者 v1.0.1.2（Pixel Survivor）免安装中文版
+- 太空海盗的崛起X2（XALADIA: Rise of the Space Pirates X2）免安装中文版
+- 铁血机甲: 反攻（METAL SUITS）免安装中文版
+- 古比斯 v1.1.3（Goobies）免安装中文版
+- 闪电柯基 v1.1.44（ProtoCorgi）免安装中文版
+- 家里蹲 v1.0.0（Pull Stay）免安装中文版
+- 作弊猎豹 v1.0.3 单机+联机（Cheaters Cheetah）免安装中文版
+- 陨石Z：启示录 v1.0.0（Meteorite Z: The Apocalypse）免安装中文版
+- 洞 v1.0.3（HOLE）免安装中文版
+- 炸掉蒲团！v1.016（with Rocket Launcher）免安装中文版
+- 失忆 v1.0（Memory Lost）免安装中文版
+- 毁灭的天空 v1.0（Sky of Destruction）免安装中文版
+- 满头大汗了吧，击球手 Build.16352440（Ball it Hell）免安装中文版
+- 骸骨契约 Build.17731229（Calcium Contract）免安装中文版
+- 赛博垃圾 Build.16468967（Cybertrash STATYX）免安装中文版
+- 光环：致远星/Halo: Reach
+- 《光明记忆：无限》 Bright Memory Infinite |官方中文 05.01.24 整合赛博兔DLC|解压即撸|
+- 红色管弦乐队2（Red Orchestra 2: Heroes of Stalingrad with Rising Storm）免安装中文版
+- 胡须中队：幸存者 正式版（Whisker Squadron: Survivor）免安装中文版
+- 微型迷宫 v0.2.0（Tiny Rogues）免安装英文版
+- 装甲猫咪（ARMORED KITTEN）免安装中文版
+- 迷失太空（Lost in Space）免安装中文版
+- 我是你的野兽 v1.01（I Am Your Beast）免安装中文版
+- 光环2：周年纪念版（Halo 2 Anniversary）免安装中文版
+- 戈尔盒子 v14.9.3（GoreBox）免安装英文版
+- 形状节奏 v1.6.50（Just Shapes and Beats）免安装中文版
+- 全面溃败 v1.0.0（UNDER DEFEAT）免安装中文版
+- 无政府状态 沃尔夫定律 v20241223（State of Anarchy）免安装中文版
+- 钢铁之躯 v20240926（Iron Meat）免安装中文版
+- 孤岛惊魂3 血龙（Far Cry 3
+- 狂野西部：枪手（Call of Juarez: Gunslinger）免安装中文版
+- 使命召唤1（Call of Duty 2003）免安装中文版
+- 行星控制：起源 v1.70.594895（Star Control Origins）免安装中文版
+- 裂谷征途 Build 17859691（Riftbound
+- 空袭任务 v1.0.0（Strike Mission）免安装中文版
+- 疯狂魔鬼 Build.14332562（Mad Devils: Damned-finitive Edition）免安装中文版
+- 轮上混乱 v1.0.1.38（Chaos on Wheels）免安装英文版
+- 部落领主（Hordelord）免安装中文版
+- 极度恐慌2：起源计划|极度恐慌2：重生 v1.05（F.E.A.R. 2 Project Origin）免安装中文版
+- 孤岛惊魂4/Far Cry 4  v1.12.0   免安装中文版
+- 外甲能力（Exo-Calibre）免安装中文版
+- 黑土镇异常打击小队C.A.S.T /CHERNOZEM ANOMALY STRIKE TEAM  v1.0.2  免安装中文版
+- 黑色子弹/Bullet Noir  Build.19893843  免安装英文版
+- 科技流质/ TEXNOPLAZM   Build.20127622  免安装英文版
+- 像素战斗：僵尸射手/ Pixel Combat Zombie Shooter    Build.20770038   免安装中文版
+- 潜行者：普里皮亚季的召唤/S.T.A.L.K.E.R.: Call of Pripyat   v1.10.1.27021   免安装中文版
+- 切口 Build.19641478（INCISION）免安装中文版
+- 网络奇兵2：25周年重制版 v1.0.0（System Shock 2 25th Anniversary Remaster）免安装英文版
+- 形状转换者：阵型 v1.0.0（Shape Shifter: Formations）免安装英文版
+- 折翼天使 Build.17697345（Angels Fall First）免安装英文版
+- 使命召唤18：先锋 完整版（Call of Duty®: Vanguard）免安装中文版
+- 潜行者2：切尔诺贝利之心 v1.4.0 送修改器（S2HOC）免安装中文版
+- 地铁：最后的曙光 重置版 PC/手机双端（Metro: Last Light Redux）免安装中文版
+- 使命召唤14 二战（Call of Duty: WWII）免安装中文版
+- 孤岛惊魂6 终极整合版（Far Cry 6）免安装中文版
+- 喋血复仇：终极版 Build.15052024 单机+联机（Back 4 Blood）免安装中文版
+- 使命召唤2（Call of Duty 2）免安装中文版
+- 使命召唤11 高级战争（Call of Duty: Advanced Warfare）免安装中文版
+- 战地3 v1.6.0（Battlefield 3）免安装中文版
+- 孤岛惊魂 新曙光 豪华版 v1.05 集成高清材质包全DLC（Far Cry New Dawn）免安装中文版
+- 抢滩登陆战 合集（Beach Head）免安装中文版
+- 英雄萨姆4 v1.09 全DLC（Serious Sam 4）免安装中文版
+- 木卫四协议 v20240730（The Callisto Protocol）免安装中文版
+- 绝地潜兵1 v21 全DLC（HELLDIVERS Dive Harder Edition）免安装中文版
+- 国土防线1+国土防线2：革命 v781464 全DLC 送修改器 满金币点数初始存档（Homefront: The Revolution）免安装中文版
+- 孤岛惊魂2 v1.02（Far Cry 2）免安装中文版
+- 杀戮空间2 v20250319 全DLC（Killing Floor 2）免安装中文版
+- 德军总部：新血液（Wolfenstein: The New Order）免安装中文版
+- 战地模拟器（Ravenfield）免安装英文版
+- 无主之地：年度版 v1.5（Borderlands Game of the Year Enhanced）免安装中文版
+- 杀手 v1.0.0（The Cleaner）免安装中文版
+- 致命半径2VR 单机+联机 v0.10.0.25619（Into the Radius 2）免安装英文版
+- 荣誉勋章2010 战士+血战太平洋+空降神兵 三部曲合集（Medal of Honor）免安装中文版
+- 烟花模拟器 v25.3.1（Fireworks Mania – An Explosive Simulator）免安装中文版
+- 血液奔流|血液流动|血奔 v1.03（Blood Running）免安装中文版
+- 涡轮超杀|家园狂杀 v1.51（Turbo Overkill）免安装中文版
+- 黑道圣徒4：世纪版 全DLC v6.0 赠原声带+XG器+通关存档（Saints Row IV: Re-Elected）免安装中文版
+- 静脉注射 v1.5.1（Intravenous）免安装中文版
+- 光晕：斯巴达进攻（Halo: Spartan Strike）免安装中文版
+- 铳墓 G.O.R.E v20241005 全DLC（Gungrave G.O.R.E）免安装中文版
+- HK残杀 v3756588（The Hong Kong Massacre）免安装英文版
+- 西尔维奥：黑水（Sylvio: Black Waters）免安装中文版
+- 艺术家模拟器 Build.15112038（SuchArt: Genius Artist Simulator）免安装中文版
+- 敌军前线/ Enemy Front   v1.0.0   免安装中文版
+- 永远的毁灭公爵（Duke Nukem Forever）免安装中文版
+- 英雄萨姆4/Serious Sam 4
+- 无主之地2/Borderlands 2
+- 杀出重围3：人类革命/Deus Ex: Human Revolution
+- 杀出重围：陨落/Deus Ex: The Fall
+- 杀出重围：人类分裂/Deus Ex: Mankind Divided
+- 超级城市力量
+- 皇牌空战7：未知空域
+- 使命召唤17：黑色行动冷战/Call of Duty: Black Ops Cold War   v1.34.1.15931218   免安装中文版
+- 使命召唤16/Call of Duty: Modern Warfare Remastered   v20250727   免安装中文版
+- 异形杀戮者 Build.11059968（Alien Slayers）免安装中文版
+- 黑山基地/黑山：起源/Black Mesa：Source
+- 深入敌后：重制版 v2.1.0（Beyond Enemy Lines
+- 狙击手：幽灵战士3 v1.08 送修改器+武器全解锁存档（Sniper Ghost Warrior 3 Season Pass Edition）免安装中文版
+- 战地硬仗 v4962449（Battlefield Hardline）免安装中文版
+- 怒火全开 v1.01（CYGNI）免安装中文版
+- 《使命召唤11：高级战争》（Call of Duty: Advanced Warfare）免安装中文版|解压即撸|
+- 第二太阳/ Second Sun   v1.0.9    免安装英文版
+- 幻耀的羽毛 v1.005（Mirage Feathers）免安装中文版
+- 射戮骑士 /KILL KNIGHT   Build.20214154   免安装中文版
+- 伙伴奇技 /BuddySkill  Build.21368947  免安装中文版
+- 外星原人HD版 /Alien Hominid HD   v1.0.0   免安装中文版
+- 血腥杀戮：血爆过载/BLOODKILL Goreblast Overkill    Build.21021364   免安装中文版
+- 半条命2 v20250211（Half-Life 2）免安装中文版
+- 使命召唤7 黑色行动/ Call of Duty: Black Ops   免安装中文版
+- 使命召唤8 现代战争3/ Call of Duty Modern Warfare 3   免安装中文版
+- 泰坦陨落2 v2.0.11.0+全DLC+大师难度通关存档+修改器（Titanfall 2）免安装中文版
+- 毁灭战士4 v20240411（Doom 2016）免安装中文版
+- 斯拉夫朋克：老古董 v1.3（SlavicPunk: Oldtimer）免安装中文版
+- 破碎线/ Shatterline  v98.0.45.0 全DLC 免安装英文版
+- 食屎啦你/Eat Shit   Build.21637525   免安装中文版
+- 破壕行动 /Over The Top WWI  Build.22254143   免安装中文版
+- 迷你岛：春天 /Mini Island Spring   完整版    免安装中文版
+- 深岩银河/ Deep Rock Galactic/ 单机+联机   v1.40.136457.0 全DLC   免安装中文版
+- 无主之地4-虚拟机版 / Borderlands 4   v1.5.0 (Build.22451550)_新版VBS补丁  全DLC  送修改器 免安装中文版
+- 轨道超速/Orbital Overdrive    Build.22367711   免安装中文版
+- 泛宇宙捍卫者 /Defenders of the Omniverse    v0.1.3   免安装中文版
+- 孤岛惊魂：新曙光-虚拟机版/Far Cry New Dawn    v1.0.8   免安装中文版
+- 枪与修女：攻占地狱 /Guns and Nuns Storming Hell   v1.1.0    免安装中文版
+- 地面部队 /GROUND BRANCH/单机+联机   Build.22285733   免安装英文版
+- 蛮狩部落/Hunters Inc/单机+联机   Build.21250652   免安装中文版
+- 霰弹警长/Shotgun Cop Man   v20250604  免安装中文版
+- 工政2/ INDUSTRIA 2   v1.1.2  免安装中文版
+- 叛乱：沙漠风暴/Insurgency: Sandstorm   v1.21  全DLC   免安装中文版
+- 红河行动/ Incursion Red River/ 单机+联机   v1.3.0.6   免安装英文版
+- 圣物深渊/Relic Abyss    v0.5.20   免安装中文版
+- 怪物来袭：滚滚征途 /Monsters are Coming! Rock and Road   v1.4.9.0  全DLC   免安装中文版
+- 炼狱幸存者/Purgatory Survivors    Build.23601436   免安装中文版
+- 侵蚀之东方～陨落的乐园巫女/Touhou Erosion ~ The Fallen Shrine Maiden of Paradise    Build.23608152   免安装中文版
+- 始终之命星|普罗维登斯之星/Star of Providence   Build.23605257   免安装中文版
+- 识质存在-解压即玩版/ PRAGMATA   Build.22357085 全DLC 送修改器   免安装中文版
+- 神风帝国/Kamikaze Empire    Build.23624171   免安装中文版
+- 才华横溢/Talented    v1.4.14  免安装中文版
+- 格杀勿论|通缉令：死亡/Wanted: Dead     v1.13   免安装中文版
+- 杀手豆 /Killer Bean    Build.23630901   免安装中文版
+- 多炮塔神教/Multi Turret Academy   v0.9.86.22   免安装中文版
+- 泰坦防线2/Artificial Extinction 2    Build.23609070   免安装中文版
+- 部落猎手/Horde Hunters    Build.23622075   免安装中文版
+- 断电协议/Blackout Protocol/单机+联机   v1.1.2 全DLC  免安装中文版
+- 节奏狂怒/Beats Of Fury    v20260611   免安装中文版
+- 暴力之城幸存者/Beatdown City Survivors     Build.23662568   免安装中文版
+- 小飞船大冒险/Minishoot\\’ Adventures     Build.23192762   免安装中文版
+- 末日逃生/Deadline Escape   Build.23574874  免安装英文版
+- 菜鸟来了|我是BOSS/Noobs Are Coming   Build.23607746   免安装中文版
+- 胜过死亡/Better Than Dead    v0.202  免安装中文版
+- 虚空破坏者/ VOID BREAKER   v0.13.3  免安装中文版
+- 沙滩防线：僵尸来袭/ Beach Defense Zombie Invasion    Build.23760367   免安装中文版
+- 猎人：荒野的召唤/ theHunter: Call of the Wild/ 单机+联机   v3263984  全DLC 赠满财富技能小屋位置存档  免安装中文版
+- 浅红2|易红2|轻松挂彩2/Easy Red 2 / PC+手机双端  v2.0.6  全DLC 送修改器 新增淞沪会战+南京大作战DLC   免安装中文版
+- 鼓风压头/ Blast Head   v1.0.0  免安装英文版
+- 遥遥西土/ Far Far West / 单机+联机   v0.1.1.10   免安装中文版
+- 肉转乾坤 /SWAPMEAT   v1.1.0   免安装中文版
+- 时尚警察小队：潮流特警队/Fashion Police Squad    Build.20291294   免安装中文版
+- 枪火重生/ Gunfire Reborn/单机+联机  / PC+手机双端    v20260617   全DLC 送修改器  免安装中文版
+- 社畜大作战/Last Man Sitting /单机+联机    v1.0.2    免安装中文版
+- 武装突袭：援德行动|武装突袭 重铸者/ Arma Reforger   v1.7.0.49  免安装中文版
+- 马塞利亚：往昔回响|过去的回响/Maseylia Echoes of the Past    Build.23835330   免安装中文版
+- 踢士洛爵士大冒险 /The Adventures of Sir Kicksalot    Build.23750439   免安装中文版
+- KovaaK的FPS枪法模拟器/ KovaaK’s    Build.23418238    免安装中文版
+- 奇核 /ODDCORE  Build.23609957   免安装英文版奇核
+- 巴西毒枭3 / BRAZILIAN DRUG DEALER 3   Build.23805269   免安装中文版
+- 噪音/NOISZ    Build.23579783   免安装中文版
+- 红灯 /Red Light    Build.22968051   免安装中文版
+- 圣火守望者：共筑防线/Sineus Arena Survivors    Build.23865437   免安装中文版
+- 跳跃空间|跃迁空间/ Jump Space/ 单机+联机   v0.7.16.2  免安装中文版
+- 死亡循环-虚拟机版 /DEATHLOOP    v1.820.5.1|Build.22517541    免安装中文版
+- 金属花园/ Metal Garden   v2.7.2   免安装英文版
+- 故障星系/ Galactic Glitch   v2.22  免安装中文版
+- 鱼/FISH   v3.0   免安装英文版
+- 灰烬觉醒/ASHWAKE    免安装中文版
+- 机器人小队/Tribots    v0.1.0.2    免安装英文版
+- 杀戮投射/ Kill Cast     免安装英文版
+- 枪蛙/Gun Frog   Build.21127081  免安装中文版
+- 高压社会/Voltage High Society   Build.23945892    免安装英文版
+- 天鹅湖/Swarmlake    Build.23933160   免安装中文版
+- 巴别塔 ：混乱的幸存者/ Tower of Babel: Survivors of Chaos    v1.1.0   免安装中文版
+- 灭菌小队|真菌朋克/ Mycopunk   v1.9.2   免安装中文版
+- 危险节奏2 /Beat Hazard 2   Build.23504153  免安装中文版
+- 银河宝库 /Galactic Vault   Build.23889856    免安装中文版
+- 幽灵行动：荒野-虚拟机版 / Tom Clancy’s Ghost Recon® Wildlands    Build.12185816    免安装中文版
+- 死亡空间-虚拟机版 /Dead Space   Build.10602756   免安装中文版
+- 速度射击/SPEEDSHOT    Build.22931688   免安装中文版
+- 维尔德：枪域争锋/Vilde   Build.23680247   免安装中文版
+- 东方冰之勇者记/Touhou Hero of Ice Fairy    v20260626   全DLC  送修改器   免安装中文版
+- 恶魔宝贝/DAMON and BABY   v2.00   免安装中文版
+- AI奥林匹斯|人工智能奥林匹斯/AI Olympius    v0.9.45   免安装中文版
+- 暴徒猎手：超时 /HUNTDOWN OVERTIME    v0.790   免安装中文版
+- 杀毒少女/Antivirus Girl   Build.24001468   免安装中文版
+- 地精美国/goblinAmerica    Build.23867030   免安装英文版
+- 使命召唤5 世界战争/Call of Duty: World at War   v1.7.1263   支持单人战役.BOT多人模式 送修改器+最高难度完美通关存档   免安装中文版
+- 艾尔西 /Elsie   Build.23999721  免安装中文版
+- 收获日2 /PAYDAY 2/单机+联机    Build.23347634  全DLC    免安装中文版
+- 战壕传说/Trench Tales    v20260621   免安装英文版
+- 超时空地牢/Enter the Chronosphere    v0.139.8  免安装中文版
+- 虫族幸存者：无尽围攻 /Swarm Survivor Endless Siege   Build.23147707   免安装中文版
+- 畸变/Deformed     Build.17904040    免安装中文版
+- 超频连接 /HYPERWIRED   Build.24024711   免安装中文版
+- 轮回保险公司 R.I.P./R.I.P. – Reincarnation Insurance Program   v0.8.9.2   免安装中文版
+- 法外枭雄：滚石城/ Crime Boss: Rockay City / 单机+联机   v1.21.2.0  全DLC   免安装中文版
+- 神之军火/Arms of God    Build.24050592   免安装中文版
+- 东方幕华祭 永夜篇/ Touhou Makuka Sai ~ Fantastic Danmaku Festival Part III   v20260702   免安装中文版
+- 终结者2D：命运未定 /Terminator 2D NO FATE    Build.24040403      免安装中文版
+- 生存代码/Net .Attack()   Build.23638384   免安装中文版
+- 泽格拉德加强版/XeGrader plus    Build.24073264   免安装中文版
+- 泰拉科技魇团 /TerraTech Legion   v1.0.7  免安装中文版
+- 深岩银河：异动核心 /Deep Rock Galactic Rogue Core/单机+联机    Build.24077980   免安装中文版
+- 毁灭战士：黑暗时代/DOOM The Dark Ages   Build.23888600  全DLC 送修改器  免安装中文版
+- 使命召唤4：现代战争/ Call of Duty 4: Modern Warfare    v1.13+v1.15重制版 全DLC 单机+联机 送修改器+全情报收集存档+锐化去模糊补丁    免安装中文版
+- 核纪元/Nuclear Epoch    v1.0.1.0   免安装中文版
+- 魂识界 /TAMASHIKA   v1.3.0   免安装中文版
+- 神探杰克鼠/MOUSE P.I. For Hire   v1.2.1  免安装中文版
+- 七日杀/ 7 Days to Die / 单机+联机     3.0.b259   全DLC 送修改器   免安装中文版
+- 苏打队长 /Captain Soda   Build.24078376   免安装中文版
+- 审判幸存者 /Trials Survivors   v0.1.7.6   免安装中文版
+- 黑暗獠牙2 /Dark Reaper Shoots! 2    v1.0.0   免安装中文版
+- 1915滩头入侵：加里波利/Beach Invasion 1915-Gallipoli       Build.21147558    免安装中文版
+- 燥热/ SUPERHOT   Build.20299759   免安装中文版
+- 被诅咒的小护!/ ReCurse   v1.0  免安装中文版
+- AK蝾螈/AK-xolotl: Together   v2.5.3  免安装中文版
+- 镭射街机编年史/ Ray’z Arcade Chronology    Build.19078077   免安装中文版
+- 细胞分裂2：明日潘多拉/ Tom Clancy’s Splinter Cell Pandora Tomorrow    免安装中文版
+- 自杀小队：消灭正义联盟/ Suicide Squad: Kill the Justice League    Build.17107881  全DLC   免安装中文版
+- 东方雪莲华/ Abyss Soul Lotus    Build.10758608   免安装中文版
+- 血杀/ BLOODKILL    Build.20402131   免安装中文版
+- 陶拉：生存/ Taora : Survival   Build.16617889  免安装中文版
+- 肾上腺素狂潮/ Adrenaline Rampage   v1.0.0   免安装中文版
+- 超级暴力|急速击杀/ HYPERVIOLENT   Build.20386709  免安装中文版
+- 怪鸡枪手 初始版/ The Original Moorhuhn Hunt    Build.18066584   免安装中文版
+- 午夜猎魂/ Midnight Ghost Hunt/ 单机+联机   v1.6.4   免安装中文版
+- 彩弹射击大战2 / PaintBall War 2   Build.16460581   免安装中文版
+- 突袭：二战/ RAID: World War II   v25.03 全DLC 送修改器   免安装中文版
+- 瞄准实验室 专业练枪软件/ Aimlabs   Build.16506787   免安装中文版
+- 最后的坦克大战/ The last tank fight   v1.0   免安装中文版
+- 狙击精英3/ Sniper Elite 3   v1.14   免安装中文版
+- 叽叽挖挖/ Repetendium   Build 18762117   免安装中文版
+- 厕所英雄|斯基比迪厕所：英雄/Skibidi Toilet Hero    Build.20267175   免安装中文版
+- 恐龙猎人2：邪恶之种/ Turok 2 Seeds of Evil    Build.20621178   免安装英文版
+- 末日核心：机甲幸存者/ Iron Core Mech Survivor   v4.0.3   免安装中文版
+- 联邦控制局：防火组|FBC防火线/ FBC Firebreak /单机+联机   v5347140  免安装中文版
+- 螃蟹必须死！/ CRABS MUST DIE!    Build.20696190   免安装英文版
+- 需要一场战争/ It Takes a War    Build.20732762   免安装英文版
+- 半条命 爱莉克斯/ Half-Life: Alyx   v1.5.4   免安装中文版
+- 东方文殿生存/ Touhou Library Survivors   v9762528   免安装中文版
+- 零点时刻|绝命时刻/ Zero Hour   v1.0   免安装中文版
+- 身摄实战：肾上腺素/ Bodycam Adrenaline    v1.0.0   免安装中文版
+- 陨石吞噬世界/ Rubble Eats The World   Build.20535889   免安装中文版
+- 只有铅才能阻止他们|只有铅才能阻止它们/ Only Lead Can Stop Them   Build 18223651   免安装中文版
+- 腐烂国度2/ State of Decay 2: Juggernaut Edition   v20241022 送修改器  免安装中文版
+- 赛博喵战士/ CLAWPUNK    v1.01.05   免安装中文版
+- 雷神之锤2增强版/Quake II Enhanced   v1.0.6002.0   免安装英文版
+- 恶魔之影/Shadow Of The Devi   v1.0.0  免安装中文版
+- 寻宝英雄：力量手套/ Heroes Of Loot Gauntlet Of Power   Build.20800853  免安装中文版
+- 盟军敢死队/ Commandos    v3.64MD模拟器版   免安装中文版
+- 吸血猫 /Vampire Cat  Build.20887202  免安装中文版
+- 丧灵激汤/Zombie Soup   v1.0.10  免安装中文版
+- 洛克人X 遗产系列/Mega Man X Legacy Collection   免安装中文版
+- 狙击精英4/ Sniper Elite 4   v1.5.0   免安装中文版
+- 使命召唤20现代战争3/ Call of Duty Modern Warfare III   v10.4 整合多人模式.单人剧情   免安装英文版
+- 使命召唤19：现代战争2 / Call of Duty Modern Warfare II    v9.2.12721522   免安装中文版
+- 兄弟会/Brotherhood   v1.0.4   免安装中文版
+- 你的小坤坤 必须有麦克风   Build.20984667   免安装中文版
+- 莫尔塔/ Mohrta    Build.20359004   免安装英文版
+- Eximius：夺取前线/Eximius: Seize the Frontline    Build.20707650  全DLC   免安装中文版
+- 终结者：反抗军/ Terminator: Resistance   免安装中文版
+- 虫姬/Mushihimesama   v1.1.9.3   免安装中文版
+- 无数死亡/MYRIAD DEATH   v1.3.0  免安装中文版
+- 幽灵行动：荒野-完全版/ Tom Clancy’s Ghost Recon® Wildlands    v4792145 赠原声带+修改器+通关存档   免安装中文版
+- 随身摄像机/Bodycam /单机+联机  Build.28112025  免安装中文版
+- 血祭：新鲜供应/Blood Refreshed Supply   Build.21047897   免安装英文版
+- 塑战核心/ Battle Shapers   v1.1.3.10519  免安装中文版
+- 黑龙魔导士 /Black Dragon Mage   Build.21071136    免安装中文版
+- 黑土镇异常打击小队C.A.S.T. /CHERNOZEM ANOMALY STRIKE TEAM /单机+联机   v1.0.2  免安装中文版
+- 史莱姆粉碎者 /Slime Squisher   Build.18110896    免安装中文版
+- 善意杀戮/Good Kill!   免安装中文版
+- 狼的法则|无政府状态： 沃尔夫定律 /Anarchy: Wolf\\’s law   v0.9.978.1712 全DLC   免安装中文版
+- 持枪松鼠|松鼠遇到枪/Squirrel with a Gun    v1.7.5.1  免安装英文版
+- 斩将夺旗 免安装中文版
+- 终结者2D：命运未定 /Terminator 2D NO FATE    Build.20805989    免安装中文版
+- 永不觉醒/NeverAwake    Build.21081386    免安装中文版
+- 方块堡垒2 /Block Fortress 2   Build.20207763   免安装中文版
+- 铁甲少女/ FULL METAL SCHOOLGIRL   v1.06  免安装中文版
+- 病毒识别：拯救系统/Identifile Desktop Dungeon   Build.21024048   免安装中文版
+- 渊域/ Beneath   v1.03f  免安装中文版
+- 战地：叛逆连队2 /Battlefield Bad Company 2   v795745   免安装中文版
+- 赛博巨头|赛博公司/ CyberCorp    Build.21204759   免安装中文版
+- 狙击手：幽灵战士1/Sniper Ghost Warrior   完整版 送修改器+完美通关存档    免安装中文版
+- 狙击手：幽灵战士2/Sniper Ghost Warrior 2   v1.09 送修改器+全收集通关存档   免安装中文版
+- 日落过载/Sunset Overdrive    送修改器+外送解锁存档   免安装中文版
+- 少女与魔法 /Maiden and Spell /单机+联机   Build.11072023    免安装中文版
+- 巴西毒枭3 / BRAZILIAN DRUG DEALER 3   Build.21250235  免安装中文版
+- 炮舰外交/Gunbot Diplomacy   Build.21245162   免安装中文版
+- 神风少女战机 /Kamikaze Lassplanes   Build.21196671   免安装中文版
+- 宇宙战争 /Nienix: Cosmic Warfare  v1.102   免安装中文版
+- 宇宙巡航机：起源/GRADIUS ORIGINS   v1.003   免安装中文版
+- 阿尔法反应 /Alpha Response/单机+联机   Build.21063395   免安装英文版
+- 活魔人 /Raining Blood Hellfire   Build.19725999    免安装中文版
+- 抗日大刀队：日军总部 /Killing Sun   完整版   免安装中文版
+- 孤胆佣兵 /Son Of A Gun   v1.0.3   免安装中文版
+- 巴洛克射手：反击 /BAROQUE SHOOTING REVERSED   Build.21205225   免安装中文版
+- 抗日血战上海滩/New Battle of Shanghai Beach   免安装中文版
+- 东方幕华祭 永夜篇/ Touhou Makuka Sai ~ Fantastic Danmaku Festival Part III   v20251224  免安装中文版
+- EX-黄道十二宫|前黄道带/Ex-Zodiac   v0.12.4   免安装中文版
+- 星位继承者 /Astria Ascending   v1.0.155 全DLC 送修改器+原声音乐   免安装中文版
+- 时间掠夺者亨迪 /Time Snatcher Handy   Build.21216599   免安装中文版
+- 无底深井 /Deepest Well   Build.20993129   免安装中文版
+- 喋血街头：脑损伤/ POSTAL Brain Damaged   v20251216  全DLC   免安装中文版
+- FPS枪法入门：简易瞄准训练 /Simple FPS Aim Trainer   Build.20313168    免安装中文版
+- 怒火：永恒遗迹 /WRATH Aeon of Ruin   v20260105   免安装中文版
+- 枪螂 /Gung Beetle   Build.21236216   免安装中文版
+- 决死：小屋/ Drop Dead The Cabin  Build.21283908  支持VR  免安装中文版
+- 原谅我父亲1 / Forgive Me Father1   v1.4.1 + 原谅我父亲2 / Forgive Me Father2   v1.1.1.8s  免安装中文版
+- 极速骆马/Speedollama   v1.5.0  免安装中文版
+- 咖啡星矿工 /Astro Prospector    Build.21293585  免安装中文版
+- 合金弹头：战略版/Metal Slug Tactics   Build.20366170  免安装中文版
+- 菜鸟来了|我是BOSS/Noobs Are Coming   Build.21407461   免安装中文版
+- 邪教/ CULTIC   v20260108  免安装英文版
+- 虚空矿工/ Void Miner – Asteroid Roguelite  Build.21227269  免安装中文版
+- 拉拉繁荣|啦啦爆破/Ra Ra BOOM  Build.20342325  免安装中文版
+- 崛起前线 /Rising Front  Build.21442910  免安装中文版
+- 战地1 / Battlefield 1   免安装中文版
+- 打击者1945/STRIKERS 1945   Build.19313527  免安装中文版
+- 地铁：觉醒VR /Metro Awakening  v20260114  免安装中文版
+- 暗夜狂潮/Nightmare Tide   v20260106  免安装中文版
+- 爆发：恐怖阴影/Outbreak Shades of Horror   v1.0.0.16    免安装中文版
+- 跃击者|风翔者/Slyders    Build.21277288   免安装中文版
+- 船长韦恩：假期绝境/ Captain Wayne – Vacation Desperation   v1.2a   免安装英文版
+- 鼠鼠登月/Rocket Rats   Build.21606910   免安装中文版
+- 开拓者：断魂塔幸存者 /Pathfinder: Gallowspire Survivors   v1.0.3179   免安装中文版
+- 几何竞技场/Geometry Arena   v1.1.0   免安装中文版
+- 停止行动/Out of Action   Build.21633269   免安装英文版
+- 化石燃料2/Fossilfuel 2  v1.3.2  免安装中文版
+- 死亡核心：重制版/DeadCore Redux   v1.0.2  免安装中文版
+- 瞬变 /Transience   v1.0.7.2  免安装英文版
+- 僵尸危机：不朽/BOXHEAD Immortal  Build.14206548  免安装中文版
+- 荒野大镖客：救赎2|荒野大镖客2 / Red Dead Redemption 2   v1491.50 打包mod 送修改器    免安装中文版
+- 生化奇兵3：无限/ Bioshock Infinite    送修改器+全关卡装备解锁存档   免安装中文版
+- 使命召唤4：现代战争/ Call of Duty 4: Modern Warfare   v1.13 重制版   免安装中文版
+- 使命召唤6：现代战争2 重制版/ Call of Duty: Modern Warfare 2   免安装中文版
+- 旋战姬极速对决2 /Acceleration of SUGURI 2  Build.20103409  免安装中文版
+- 不再下雪/No More Snow   Build.16837898   免安装中文版
+- 阿卡迪姆：太空奥德赛 /Arcadium – Space Odyssey   Build.21623816  免安装中文版
+- 通灵塔2 / Ziggurat 2   Build.21683138   免安装中文版
+- 残忍/ CRUEL   Build.21597681   免安装英文版
+- 遗物猎人传说/ Relic Hunters Legend   v1.1.2  免安装中文版
+- 才华横溢/Talented    Build.21728690  免安装中文版
+- 血之国度 /Blood Country   Build.21643754   免安装中文版
+- 星间大乱斗2/Astro Duel 2   Build.21504379   免安装中文版
+- 武装突袭：援德行动|武装突袭 重铸者/ Arma Reforger   v16.0.119   免安装中文版
+- 狂发疯杰克|鲻鱼狂杰克/MULLET MADJACK   v1.13d23    免安装中文版
+- 线卫者 /Lines Guarder  Build.11729078   免安装中文版
+- 使命召唤14：二战/Call of Duty: WWII   v1.25.2244937  整合暗影战争 集成单人战役.BOT多人游戏.僵尸模式 送修改器 老兵难度通关存档+局域网联机教程   免安装中文版
+- 毁灭公爵3D：20周年版 世界巡回/Duke Nukem 3D 20th Anniversary World Tour   v20260111   免安装英文版
+- 豺狼/Jackal   Build.21814407  免安装中文版
+- 失落舰队/Airships Lost Flotilla   v1.0.9   免安装中文版
+- 荒原先驱/PIONER  Build.21812395  免安装中文版
+- 希特勒是我的暗恋对象/Hitler is my crush   v20260207  免安装中文版
+- 高压清洗模拟器/ Super Wash Simulator   Build.21319492   免安装中文版
+- 机甲战士5：部落/MechWarrior 5: Clans    v1.16.134  全DLC    免安装英文版
+- 反击：起义 /CounterAttack Uprising  v1.1.5  免安装中文版
+- 圣铠传说/Gauntlet   完整版  免安装中文版
+- 毁灭战士 永恒/ DOOM Eternal /单机+联机   v20260212 全DLC 单机+联机 送修改器+赠满武器升级点.武器精通点.护甲点.守卫电池初始存档  免安装中文版
+- 空灵骑士：极速坠击 /Aerial_Knight’s DropShot  Build.22008522  免安装英文版
+- 布基纳法索：激进叛乱/Burkina Faso Radical Insurgency    v1.1   免安装英文版
+- 肉转乾坤 /SWAPMEAT   Build.22012742   免安装中文版
+- 重机枪之怒/Machine Gun Fury    Build.21068404   免安装中文版
+- 龙之光辉 /Dragon Blaze  Build.21420993   免安装中文版
+- 电音狂魔2 /Aaero2   Build.21982651  免安装中文版
+- 最后一次突击/ Phantom Squad/ 单机+联机  v1.5.1 免安装中文版
+- 他们杀了你的猫 /They Killed Your Cat   Build.22130763   免安装中文版
+- 蔓延 /SPRAWL  Build.22010013  免安装中文版
+- 脑腐在线/Brainrot Online   Build.22152033   免安装中文版
+- 孤星猎人  Build.22171723 免安装中文版
+- 枪途末路/GUNTOUCHABLES /单机+联机  v1.3.0 免安装中文版
+- 不要喂猫/Don’t Feed The Cat   Build.22014458   免安装中文版
+- 穿越机战场：战斗无人机模拟器 /FPV Battleground Combat Drone Simulator  Build.21987729   免安装中文版
+- 天国射爆王 /Holy Shoot   v1.0.14.1   免安装中文版
+- 超越日落/Beyond Sunset   v20260306  免安装英文版
+- 机械战警 暴戾都市/RoboCop: Rogue City    v1.7.0.0  含最新未竟之事DLC  送艺术设定集  免安装中文版
+- 青蛙祖玛 v1.3 免安装中文版
+- 红色回响 /Echoes of Red  Build.22305695  免安装中文版
+- 沃斯托克 2061/Vostok 2061   Build.21135384   免安装中文版
+- 科瓦克/Kvark   Build.21181664   免安装中文版
+- 孤岛惊魂1 /Far Cry 1  Build.252080   免安装中文版
+- 迷你岛：秋天/Mini Island Autumn  完整版   免安装中文版
+- 迷你岛：夏天/Mini Island Summer   完整版   免安装中文版
+- 迷你岛：Remix /Mixx Island Remix   完整版    免安装中文版
+- 迷你岛 /Star Island   完整版   免安装中文版
+- 罪恶街区/Crime District   v1.14   免安装中文版
+- 佩波/Pepo   v1.1.2   免安装中文版
+- 斯盖尔仪式/Sker Ritual   v1.3.3.25626 全DLC  免安装中文版
+- 末日逃生/Deadline Escape   Build.22354431   免安装英文版
+- 网络奇兵：重制版/ System Shock   v2.1.0  免安装中文版
+- 血之狂潮 /Blood Rush   Build.22404690    免安装中文版
+- 术士计划2/Project Warlock II   Build.22397520   全DLC   免安装中文版
+- 合金天使：堕入伊甸/ Metal Eden   v20260319  免安装中文版
+- 闪攻机人：阿修罗 /閃攻機人アスラ – ASURA THE STRIKER –    Build.22385698  免安装中文版
+- 血色矿脉|群集研磨者 /Swarm Grinder  Build.22421386   免安装中文版
+- 幸存者雇佣兵/Survivor Mercs  Build.22454965  免安装中文版
+- 末日来袭：狂潮|让他们来吧：猛攻 / Let Them Come Onslaught    Build.22431712  免安装中文版
+- ChooChoo幸存者 /Choo Choo Survivor   Build.18689660     免安装中文版
+- 斩妖除魔 |恐惧杀手 重制版  / Painkiller    v20260318 免安装中文版
+- 生存代码/Net .Attack()  Build.22465506   免安装中文版
+- 费卢杰六日/ Six Days in Fallujah/ 单机+联机  Build.25022026   免安装中文版
+- 狙击精英：抵抗-虚拟机版/ Sniper Elite Resistance   v1.31（Build.19059708） 免安装中文版
+- 四海兄弟：故乡|黑手党：故乡-虚拟机版 / Mafia The Old Country   Build.20951841_新版VBS补丁  免安装中文版
+- 时尚警察小队：潮流特警队/Fashion Police Squad    v1.0.10   免安装中文版
+- 怪物 /Thy Creature    v1.0.5.HotFix   免安装中文版
+- 毁灭战士：黑暗时代/DOOM The Dark Ages   Build.20760608   送修改器+单板补丁  免安装中文版
+- 阿斯塔布里德：终极版 /Astebreed: Definitive Edition   v3.03    免安装中文版
+- 电子炼狱|三角弹幕战/SEKTORI  v1.0.2  免安装中文版
+- 炼狱神罚 /Scathe/单机+联机   v12.4.5.17523.4603   免安装中文版
+- 毁灭战士 1+2/DOOM + DOOM II   v20250417    免安装中文版
+- 狙击精英5-虚拟机版 /Sniper Elite 5   v2.41（Build.18805095）免安装中文版
+- 疯菇突围/ Funguys Swarm   Build.22660260   免安装中文版
+- 毁灭战士：永恒/DOOM Eternal     v20260403  全DLC 单机+联机 送修改器+赠满武器升级点.武器精通点.护甲点.守卫电池初始存档     免安装中文版
+- 通往沃斯托克之路 /Road to Vostok   Build.22674175   免安装英文版
+- Mononeko：节奏冒险 /Mononeko A Rhythm Adventure   Build.15885843   免安装中文版
+- 奇迹勇者 /Miracle Brave   Build.22707950   免安装中文版
+- 武装突袭3/Arma 3   v2.20.152984 全DLC   免安装中文版
+- 孤岛惊魂6 -虚拟机版 / Far Cry 6   v1.8.0   全DLC   免安装中文版
+- 猪锯惊魂/Pigsaw   v1.3.0   免安装英文版
+- 修仙降妖传 /Tale of Immortal Ring   Build.22673449    免安装中文版
+- 魂识界 /TAMASHIKA   Build.22745215   免安装中文版
+- 回声点新星/Echo Point Nova  Build.22733337  免安装中文版
+- 星尘试炼/Stardust Trial    Build.22635243   免安装中文版
+- 使命召唤12 黑色行动3 /Call of Duty: Black Ops III    v100 支持僵尸模式.BOT多人模式 送修改器+战役完美存档.全皮肤.全配件.最高等级.全收集元素.全挑战完成存档    免安装中文版
+- 炮艇之神 /Gunboat God  Build.22755603   免安装中文版
+- 危险节奏2 /Beat Hazard 2   Build.22761910   免安装中文版
+- 多边形冲击/POLY IMPULSE    Build.22448225    免安装中文版
+- 东方资志疏 /Immortal Immanuel   Build.17381827   免安装中文版
+- 战锤 40K：火焰战士 – 经典重发行版 /Warhammer 40000 Fire Warrior Classic   Build.22701388    免安装英文版
+- 自爆无人机模拟器|FPV：战争无人机 / FPV Kamikaze Drone/ 单机+联机    Build.22573563   免安装中文版
+- 识质存在-虚拟机版/ PRAGMATA   Build.22357085    免安装中文版
+- 霓虹地狱/Neon Inferno   Build.22769029  免安装中文版
+- 狙击精英VR-虚拟机版/Sniper Elite VR    Build.7358230   免安装中文版
+- 不稳定/UNSTABLE   免安装中文版
+- 落逃之地/LORT/单机+联机   v0.7.2   免安装中文版
+- 帽中客 /Hatters   Build.22811632   免安装中文版
+- 黑夜刀锋：幸存者 /Night Swarm    v1.3.0.1  免安装中文版
+- 命运腐化/LUCKROT    Build.22877843   免安装英文版
+- 死亡法典 /CODEX MORTIS    Build.22907059   免安装中文版
+- 滚弹吧僵尸 /Zombie Rollerz Pinball Heroes    v1.0.1    免安装中文版
+- 圆滚地球变四方 数码方块地球防卫军/ EARTH DEFENSE FORCE WORLD BROTHERS    Build.8019082  免安装中文版
+- 可爱星球Remix /Lovely Planet Remix  v34.5    免安装中文版
+- 大蜈蚣 /Centipede Recharged   Build.7652956   免安装中文版
+- 黑寡妇：充能 /Black Widow Recharged   Build.7838578   免安装中文版
+- 喷射板射击/Jetboard Joust    v1.1.04   免安装中文版
+- 节奏勇者 /BeatHero    Build.22812063   免安装中文版
+- 虚空破坏者/ VOID BREAKER   v0.12.6  免安装中文版
+- 绝岛求生/Away From Life    Build.22921721   免安装中文版
+- 粘土战机 重塑版|鸭嘴兽：黏合/ Platypus Reclayed   v1.4.0  免安装中文版
+- 社畜大作战/Last Man Sitting /单机+联机    v1.01   免安装中文版
+- 佣兵猎手/ Rogue Point   Build.22908899  免安装中文版
+- 元素天使2/Elemental Angel Ⅱ    免安装中文版
+- 战争女神：阿什莉2|战争女神艾什利2 /Goddess Of War Ashley Ⅱ    完整版    免安装中文版
+- 霓虹枯萎病 /Neon Blight    Build.22819979   免安装中文版
+- AI奥林匹斯|人工智能奥林匹斯/AI Olympius    v0.9.27   免安装中文版
+- 枪火重生/ Gunfire Reborn / PC+手机双端   v20260427  全DLC 送修改器  免安装中文版
+- 军事冲突：越南/Military Conflict: Vietnam  Build.23042539   免安装中文版
+- 完美抢劫2/ Perfect Heist 2   Build.23069477   免安装中文版
+- 东方冰之勇者记/Touhou Hero of Ice Fairy    v20260505 全DLC  送修改器   免安装中文版
+- 多炮塔神教/Multi Turret Academy   Build.22761257   免安装中文版
+- 失落国度：死境求生/Stolen Realm Survivors    Build.23150741   免安装中文版
+- 异星突袭：入侵者歼灭战/Alien Strike Blasting the Intruders    Build.23169511   免安装中文版
+- 奇核 /ODDCORE  Build.22714783   免安装英文版奇核
+- 核元突破！/Corebreaker   Build.23185962    免安装中文版
+- 严阵以待/Ready or Not/单机+联机   v117216 全DLC  全MOD 送修改器   免安装中文版
+- 一键异形终结者 /Switch ‘N’ Shoot   Build.20267935   免安装中文版
+- 法外枭雄：滚石城/ Crime Boss: Rockay City / 单机+联机  v1.20.2.0 全DLC   免安装中文版
+- 内脏狂欢/ Viscerafest   Build.23099210   免安装中文版
+- 枪X狗X复仇 /GUN.DOG.REVENGE   Build.22543538   免安装中文版
+- 回转齿轮·零 /Revolgear Zero   Build.23228978   免安装中文版
+- KovaaK的FPS枪法模拟器/ KovaaK’s   Build.23118950     免安装中文版
+- 始终之命星|普罗维登斯之星/Star of Providence   Build.23227469     免安装中文版
+- 银河宝库 /Galactic Vault   Build.23217329_v1.2.6   免安装中文版
+- 渊井之佑/Well Keeper   Build.23124988   免安装中文版
+- 金属花园/ Metal Garden   v2.7.0  免安装英文版
+- 踢士洛爵士大冒险 /The Adventures of Sir Kicksalot    Build.23239680   免安装中文版
+- 遥遥西土/ Far Far West / 单机+联机     v644    免安装中文版
+- 异形战机：维度3 /R-Type Dimensions III    Build.23185178   免安装中文版
+- 七日杀/ 7 Days to Die / 单机+联机     v2.6.b14   全DLC  送修改器   免安装中文版
+- 真实重返德J总部/RealRTCW    Build.23330929   免安装英文版
+- 跳跃空间|跃迁空间/ Jump Space/ 单机+联机   v0.6.14.2   免安装中文版
+- 战壕传说/Trench Tales    v20260520     免安装英文版
+- 进击的打工人/Attack of the worker    Build.23336533   免安装中文版
+- 匕首指令 /Dagger Directive   v0.9.0  免安装中文版
+- 无尽猎杀 /Grind Survivors   Build.23285876   免安装中文版
+- 石墓领主|墓王/Gravelord   v1.0正式版    免安装中文版
+- 收获日2 /PAYDAY 2/单机+联机    Build.23012903   全DLC    免安装中文版
+- 地狱突袭|地狱突围|炼狱深渊/ HELLBREAK   v20260520   免安装中文版
+- 四海兄弟：故乡|黑手党：故乡-解压即玩版/ Mafia The Old Country   Build.20951841 全DLC  免安装中文版
+- 血脉贲张！/Blood High!    Build.23360730   免安装中文版
+- 诗篇2/Psalm 2    Build.23367342   免安装中文版
+- 轮回保险公司 R.I.P./R.I.P. – Reincarnation Insurance Program   v0.8.3.5  免安装中文版
+- 会发光的缕 /Will Glow the Wisp   Build.20724219    免安装中文版
+- 异变战区2 /E.E.R.I.E2     Build.21951321    免安装中文版
+- 奇幻机甲 |魔幻机甲/Vital Shell   Build.23383156   免安装英文版
+- 胜过死亡/Better Than Dead    v0.195   免安装中文版
+- 硅星 /Silica   Build.23333413   免安装英文版
+- 狩猎计划/Project Hunt   v20260525   全DLC   免安装中文版
+- 机甲战士5：雇佣兵/MechWarrior 5 Mercenaries    v1.13.387   全DLC 送修改器+满金币初始存档  免安装中文版
+- 神探杰克鼠/MOUSE P.I. For Hire   v1.1.0  免安装中文版
+- 故障星系/ Galactic Glitch   v2.2   免安装中文版
+- 深岩银河：异动核心 /Deep Rock Galactic Rogue Core/单机+联机    Build.23565054   免安装中文版
+- 巴别塔 ：混乱的幸存者/ Tower of Babel: Survivors of Chaos    v1.0.2正式版    免安装中文版
+
+---
+
+## 休闲益智（614 款）
+
+- 快速大脑1.7通过训练大脑防止老年痴呆
+- 盖世掌游国内版最强免费手游模拟器
+- 多指手机连点器游戏自动化解放双手 免root运行
+- 相声小品精选内置海量相声小品｜海量工具小游戏｜壁纸铃
+- 摄影现场助手—— 摄影小白专属的随身私教｜安卓
+- 雷电连点器脚本执行 游戏挂机自由解放双手
+- 漫画屏幕翻译高级版字幕 漫画翻译看生肉必备
+- GameGuardianGG解锁器免Root框架
+- Hi Dictionary悬浮屏幕翻译解锁版无广
+- 【安卓】歪点点模拟器聊天对话模拟钱包模拟永久会员
+- 自动连点器2.8.8自动点击毫秒级点击｜薅羊毛必备
+- 平行空间 解锁会员专业应用多开分身
+- BBZQB站最新增强模块净化B站告别垃圾广告
+- 格式工厂 解锁永久会员万能格式转换器
+- 多点自动点击连点器游戏挂机抢单神器
+- 外置准星在游戏里内置解锁永久会员 自动吸附
+- 漫画翻译 解锁会员漫画/游戏翻译 屏幕翻译
+- 军棋翻翻棋军棋纯净版无限制AI博弈
+- Ear Spy听觉增强神器放大细微声音实时收音
+- 泡泡翻译4.4.7100种语言网页翻译
+- 千问输入法阿里大厂出品接入千问AI
+- 像塑抖音特效制作工具自媒体副业赚钱必备
+- 哆哆变声器实时变音趣味语音包
+- 飞鸟模拟器内置超多童年游戏类型可开金手指
+- Dual Space无限应用多开解锁会员版
+- 小火焰变声器实时语音变声/配音
+- 平行空间Pro版专业应用多开分身解锁会员
+- Ling高级版60+语种趣味互动外语学习工具
+- 微语变声器免费实时真实变声器
+- 【安卓】自动点击器手机按键精灵自动挂机抢票刷红包
+- 连点器 免费版自由创建脚本 自动抢票/游戏脚本等
+- 妙手自动点击连点器录制脚本解锁永久版
+- 灵变语音变声器轻松玩转百变声线一键变声
+- Drops 解锁会员版免费学习所有热门语言
+- 小米应用商店国际版免谷歌免登录下载国际应用
+- 哆哆变声器真实实时变声器 文本配音
+- DraStic模拟器DS游戏模拟器导入即开即玩
+- 学英语背单词，读句子，学字母零基础必备
+- X-plore文件管理器安卓必备最强管理器
+- 休闲五子棋1.0智能ai博弈｜双人博弈能赢算你牛
+- 小米手环必备表盘自定义工具
+- RetroArch全能模拟器多平台街机游戏模拟器
+- RetroLand ProPSP、街机、FC海量游戏
+- 棋大师2.0.6象棋围棋五子棋三合一纯净无广
+- 怀旧经典游戏免费游戏模型器
+- 冒险生活(不闪退版)[完整版+免内购版]
+- 山寨版悟空黑色传奇switch模拟器！(游戏)
+- 鸟魂2勇者的挑战中文switch模拟器！(游戏)
+- 疯狂动物园v4.8.0[完整版]经典的小游戏了。
+- 地心护核者中文switch模拟器！(游戏)
+- 失物招领模拟器v1.1.0手机也能玩pc游戏！
+- 小松林PolyPine中文手机也能玩pc游戏！
+- 愤怒的小鸟2v3.28.0[免内购+完整版]
+- 太阁立志传5DX[完整版]一肝就停不下来~S一款策略角色扮演游戏!
+- 合成战争[完整版]好玩休闲摸鱼放松的 肉鸽Roguelike➕自走棋 精品游戏！
+- 小岛幸存者基地v171[完整版+菜单版]最新版的种田➕模拟经营游戏！
+- 双子Geminiv1.1.16[完整版]最最最治愈的游戏了！我不接受反驳！！
+- 植物大战僵尸金铲铲版金铲铲合成玩法为核心，游戏内可以积累阳光刷新合成高星植物！
+- 机动战士高达SEED激斗命运复刻版中文switch模拟器！(游戏)
+- 冒险生活Life in Adventure v1.2.14[完整版+免内购版]
+- 全心爱你  LoveYouToBits  v1.7.033[完整版]
+- 踩地雷v1.2.113[完整版+网飞版]
+- 俄罗斯方块永恒中文switch模拟器！(游戏)
+- 通灵战士+幽灵王国收藏集中文switch模拟器！(游戏)
+- 神笔狗良Chicory A Colorful Tale官方中文v1.0.4整合版switch模拟器！(游戏)
+- 狗与哥布林v1.6.4.1中文手机也能玩pc游戏！
+- 最后的朋友The Last Friendswitch模拟器！(游戏)
+- 模拟农场23v0.0.0.23.netflix[完整版+网飞版]
+- 祖玛银河弹珠爆炸（switch版）
+- 拭尘忆往往昔信忆（switch手机版）
+- 幸存之城  CityOfSurvivors（完整版）不错末日生存类游戏游玩推荐！
+- 口袋妖怪：黑暗之火2（汉化版）
+- 药剂工艺炼金模拟器（switch手机版）
+- 异世界佣兵团养成记  v2.7.7（菜单版）转生异世界有趣的动作放置类RPG型游戏，美少女像素画风韩系无限推图！
+- 超级星探   v20240718    免安装中文版
+- 球球工厂向前冲！/Factory Balls Go!   Build.22887689  免安装中文版
+- 薯条餐车/Fries Drive    Build.22931088   免安装中文版
+- 你好，你配吗？/Worthy or Not    Build.22863638   免安装中文版
+- 漩光奇旅：争分夺秒/Whirlight – No Time To Trip    Build.23175749   免安装中文版
+- 小憩垂钓/Chill and Reel    Build.23087963   免安装中文版
+- Kiko的苹果冒险/Kiko’s Apple Adventure    Build.22044046   免安装中文版
+- 布尔诺交通 /Brno Transit   Build.23160869    免安装中文版
+- 下一位患者 /Next Patient   Build.23010340  免安装中文版
+- 厕所先生/Mr Toilet    Build.23238867   免安装中文版
+- 满是猫的大楼2 / A Building Full of Cats 2   v20260515  免安装中文版
+- 微型连接/Tiny Connections    Build.17898710   免安装中文版
+- 某处咖啡馆/Somewhere Café    Build.23021321    免安装中文版
+- 爪爪改造家/PawRebuild    Build.23270283   免安装中文版
+- 库米探：老派杀戮 /Kumitantei Old-School Slaughter    Build.23264998   免安装中文版
+- 语言奇境：中文普通话/WonderLang Mandarin Chinese     Build.23057768    免安装中文版
+- 制药实验室/Pharma Craft    Build.23274881   免安装中文版
+- 六十节拍 /60 BPM   Build.18531586   免安装中文版
+- 掀桌模拟器/Table Flip Simulator    Build.23339877    免安装中文版
+- 吹叶公司|吹叶机公司/ Leaf Blower Co.  Build.23649781   免安装中文版
+- 米兰隐藏的101只狗/101 Dogs Hidden in Milan     Build.23532609   免安装中文版
+- 少女终端/Girl Terminal    Build.23725002   免安装中文版
+- 财富磨坊 /Fortune Mill   v20260610   免安装中文版
+- 鱼我一起：水愈时光 /With Me Aquatic Time   v0.3.8  免安装中文版
+- 房产达人：重制版合集 /House Flipper Remastered Collection    v20260612  免安装中文版
+- 恶魔牌/Apokerlypse    Build.23715162   免安装中文版
+- 小小学习机器/Little Learning Machines     Build.15668847   免安装中文版
+- 超级变色龙 /MECCHA CHAMELEON/单机+联机     v1.2.1   免安装中文版
+- 诅咒之语/Cursed Words The Word Game That Isn’t     Build.23625753   免安装英文版
+- 观鸟笔记/Birdwatching Notebook     v1.4  免安装中文版
+- 秋叶原盲盒店模拟器 /Gacha Capsule Shop Simulator – Akihabara   v0.6.3 免安装中文版
+- 回忆房间/Momento    v1.0.29  免安装中文版
+- 倾斜一下！高尔夫/Tilt It! Golf    Build.23678379   免安装中文版
+- 一起来摆摊：英语单词游戏/Stall Tycoon A Cozy English Word Game    Build.23672882   免安装中文版
+- UNO-虚拟机版   Build.22329528   免安装中文版
+- 流光崛起/ Lumines Arise   v1.0.11  支持VR  免安装中文版
+- 猕猴桃几维鸟点点乐/Kiwi Clicker – Juiced Up   Build.14039117   免安装中文版
+- 棋王之路|国际象棋大师 /Master of Chess   Build.21375953    免安装中文版
+- 蓬戈 /Pungo  Build.21389078  免安装中文版
+- 朝露：境界旅程   v20251218  免安装中文版
+- 神圣世界/Sacred World  v20251213  免安装中文版
+- 魔法师西蒙之起源/ Simon the Sorcerer Origins    Build.21257998   免安装中文版
+- 山札！二合处/ Yamafuda! 2nd station   v1.1.14  免安装中文版
+- 网络钓鱼/WEBFISHING/ 单机+联机   v1.12   免安装英文版
+- 增量骰子 /Incremental Dice  v1.0.1  免安装中文版
+- 左左和右右：手拉手！/All Hands on Deck    Build.21438393  单机+联机    免安装中文版
+- 收纳达人/Snapshots   Build.21402953   免安装中文版
+- 始于谎言的夏日恋情 /UsoNatsu The Summer Romance Bloomed From A Lie   v1.1.0  免安装中文版
+- 囧囧麻将馆 /Hu Majiang  v20251229  免安装中文版
+- 桌面鸟舍：小小鸟陪你摸大鱼/Little Aviary   Build.21408667   免安装中文版
+- 俄罗斯方块永恒篇/Tetris Foreve   Build.17875969   免安装英文版
+- 机甲模型建造者3D /Mech Builder 3D  Build.21501765   免安装中文版
+- 厨房危机 /Kitchen Crisis  v1.3.7   免安装中文版
+- 星轮|星形地/ Starground /单机+联机    Build.21495576 免安装中文版
+- 桌面鱼老板：放置好时光 /Idlequarium  v20260119  免安装中文版
+- 小小麻烦：温馨侦探游戏/Little Problems A Cozy Detective Game   v1.0f  免安装中文版
+- 灰木溪电台/ Radiolight   Build.21347908  免安装中文版
+- 捕梦猫/ Beebo and Luna   v1.0.8   免安装中文版
+- 蛛丝诡迹/ Keyword   v1.02   免安装中文版
+- 鸽亿分钟 Dove Days Time Flies   Build.21621233   免安装中文版
+- 蒙莎丽娜 /Mosa Lina/ 单机+联机   Build.18986068 免安装中文版
+- N++ / NPLUSPLUS   Build.21466383  免安装中文版
+- 啦嗒铛/ Ratatan   v0.7.14  免安装中文版
+- 专业钓鱼2 / Professional Fishing 2    Build.21576393  免安装中文版
+- 甲虫公园|卡博托公园|兜虫公园/Kabuto Park  v1.2.14  免安装英文版
+- 冰与火之舞/A Dance of Fire and Ice  Build.21638462 全DLC  免安装中文版
+- 失业了，我获得了亿万游戏财产！ v1.0.0   免安装中文版
+- 亲族与猎物 /Kin and Quarry  Build.21548656  免安装中文版
+- 硬币桌 /Gamblers Table  Build.21538856  免安装中文版
+- 节奏方块 /Beat Shapes  Build.21436430   免安装中文版
+- 物流大师/ Transport INC   v2.1.2   免安装中文版
+- 杀令营2/Slayaway Camp 2   Build.20291409   免安装中文版
+- 布莱克庄园通灵夜/ The Seance of Blake Manor    Build.20701544   免安装英文版
+- 像素哥3 / The McPixel   v1.0.38   免安装中文版
+- 锈湖：方块逃脱 悖论 收藏版/ Cube Escape Paradox  免安装中文版
+- 锈湖：白门/ The White Door   Build.8798637   免安装中文版
+- 锈湖：轮回的房间/ Samsara Room   v1.2   免安装中文版
+- 哲学梗模拟器/Thought Experiment Simulator   v1.1.1   免安装中文版
+- 萌猫公园1 /PICO PARK  Build.20704864  免安装英文版
+- 猎鱼达人/Fish Hunters Most Lethal Fishing Simulator   免安装中文版
+- 破碎的像素地牢|粉碎的像素地牢/Shattered Pixel Dungeon /PC/手机双端   v3.3.4 免安装中文版
+- 落叶拾取模拟器/ Leaf it Alone    Build.21510292  免安装中文版
+- 巨型拼图 /Mega Mosaic  v1.1.07030  免安装中文版
+- 时间石英/Chronoquartz   Build.21585690  免安装中文版
+- 泡姆泡姆/POPUCOM/单机+联机   v1.1.2    免安装中文版
+- 球球大冒险 /Game With Balls  Build.21652462  免安装中文版
+- 乾坤掷：镇宝阁推币机/ Knock On Fate The Guardian Pusher   v1.1.5.5  免安装中文版
+- 食神的卡组/Sizzle & Stack   Build.21348226  免安装中文版
+- 老奶奶清理魔法地窖/ Babushka’s Glitch Dungeon   Build.21774069  免安装中文版
+- 黄衣婴儿/ The Baby In Yellow   Build.21119487  免安装英文版
+- 拼图冒险：牧场物语 /Piczle Cross Story of Seasons  v1.021  免安装中文版
+- 寓言之地/ Fabledom/   v1.084 全DLC    免安装中文版
+- 初音逻辑绘画S+ /Hatsune Miku Logic Paint S+  Build.20963683  免安装中文版
+- 软糖大乱斗/A Gummy’s Life   Build.21364856   免安装中文版
+- 超能副作用/ S.E.M.I. – Side Effects May Include…   Build.21621727   免安装中文版
+- 鼠托邦/Ratopia   v1.0.0530   免安装中文版
+- 3D密室逃脱：侦探故事/3D Escape Room: Detective Story   v1.1.5  免安装中文版
+- 使魔见闻录  免安装中文版
+- 白键上的协奏曲：卡宏往事/ Concerto on White Cajon Story    Build.21899201 全DLC   免安装中文版
+- 律动环廊/ Cadence   Build.21840841  免安装中文版
+- 只愿有你/ As Long As You’re Here   Build.21898893   免安装中文版
+- 小鳄鱼探险记/ Lil Gator Game   Build.21892374  免安装英文版
+- 她的树：谜题梦/HER TREES PUZZLE DREAM   Build.21793963  免安装中文版
+- 梦境旋律 /Lost in Harmony  Build.2846154  免安装中文版
+- 致亲爱的我/ Dear me I was   Build.21518946   免安装中文版
+- 径迹回响/ MOTIONREC   v1.06  免安装中文版
+- 幽灵霍迪/ Hauntii   Build.21915525  免安装中文版
+- 午夜自习室|深夜自习/ Midnight Study   v0.5.2  免安装中文版
+- 猫猫钓游记/ Fischer’sFishingJourney   v1.1.4  免安装中文版
+- 耦合 /Coupling  Build.19602412   免安装中文版
+- 心流小筑/Chill Pulse  Build.21958639   免安装中文版
+- 长椅/ The Bench   v1.0.215   免安装中文版
+- 微小的生命/ Tiny Life   Build.21966407  免安装中文版
+- 猫娘幸存者 /Cat Girl Survivor   v01.017.006   免安装中文版
+- 幽居之境 /Seclusa   v1.0.3c   免安装中文版
+- 桌面英雄 /Desktop Heroes   Build.21841352   免安装中文版
+- 喵喵甜品屋/ Cats and Cups   v1.2.4  免安装中文版
+- 鼠织小家 /Squeakross Home Squeak Home   Build.21975754   免安装中文版
+- 桌面垂钓/Desktop Fishing   Build.22059646   免安装中文版
+- 超级炸弹人R2 / SUPER BOMBERMAN R 2    Build.20298910   免安装中文版
+- 修真世界/Cultivation Magic World  v0.1618  免安装中文版
+- 家有恶邻 /Neighbors Suburban Warfare  v0.9.5.68  单机+联机   免安装中文版
+- 噪音盒子 /Boxes and cutouts   Build.15995184   免安装中文版
+- 爱上火车 /Maitetsu Last Run!!   Build.9665312   免安装中文版
+- 激射超新星/SHOOPER NOVA  v1.3.4  免安装中文版
+- 传说与战术自走棋/ Tales And Tactics    v1.4.34  免安装中文版
+- 轻松数独|数独Relax/Sudoku Relax    v1.1.0   免安装中文版
+- 收容所里满是猫|猫咪收容所物语 /A Shelter Full of Cats   v20250915   免安装中文版
+- 神秘世界/Mystopia   v1.0.2    免安装中文版
+- 太空碎石者 /Space Rock Breaker   Build.21809434  免安装中文版
+- 她的树 谜题屋|她的树：解谜房间/ HER TREES : THE PUZZLE HOUSE   Build.22172682  免安装中文版
+- 织带之旅|蛛丝之旅|蛛友之家/ A Webbing Journey   Build 22203379  免安装中文版
+- 搞怪扑克之夜/Poker Night at the Inventory   Build.22199392   免安装英文版
+- 破罐子游戏/A Game About Breaking Pots   Build.21868789   免安装中文版
+- 在我们之中/ Among Us /单机+联机   v2026.2.241.0  免安装中文版
+- 向左一点|往左一点/A Little to the Left   v3.6.0 全DLC   免安装中文版
+- 威尔莫特解决了这个问题|威尔莫特的拼图时光/ Wilmot Works It Out   v1.046  免安装中文版
+- 我在忘川有个活|我在忘川有個活  v1.0.12  免安装中文版
+- 电磁感应/Induction   Build.21275923  免安装中文版
+- 隐藏的猫咪入侵威尼斯/Hidden Cats Invade Venice   Build.15800712   免安装中文版
+- 过路棋：国际象棋肉鸽 /Passant A Chess Roguelike   v1.1.2   免安装中文版
+- Staffer Case：异能缉凶/ Staffer Case: A Supernatural Mystery Adventure   Build.22275189   免安装中文版
+- 谐音梗猜图  Build.21760343  免安装中文版
+- 幻音骑士 /Synth Riders   Build.22308857 支持VR   免安装中文版
+- 虫虫生态箱/ Bugtopia    Build.21917189   免安装中文版
+- 100只糖果猫 /100 Candy Cats  Build.19547333   免安装中文版
+- 微小生境：治愈放置 /Tiny Biomes Cozy Idle   Build.22335466   免安装中文版
+- 吹叶公司|吹叶机公司/ Leaf Blower Co.  Build.21909998  免安装中文版
+- 边界之外/Out of Line   v1.0.1.2   免安装中文版
+- 东方夜光幻梦 /Touhou Endless Dream   v1.0   免安装中文版
+- 节奏次元XD|旋转节奏XD / Spin Rhythm XD  v1.8   免安装中文版
+- 持续挖掘 /Keep on Mining!   Build.22162786   免安装中文版
+- 马特的寻猫游戏/Find Matt’s Cats    v1.0.3   免安装中文版
+- 小动物餐吧/ Party Club   Build.22334253    免安装中文版
+- 放置怪物/Idlemon    Build.22371539    免安装中文版
+- 隐藏在世界各地的猫 /Cats Hidden Around the World   Build.15318003   免安装中文版
+- 宝可梦：无限大道 v2.1.1 PC/手机双端 免安装中文版
+- 梦狱之国的爱丽丝/Alice in the Nightmare Land   免安装中文版
+- Puppy Link – 连连看/Puppy Link – Tile Connect    Build.22469331  免安装中文版
+- 繁茂 /Flourish   Build.22487847   免安装中文版
+- 陶艺大师/Master Of Pottery    v0.9.9f 全DLC  免安装中文版
+- 步行者/The Pedestrian   免安装英文版
+- 策术行囊/Pakinpaks   v1.0.2   免安装中文版
+- 摸鱼小镇/ Loafing Town  Build.21612443  免安装中文版
+- 我在地府打麻将/Demonic Mahjong    v0.2.43  免安装中文版
+- 鼠织小家/Squeakross Home Squeak Home   v1.7a  免安装中文版
+- 大猩猩接龙 /Goritaire   Build.22270975   免安装中文版
+- 《文字游戏世界》/Word Game World    v1.9.91    免安装中文版
+- 伊西娅：魔法研究|Ithya：魔法研究室/ Ithya: Magic Studies  v20260319  免安装中文版
+- 只有文字的挂机刷宝游戏   Build.22556568   免安装中文版
+- 深岩之下/ Hypogea  Build.21906052   免安装中文版
+- 主播女孩重度依赖 网络梗打字通 /NEEDY STREAMER OVERLOAD Typing of The Net   Build.21760009    免安装中文版
+- 野蛮战卒 /Pawnbarian    v1.2.14    免安装中文版
+- 越过高塔/ OVER THE TOWER   Build.22243018    免安装中文版
+- 扫街蹦蹦 /Sweep Bump   v1.0.0    免安装中文版
+- 凯莉芙的谜题 /Puzzles For Clef   v1.0.1    免安装英文版
+- 平行实验/Parallel Experiment /单机+联机   v2.0.10  免安装中文版
+- 搬家日/Moving Day Make It Home    v1.1.0    免安装中文版
+- 萌萌夹击/ MOMO Crash   v1.8.2   免安装中文版
+- 屏幕有狼/ ScreenWolf    Build.22597993  免安装中文版
+- 宁静之海 /Calm Horizon   Build.22596659   免安装中文版
+- 欺诈专线/Scam Line / 单机+联机  Build.21517893   免安装中文版
+- 当铺人生传奇/Dealer’s Life Legend   v1.004    免安装中文版
+- 同步音律喵赛克/Musynx   Build.22645119   免安装中文版
+- 乐高派对/ LEGO Party!    v1.4.3  免安装中文版
+- 财富预言家|财富商人/Fortune Seller    Build.22667282   免安装中文版
+- GLONK   Build.21556145   免安装中文版
+- 鸟语三十/ 30 Birds   Build.22615497  免安装中文版
+- 攻城海龟|归途海龟 / Siegeturtle   Build.22671032   免安装中文版
+- 节奏医生 /Rhythm Doctor   v1.0.4  免安装中文版
+- 八面体：惊呆版/Octahedron Transfixed Edition    Build.12994090   免安装中文版
+- 小宝藏：寻物游戏 /Nippets A Hidden Object Game   Build.22713274   免安装中文版
+- 冲就完事模拟器2 / PowerWash Simulator 2 / 单机+联机    v1.2.1.167  免安装中文版
+- 重返蓝鲸岛/-Return to Shironagasu Island-   Build.22654982  免安装中文版
+- 动物栏：桌面牧场/Tiny Pasture   v1.7.7   全DLC   免安装中文版
+- 盐面团|寻日之旅 / Sol Cesto    Build.22733380  免安装中文版
+- 迷你舒适房间：Lo-Fi/ Mini Cozy Room: Lo-Fi    v1.05.14  全DLC   免安装中文版
+- 鱼我一起：水愈时光 /With Me Aquatic Time   v0.3.3   免安装中文版
+- gogh：虚拟形象与专注/gogh Focus with Your Avatar   v2.14.2  免安装中文版
+- 狂人日祭 /Let It Consume   Build.22743160   免安装中文版
+- 手提箱/Briefcase   Build.22756640  免安装中文版
+- 萌宠不摸鱼：Lofi猫/ NoSlack Pets Lo-Fi Paws   v1.0.43   免安装中文版
+- 一点视角/A Little Perspective   Build.22684173   免安装中文版
+- 摩西与柏拉图：开往爪镇的末班列车/Moses and Plato – Last Train to Clawville    v1.0.0   免安装中文版
+- 爱琴海的宝藏 /Treasures of the Aegean   Build.8178391   免安装中文版
+- 速速上菜/ PlateUp!   Build.22679197   免安装中文版
+- 哥布林破坏者：渐进式塔防 /Goblin Buster Incremental Tower Defense   Build.20780073   免安装中文版
+- 小猫/tiny Cats    Build.16580623   免安装中文版
+- 电力拼拼乐 /Electrogical   v1.2.1   免安装中文版
+- 柏林公寓/ The Berlin Apartment    v1.2.1   免安装中文版
+- 鳄鱼侦探布罗格/ BROK the InvestiGator    v1.5.5.3 全DLC   免安装中文版
+- 余烬守卫/ Emberward  v0.4.12  免安装中文版
+- 舒舒服服小岛时光/ Cozy Island/ 单机+联机   Build.22758413   免安装中文版
+- 击败所有Boss：放置游戏 /Slay All Bosses Idle   Build.22786277   免安装中文版
+- 地下寻宝|挖掘/ iDigging/ 单机+联机    Build.22840057   免安装中文版
+- 俄罗斯方块 大师之路4：绝对之眼 |俄罗斯方块大师4 /TETRIS® THE GRAND MASTER 4：ABSOLUTE EYE-  v2.1.2  免安装中文版
+- 羊羊集合啦!/ Sheepherds!  Build.21898617  免安装中文版
+- 利润海：增量/Profit Sea Incremental     Build.22643900  免安装中文版
+- 呓语小镇/Whisper of the House  v1.2.0.7  免安装中文版
+- 跳跃挑战! /Jump Challenge!   v1.3   免安装中文版
+- 看谁先死/Who dies first    完整版    免安装中文版
+- 我的梦想卧室/ My Dream Setup  v20260419  全DLC    免安装中文版
+- 露营车之旅|露营车：温馨家园 / Camper Van Make it Home   v20260320   免安装英文版
+- 水果山 派对/ Fruit Mountain Party    Build.22724574   免安装中文版
+- 益智泡泡龙：一起泡泡战!/Puzzle Bobble Everybubble!     Build.22495378   免安装中文版
+- 幽影/Rumbral   Build.22920005  免安装中文版
+- 特泽尔：瓦片匠的故事 /Tezzel The Tilemaker’s Tale    Build.22855023   免安装中文版
+- 洞察/Insight    Build.12365353  免安装中文版
+- 超级砖块/Caromble!    Build.22856243   免安装中文版
+- 城堡放置 /castle idler   Build.22960556   免安装中文版
+- 成群结队/Flock Around   Build.22966037  免安装中文版
+- 猫船长与环球渔场/ Captain Whiskers Incremental Seas   Build.22933349   免安装中文版
+- 气球仇恨者/Balloon Hater    Build.22377969   免安装中文版
+- 希望之城/The City Of Hope    v1.0.33   免安装中文版
+- 蟾蜍灵魂跳跃者/Toad’s Soul Hopper    Build.22193721   免安装中文版
+- 吾今有世家/ House of Legacy  v0.9.03  送修改器  免安装中文版
+- 炼金工厂 /Alchemy Factory /单机+联机   v0.4.4.4316  免安装中文版
+- 暴走恐龙/ Terror of Hemasaurus   v1.12   免安装中文版
+- 灯塔巡航/ Beacon Patrol  v1.6.4   免安装中文版
+- 这是谐音梗  /BadPunPC /单机+联机   Build.23024474 全MOD   免安装中文版
+- 放置交通 /Idle Ways   Build.22967159  免安装中文版
+- 沙盒/s and box    Build.22990257    免安装英文版
+- 临界性/Criticality    Build.23040008   免安装中文版
+- 凶影疑云/ Shadows of Doubt   v42.03  免安装中文版
+- 新版大富翁|全新地产大亨-虚拟机版 /NEW MONOPOLY    v1.10    免安装中文版
+- 鬼灭之刃 争当最强队士！虚拟机版   Build.16933346   免安装中文版
+- 面包日记 /BakeryDiary   v20260430   免安装中文版
+- 抓抓地牢/Dungeon Clawler   v1.0.5  免安装中文版
+- 堡垒系统|壁垒操作系统/ BastionOS   v1.0.1c   免安装中文版
+- 无价值工作/LOW VALUE JOB    Build.22033848   免安装中文版
+- 焕家物语/Hozy   Build.23047485  免安装中文版
+- 三维弹球FX / Pinball FX   v1.0.34  免安装英文版
+- 双箭头豪华版 /Twin Shot Deluxe    Build.23049327   免安装中文版
+- 矿业商人/Mining Merchant    v1.01.84b1    免安装中文版
+- 美味喵：吃吃拼图/Munchy Cat    Build.21801923   免安装中文版
+- 持续挖矿！- 世界篇/Keep on Mining! – Worlds    Build.23074531   免安装中文版
+- 礼帽大乱斗/ A Gentlemen’s Dispute /单机+联机  Build.23079217   免安装中文版
+- 游戏沙龙模拟器/Game Saloon Simulator    Build.23111574   免安装中文版
+- 魔药小铺/ Witchy Business   v1.1.3   免安装中文版
+- 飞飞公司|飞行公司/ Fly Corp   v1.13   免安装中文版
+- 姆明：暖心冬日/Moomintroll Winter’s Warmth  v0.1.1294  免安装中文版
+- 疗养院：精神病院模拟器/ Sanatorium – A Mental Asylum Simulator    Build.23101036   免安装中文版
+- 魔饮心语/Tavern Talk  v20260306 全DLC   免安装中文版
+- 重力音轨 /Metro Gravity   v1.1.5   免安装中文版
+- 放置银河征服 /Galactic Overthrow   Build.23136465   免安装中文版
+- 宇宙中的最后一只猫/The Last Cat in the Universe    Build.23020745   免安装中文版
+- 造景贴纸：治愈小角落/ Little Corners   v1.4.0  免安装中文版
+- 编程农场/The Farmer Was Replaced   Build.22883144   免安装中文版
+- 雪地度假村模拟器 /Snow Resort Simulator    Build.22924838   免安装中文版
+- 岛屿拼图/Islantiles    Build.23149676   免安装中文版
+- 孤独的黑客 /The Lonely Hacker    Build.14656445   免安装中文版
+- 融境/Meltopia    Build.23154422   免安装中文版
+- 轨道车大冒险 /Rollick N’ Roll    Build.22826943   免安装中文版
+- 顺利无阻/WITHOUT A HITCH     Build.23150568    免安装中文版
+- 罗普卡的放置岛屿|青蛙的空之绿洲/ Ropuka’s Idle Island    Build.22891085   免安装英文版
+- 手工制作101：编程工艺/ Craftomation 101: Programming and Craft   v0.97.2  免安装中文版
+- 林间暖巢/ Winter Burrow   v1.2.0   免安装中文版
+- 一个有故事的生活：塔比莎 /A Storied Life Tabitha   Build.22617555   免安装中文版
+- 知只大冒险2 / Biped 2 / 单机+联机   v2.2.1   免安装中文版
+- 消灭这些棱角！/Get Rid Of Those Corners   Build.23127013   免安装中文版
+- 完美末日：Patches的地狱/Purrfect Apawcalypse Patches’ Infurno    Build.16937187   免安装中文版
+- CD-ROM   Build.23165929   免安装中文版
+- 鸭鸭侦探：萨拉米香肠之谜/ Duck Detective The Secret Salami   v1.3.27   免安装中文版
+- 二手游戏店模拟器/Console Store Simulator    Build.23180005   免安装中文版
+- 夏末盛开的花/Flowers Blooming at the End of Summer    Build.22106931   免安装中文版
+- 复古倒带：录像店模拟器/Retro Rewind – Video Store Simulator    Build.22655875    免安装中文版
+- NOOK FALL：西区    Build.23170547    免安装中文版
+- 她还记得毛毛虫/She Remembered Caterpillars    Build.1585037  免安装中文版
+- 这就是爱 /This is Love   Build.19208957   免安装中文版
+- 布莱斯瓷砖 /Bryce Tiles   Build.22554762  免安装中文版
+- 别慌！还剩一个引擎哈 /Don’t Panic! It is Just Turbulence/单机+联机    v0.528    免安装中文版
+- 轮盘英雄/ Roulette Hero   Build.22953531   免安装中文版
+- 切割变异作物/Slice the Crops!     Build.23707633   免安装中文版
+- 植树公司 /Trees Inc    Build.23328054   免安装中文版
+- 孢球 /Sporbs  Build.23310410   免安装中文版
+- 超级世界/ Supraworld    v10958b   免安装英文版
+- 东方弹幕神乐 失落幻想/ Touhou Danmaku Kagura Phantasia Lost    v1.14.2   全DLC   免安装中文版
+- 小猫咪大城市/ Little Kitty, Big City    Build.23329258   免安装中文版
+- 浇水生长/Drop and Grow    Build.23346206   免安装中文版
+- 巴士开往/Bus Bound/单机+联机     Build.23177166    免安装中文版
+- 香缇小镇 /ShantyTown   Build.23375962   免安装中文版
+- 青蛙农场：幸存者/ Pesticide Not Required   Build.23165420   免安装中文版
+- 温馨小木屋 /Log Away   Build.22599279   免安装中文版
+- 奶茶店大亨/MilkTea Time    Build.23166780   免安装中文版
+- 无尽爱丽丝/ Endless Alice / 单机+联机  Build.23356518   全DLC  免安装中文版
+- 电器维修模拟工坊 /ElectroFix Simulator   Build.23396143   免安装中文版
+- 男神模拟器/Mr Right Simulator    Build.23374790   免安装中文版
+- 奔跑列车！/RUNNING TRAIN    Build.23391296     免安装英文版
+- 十年不晚/ Best Served Cold    Build.22885172  免安装中文版
+- 律动轨迹/Rizline   Build.22935552   免安装中文版
+- 黄金矿工 经典版/ Gold Miner Classic Edition    v1.0.3   免安装中文版
+- 洛菲麻将/Lofi Mahjong   Build.23278981   免安装中文版
+- 你搁这养鱼呢 /Desktop Fishes   Build.20821652   免安装中文版
+- 粉碎谜题：锤子先生 /Crash Puzzle Hammer-San    Build.16337380    免安装中文版
+- 观鸟笔记/Birdwatching Notebook     Build.23424754   免安装中文版
+- 精神城市：洛菲会议/Spirit City: Lofi Sessions   v20260525  全DLC    免安装中文版
+- 东方油库里山 /Touhou Yukkuri Mountain    Build.22971337   免安装中文版
+- 呱呱归家记/Walk The Frog    Build.23378641   免安装中文版
+- 机场行李模拟游戏/Airport Baggage Simulator    Build.23397394   免安装中文版
+- 你会开叉车吗？/Do You even Forklift      Build.23181327    免安装中文版
+- 密码，是什么？/What’s the Password     Build.23436334    免安装中文版
+- 山荫农场/Hillshade Farm     Build.23442094    免安装英文版
+- 只有一扇门/Level Devil    Build.23129791   免安装中文版
+- 抑郁的房间/Room of Depression    Build.20351093   免安装中文版
+- 点击征服者 /Click and Conquer  Build.19924779   免安装中文版
+- 迷宫鼠 /Maze Mice   Build.21152235   免安装中文版
+- 抛竿放松|垂钓悠游|抛竿悠游/Cast n Chill   Build.23453346    免安装中文版
+- 黑洞钓鱼 /Black Hole Fishing   Build.23165676   免安装中文版
+- 喵斯快跑/ Muse Dash/ PC+手机双端   v6.3.0  免安装中文版
+- 北方之灵2 / Spirit of the North 2    v20260520   免安装中文版
+- 别碰蜗牛 /Don’t Touch the Snail    Build.23471954   免安装中文版
+- 星际漂流者/ Ostranauts   Build.23457123   免安装英文版
+- 玩转节拍 /Beatblock   Build.23491949   免安装英文版
+- 全球鱼友俱乐部：放置好时光/Tiny Aquarium Social Fishkeeping   v1.17.2  免安装中文版
+- 卡车司机：美国梦 /Truck Driver The American Dream    Build.23465111   免安装中文版
+- 战娘自走棋/Auto Battle Girl    Build.23487052   免安装中文版
+- 环游世界的旅行猫咪/Travellin Cats Around the World     Build.22229653    免安装中文版
+- 跳舞的线 /Dancing Line   Build.23494827   免安装中文版
+- 飞空艇探险物语 /Skyship Quest Story    Build.23142667   免安装中文版
+- 神秘商人/Arcane Merchant   Build.23507104    免安装中文版
+- 崩溃小队/Crashout Crew/单机+联机    Build.23454675   免安装中文版
+- 线条小狗：动物温泉/ Animal Spa   v1.8b  全DLC   免安装中文版
+- 波波萌宠大作战/Bobo Bay    Build.23496905   免安装中文版
+- 迷宫大侦探 /Labyrinth City Pierre the Maze Detective     v1.0.6   免安装中文版
+- 喵喵时刻：一起庆祝 /Meow Moments: Celebrating Together    Build.23495279   免安装中文版
+- 语言之旅：日本之旅/Wagotabi A Japanese Journey   Build.23458921   免安装中文版
+- 奥比斯之环/ Orbyss    Build.21277200   免安装中文版
+- 等式 /E9uations    Build.23494628    免安装中文版
+- 对称逃脱/A Symmetric Escape    Build.16753622   免安装中文版
+- 通行证/GatePass    Build.19213604   免安装中文版
+- 万界·飞升成圣   v3.4  免安装中文版
+- 武道残编   v15.0   免安装中文版
+- 厨师骑士 /Chef Knight    Build.23512825    免安装中文版
+- 指尖农场/Typing Farmer    Build.23494808     免安装中文版
+- 奇妙之地 – 3D 拼图模拟器/Puzzling Places – 3D Jigsaw Sim   Build.23453623   免安装中文版
+- 密室逃脱模拟器2 / Escape Simulator 2 / 单机+联机   v20448r   免安装中文版
+- 失物招领有限公司/Lost and Found Co.   v1.0.8   免安装中文版
+- 弹珠之旅！/Marble It Up! Ultra     Build.21726295   免安装中文版
+- 自动梭哈/Slots and Diapers    Build.23567114    免安装中文版
+- 老爹摩卡咖啡店：豪华版 /Papa’s Mocharia Deluxe     Build.23553460     免安装英文版
+- 点老救世记/dotAGE   Build.23583152    免安装中文版
+- 啵点节奏 /ABits and Bops   v1.11.0   免安装中文版
+- 学生时代/ School Days   v1.90   免安装中文版
+- 天鹅之歌/Swan Song    Build.23587066   免安装中文版
+- 酿造线 /The Brewline   Build.23543575   免安装中文版
+- 不可思议骑士/IncreKnight    Build.23595183   免安装中文版
+- 专注森林/Focus Grove    Build.23589333   免安装中文版
+- 你懂的钻头/You Know The Drill    Build.23579280   免安装中文版
+- 排水模拟器 /DrainSim   Build.23564091   免安装中文版
+- 多米诺王国/Kingdomino    Build.23306789   免安装中文版
+- 球国：权力协议 /Countryballs Power Protocol   v2.3.2   全DLC  免安装中文版
+- 点击炼金术/Forage Wizard    Build.23337447    免安装中文版
+- 欢迎来到精英咖啡馆/Welcome to Elite Cafe    Build.23375547    免安装中文版
+- 财富磨坊 /Fortune Mill   v20260606   免安装中文版
+- 可爱冒险记/Adorable Adventures     Build.23563344      免安装中文版
+- 虚拟小屋2 /Virtual Cottage 2   v1.1.19   免安装中文版
+- 动物收容所2 /AnimalShelter2 /单机+联机    v1.3.1   全DLC  免安装中文版
+- 回忆房间/Momento    Build.23606527   免安装中文版
+- 别陪鱼入眠|海上60秒/Dont Sleep With The Fishes    v1.1.2   免安装英文版
+- 再多一个连接 /Just One More Link   Build.23600924   免安装中文版
+- 深海鱼：隐秘世界/Deep Sea Fish Hidden World    Build.23606785   免安装中文版
+- 断指默示录 /Dead Finger Dice    Build.23606785   免安装中文版
+- 纹身清除模拟器 /Tattoo Removal Simulator   Build.23590980   免安装中文版
+- 咖啡馆员工模拟器 /Cafe Crew Simulator   Build.23588103    免安装中文版
+- 放松时光：与你共享Lo-Fi故事/ Chill with You Lo-Fi Story   v1.8.0  免安装中文版
+- 桂花落 /Osmanthus Falling    v1.0.8   免安装中文版
+- 花艺师普妮/Puni the Florist    Build.23622858   免安装中文版
+- 扎卡里亚经典弹珠/ Zaccaria Pinball   v20260604  全DLC  免安装英文版
+- 麦克斯韦解谜妖/ Maxwell’s puzzling demon   Build.23463076   免安装中文版
+- 天门问剑  Build.23484909  免安装中文版
+- 秋叶原盲盒店模拟器 /Gacha Capsule Shop Simulator – Akihabara   v0.5.4    免安装中文版
+- 厄运木乃伊/Unlucky Mummy    Build.23594042  免安装中文版
+- 长安首富模拟器  Build.23580784  免安装中文版
+- 喂怪兽！/ Feed All Monsters   Build.23095535   免安装中文版
+- 骑士镇魂曲/Good Knight    Build.23609883   免安装中文版
+- 房产达人：重制版合集 /House Flipper Remastered Collection    Build.23643537  免安装中文版
+- 恶魔牌/Apokerlypse    v1.3.2291   免安装中文版
+- 漂流品|漂流物语|漂流瓶|浮游世界 / Flotsam   v1.0.1f7    免安装中文版
+- 夜光/A Light in the Dark      Build.20321910   免安装中文版
+- 猫猫邮局 /Catto’s Post Office    Build.23661379   免安装中文版
+- 消除吧！十二神姬退魔传/Match! The 12 CZ Wars    v1.34    免安装中文版
+- 月食|月蚀危机|月蚀/ Lunar Eclipse  Build.23703813   免安装中文版
+- 从农场到餐桌/Farm to Table    Build.23657702    免安装中文版
+- 巨石岛/Rock Island    Build.23519778   免安装中文版
+- 链在一起（免广告）
+- 守卫大作战（免广告＋内置MOD菜单）
+- 土地建造家（免广告获取奖励）
+- AniPang三消地牢（免谷歌+免广告获取奖励）
+- 星之卡比合集（SWITCH手机版）
+- 史莱姆大战（解锁免广告获取奖励）
+- 卡皮巴拉！GO|卡皮巴拉go（免广告获取奖励）
+- 星噬（完整汉化版）
+- 生物进化论（无限金币和DNA）
+- 水果山（免付费解锁完整版）
+- 背包勇士（免广告获取奖励）
+- 像素英雄探险（货币不减反增）
+- 抓娃娃大师（解锁大量货币）
+- 制作我的像素头像（免付费解锁所有物品）
+- 哈利弹珠机（解锁大量资源）
+- 勇者大量出现了（解锁大量货币）
+- 捕鱼合成大亨（免广告）
+- 守护者力量（免广告获取奖励）
+- 大胃王（内置MOD菜单）
+- 美味深蓝（内置MOD菜单）
+- 黑洞大作战（内置MOD菜单）
+- 推开一切（大量货币）
+- 这不是我的邻居（内置MOD菜单）
+- 城堡突袭（免广告获取奖励）
+- 进化星球：140亿年物语（免广告）
+- 无限弹球（免付费解锁完整版）
+- 昆虫进化
+- 恐龙合并进化（免广告获取奖励）
+- 人群控制（大量货币）
+- CS GO开箱模拟器2（无条件开箱）
+- 怪兽远征（免付费解锁完整版）
+- 动漫填色迷（免付费解锁完整版）
+- 愤怒的小鸟肉鸽版（魔改）
+- 企鹅X机甲组装（免广告）
+- 愤怒的小鸟：梦幻爆破（大量金币）
+- 史力奇奇遇记姆明山谷之歌（免付费解锁完整版）
+- 孢子进化论（汉化等）
+- 哥布林弹球（无条件使用货币等）
+- 池趣（大量货币）
+- 光影穿梭2：进化（免付费解锁完整版）
+- 史前埃及（免付费解锁完整版）
+- 终极钓鱼模拟器（大量货币）
+- 蜡笔小新：我与博士的暑假（免付费解锁完整版）
+- 钓鱼胡克（大量货币）
+- 渔帆暗涌（免付费解锁完整版）
+- 神骰传说（steam移植+免付费解锁完整版）
+- 东篱之下（免付费解锁完整版）
+- 护肤时间（无广告）
+- 点杀泰坦2（内置MOD菜单）
+- 我要爆装备（免广告直接获得奖励）
+- 灵魂旅者|灵魂旅人|灵魂摆渡人（内置MOD菜单）
+- 神骰传奇|神骰传说（内置作弊菜单）
+- 植物大战僵尸老版（内置MOD菜单）
+- 东篱之下（内置作弊菜单）
+- 骰子猎人（无条件使用钻石）
+- 王国：新大陆
+- 水果忍者
+- 墨水喵（内置MOD菜单）
+- 口袋矿工（无限购买钞票）
+- 皇家检查员故事（免广获得奖励）
+- 钓鱼人生（无限金币）
+- 疯狂骨头人（免广告）
+- 怪物幸存者2（无限钻石金币免广告）
+- 城市防御（免广大量钻石）
+- 动物王者（无限技能）
+- 冰雪奇缘大冒险（内置MOD菜单）
+- 射击跑酷（解锁大量货币）
+- 军衔徽章（解锁大量货币）
+- 定制虚拟偶像（去广告）
+- 生物创造者（免付费解锁完整版）
+- 钓鱼专家
+- 独轮车上的独角兽（免付费解锁完整版+steam移植）
+- 背包英雄（汉化＋去广告）
+- 战斗鸡
+- 重生之我是大反派
+- 行走大师破解无限金币
+- 中国象棋3D天下无敌（免广告获取奖励）
+- 真实钓鱼模拟
+- 虚拟化学实验室
+- 英雄工厂大亨
+- 英雄防御：外星怪物（免广告获取奖励）
+- 异星装置：阿特拉斯（解锁全章节）
+- 宇崽异世界冒险（免广告获取奖励）
+- 熊猫大师
+- 枪械闯关大师（内置MOD菜单）
+- 瑞亚斯的韵律|瑞亚节奏（锁定大量货币）
+- 坦克连接（解锁全部内容）
+- 猫咪任务
+- 拇指奇拉（解锁付费内容完整版）
+- 反派Boss（汉化＋免付费解锁完整版）
+- 割绳子（内置MOD菜单）
+- 兽人战斗沙盒（大量钻石）
+- 愤怒的小鸟2（内置MOD菜单）
+- 火柴人之守卫城堡（大量货币）
+- 合并植物-僵尸防御战（免广告获取奖励）
+- 水豚幸存者（金币不减反增）
+- 成长士兵（免费内购）
+- 猫猫头像模拟器（免广告获取奖励）
+- 非常普通的鹿
+- 粉碎火柴人（免广告获取奖励）
+- 情商天花板（免广告获取奖励）
+- 核潜艇模拟器（解锁无限金币）
+- 女巫来了（免广告、秒杀、无敌、战斗加速）
+- 钓鱼生活（部分商品购买反加金币）
+- 崩坏女孩大作战（内置MOD菜单）
+- 冒名者的捣碎（无限金币）
+- 小猪佩奇运动会
+- 掘地求财（无限金币）
+- 鹅作剧（免广告获得奖励）
+- 你的目的就是杀死我3（货币反加）
+- 美味星球4（大量货币）
+- 指尖捕鱼（内置作弊菜单）
+- 翻滚吧英雄（内置作弊菜单）
+- 宿舍求生：废土篇（免广告直接获得奖励）
+- 贪吃蛇无尽大作战（解锁无敌+免广告+秒杀）
+- 魔鱼猎手（无条件使用钻石）
+- 只有向上（内置MOD菜单）
+- 裂变战争（免广告）
+- 手办模特（解锁会员）
+- 合成勇士的冒险|合成勇士：冒险对决（内置作弊菜单）
+- 合成地牢（内置作弊菜单）
+- 突袭英雄：全面战争
+- 地牢追击者（解锁无限血）
+- 三国英雄诀
+- 愤怒的小鸟太空
+- 我的游戏天赋（直接获得奖励）
+- 背包勇者（免广告）
+- 魔改十三道（附GM后台）
+- 鱼丸捕鱼大作战（内置作弊菜单）
+- 突破英雄（免广告）
+- 捉妖小队（内置作弊菜单）
+- 捕鱼风暴（内置超级攻速菜单）
+- 次神：光之觉醒私服（内置作弊菜单）
+- 超能下蛋鸭|超能爆蛋鸭（免广告直接获得奖励）
+- 次神：光之觉醒国际服（内置作弊菜单）
+- 次神：光之觉醒（秒杀+攻速+无敌+无cd）
+
+---
+
+## 恐怖丧尸（524 款）
+
+- 死信科/ DEAD LETTER DEPT.    Build.20410133   免安装中文版
+- 烟火/ Firework   v1.0.1  免安装中文版
+- 桥梁建造师：行尸走肉/ Bridge Constructor The Walking Dead   Build.20284032   免安装中文版
+- 午夜现场：告别/ Midnight Scenes The Goodbye Note   v1.9a   免安装中文版
+- 幽灵猎人/ Ghostbane   Build.17210385   免安装中文版
+- 爱冒险的阿曼达2 / Amanda the Adventurer 2    v2.1.2   免安装英文版
+- 氧化室104 / Oxide Room 104   v1.0.4   免安装中文版
+- 过家家/ Playing House   Build.20382087   免安装中文版
+- 求生指南2 / How to Survive 2    Build.20375931   免安装中文版
+- 克服你的恐惧：看护者/ Overcome Your Fears：Caretaker   Build.20504124   免安装中文版
+- 雾锁温泉/ Misty Onsen   Build.20513064   免安装中文版
+- 犯罪侦探：危险信号/ Crime Detective Red Flags    v1.0   免安装中文版
+- 烂奶酪/ Bad Cheese   v1.02.00   免安装中文版
+- 猫好货坏/ Order 13   v1.1   免安装中文版
+- 谜木庄园/ Riddlewood Manor   Build.20175049   免安装中文版
+- 血色绘刻/ Painted In Blood   Build.20528905   免安装英文版
+- 荒凉避难所/ Bleak Haven   Build.20527462   免安装中文版
+- 死亡岛2 / Dead Island 2 / 单机+联机   Build.20514355 全DLC 送修改器   免安装中文版
+- 德沃斯/ DEVOSE   Build.20530852   免安装中文版
+- 维斯佩里斯/Vesperis   Build.23488729   免安装中文版
+- 破晓/Dawn Break   v20260609  免安装中文版
+- 归零巡礼：亡谍镇魂曲 /ZERO PARADES For Dead Spies   v20260611   免安装中文版
+- 僵尸启示录|行尸走售 /The Walking Trade   v1.1.5  免安装中文版
+- 战栗深渊 /Horripilant   v1.4  免安装中文版
+- 地精捣蛋团 /Burglin’ Gnomes /单机+联机     Build.23716715    免安装中文版
+- 地狱超市/ HELLMART   Build.23655918   免安装中文版
+- 忆蚀/ Subliminal   v1.0.3.4   免安装中文版
+- 隔离区 丧尸末日生存/ZED ZONE    Build.23727175    免安装中文版
+- 零售地狱 /Retail Hell   v1.1.11   免安装中文版
+- 鼹鼠号 /MOLE    Build.23742402   免安装中文版
+- 前学期/ Last Term   免安装中文版
+- 旁观者1/ Spectator 1    Build.20352402   免安装中文版
+- 十只死鸽子/ 10 Dead Doves   Build.20291734   免安装中文版
+- 边界：第四部分/ Liminal Border Part IV    Build.18439950   免安装中文版
+- 丧失|哀悼/ Luto   v20251015   免安装中文版
+- 金德曼积善医务室/ The Kindeman Remedy   Build.14007418   免安装中文版
+- 暗影公馆/ SHADOW MANSION    Build.18213191   免安装中文版
+- 天空之山/ SKYHILL   Build.1562384   免安装中文版
+- 夜班/The Night Shift   Build.20428652   免安装中文版
+- 尖叫或死亡 / Scream or Die   Build.12872071  免安装中文版
+- 无声狂啸/ I Have No Mouth and I Must Scream   Build.20421645   免安装英文版
+- 剥皮杀人魔|皮肤怪胎/ Skinfreak    Build.20428871   免安装中文版
+- 沉没的森林/ The Sinking Forest    Build.19855257   免安装中文版
+- 頭七|头七怪谈/ TOUQI   Build.19610444   免安装中文版
+- 蔑视/ Scorn   v1.2.2.0   免安装中文版
+- 创尸纪/ DEADCRAFT   免安装中文版
+- 魔王的迷宫/ Labyrinth Of The Demon King   v20251027   免安装中文版
+- 讨厌你/ Hate You   Build.20432193   免安装中文版
+- 废弃的地铁深处/ Deep Line   Build.19615037   免安装中文版
+- 阴间推送/ Cursed Shorts    Build.19835021   免安装中文版
+- 致命公司/ Lethal Company/ 单机+联机   v73 全MOD   免安装中文版
+- 跳跃之王/ Jump king   Build.18679336   免安装中文版
+- 受折磨的灵魂/ Tormented Souls   免安装中文版
+- 信你个鬼/ Don’t Get Got   v0.1.3   免安装中文版
+- 时间旅者：重生曙光/ Cronos: The New Dawn  v20251030 全DLC  免安装中文版
+- 第七层/ 7th Floor   v1.0.2   免安装中文版
+- 工房库：噩梦历险记/ Garage Bad Dream Adventure   Build.20618823   免安装中文版
+- 昏迷2：恶毒姐妹/ The Coma 2 Vicious Sisters    v1.0.6   免安装中文版
+- 恐怖噩梦合集/ Horror Nightmare Collection   免安装中文版
+- 黄泉旅客/ Head To Hell   v2024.9.16   免安装中文版
+- 洗衣房困境/ Laundry Room Dilemma   免安装中文版
+- 异馆/ Twisted Gallery   Build.19635391   免安装中文版
+- 留意小丑|小心小丑/ Mind the Clown   v1.8.2  免安装中文版
+- 血根森主/ Banebush   v1.3.0   免安装中文版
+- 阿门蒂|阿蒙提/ Amenti   v1.0.0  免安装英文版
+- 愤怒：序章/ Ire: A Prologue   Build.20292717   免安装英文版
+- 小丑：愚行仪式/ Jester A Foolish Ritual   Build.20630552   免安装中文版
+- 幽暗扫描/ Scanner Sombre   v20240918   免安装中文版
+- 后室：撤离/ Backrooms: Extractions/ 单机+联机   v0.3.71  免安装中文版
+- 怪谈：1992 /Uncanny Tales 1992   Build.19922854   免安装中文版
+- 我讨厌我的腿/ I HATE MY LEGS   免安装中文版
+- 九魂/ 9 Souls   Build.20625553   免安装中文版
+- 米塔/ MiSide/ PC+手机双端   v0.93L  全MOD+全服装+鼠标指针+动态壁纸   免安装中文版
+- 直到黎明：重制版/ Until Dawn   v1.08   免安装中文版
+- 静冈诅咒/Shizuoka Curse  免安装中文版
+- 阿南特快车/ Anant Express   Build.20323856  免安装中文版
+- 小镇惊魂2 / DreadOut 2 / PC+手机双端   v1.1.7 送修改器   免安装中文版
+- 逃离病娇/ Saiko no sutoka/ PC+手机双端   v2.0.6    免安装中文版
+- 冒险者阿曼达3 / Amanda the Adventurer 3   Build.20702252   免安装英文版
+- 屠夫溪/ Butcher’s Creek    v1.151   免安装英文版
+- 未知项目|未知计划/ Project Unknown / 单机+联机  v1.0.3.7894  免安装中文版
+- 夜幕异术远征/ N.O.X   Build.20715498   免安装中文版
+- 午夜现场：公路惊魂（特别版）/ Midnight Scenes The Highway (Special Edition)     Build.20251936   免安装中文版
+- 斯科普里83：湮灭前夕/ Skopje ’83   Build.20739945   免安装中文版
+- 河神：沉溺之流/ River God Enshrouded Current   免安装中文版
+- 这个游戏在试图杀死我吗？/ Is this Game Trying to Kill Me?   v1.0.10   免安装中文版
+- 隧道逃生/ Tunnel Escape   v1.1.0s   免安装中文版
+- 遗产/ The Legacy   v0.5206   免安装中文版
+- 无悼/ Unmourned   Build.20836643   免安装中文版
+- 恐怖字节/ Terrorbytes   Build.20869787   免安装中文版
+- 暴煞狂想2 / Violent Horror Stories    Build.20875131   免安装中文版
+- 可怕的夜班：第一卷 – 路边餐厅/Creepy Shift: Roadside Diner   Build.20858325  免安装中文版
+- 墓地：生存/Gravehold Survival  免安装中文
+- 鬼武者2：高清复刻版/Onimusha 2 Samurai’s Destiny   Build.16840726   免安装中文版
+- 噬梦者|玛拉/ Mara   Build.20872356   免安装中文版
+- 超自然清理/ Paranormal Cleanup/ 单机+联机   v1.4.3b   免安装中文版
+- 我的碎片/Pieces of me   v1.08   免安装英文版
+- 邪恶冥刻/Inscryption  v1.10  免安装中文版
+- 消逝的光芒：仇恨/Dying Light: Bad Blood   v3688035   免安装中文版
+- 陨灭/PERISH   v7430   免安装中文版
+- 妖术3：超自然现象/ İblis3 Phenomena   Build.20714231   免安装中文版
+- 伊藤润二狂热：无止的囹圄/ Junji Ito   v1.1.2  免安装中文版
+- 夜勤旅店/ Nightmare Shift   v1.0.0   免安装中文版
+- 信封/ Envelope   v4.2316.0   免安装中文版
+- 克莱姆 /CLeM   Build.13984419   免安装中文版
+- 伏煞2 夜钓/FuSha 2   v20251125  免安装中文版
+- 黑之魂2/BLACK SOULS II   Build.20973915   免安装中文版
+- 病娇女仆/~Yandere Maid~   免安装中文版
+- 生水 /Water of M  v1.0.9.1  免安装中文版
+- 伏煞 夜宿/FuSha   v20251015  免安装中文版
+- 闭店事件/The Closing Shift    免安装中文版
+- 惊心留宿/ The Inn-Sanity   免安装中文版
+- 真实噩梦：路边咖啡馆/True Nightmare – Roadside Сafe   v1.1.0    免安装中文版
+- 再见，甜美的卡罗尔/ Bye Sweet Carole    v1.0.9  免安装英文版
+- 寂静岭2 重制版/ Silent Hill 2    v1.1.258.834 全DLC 送修改器   免安装中文版
+- 她要离开 /She’s Leaving  Build.20909321   免安装英文版
+- 无眠梦魇/SLEEP AWAKE    Build.20850448   免安装中文版
+- 内脏医生 /DOCTOR VISCERA   v1.2   免安装中文版
+- 致命速递|夺命披萨外卖 / Pizza Deathlivery /单机+联机   v1.0.6   免安装中文版
+- 脑叶公司/Lobotomy Corporation   v1.0.2.13f1   免安装中文版
+- 冷白/The Cold White    Build.21100504    免安装中文版
+- 坤坤轮盘/Spin to Survive   Build.20816455    免安装中文版
+- 学会说不 /[Bober Bros] No Means Nothing   Build.21101226   免安装中文版
+- 我在执行观察任务8 /I’m on Observation Duty 8   Build.21085106   免安装中文版
+- 如胶似漆 /Stuck Together   v6947 单机+联机   免安装中文版
+- 夜班症候群|沉迷夜班 /Obsessed Night Shift    Build.20382710   免安装中文版
+- 带我走维塔利 /Take me, Vitaly   v20251210   免安装中文版
+- 录像怪谈/Dead Format    Build.21160430   免安装英文版
+- 暗影特工 /Agents of Shadow   Build.21176532    免安装中文版
+- 女鬼别追我 免安装中文版
+- 地狱7分钟 / 7 Minutes in Hell   Build.20373275  免安装中文版
+- 异常咖啡机2 /Anomalous Coffee Machine 2    Build.21162989    免安装中文版
+- 晚餐/The Dinner    Build.20925702   免安装中文版
+- 窥维者/CoRoT    Build.20994538   免安装中文版
+- 午夜凶亭 /Kiosk   Build.20332647   免安装中文版
+- 传染病/ Contagion   Build.21184695   免安装中文版
+- 锁好你的门 /LockYourDoor   v1.0.4 单机+联机   免安装中文版
+- 最后的拜访：98号 /The Last Visit 98th   Build.19068702    免安装中文版
+- 铁肺 /Iron Lung   Build.12439138   免安装英文版
+- 裂脑/Split Brain    Build.30042025 单机+联机    免安装中文版
+- 珍妮爱你 /Jenny Love You   Build.21238017   免安装中文版
+- 锈湖：天堂岛/ Rusty Lake Paradise   免安装中文版
+- 日本事故物件监视协会2 /Japan Stigmatized Property 2   v1.0.1   免安装中文版
+- 7日起源/7Days Origins  免安装中文版
+- 勿观窗外/Look Outside  v2.01  免安装中文版
+- 运送实验怪物的人/UNDERWARD /单机+联机   v2.1.0.1 免安装中文版
+- 鲜血打字机/Blood Typers   v1.2.8  免安装中文版
+- 地狱之刃2：塞娜的史诗增强版/Senua’s Saga Hellblade II   v266716    免安装中文版
+- 折磨者 /TORMENTOR    Build.21263435  免安装中文版
+- 空间池 /POOLS  v20251219支持VR   免安装中文版
+- 极度恐慌3 /F.E.A.R. 3   完整版  免安装中文版
+- 心界探秘/Noosphere   Build.21275248   免安装中文版
+- 消失的列车/The Vanishing Train   Build.20953519   免安装中文版
+- 圣诞屠夫 /Butcher of the North  Build.21193077   免安装中文版
+- 寻找伪人/No I’m not a Human   v1.2.12  免安装中文版
+- 午夜抢劫/ Midnight Heist    Build.21299199  免安装中文版
+- 深渊学校/Abyss School   v1.8.0   免安装中文版
+- 永恒秩序 /Perennial Order   Build.16825804   免安装中文版
+- 副作用/SIDE EFFECTS/ 单机+联机   Build.21228065 免安装中文版
+- 尝试2睡眠/Try 2 Sleep   免安装中文版
+- 无人在线/ No Players Online   v20251202  免安装中文版
+- 酱油拉面永远/ Shoyu Ramen Forever   Build.21329105   免安装中文版
+- 酒店188|188号旅馆 / Hotel 188  v1.0.0   免安装中文版
+- 翻越它/Vaulting Over It   Build.21066362   免安装中文版
+- 魂囊 /Honrang   Build.21357043   免安装中文版
+- 诱拐事件/The Kidnap   v1.15   免安装中文版
+- 死亡季节/Dead Season  v1.0.0.9  免安装中文版
+- 在执行观察任务7/I’m on Observation Duty 7   Build.20350402   免安装中文版
+- 幽暗森林 /Gloomwood   v0.1.311.35   免安装英文版
+- 你与她的百合狂想曲 /Kimi to Kanojo no LILYVAGANZA   Build.16143669   免安装中文版
+- 无尽循环 /Perpetuo   Build.21374386   免安装中文版
+- 影域双生：双人幸存者/Shadowkin   v1.0f   免安装中文版
+- 永恒寒冬/The Forever Winter /单机+联机  v0.1.54530.0 免安装中文版
+- 侦探：雨夜/DETECTIVE – Rainy night   Build.18811197  免安装中文版
+- 寂静之地：前路漫漫/A Quiet Place: The Road Ahead  v1.1.0  免安装中文版
+- 8号公路/Route8   Build.16129943  免安装中文版
+- 不祥之兆：8号公寓/Bad Omens 8th Apartment   Build.15252488   免安装中文版
+- 死亡之地/ Deathground   v0.1.56b  免安装英文版
+- 沦陷/FALL   v0.1.1  免安装中文版
+- 预先警告 /FOREWARNED  Build.21397559  免安装中文版
+- 回收行动/R.E.P.O./单机+联机  PC/手机双端   v0.3.0 送存档+MOD 免安装中文版
+- 致命安眠/Go To Sleep   v1.1.1  免安装中文版
+- 生化女神末日开端/ BIO GODDESS   Build.21420151  免安装中文版
+- 地狱之种：全章节|地狱种子：全章节 /HELLSEED: All Chapters  v20241205  免安装中文版
+- 窒爱/ SUFFOCATE   Build.21409640  免安装中文版
+- 焦虑：一个关于生存的故事 /ANGST: A TALE OF SURVIVAL     Build.21437681   免安装中文版
+- 灯塔守望者/The Lightkeeper  v20251217  免安装英文版
+- 死亡空间：重制版/ Dead Space Remake   Build.10602756完美版 送修改器   免安装中文版
+- 格莱特洛秘录 /The Gretlow Tapes  Build.21146547  免安装中文版
+- 不安之梦 /Restless Dreams  Build.21445768   免安装中文版
+- 记忆之路 /Path to Mnemosyne  v5212676  免安装中文版
+- 欺世欢悦/Deceived Of Joy   Build.21430944  免安装中文版
+- 威尼恩病毒/ Winion Virus    Build.21465210   免安装中文版
+- 旁观者1/Spectator 1   Build.21467692  免安装中文版
+- 登录谜案/Log.in   Build.21475820  免安装中文版
+- 美邻街 /My Friendly Neighborhood  Build.21247556  免安装中文版
+- 边界点 /THRESHOLD   v1.1.4  免安装中文版
+- 她享年98/SHE WAS 98  Build.21510625  免安装中文版
+- 绯红山谷/Scarlet Hollow   Build.18197641   免安装中文版
+- 歪脖男 /The Crooked Man  Build.18292038  免安装中文版
+- 异位：起源/Out of Place Origin   Build.20862904   免安装中文版
+- 凝视之林：虱子/The Watching Woods The Louse   Build.21537978  免安装中文版
+- 寿司屋/ The Sushi House    Build.21239773  免安装中文版
+- AI2U 与你直到世界尽头 ~ 我的病娇猫娘AI女友/AI2U With You ‘Til The End   Build.21307873   免安装中文版
+- 万手一体/Out of Hands  v1.0.0.02  免安装中文版
+- 惊魂 /Psycho  Build.21547735  免安装中文版
+- 破碎怪谈：雾雨村/BrokenLore LOW   v20250319  免安装中文版
+- 寄居隅怪奇事件簿/Hermitage Strange Case Files  Build.6845514   免安装中文版
+- 岚与山之彼端/Other Side Of Mist And Mountain   v0.6.19   免安装中文版
+- 终焉车站 /Saihate Station  Build.19461868  免安装中文版
+- 芭芭莉娅 /BABULYA  Build.21557710   免安装英文版
+- 黎明教派 /Cult of Dawn  Build.21552157  免安装英文版
+- 打劫时间到 /Robbing Time   Build.12112025 单机+联机   免安装中文版
+- 迷离诡夜/ blurred weird night    Build.21551671  免安装中文版
+- 韦尔蒙特农场案件/ The Wellmonts Case   Build.21533483   免安装中文版
+- 战壕惊魂 /CONSCRIPT  v2.1.0.0  免安装中文版
+- 驱鬼公司/Ghost Exorcism INC. /单机+联机  Build.20619832   免安装中文版
+- 死油|死亡油田/Dead Oil   Build.21329550  免安装中文版
+- 遗忘之丘：第一步 /Forgotten Hill First Steps  Build.6974545  免安装中文版
+- 遗忘之丘：纪念品/Forgotten Hill Mementoes   Build.4689198  免安装中文版
+- 遗忘之丘：林中小屋 /Forgotten Hill Tales  Build.8675627  免安装中文版
+- 你好邻居1/ Hello Neighbor   Build.20191031  免安装中文版
+- 你好邻居：捉迷藏 /Hello Neighbor Hide and Seek  完整版  免安装中文版
+- 灵忆校祭 /Get Me Out, Please  v1.1.1  免安装中文版
+- 大肠的复仇/ Revenge Of The Colon/ PC+手机双端   Build.20418527  免安装中文版
+- 恐惧地带/DREADZONE /单机+联机  v1.5.8.2  免安装中文版
+- 僵尸墓地模拟器/Zombie Graveyard Simulator   Build.21620511  免安装中文版
+- 不/存在的你，和我/The NOexistenceN of you AND me   v2.333.2.7  免安装中文版
+- 背后/ The Back Behind    v20241220   免安装中文版
+- 林葬屋前传：冥声/ Mourningwood Lodge2 Hidden Voice    Build.20509975   免安装中文版
+- 寂静岭F / SILENT HILL f   v1.2.382755 全DLC 送预购特典+已打防黑屏补丁   免安装中文版
+- 蜉蝣之国的囚徒 /Ephemeral  v20260113   免安装中文版
+- 感染：起源 |侵蚀：起源/Infestation Origins   v1.0.3  免安装中文版
+- 八尺様/Hachishaku  Build.21625494  免安装中文版
+- 班迪与墨水机器 /Bendy and the Ink Machine   Build.21684085  免安装中文版
+- 地下室惊声（2025）/Screaming In The Basement (2025) Build.21324809  免安装英文版
+- 伊森是谁？/Who Is Ethan？ Build.21222774   免安装中文版
+- 妄想症之地/ PARANOIA PLACE   v1.05  免安装中文版
+- 毁了的护士/Ruined Nurse  v1.4.4  免安装中文版
+- 诡租：205号房/ HauntedRoom205Full   v1.0601  免安装中文版
+- 恐怖奶奶 重制版|外婆重制版|奶奶重制版  /Granny Remake /PC+手机双端  v3.6.4  免安装中文版
+- 诅咒2 /Damned 2  Build.19613616  免安装中文版
+- 城市防线Z|城市防御Z/City Defense Z  Build.21712061    免安装中文版
+- 彩虹之门/ Rainbow Gate  Build.21736072   免安装中文版
+- 化学家：感染区域/ CHEMISTS Area of infection   v0.4.14  免安装中文版
+- 车库：浴血之旅/GARAGE Bad Trip    Build.2923810  免安装中文版
+- 消逝的真相 ？Perished Truth  Build.21731856   免安装英文版
+- 生化危机8 村庄/ Resident Evil Village   v20260203 全DLC 送修改器+存档  免安装中文版
+- 无彩世界2|褪色2|失色之谜2/Discolored 2  Build. 8789724  免安装中文版
+- 千禧梦 /Millennium Dream   v1.0.5.1 免安装中文版
+- 全景监视者/Panopticon   Build.21452570   免安装中文版
+- 终末期异化 /DYSTHANASIA  v1.0.8.2  免安装中文版
+- 冯加兰城堡：血之彼岸/VonGarland Castle Beyond Blood   Build.21718842  免安装中文版
+- 死亡网格/ Dead Grid  Build.21735320   免安装英文版
+- 五天一夜/5omeday   Build.21699091  免安装中文版
+- 街区新面孔/New Face On The Block  Build.21735287  免安装中文版
+- 艾拉 /A.I.L.A|AILA   v1.0.4.6212  免安装中文版
+- 战锤40K 暗潮 /Warhammer 40,000: Darktide/单机+联机  v1.10.5329.0   免安装中文版
+- 恐慌核心/ PANICORE /单机+联机   v1.3.1  免安装中文版
+- 僵尸街区：涂鸦特工队/Ghetto Zombies Graffiti Squad   Build.21816508  免安装中文版
+- 回忆空愿/Recall: Empty Wishes   v1.0.4.0   免安装中文版
+- 诡异之光 /The Strange Lights   Build.21829961  免安装中文版
+- 无尽黑夜 无尽黑夜|第八幻象|八度迷境/THE 8IGHT   v1.0.0  免安装中文版
+- 萨利之面|俏皮脸|莎莉的脸/ Sally Face  – Episode One   v1.5.46  免安装中文版
+- 天堂不再回/Heaven Does Not Respond   Build.21838398   免安装英文版
+- 黑暗阿特拉斯：地狱/ Dark Atlas Infernum   Build.21265262   免安装中文版
+- 十八层阁楼/ The 18th Attic – Paranormal Anomaly Hunting Game   Build.21607501  免安装中文版
+- 前方注意：第2部/ Caution Ahead Part 2   Build.21538857   免安装英文版
+- 黑冰/ The Black Ice   v0.22  免安装英文版
+- 黑暗世界：因与果/KARMA: The Dark World  v20250626  免安装中文版
+- 灰人：人类绑架/The Greys Human Abductions    Build.20258528    免安装中文版
+- 油滑深渊 /The Oily Depths   Build.21529433   免安装中文版
+- 逃离按钮间/ BUTTON PRISON   Build.18000504  免安装中文版
+- 幽林深处/ Heart of the Forest  Build.21680876  免安装中文版
+- 瘟疫3/ Pathologic 3  v20260211  免安装英文版
+- 无光之晓/ Without a Dawn  Build.21384351  免安装中文版
+- 无彩世界2|褪色2|失色之谜2 /Discolored 2  v1.3.1  免安装中文版
+- 失色之谜|无彩世界|褪色 /Discolored  Build.8789724  免安装中文版
+- 创伤之后/Post Trauma   v1.05.02  免安装中文版
+- 巨蛛猎手/Huntsman   v1.0.5  免安装中文版
+- 冰店 /The Ice Cream Shop  Build.21933398  免安装中文版
+- 艾莉丝的世界/Alice’s World   v20260220  免安装中文版
+- 至暗死境/Dead of Darknes   v20260216  免安装中文版
+- 禁忌海猎 /UMIGARI  v1.62  免安装中文版
+- 地狱超市/ HELLMART   Build.21981410  免安装中文版
+- 逃离病娇 ？/Escape from Yandere   v1.3   免安装中文版
+- 碉堡入侵者/ Bunker Invaders/ 单机+联机   v0.3.0 免安装中文版
+- 白指关节/White Knuckle   v0.44n   免安装英文版
+- 玩具熊的五夜后宫：姐妹地点/Five Nights at Freddy’s Sister Location   Build.1497593   免安装英文版
+- 玩具熊的五夜后宫：需要帮助1 /Five Nights at Freddy’s Help Wanted   Build.4710952   免安装中文版
+- 劫盗惊魂夜/ Dark Hours / 单机+联机  Build.21985118 免安装中文版
+- 笼子 /KLETKA /单机+联机   v1.0.3   免安装中文版
+- 夜勤清扫/The Night Cleaner  Build.22053283  免安装中文版
+- 迷魅狩猎/ MIMESIS/ 单机+联机   v0.2.8 免安装中文版
+- 生化危机4 重制版/ Resident Evil 4   Build.21521672 全DLC 新增艾达王DLC   免安装中文版
+- 愚灵/Fooling Dead   Build.22041543   免安装中文版
+- 我有一座冒险屋/Horror House   v1.0.0   免安装中文版
+- 生者回响/ Echoes of the Living   v0.1  免安装英文版
+- 追捕我/Hunt Me   v0.2.4   免安装中文版
+- 弹珠台M /Pinball M  Build.21766574    免安装英文版
+- 莫哈维之猫 /Cat Named Mojave   v20260223   免安装中文版
+- 灵异清洁工 /Ghost Janitors/单机+联机   Build.22022026   免安装中文版
+- 玩具熊的五夜后宫1-4部合集/Five Nights At Freddy’s 1-4   免安装英文版
+- 码到成功/Idiom Royale   v1.0.1  免安装中文版
+- 深空七号/ Deep Space 7   v0.8.4   免安装中文版
+- 这是一个幽灵 /This is a Ghost   v1.2.0  免安装中文版
+- 我在一个胖子的房子里醒来：他三十多岁，喜欢啤酒和游戏/I woke up in the house of a fat man: he’s over 30 years old and loves beer and games   Build.21197889   免安装中文版
+- 波比的游戏时间/Poppy Playtime  v20260227   全DLC  免安装英文版
+- 蚀之境/ Eclipsium   v20251223  免安装中文版
+- 在杰难逃/ASCAPE   免安装中文版
+- 闹鬼：村庄 /Haunted Village  Build.22076832  免安装中文版
+- 恶魔学家/ Demonologist/ 单机+联机   v2.0.3 免安装中文版
+- 孤女困魇/ Silly Polly Beast   v1.2.5.152  免安装中文版
+- 致命频率 /Killer Frequency   Build.20187436   免安装中文版
+- 恐惧时间循环|恐惧轮回  /Fear The Timeloop   v1.1.2  免安装中文版
+- 杀青 正式版 免安装中文版
+- 粉色噪音 /Pink Noise   Build.22238270   免安装中文版
+- 天使引擎 /Angel Engine    Build.22236920   免安装中文版
+- 这个商城不太对劲 /Storebound / 单机+联机  v0.8.5 免安装中文版
+- 静默恐惧：老灯塔十五夜/ Static Dread The Lighthouse   v20260307  免安装中文版
+- 校园默示录|死亡学校/DEAD OR SCHOOL    v7.03.11 送修改器+满金币.强化零件初始存档   免安装中文版
+- 月球任务 /ROUTINE   v2.2.0.0   免安装中文版
+- 打鬼/PAGUI    Build.22273686 全DLC 原声带   免安装中文版
+- CHWÆST：寄生恐怖来袭 /CHWÆST A Creeping Parasite Horror   Build.22200974   免安装中文版
+- 熊视眈眈/ Out of Sight   v1.1.93  全DLC   免安装中文版
+- 未封印：梦魇 /Unsealed The Mare   Build.22303246  免安装中文版
+- 清醒方块/Lucid Blocks   Build.22338075   免安装英文版
+- 枯萎避风港/ Withered Haven   Build.22007606   免安装中文版
+- 按摩大师 /Magical Massage   v1.8.2   免安装中文版
+- 未述之忆：波特墓地 /Untold Memories Potter’s Field   Build.22303571   免安装中文版
+- 幸福之家/Happenlance   完整版    免安装中文版
+- 似曾相识/Seen Before   Build.19717952   免安装中文版
+- SCP-3008：无限商店 /SCP-3008 Infinite Store    Build.22342246    免安装中文版
+- 全面混沌/Total Chaos   v1.0.23  免安装英文版
+- 沉默年代 /The Silent Age   完整版   免安装中文版
+- 祝姫 /Iwaihime   v1.00  免安装中文版
+- 山羊故事/Goat’s Tale   v1.0 全DLC  免安装中文版
+- 怪奇镇生存指南/ I Hate This Place   v1.0.13.16033  免安装中文版
+- 人脸挖掘|面容采集者/ FACEMINER   v2.2.0  免安装中文版
+- 格式塔：五日回/GESTALT The Fifth Day    Build.16596230   免安装中文版
+- 迷雾求生/Mist Survival   v20250519  免安装英文版
+- 输水|送水员：恐怖之旅/Water Delivery   Build.16963419  免安装中文版
+- 杀死公主：原始剪辑版 /Slay the Princess — The Pristine Cut    Build.17567548   免安装中文版
+- 雅皮雅普 /YAPYAP/ 单机+联机   Build.21790889   免安装中文版
+- 猛鬼大厦 昌榮大廈  /Haunted House   v1.3.6   免安装中文版
+- 鸡蛋历险记/ Egging On   v0.1.8833  免安装中文版
+- 载体 /Unwilling Host   Build.22476810   免安装中文版
+- 异常侦探：少女的安眠 Build.17383026  免安装中文版
+- 黑暗史诗系列/Fate   免安装中文版
+- 女妖狩猎/Banshee Hunt    v1.1.3   免安装中文版
+- 穿越密室/Traverse the Backrooms    v1.0.0   免安装中文版
+- 摇鼠大作战|摇鼠灵/RATSHAKER    Build.22514354   免安装英文版
+- 后室梦穿 /Shifting To The Backrooms   Build.22503789   免安装中文版
+- 列车长：永恒勤务/Conductor Eternal Service   Build.22509488   免安装中文版
+- 刽子手无假期/No Vacation for an Executioner    Build.22308961   免安装中文版
+- 亚利桑那阳光2/Arizona Sunshine 2 /单机+联机   v1.0.0   免安装中文版
+- 恐惧深渊/Kriophobia   v1.1.2  免安装中文版
+- 天黑之后的宠物店 /a pet shop after dark   v1.05   免安装中文版
+- 迷宮校舍 /School Labyrinth /单机+联机   v2.0.5   免安装中文版
+- 战争机器4/Gears of War 4 /单机+联机   v1.14.4.0.2      免安装中文版
+- 灵视寻轨：博物馆 /Paragnosia Museum   Build.22570986   免安装中文版
+- 忆蚀/Subliminal   Build.22579455   免安装中文版
+- 娃娃/Dolls   免安装中文版
+- 报纸日 /Newspaper Day   v1.0.0   免安装中文版
+- 残秽的我们/Filthy us    Build.7839201   免安装中文版
+- 残秽的我们2：普渡慈航/Filthy us 2   Build.11170651   免安装中文版
+- 觉醒深渊 /Still Wakes the Deep   v1.6.3 全DLC   免安装中文版
+- 黑暗众生/The Black Masses   v1.01    免安装中文版
+- 水星私奔症候群 /Mercury Elopement Syndrome  v1.0.2   免安装中文版
+- 余烬祸根 /Emberbane   Build.22624065  免安装中文版
+- 生化实验室 /BioTech Labs   Build.22425601   免安装中文版
+- 地中海地狱 /Mediterranea Inferno   Build.22021680   免安装中文版
+- 藏得太深/Too Well Hidden   Build.22640356   免安装中文版
+- 迷宫探险/ Labyrinthine/ 单机+联机   v20260405 全DLC  免安装中文版
+- 无声的呼唤|沉默的呼吸|无声的呼吸/ SILENT BREATH/ 单机+联机   Build.21736328  免安装中文版
+- 暗夜运输者 /Night Shippers   Build.22691959   免安装中文版
+- 生化危机9：安魂曲-解压既玩版/ Resident Evil Requiem   Build.22472737  送修改器  免安装中文版
+- 娜林：橙色房间 /Narin The Orange Room   Build.22717228   免安装中文版
+- 噩梦初醒 /REVEIL  v1.1.1f1.2   免安装中文版
+- 癫狂动物园/Zoochosis  v3.0.0  免安装中文版
+- 上一层/The Floor Above    v1.0.43   免安装中文版
+- 神经鹅/ Tingus Goose  v1.2.1 免安装中文版
+- 末路调色板 /Matsuro Palette   Build.22460274   免安装中文版
+- 人偶回来了/Doll is Back   Build.22745694   免安装中文版
+- 战栗深渊 /Horripilant   v1.3.3  免安装中文版
+- 奈德拉/NEDRA   v1.1.0   免安装中文版
+- 向生而死 /Death Relives   v0.14.68.408   免安装中文版
+- 丧尸末世：地底全是财，挖宝造炮台 / The Spotter Dig or Die    v1.0.4.4   免安装中文版
+- 吞噬/ DEVOUR / 单机+联机  Build.22763919   免安装中文版
+- 零：红蝶重制版|零 ～红蝶～ 重制版 /FATAL FRAME II Crimson Butterfly REMAKE   v1.03.04  免安装中文版
+- 不要玩这个/Don’t Play This    Build.22806841   免安装中文版
+- 最后之夜|最后的光 /Last Light   v1.0.4   免安装中文版
+- GIBZ 免安装中文版
+- 憋不住了！/We Gotta Go   Build.22876488   免安装中文版
+- 检疫区：最后一站/ Quarantine Zone The Last Check   v1.1.13.1645   免安装中文版
+- 笼子/ KLETKA/ 单机+联机   v1.0.15   免安装中文版
+- 怒潮：被侵蚀/Tide Up   完整版  免安装中文版
+- 杀戮之枪/KILLGUN   Build.22940854   免安装中文版
+- 伊森的守望/Ethan’s Watch     Build.22950463   免安装中文版
+- 梦核：兔子洞 /Dreamcore Rabbit Hole    Build.22954438   免安装中文版
+- 僵尸启示录|行尸走售 /The Walking Trade   v1.11  免安装中文版
+- 迷失于声音中 /Lost in Voice   Build.22964531   免安装中文版
+- 第九藏骸所 /The 9th Charnel  v20260317   免安装中文版
+- 八号窗口：千禧年/The Window 8 Millennium    Build.22969343   免安装中文版
+- 小镇惊魂重制版合集/DreadOut Remastered Collection  v20260427  免安装中文版
+- 僵尸U/ ZOMBI   v2.5   免安装中文版
+- 林夜终告 /Last Report   Build.22783613  免安装中文版
+- SCP-9779-JP Build.22997509 免安装中文版
+- 小兔子/Tiny Bunny   v20260504  免安装中文版
+- 瘟疫恶魔/Devil of the Plague    Build.23082611   免安装中文版
+- 蒸汽机模拟器/Steam Engine Simulator    v0.2.67    免安装英文版
+- 凶寓 /DREAD FLATS   v20260507  免安装中文版
+- 破晓/Dawn Break   v20260505  免安装中文版
+- 恶意/Dread Neighbor   Build.23160615   免安装中文版
+- 布偶狂怒游戏 /A Ragdoll Rage Game   Build.22734172   免安装中文版
+- 废土餐车/Wasteland Bites    Build.23117346   免安装中文版
+- 幽灵放逐/Ghost Exile    Build.21749132   免安装中文版
+- 疫区岛/ Outbreak Island    v20260508   免安装英文版
+- 完美末日：永恒炼狱/Purrfect Apawcalypse Purrgatory Furever    Build.23117775   免安装中文版
+- 今天早上我决定去死 /this morning I decided to die   Build.13670750   免安装中文版
+- 心动现场：恋爱实境秀/Heartbeat House Hong Kong   Build.22493116   免安装中文版
+- 距离男主自杀还剩七天/Suicide Countdown 7 Days    Build.12099196   免安装中文版
+- 冥河：外神来袭 /Stygian: Outer Gods    Build.22675507   免安装英文版
+- 绿色高地/Green Heights    Build.19067174  免安装中文版
+- 海市蜃楼之馆 /The House in Fata Morgana    Build.21523397   全DLC    免安装中文版
+- 沙耶之歌|萨亚之歌/The Song Of Saya    Build.4414713   免安装中文版
+- 障目/Cling to Blindness   Build.21201641    免安装中文版
+- 安抚/Pacify/ 单机+联机   v20260512 免安装中文版
+- 巧合？/Coincidences？   Build.23228671    免安装中文版
+- 九球轮盘赌/ Nine-Ball Roulette/ 单机+联机   v1.1.5  免安装中文版
+- 深渊童话 /Enelia Dawn of Madness   Build.19743438   免安装中文版
+- 生灵重塑/ REANIMAL/ 单机+联机   v361299  免安装中文版
+- 镇邪Ⅱ|镇邪2/HexBreaker Ⅱ   v20260515   免安装中文版
+- 血色郁娇游戏 /Menherarium   Build.22480903   免安装中文版
+- 凶邻 /Apartment203 HongKong   Build.22251826   免安装中文版
+- 香港恐怖事件：益善楼外卖血案/Hong Kong Horror Incident Yik Sin House    Build.23271333    免安装中文版
+- 恐慌快递/Panic Delivery    Build.23253866   免安装中文版
+- 零号使者/Emissary Zero/单机+联机  v1.3.2   免安装中文版
+- 岔路|分叉路/Fork Road    Build.18716248   免安装中文版
+- 孤影的碎片|孤寂残片/Shards Of Solitude    Build.23255710   免安装中文版
+- 异常侦探 /The Anomaly Detective   Build.23315947   免安装中文版
+- 莉娜在哪里？/Where Is Lena   Build.23321561   免安装中文版
+- 死亡玩偶之家/ Dollhouse Of Dead    Build.11022026   免安装中文版
+- 狼人：内在之兽 /Werewolf The Inner Beast   v20260520   免安装中文版
+- 犯罪现场清理工|犯罪现场清洁工 / Crime Scene Cleaner/ 手机+PC双端    v4.0.6a  全DLC   免安装中文版
+- 物种：未知/ Species Unknown /单机+联机   v0.21.2  免安装中文版
+- 地精之渊/PIT OF GOBLIN /单机+联机   v0.7.13   免安装中文版
+- 零售地狱 /Retail Hell   Build.23347008   免安装中文版
+- 失落的希望：密室/Lost Hope: Backrooms    v1.0正式版    免安装中文版
+- 屠夫/Butcherman    Build.23345192    免安装中文版
+- 玩具熊的五夜后宫：模仿者的秘密 /Five Nights at Freddy\\’s: Secret of the Mimic   v20260520   免安装中文版
+- 夜不能魅/ Midnight Special   Build.23286536   免安装中文版
+- 不思议物语：寒路 /Uncanny Tales Cold Road   Build.22819828   免安装中文版
+- 城市汽车驾驶 |汽车驾驶模拟器 /City Car Driving   Build.23337938    免安装中文版
+- 梦幻核心|梦境核心/ Dreamcore     Build.23312491    免安装中文版
+- 无底洞和鲜果乐园/Berry Bury Berry    Build.23369892   免安装中文版
+- 追曙 /ZHUISHU   Build.23252572   免安装中文版
+- 衔蝶/Cat carried Butterfly    v1.13   免安装中文版
+- 女吊 /Scarlet Idol/单机+联机    Build.22835891   免安装中文版
+- 文字化化/ Homicipher   v2.0.6  免安装中文版
+- 面具之塔/ Tower of Mask   Build.23382352   免安装中文版
+- 荒野左轮/ Chambers   Build.23376536   免安装中文版
+- 伯纳德·索恩的信件/Letters of Bernard Thorne   Build.19919657    免安装中文版
+- 真爱坤vs小黑子/IKUN vs XHZ    Build.23407546   免安装中文版
+- 事故物件/[Chilla’s Art] Stigmatized Property     Build.4328356    免安装中文版
+- 你回来了/[Chilla’s Art] Okaeri おかえり    Build.4182774    免安装中文版
+- 爸爸，欢迎回来/Welcome Back Daddy     Build.2765462   免安装中文版
+- 红披风/[Chilla’s Art] Aka Manto 赤マント     Build.4350676    免安装中文版
+- 灾殃/The Scourge   v1.0.3   免安装中文版
+- 核处逢生/ MISERY  单机+联机  Build.23376813   免安装中文版
+- 杀戮之石 /The Killing Stone   Build.23163898   免安装中文版
+- 幽灵大师：复生 /Ghost Master Resurrection   v20260528   全DLC     免安装中文版
+- 恐惧原野 /Dread Fields    Build.23456349   免安装中文版
+- 生化危机9：安魂曲-虚拟机版/Resident Evil Requiem    Build.22898177  送修改器     免安装中文版
+- 腐变症/Necrophosis    v20260525  全DLC    免安装英文版
+- 冰点之下 /SubZero   Build.23461289   免安装中文版
+- 逃离后室|逃离密室/ Escape the Backrooms / 单机+联机   Build.23319953   免安装中文版
+- 诡岛灵探/The Occultist    v1.0.2.6    免安装中文版
+- 兔子投射 /Bunny Hurling    Build.19160992   免安装中文版
+- 静脉/ VEIN/ 单机+联机   v0.024  免安装英文版
+- 孤胆少女 /Alone Girl   Build.23491022   免安装中文版
+- 脆弱的倒影/Fragile Reflection  Build.23267692  免安装中文版
+- 破碎怪谈：恶意关注/BrokenLore FOLLOW     Build.23495195    免安装中文版
+- 破碎怪谈：恶意取关/ BrokenLore UNFOLLOW    v20260128   免安装中文版
+- 离岛/Outlying Islands    免安装中文版
+- 电锯甜心：重制版/LOLLIPOP CHAINSAW RePOP / PC+手机双端    v1.19   免安装中文版
+- 晕晕电波症候群 /Yunyun Syndrome Rhythm Psychosis   Build.23504422   免安装中文版
+- 就寝时间/Time for Bed     Build.20558702   免安装中文版
+- 尘世小女孩，不停追问缘由/Little Girl On Earth Asking Why She Asking Why    Build.22311457   免安装中文版
+- 后室 一起逃脱/ Backrooms: Escape Together/ 单机+联机    Build.23539221   免安装中文版
+- 教室/ The Classrooms   v0.9.0.763   免安装中文版
+- 悔恨/Remorses    Build.23505992   免安装中文版
+- 迷雾计划/Project Mist    Build.23535933    免安装中文版
+- 血色西部 /Blood west  v5.0.3  全DLC  免安装英文版
+- 镜杀/ It Has My Face/单机+联机   Build.23216651  免安装中文版
+- 恐鬼症/ Phasmophobia/ 单机+联机/  v0.17.1.5   支持VR   免安装中文版
+- 灾变前夜/Dread Dawn  v20260530   免安装中文版
+- 归零巡礼：亡谍镇魂曲 /ZERO PARADES For Dead Spies   v20260604   免安装中文版
+- 人类宿主/Human Host   Build.23579737  免安装中文版
+- 受折磨的灵魂2 / Tormented Souls 2  v1.5.0  免安装中文版
+- 病房X /Ward X   Build.22945119   免安装中文版
+- 空壳/EMPTY SHELL  Build.23554716   免安装中文版
+- 昏迷3：血脉 /The Coma 3 Bloodlines    v1.1.7    免安装中文版
+- 寂静之国的波斯菊/Ayasa Shadows of Silence   Build.23571823   免安装中文版
+- 人性末日Z / HumanitZ /单机+联机   v1.05.A    免安装中文版
+- 鬼打墙-完整版/Enter Nowhere    Build.13748218   免安装中文版
+- 化妆镜黄金之梦/Pocket Mirror-Goldenertraum     Build.13025712  免安装中文版
+- 红鞋子与伊莉斯|小古蒂两只鞋/Little Goody Two Shoes     Build.20802495   免安装英文版
+- 威嚇：尖叫逃亡/THREAT -SCREAM AND ESCAPE-  Build.21131090  免安装中文版
+- 浪客诺特/ Katanaut   v1.133   全DLC   免安装中文版
+- Unpossess：驱魔模拟器/Unpossess: Exorcism Simulator     Build.21727793   免安装中文版
+- 死亡监测/ DeathWatchers   Build.20730731   免安装中文版
+- 丧尸要塞：末日搜打撤 /Dead Engine   v1.0.1   免安装中文版
+- 祭品小镇 /The Town of Nie    Build.20764596    免安装中文版
+- 灵童/Ling Tong    Build 19795381   免安装中文版
+- 春：献祭仪式/Haru Ritual of Sacrifice     Build.23337771   免安装中文版
+- 诡异夜班：乔叔的汽车旅馆/Creepy Shift Uncle Joe’s Motel   v6.0   免安装中文版
+- 雅皮士精神/Yuppie Psycho   Build.23505075   免安装中文版
+- 地精捣蛋团 /Burglin’ Gnomes /单机+联机     Build.23649755   免安装中文版
+- 邪恶推币机/CoinPit    Build.23676181   免安装中文版
+- 僵尸屠夫模拟器/ZOMBUTCHER Monster Business Simulator    Build.23692703   免安装中文版
+- 我是谁：救赎/Who am I Remedy    Build.23144867   免安装中文版
+- 你的外卖/Your Takeout     Build.21933212    免安装中文版
+- 零：红蝶重制版/零 ～红蝶～ 重制版/FATAL FRAME II: Crimson Butterfly REMAKE
+
+---
+
+## Switch移植（331 款）
+
+- 无主之地3（SWITCH手机版）
+- 火影忍者：终极风暴羁绊（SWITCH手机版）
+- 任天堂明星大乱斗全DLC（SWITCH手机版）
+- 怪物爆发（SWITCH手机版）
+- 雾隐战纪（SWITCH手机版）
+- 三国志8重制版全DLC（SWITCH手机版）
+- 岛屿幸存者（SWITCH手机版）
+- 东京巫女幸存者（SWITCH手机版）
+- 文明7全DLC（SWITCH手机版）
+- 宝可梦：阿尔宙斯（SWITCH手机版）
+- 火影忍者：究极风暴四部曲（SWITCH手机版）
+- 地心护核者（SWITCH手机版）
+- 僵尸部队4（SWITCH手机版）
+- 精灵宝可梦：去吧皮卡丘（SWITCH手机版）
+- 宝可梦：铁拳锦标赛（SWITCH手机版）
+- 无梦少女（SWITCH手机版）
+- 巨击大乱斗全DLC（SWITCH手机版）
+- 圣兽之王（SWITCH手机版）
+- 精灵宝可梦：去吧伊布（SWITCH手机版+内置金手指）
+- 宝可梦：剑盾（SWITCH手机版）
+- 暗黑地牢2全DLC（SWITCH手机版）
+- 禁闭求生（SWITCH手机版）
+- 荒岛求生（SWITCH手机版）
+- 咒术回战：双华乱舞（SWITCH手机版）
+- 宝可梦：朱紫全DLC（SWITCH手机版）
+- 神器行者（SWITCH手机版）
+- 宝可梦：夜光白金（SWITCH手机版）
+- 伊始之地（SWITCH手机版）
+- 虚空穹牢全DLC（SWITCH手机版）
+- 八方旅人|歧路旅人（SWITCH手机版）
+- 三国志14威力加强版全DLC（SWITCH手机版）
+- 废墟图书馆 完全版（SWITCH手机版）
+- 忍者神龟 斯普林特的命运 switch模拟器！(游戏)
+- 卡牌之声：岛屿龙的咆哮 v1.0.2中文版  switch模拟器！(游戏)
+- 美少女梦工厂2 韶华再续 v1.0.1  switch模拟器！(游戏)
+- 游戏王：决斗者的遗产-链接进化switch模拟器！(游戏)
+- 银花 GINKA  switch模拟器！(游戏)
+- 九日中文switch模拟器！(游戏)
+- 餐厅大亨我的烹饪帝国switch模拟器！(游戏)
+- 傲气雄鹰 重装上阵  switch模拟器！(游戏)
+- 杀死乌鸦 Kill The Crows  switch模拟器！(游戏)
+- 命运石之门精英  switch模拟器！(游戏)
+- 钢铁之躯IronMeat  switch模拟器！(游戏)
+- 王座陨落  中文switch模拟器！(游戏)
+- 铲子骑士幽灵的折磨中文switch模拟器！(游戏)
+- F1车队经理2024中文switch模拟器！(游戏)
+- 赛博牛仔传奇中文switch模拟器！(游戏)
+- 王权星途中文switch模拟器！(游戏)
+- 狼刃Wulverbladeswitch模拟器！(游戏)
+- 午夜格斗快车中文switch模拟器！(游戏)
+- 勇者斗幺蛾中文switch模拟器！(游戏)
+- 苏立泰尔的阴谋中文switch模拟器！(游戏)
+- 蘑菇大战2中文switch模拟器！(游戏)
+- 临兵驰者中文switch模拟器！(游戏)
+- 波提字节国度大冒险中文switch模拟器！(游戏)
+- NBA2K25中文switch模拟器！(游戏)
+- 自由战争复刻版中文switch模拟器！(游戏)
+- 浅红2EasyRed 2中文switch模拟器！(游戏)
+- 瓜约塔Guayotaswitch模拟器！(游戏)
+- 侦探神宫寺三郎前传代达罗斯 中文switch模拟器！(游戏)
+- 工人物语新兴同盟中文switch模拟器！(游戏)
+- 紧急行动！SOSOPS!中文switch模拟器！(游戏)
+- 掩体建造与建设模拟器中文switch模拟器！(游戏)
+- 史丹利的寓言终极豪华版中文switch模拟器！(游戏)
+- 骰子遗产中文switch模拟器！(游戏)
+- 画个火柴人2中文switch模拟器！(游戏)
+- 番长战旗中文switch模拟器！(游戏)
+- 焕然异星中文switch模拟器！(游戏)
+- 天使帝国4中文switch模拟器！(游戏)
+- 深渊之印中文switch模拟器！(游戏)
+- 真人快打1中文switch模拟器！(游戏)
+- 大头盔英雄 中文switch模拟器！(游戏)
+- 末代魔王中文switch模拟器！(游戏)
+- 星球大战前传1幽灵的威胁中文switch模拟器！(游戏)
+- 奥特罗斯中文switch模拟器！(游戏)
+- 挺进地牢中文switch模拟器！(游戏)
+- 愤怒之枪中文switch模拟器！(游戏)
+- 剑骑烈传刃之异邦人中文switch模拟器！(游戏)
+- 火车山谷2社区版中文switch模拟器！(游戏)
+- 建造者Plus中文switch模拟器！(游戏)
+- 在深渊的尽头你看到了什么中文switch模拟器！(游戏)
+- 神风少女战机中文switch模拟器！(游戏)
+- 幻影侠中文switch模拟器！(游戏)
+- 魔骨中文switch模拟器！(游戏)
+- 涅瓦河Neva  switch模拟器！(游戏)
+- 少女魔役中文switch模拟器！(游戏)
+- 迷雾Caligo中文switch模拟器！(游戏)
+- 修复师起源中文switch模拟器！(游戏)
+- 化形战士中文switch模拟器！(游戏)
+- 巴别塔圣歌中文switch模拟器！(游戏)
+- 海市蜃楼之馆游魂归梦中文switch模拟器！(游戏)
+- 水烟水雾中文switch模拟器！(游戏)
+- 浅红2中文switch模拟器！(游戏)
+- 动物井中文switch模拟器！(游戏)
+- 人狼村之谜中文switch模拟器！(游戏)
+- 口袋勇者中文switch模拟器！(游戏)
+- 雪人兄弟2特别版中文switch模拟器！(游戏)
+- 狂灭国度中文switch模拟器！(游戏)
+- 猎枪农民中文switch模拟器！(游戏)
+- 锈兔异途中文switch模拟器！(游戏)
+- 莱拉日记中文switch模拟器！(游戏)
+- 纪念碑谷1+2 组合包中文switch模拟器！(游戏)
+- 未音子的夜市中文switch模拟器！(游戏)
+- 深渊绝赌千王处刑中文switch模拟器！(游戏)
+- 影之回廊2雨之四葩中文switch模拟器！(游戏)
+- 神奇小子龙之陷阱中文switch模拟器！(游戏)
+- 红魔城传说2妖幻镇魂歌中文switch模拟器！(游戏)
+- 星球大战赏金猎人中文switch模拟器！(游戏)
+- 鬼武者重制版中文switch模拟器！(游戏)
+- 隐迹渐现中文switch模拟器！(游戏)
+- 寓言之地v1.0.7中文switch模拟器！(游戏)
+- 冲就完事模拟器 中文switch模拟器！(游戏)
+- 最后的信仰中文switch模拟器！(游戏)
+- 浴血船长中文switch模拟器！(游戏)
+- 马里奥赛车8豪华中文switch模拟器！(游戏)
+- 小小梦魇2中文switch模拟器！(游戏)
+- 胡闹厨房全都好吃中文switch模拟器！(游戏)
+- 大富翁11中文switch模拟器！(游戏)
+- 蜡笔小新我与博士的暑假中文switch模拟器！(游戏)
+- 信长之野望新生中文switch模拟器！(游戏)
+- 夏目友人帐叶月之记 中文switch模拟器！(游戏)
+- 凯瑟琳浓郁口感中文switch模拟器！(游戏)
+- 生化危机启示录1中文switch模拟器！(游戏)
+- 全面战争模拟器中文switch模拟器！(游戏)
+- 逆转裁判123成步堂精选集中文switch模拟器！(游戏)
+- 超力兵团奇谭重制版中文switch模拟器！(游戏)
+- 百日战纪最终防卫学园中文switch模拟器！(游戏)
+- 点老救世记 中文switch模拟器！(游戏)
+- 地痞街区中文switch模拟器！(游戏)
+- 奇妙探险队中文switch模拟器！(游戏)
+- 疯狂派对2中文switch模拟器！(游戏)
+- 幽灵诡计重制版中文switch模拟器！(游戏)
+- 漫威宇宙入侵中文switch模拟器！(游戏)
+- 传说法师2中文switch模拟器！(游戏)
+- 王国保卫战前线中文switch模拟器！(游戏)
+- 风暴驭使中文switch模拟器！(游戏)
+- 团战经理中文switch模拟器！(游戏)
+- 杀戮台球中文switch模拟器！(游戏)
+- 预视武宗中文switch模拟器！(游戏)
+- 魔釜小女巫中文switch模拟器！(游戏)
+- 波斯王子Rogue中文switch模拟器！(游戏)
+- 抛竿放松中文switch模拟器！(游戏)
+- 林间暖巢中文switch模拟器！(游戏)
+- 北欧之烬诸神黄昏幸存者中文switch模拟器！(游戏)
+- 国王之壳中文switch模拟器！(游戏)
+- 护林猿神中文switch模拟器！(游戏)
+- 夏日彼方中文switch模拟器！(游戏)
+- 虚空穹牢中文switch模拟器！(游戏)
+- 鼠织小家中文switch模拟器！(游戏)
+- 兄弟双子传说中文switch模拟器！(游戏)
+- 摇鼠灵中文switch模拟器！(游戏)
+- 超级鸡马中文switch模拟器！(游戏)
+- 三国志8重制版 中文switch模拟器！(游戏)
+- 龙蚀DragonEclipse中文switch模拟器！(游戏)
+- 魂斗罗加鲁加行动中文switch模拟器！(游戏)
+- 迪士尼梦幻星谷中文switch模拟器！(游戏)
+- 星界战士中文switch模拟器！(游戏)
+- 双截龙外传双龙出海中文switch模拟器！(游戏)
+- 速速上菜中文switch模拟器！(游戏)
+- 枪血意大利黑手党1中文switch模拟器！(游戏)
+- 勇敢小骑士中文switch模拟器！(游戏)
+- 漂泊牧歌中文switch模拟器！(游戏)
+- 骗子酒馆switch模拟器！(游戏)
+- 苍蓝雷霆GUNVOLT三棱合极版switch模拟器！(游戏)
+- 活体脑细胞中文switch模拟器！(游戏)
+- 英雄萨姆合集版中文switch模拟器！(游戏)
+- 全职猎人念力冲击中文switch模拟器！(游戏)
+- 鬼灭之刃火之神血风谭2中文switch模拟器！(游戏)
+- 铁路帝国2中文switch模拟器！(游戏)
+- 洞窟探险中文switch模拟器！(游戏)
+- 洞窟探险2中文switch模拟器！(游戏)
+- 死亡之屋2重制版中文switch模拟器！(游戏)
+- 背包英雄v1.0.6中文switch模拟器！(游戏)
+- 枪火农夫中文switch模拟器！(游戏)
+- 少女布丁旅情中文switch模拟器！(游戏)
+- 矮人探险公司中文switch模拟器！(游戏)
+- 洪流之风中文switch模拟器！(游戏)
+- 异形战机最终2中文switch模拟器！(游戏)
+- 铁锈风云中文switch模拟器！(游戏)
+- 武林求生中文switch模拟器！(游戏)
+- 斗阵骑士中文switch模拟器！(游戏)
+- 佩露夏与魔法的迷宫塔 阿拉伯夜喵编 中午switch模拟器！(游戏)
+- 魂斗罗周年合集 中文switch模拟器！(游戏)
+- 终天教团中文switch模拟器！(游戏)
+- 幻象破坏者战场终极版中文switch模拟器！(游戏)
+- 海之呼唤中文switch模拟器！(游戏)
+- 暗斗迷宫中文switch模拟器！(游戏)
+- 法术圆盘中文switch模拟器！(游戏)
+- 狼之编年史 中文switch模拟器！(游戏)
+- 命运虚空明镜复刻版中文switch模拟器！(游戏)
+- 范马刃牙血之竞技场中文switch模拟器！(游戏)
+- 四国战机重聚中文switch模拟器！(游戏)
+- 乐高旅行者中文switch模拟器！(游戏)
+- 索尼克赛车交叉世界中文switch模拟器！(游戏)
+- 咒术地牢中文switch模拟器！(游戏)
+- 火车站改造王中文switch模拟器！(游戏)
+- 心之城堡重述中文switch模拟器！(游戏)
+- 太空冒险哥普拉觉醒中文switch模拟器！(游戏)
+- 绝对魔权中文switch模拟器！(游戏)
+- 小小梦魇3中文switch模拟器！(游戏)
+- 精灵宝可梦：珍珠钻石（SWITCH手机版+内置金手指）
+- 东方夜雀食堂（switch模拟器）
+- 妖精的尾巴地下迷城（switch模拟器）
+- 神意之星中文switch模拟器！(游戏)
+- 逆转裁判456王泥喜精选集中文switch模拟器！(游戏)
+- 古墓丽影4-6重制版中文switch模拟器！(游戏)
+- 机械节奏中文switch模拟器！(游戏)
+- 少女与魔法中文switch模拟器！(游戏)
+- 足球EASPORTSFC25中文解说switch模拟器！(游戏)
+- 金德曼积善医务室中文switch模拟器！(游戏)
+- 罪恶装备奋战中文switch模拟器！(游戏)
+- 莱卡鲜血铸就中文switch模拟器！(游戏)
+- 钴素核心中文switch模拟器！(游戏)
+- 逆转检察官1&2御剑精选集v1.0.0.2中文switch模拟器！(游戏)
+- 雪之少女中文switch模拟器！(游戏)
+- 地产大亨中文switch模拟器！(游戏)
+- 忍者一闪中文switch模拟器！(游戏)
+- 露娜与怪兽塔防被剥夺的魔法王国中文switch模拟器！(游戏)
+- Chop叔叔的火箭商店中文switch模拟器！(游戏)
+- 接线疑云中文switch模拟器！(游戏)
+- 地下城3Dungeons3汉化中文v1.7+4DLC整合版switch模拟器！(游戏)
+- 霓虹之血中文switch模拟器！(游戏)
+- 时行者黑暗世界中文switch模拟器！(游戏)
+- 大凤羽空与刻之剑中文switch模拟器！(游戏)
+- 玩具熊的五夜惊魂陷落球池中文switch模拟器！(游戏)
+- 命运之夜重制版switch模拟器！(游戏)
+- 记忆之歌switch模拟器！(游戏)
+- 乐高地平线大冒险中文switch模拟器！(游戏)
+- 我们把似曾相见的「那些游戏」都做成了火柴人，可是你又能否成功过关呢？switch模拟器！(游戏)
+- 王国保卫战4复仇中文switch模拟器！(游戏)
+- 水泽仙女NAIAD中文switch模拟器！(游戏)
+- 星之终途中文switch模拟器！(游戏)
+- 秋之回忆9星穹之下中文switch模拟器！(游戏)
+- 赛马娘热血狂欢大感谢祭中文v1.0.4整合版switch模拟器！(游戏)
+- 异端尖叉中文switch模拟器！(游戏)
+- 东京巫女幸存者中文switch模拟器！(游戏)
+- 拉比哩比Rabi-Ribi中文switch模拟器！(游戏)
+- 超级兔子人中文switch模拟器！(游戏)
+- 雪人兄弟仙境  中文 v1.0.0版  switch模拟器！(游戏)
+- 东方弹幕神乐失落幻想中文switch模拟器！(游戏)
+- 异形隔离中文完全汉化v1.1.5升补整合版switch模拟器！(游戏)
+- 新宿葬命switch模拟器！(游戏)
+- 彼岸花Othercide中文switch模拟器！(游戏)
+- 红弦俱乐部中文switch模拟器！(游戏)
+- 霰弹枪国王终局将死中文switch模拟器！(游戏)
+- 基因恐慌  中文switch模拟器！(游戏)
+- 永恒之花 有志者事竟成  switch模拟器！(游戏)
+- 夏日彼方 beyond  switch模拟器！(游戏)
+- 尘埃终须落定  switch模拟器！(游戏)
+- 射戮骑士  switch模拟器！(游戏)
+- 百战天虫 周年纪念版 Worms Armageddon Anniversary Edition  switch模拟器！(游戏)
+- 堆叠大陆中文switch模拟器！(游戏)
+- 双点校园 中文switch模拟器！(游戏)
+- 孤岛危机重制版三部曲中文switch模拟器！(游戏)
+- 昏迷2B地下墓穴 中文switch模拟器！(游戏)
+- 索尼克×夏特世代重启中文switch模拟器！(游戏)
+- 围攻Besiege中文switch模拟器！(游戏)
+- 恶魔城东方月神夜中文switch模拟器！(游戏)
+- 奇异人生双重曝光中文switch模拟器！(游戏)
+- 五等分的新娘双合辑中文switch模拟器！(游戏)
+- 咖啡谈话CoffeeTalk中文switch模拟器！(游戏)
+- 洞窟物语Cave Story+汉化中文switch模拟器！(游戏)
+- 伊莉丝深渊洄光  中文switch模拟器！(游戏)
+- 恶魔弹珠DEMON’S TILT  switch模拟器！(游戏)
+- 少女歌剧中文switch模拟器！(游戏)
+- 异界lkaiswitch模拟器！(游戏)
+- 斑点猫BlobCatswitch模拟器！(游戏)
+- 朋克战士杜罗斯Dros中文switch模拟器！(游戏)
+- 替身GhostinthePoo中文switch模拟器！(游戏)
+- 恐龙战队丽塔回溯switch模拟器！(游戏)
+- 黄昏的天使switch模拟器！(游戏)
+- 暗影诅咒地狱重制版  switch模拟器！(游戏)
+- 爆弹英雄中文switch模拟器！(游戏)
+- 黄金守护者中文switch模拟器！(游戏)
+- 废土快递（switch游戏）
+- 无双深渊（SWITCH手机版）
+- 神器行者重生（switch手机版）
+- 胡闹厨房2（switch手机版）
+- 都市传说解体中心（switch手机版）
+- 采维TEVI（switch手机版）
+- 战锤40K 爆矢枪（switch手机版）
+- 永久与神树的祈愿者（switch手机版）
+- 破碎族裔（switch手机版）
+- 我的世界  故事模式第一季（switch手机版）
+- 死亡之子（switch手机版）
+- 无敌水豚（switch手机版）
+- 节奏裂隙（switch手机版）
+- 七度荒域混沌之树（switch手机版）
+- 魔法司书阿莉安娜七英杰之书（switch手机版）
+- 铁血机甲反攻（switch手机版）
+- 主播女孩重度依赖（switch手机版）
+- 热血三国志 全员集合 v1.0.3（switch手机版）
+- 以撒的结合 胎衣  中文版！一款风格诡异简单粗暴道具与地图多变的小型游戏!
+- 桑塔危险的复仇（switch手机版）
+- 奇妙探险队2（switch手机版）
+- 双截龙再临（switch手机版）
+- 山海旅人  v1.6.4（switch手机版）
+- 虫姬（switch手机版）
+- 植物大战僵尸  重植版（switch手机版）
+- 邪恶冥刻（switch手机版）
+- 阿西美女室友竟然…？2（switch手机版）
+- 魔法符石（switch手机版）
+- 俄勒冈之旅（switch手机版）
+- 杀手赦免 汉化版（switch手机版）
+- 红魔城传说2：妖幻镇魂歌（switch手机版）
+- 夜下降生2（switch手机版）
+- 植物大战僵尸和睦小镇保卫战（switch手机版）
+- 深渊探索者（switch手机版）
+- 我的超级现充生活  全语音版（switch手机版）
+- 洛克妹30XX（switch手机版）
+- 横跨方尖碑（switch手机版）
+- 兽娘红茶馆（switch手机版）
+- 链枪 ChainStaff（switch手机版）
+- 勇闯无尽遗迹（switch手机版）
+- 永恒领域2（switch手机版）
+- 少女魔净（switch手机版）
+- 幻刃奇美拉（switch手机版）
+- 柯尔特峡谷（switch手机版）
+- 终极幸运之塔（switch手机版）
+- 刷屏至死（switch手机版）
+- 无光之地（switch手机版）
+- 我的可爱妻子（switch手机版）
+- 失落的遗迹（switch手机版）
+- 蒂德莉特的奇境冒险（switch手机版）
+- 破灭  Saviorless（switch手机版）
+- 常世之塔（switch手机版）
+- 翻滚吧僵尸弹球英雄（switch手机版）
+- 致命联盟烈焰（switch手机版）
+- 伊多拉 Itorah（switch手机版）
+- 弗林深红之子（switch手机版）
+- 八云传说（switch手机版）
+
+---
+
+## 电脑端（304 款）
+
+- 播种之谣 PC版
+- 家族计划 PC版
+- Hira Hira Hihiru PC版
+- 黑暗之蓝 PC版
+- 晴霁之后定是菜花盛开的好天气 PC版
+- 在月之彼岸邂逅~甜蜜的夏日彩虹~ PC版
+- 花与少女的祝福 PC版
+- 银色遥远 PC版
+- 苍之彼方的四重奏：交予世界的答卷 PC版
+- 餐癮地城 PC版
+- 神怒之日：为爱痴狂 PC版
+- 魔法王牌 PC版
+- 来自昏暗的时间尽头 PC版
+- 魔导巧壳 PC版
+- 鏖呪ノ嶼 PC版
+- 可爱女友的获取方法 PC版
+- 永恒少女~堕落庭园的少女们~ PC版
+- 为主人献上圣罗的甜蜜侍奉 PC版
+- 对你说再见 ～comment te dire adieu～ PC版
+- 变态监狱 PC版
+- 黄昏的禁忌之药 PC版
+- 少女＊领域 PC版
+- 淑女同萌 PC版
+- D.C. Re:tune ～ダ・カーポ～ リチューン PC版
+- 真爱的百合被染成红色 PC版
+- 樱舞落花恋模样 PC版
+- 星空的记忆 -Wish upon a shooting star- HD PC版
+- 白色相簿2 PC版
+- 夏日口袋 PC版
+- D.C.5 Plus Happiness ～ダ・カーポ5～プラスハピネス PC版
+- 甜蜜夏日+ PC版
+- 大图书馆的牧羊人 -Dreaming Sheep- PC版
+- 年上彼女 PC版
+- 大图书馆的牧羊人 PC版
+- 苍之彼方的四重奏 EXTRA1 PC版
+- 苍之彼方的四重奏 EXTRA2 PC版
+- 常轨脱离 Creative Re:Re:call PC版
+- 亚托莉 -我挚爱的时光- PC版
+- 恋爱？我就借走了哦！ PC版
+- 我喜欢的人，喜欢女装的我 PC版
+- 消失的世界与月与少女 PC版
+- FLIP＊FLOP 〜RAMBLING OVERRUN〜 PC版
+- 少女之剑与秘密的协奏曲 PC版
+- 星之少女与六华的姐妹 PC版
+- 终焉之玛格诺利亚：雾中盛放之花 PC版
+- 河原崎家的一族2 PC版
+- 雪色暗号 PC版
+- charabration！恋爱少女人格崩坏 PC版
+- 少女神域∽少女天獄 -The Garden of Fifth Zoa- PC版
+- 女仆酱迷路了 PC版
+- 圣女不死心 PC版
+- 唇心絮语 PC版
+- 天之少女 PC版
+- 旭光のマリアージュ PC版
+- 夏日共鸣 PC版
+- -HAPPY SAIN† SHEOL- ハッピーセイント・シェオル PC版
+- 韶华苦短，起舞吧少女 PC版
+- BALDR SKY Dive1 "LostMemory" + Dive2 "RECORDARE" PC版
+- 双生百合 ~要对妈妈保密哦~ PC版
+- Sorceress*Alive!～世界末日陨落之星～ PC版
+- eden* PLUS+MOSAIC PC版
+- 献给神明般的你 PC版
+- OneRoom -花坂结衣 回忆篇- PC版
+- 智以泪聚FD-吹向明日彼岸的可视之风- PC版
+- 五天一夜 PC版
+- 将花朵献与你-Kinsenka- PC版
+- 兰斯9 赫尔曼革命 PC版
+- FLIP＊FLOP 〜INNOCENCE OVERCLOCK〜 PC版
+- 终焉之莉莉：骑士寂夜 PC版
+- 可塑性记忆 PC版
+- 智以泪聚 PC版
+- 共结情缘的剑舞恋曲 -椿恋歌- PC版
+- 八卦恋爱 PC版
+- 星辰恋曲的白色永恒 PC版
+- 五彩斑斓的世界 PC版
+- 慕情之心今随君作伴 PC版
+- 恋爱0公里 PC版
+- 青夏轨迹 PC版
+- 11eyes 罪与罚与赎的少女 PC版
+- 青空下的加缪 PC版
+- 灰色的乐园 PC版
+- 檻姫～極嬢の未来は俺のモノ～ PC版
+- Monkeys!¡ PC版
+- 7days—与你共度的七日间 PC版
+- 与鲨鱼共度的七日间 PC版
+- Little Busters! EX PC版
+- DeepOne-領界侵犯- PC版
+- 突然＊恋人 PC版
+- 抬头看看吧，看那天上的繁星 PC版
+- 赤色约定 PC版
+- 离开的人们 PC版
+- 将军大人芳华正茂 PC版
+- 戈尔尖叫秀 PC版
+- 霞流宝石心 -壮志凌云振寰宇- PC版
+- 雨音Switch～我与生病的她以及不停歇的雨～ PC版
+- 三色绘恋 PC版
+- 流星世界演绎者：Gaslight Bullet PC版
+- 时钟机关的Ley-line-黄昏时刻的境界线- PC版
+- White Wings 白色之翼 PC版
+- 鬼哭街 PC版
+- 海市蜃楼之馆：纯真的安魂曲 PC版
+- LOVESICK PUPPIES -我们为了恋爱而诞生- PC版
+- 爱因斯坦携爱敬上 PC版
+- 少女与我、两纪之差 PC版
+- 樱之杜†净梦者 PC版
+- 与她＊心渐近 PC版
+- 夏之雨 PC版
+- 夏之锁 PC版
+- 约会大作战 Twin Edition 凛绪轮回 PC版
+- 海底 PC版
+- 命运石之门 0 PC版
+- 失眠的羊与孤独的狼 -A Tale of Love, and Cutthroat- PC版
+- 恋生恋逝恋相随 PC版
+- 求神太多我的未来糟糕了 PC版
+- 心之形心之色心之声 PC版
+- 不可视之药与坎坷的命运 PC版
+- 少女编织爱的画布 PC版
+- 奇异恩典·圣夜的小镇 PC版
+- 120日元 PC版
+- 星恋＊twinkle PC版
+- HaremKingdom PC版
+- 春音AliceGram PC版
+- 魔女之泉R PC版
+- 恋爱绮谭~不存在的回忆~ PC版
+- 大帝国 PC版
+- 候鸟 PC版
+- 我亲爱的妹妹 PC版
+- 丸子与银河龙 PC版
+- 高考恋爱100天 PC版
+- 天色幻想岛 PC版
+- 台湾恋爱物语⁵ PC版
+- 双天†恋姬 PC版
+- 为我的女王献上荣冠 PC版
+- 夏之终熄 PC版
+- 想要诉说的心意 PC版
+- 红月摇曳的恋之星火 PC版
+- Muv-Luv PC版
+- 放学后的灰姑娘2 PC版
+- 放学后的灰姑娘 PC版
+- Muv_Luv·Alternative PC版
+- 向日葵的教会与长长的暑假 PC版
+- 突然＊恋人 全高清合集版 PC版
+- 冬暮川滚滚 PC版
+- 寒蝉鸣泣之时 PC版
+- 闪耀夏日 PC版
+- 虚之少女 PC版
+- FLOWERS 冬篇 PC版
+- 海与雪的青蓝色 PC版
+- 樱色之云＊绯色之恋 PC版
+- 绽放青春全力向前冲！ PC版
+- 见习恋人 PC版
+- 在月之彼岸邂逅 PC版
+- 由梦想与色彩编织而成 PC版
+- KIRAKIRA 煌煌舞台 PC版
+- 水仙2 PC版
+- Little Busters! PC版
+- 夏日口袋 -REFLECTION BLUE- PC版
+- 缘结甜祇 ~My Sweet Goddess~ PC版
+- ISLAND DIARY PC版
+- 时钟机关的Ley-line-残影之夜将明时- PC版
+- 青春×好奇相伴的三角恋爱 PC版
+- ChronoBox PC版
+- 生命的备件 PC版
+- 献给神明般的你 EXTENDED EDITION PC版
+- LOVELY×CATION PC版
+- LOVELY×CATION2 PC版
+- 新妻LOVELY×CATION PC版
+- 密语-Silver Snow Sister- PC版
+- 图谋不轨的恋爱 PC版
+- 选择妻子的进展似乎顺利过头。 PC版
+- PRIMAL×HEARTS2 PC版
+- 魔法使之夜 PC版
+- 车轮之国、向日葵的少女 PC版
+- 喜欢我的话就要说出来 PC版
+- 幼驯染与十年之夏 PC版
+- 月姬 -A piece of blue glass moon- PC版
+- 近月少女的礼仪 PC版
+- PRIMAL×HEARTS PC版
+- 天降虚拟偶像 PC版
+- 认真和我谈恋爱!! PC版
+- 花之天使的夏日恋歌 PC版
+- 星之梦 PC版
+- 没有天使的12月 PC版
+- 染红的街道 PC版
+- 当孤僻之人遇上青春生活 PC版
+- 冬之吻 PC版
+- 你所寻找的，是夏天么。 PC版
+- 家族计划~再开~ PC版
+- 狂欢节 PC版
+- 狐姬零 PC版
+- 他人世界末 PC版
+- 天之和弦 PC版
+- 娇小少女的小夜曲 PC版
+- 秽翼的尤斯蒂娅 PC版
+- まほ×ろば -Witches spiritual home- PC版
+- 日在校园 HQ PC版
+- 巧克甜恋2 PC版
+- 她们的流仪 PC版
+- 怀揣思念与我再会!! PC版
+- 终之空 remake PC版
+- 与你心相连 PC版
+- PRETTY×CATION2 PC版
+- 金辉恋曲四重奏 PC版
+- 缘之空 PC版
+- 少女理论及其周边 -巴黎学院篇- PC版
+- 濒死的骑士、于异世界中响彻的绝唱 PC版
+- 纯白交响曲 PC版
+- 我们没有翅膀 ―――under the innocent sky. PC版
+- 天津罪 PC版
+- 恋爱成双 PC版
+- 樱之诗：在樱花之森上飞舞 PC版
+- 恋狱 月狂病 PC版
+- 青鸟 PC版
+- 恋狱月狂病 重制版 PC版
+- 9-nine-天色天歌天籁音 PC版
+- 9-nine-雪色雪花雪之痕 PC版
+- 9-nine-九次九日九重色 PC版
+- 9-nine-春色春恋春熙风 PC版
+- 9-nine- 新章 PC版
+- 恋爱、初邂逅 PC版
+- 花咲Workspring！ PC版
+- 五色浮影绽放于花之海洋 PC版
+- やりなおしクランクイン PC版
+- 悠久之翼-前篇 PC版
+- 悠久之翼-后篇 PC版
+- 时钟机关的Ley-line-朝雾中飘零之花- PC版
+- 青空下的约定 PC版
+- 逝去的你、于馆中萌生的憎恶 PC版
+- Remember11：无限轮回的时光 PC版
+- Ever17 PC版
+- CROSS†CHANNEL PC版
+- 饿殍：明末千里行 PC版
+- 猫娘乐园 After PC版
+- 悠之空 PC版
+- 纯白交响曲 SANA EDITION PC版
+- 只愿 PC版
+- 巧克甜恋 PC版
+- 装甲恶鬼村正 PC版
+- 乌有乡 PC版
+- 金辉恋曲四重奏 -Golden Time- PC版
+- 初恋マスターアップ PC版
+- StreamLove Voyage PC版
+- KANADE PC版
+- 壳之少女 PC版
+- 果然在游戏里我的青春恋爱物语也有问题。 PC版
+- 我的未婚妻还不太懂初恋 PC版
+- 5分钟的邂逅！时间停止与不可避免的命运！ PC版
+- 米塔 MiSide PC版
+- 丑小鸭与文字祸 PC版
+- ハッピーウィークエンド PC版
+- GINKA PC版
+- 海猫鸣泣之时 PC版
+- 克洛的时钟 PC版
+- 近月少女的礼仪2 PC版
+- 流景之海的艾佩理雅 PC版
+- AMBITIOUS MISSION PC版
+- 永不落幕的前奏诗 PC版
+- 恋爱x决胜战 PC版
+- 海市蜃楼之馆 PC版
+- 牵绊闪耀的恋之伊吕波 PC版
+- 醋意乱流 PC版
+- 初雪樱 PC版
+- 想要传达给你的爱恋 PC版
+- 从朋友到恋人 PC版
+- 千之刃涛，桃花染之皇姬 PC版
+- 紬の花嫁 PC版
+- 恋爱和选举和巧克力 PC版
+- 与我相恋的废柴恶魔 PC版
+- 寄宿之恋 PC版
+- 任性HighSpec PC版
+- CLANNAD PC版
+- 天使嚣嚣 RE-BOOT! PC版
+- 妹的圣域 PC版
+- 她的圣域 PC版
+- 若能与你再次相见 PC版
+- 命运石之门 PC版
+- 保健室的老师与沉迷吹泡泡的助手 PC版
+- 交响乐之雨 PC版
+- 魔女恋爱日记 PC版
+- 恋花绽放樱飞时 PC版
+- 中国式相亲 PC版
+- 沙耶之歌 PC版
+- 3days ～在逝去时间的另一端～ PC版
+- 树莓立方体 PC版
+- 五彩斑斓的世界 HD Re:GENERATION PC版
+- 灰色的果实 PC版
+- 甜糖热恋 PC版
+- 水仙 PC版
+- 久那土国记 PC版
+- 密语 PC版
+- 幸福噩梦 PC版
+- G弦上的魔王 PC版
+- 月影魅像-解放之羽- PC版
+- 天选庶民的真命之选 PC版
+- 少女世界的生存之道 PC版
+- 樱之刻 - 于樱花之森下漫步 PC版
+- 永不枯萎的世界与终结之花 PC版
+- 夏空的英仙座 PC版
+- 箱庭的学园 PC版
+- 飞鸟会长不肯认输 PC版
+- 梦幻的提尔纳诺 PC版
+- 纸上的魔法使 PC版
+- 航迹云的彼方 PC版
+- ドカイチャ！！ラブピカルポッピー！ PC版
+
+---
+
+## 开放世界（239 款）
+
+- Winlator 汉化版手机虚拟电脑 可玩游戏办公等
+- 流浪汉模拟器 switch模拟器！(游戏)
+- 逃脱者2[完整版]Steam移植
+- 航天模拟器Spaceflight Simulator v1.5.10.5[完整版]Steam移植
+- 怪兽黎明v1.4.5[中文版+完整版]Steam移植
+- 奥日与黑暗森林 决定版v1.02 switch模拟器！(游戏)
+- 喵咪斗恶龙  Cat Quest v1.2.17 [完整版] Steam移植
+- 王国之墓  switch模拟器！(游戏)
+- 牧场物语橙色季节  switch模拟器！(游戏)
+- 末日方舟DeliveryFromThePain(FULL)v1.0.9921[完整版]Steam移植
+- 方舟终极移动版v1.0 b11 [完整版+DLC+上帝模式]Steam移植
+- 无限细分v1.0.7326[完整版]Steam移植
+- 可靠快递v1.6[完整版]Steam移植
+- 波兰球编年史中文switch模拟器！(游戏)
+- 撸猫模拟器 中文switch模拟器！(游戏)
+- 紫色晶石v0.9.1.17豪华中文整合MOD版手机也能玩pc游戏！
+- 卡牌生存奇幻森林v0.06中文手机也能玩pc游戏！
+- 模拟山羊3v1.1.3.0[完整版]Steam移植
+- CountryballsConquestv1.03[完整版]Steam移植
+- 谢天谢地你在这里！中文手机也能玩pc游戏！
+- 史力奇奇遇记姆明山谷之歌[完整版]Steam移植
+- 莱莎的炼金工房2失落传说与秘密妖精中文switch模拟器！(游戏)
+- 隔离区丧尸末日生存v0.62-7.2.3手机也能玩pc游戏！
+- 莱莎的炼金工房3终结之炼金术士与秘密钥匙中文switch模拟器！(游戏)
+- 最终幻想33D重制版 v2.0.6 [完整版] Steam移植
+- 巫师之昆特牌王权的陨落[完整版]Steam移植
+- 波西亚时光v1.0.11562[完整版]Steam移植
+- 丰饶之星中文switch模拟器！(游戏)
+- 八方旅人2中文switch模拟器！(游戏)
+- 极乐迪斯科最终剪辑版中文switch模拟器！(游戏)
+- 达愿福神社中文switch模拟器！(游戏)
+- 弃船逃生v1.0.803[完整版+DLC]Steam移植
+- 磁带妖怪v1.5.2[完整版+DLC+免谷歌版]Steam移植
+- 孤独蘑菇switch模拟器！(游戏)
+- 雨世界倾盆大雨中文switch模拟器！(游戏)
+- 猫迷宫Catmaze中文switch模拟器！(游戏)
+- 史莱姆牧场v1.2[ 优化游戏，增加触控]Steam移植
+- 只狼豪华版中文手机也能玩pc游戏！
+- 禁闭求生 中文switch模拟器！(游戏)
+- 七龙珠电光炸裂!ZERO手机也能玩pc游戏！
+- 骑马与砍杀像素版2.1.0[完整版]一款2d像素中世纪战争类的类骑砍游戏！
+- 异形工厂v1.3.5[完整版]Steam移植
+- 空洞骑士v1.5[完整版+DLC+夏季皮肤]Steam移植
+- 最后的神迹重制版汉化版switch模拟器！(游戏)
+- 奥咕和秘密森林中文switch模拟器！(游戏)
+- 轩辕剑7中文switch模拟器！(游戏)
+- 永恒之夜AeternaNoctis中文switch模拟器！(游戏)
+- 泰拉瑞亚v1.4.4.9[完整版]Steam移植
+- 终极钓鱼模拟器v3.3.69[完整版]Steam移植
+- 蜂语镇中文switch模拟器！(游戏)
+- 81号航站楼v1.0.19 [完整版]Steam移植
+- 庇护所Sheltered[完整版](断网运行)Steam移植
+- 战神夜袭v1.0.36[完整版]Steam移植
+- 怪物猎人崛起曙光中文switch模拟器！(游戏)
+- 猎人之路[完整版+DLC]Steam移植
+- 巫师3狂猎中文配音 switch模拟器！(游戏)
+- 嗨嗨人生 switch模拟器！(游戏)
+- 二之国2亡灵之国中文switch模拟器！(游戏)
+- 命运创世连接[完整版+DLC]Steam移植
+- 霍格沃茨之遗中文switch模拟器！(游戏)
+- 英雄不再3中文switch模拟器！(游戏)
+- 岛屿生存者[完整版]超好玩的一款蕴藏各种冒险的求生沙盒游戏!支持麒麟和天玑处理器!
+- 神奇的青蛙v5.81[完整版]Steam移植
+- 末日的第53天v1.4.0.46[完整版+DLC]Steam移植
+- 亚拉菲尔AraFell v1.03[汉化版+完整版]Steam移植
+- 核爆RPGv1.43[完整版+DLC]Steam移植
+- 简单飞机v1.12.208[完整版]Steam移植
+- 奥古与秘密森林v1.166[完整版]Steam移植
+- 工匠镇中文switch模拟器！(游戏)
+- 我的世界传奇豪华版中文switch模拟器！(游戏)
+- 奥日2精灵与萤火意志中文switch模拟器！(游戏)
+- 狙击精英4中文switch模拟器！(游戏)
+- 星露谷物语病娇整合版v1.6[完整版]Steam移植支持联机➕跳过钓鱼➕全美化版本❗全员病娇超多好看的小姐姐！
+- 部落与弯刀[完整版+DLC+菜单版]Steam移植
+- 漫漫长夜中文[完整版]喜欢生存的一定要体验下一款引人深思的探索生存类游戏!
+- 无主之地3终极版中文switch模拟器！(游戏)
+- 日薄西山中文switch模拟器！(游戏)
+- 打造世界v1.9.62[完整版]Steam移植
+- 喵咪斗恶龙2 中文switch模拟器！(游戏)
+- 火影忍者终极风暴羁绊中文switch模拟器！(游戏)
+- 晃晃人生中文switch模拟器！(游戏)
+- 威利杰特曼猴子宇航员的复仇v1.0.6[完整版]Steam移植
+- 物种战争2启示录v3.4.1[完整版+菜单版]Steam移植
+- 荒野大镖客救赎网飞版[免谷歌+完整版+60帧+可存档]Steam移植优化功能版！
+- 荒野大镖客救赎[R星版+完整版+菜单版]Steam移植免谷歌，可存档！apk格式安装即可运行！
+- 木筏求生Raft可联机中文版，海上生存+制造，超高评分，pC+手机版分享！
+- 缉私警察v0.1.43[完整版]Steam移植
+- 学园构想家中文switch模拟器！(游戏)
+- 绝对漂移v1.0.22[完整版]Steam移植
+- 食人鲨Maneater[完整版]Steam移植最新移植3A大作开放世界RPG游戏游玩推荐！
+- 朱诺新起源v1.3.205[完整版]Steam移植
+- 传奇飞行员[完整版]Steam移植
+- 女巫Noita[完整版]轻度Rogue-like的魔法动作游戏游玩推荐不玩此生遗憾！
+- 荒野大镖客救赎中文switch模拟器！(游戏)
+- 猫咪斗恶龙3vv1.4.1[完整版]史上最萌最可爱的动作RPG游戏再度归来！
+- 风暴之城中文switch模拟器！(游戏)
+- 大侠立志传v1.2.117[完整版+DLC+内置控制台版]Steam移植最新免费联动DLC清风遗痕
+- 守望者编年史v1.3.7[完整版]Steam移植安卓手机上为数不多的横版类魂游戏，好玩爱玩，推荐！
+- 天命与厄运世界v1.8.9.02[完整版+DLC]Steam移植
+- 泰坦之旅终极版v3.0.5339[完整版+DLC]Steam移植
+- 龙珠超宇宙2未来之战第二季DLC中文switch模拟器！(游戏)
+- 沙石镇时光中文switch模拟器！(游戏)
+- 深海迷航[菜单版+完整版]Steam移植菜单版终于来了，赶快下载，真的很爽！
+- 索尼克未知边境中文switch模拟器！(游戏)
+- 112接线员v1.6.6[完整版+DLC]Steam移植
+- 宝可梦朱中文switch模拟器！(游戏)
+- 南方公园真理之杖汉化中文v1.0.1整合版switch模拟器！(游戏)
+- 深海迷航零度之下[完整版]美丽水世界!一款开放世界水下冒险游戏，支持麒麟和天玑处理器!
+- 房车生活模拟器v0.4.2[完整版]Steam移植
+- 锁链回声中文switch模拟器！(游戏)
+- 圣剑传说2v3.4.2[完整版+菜单版]Steam移植快30年前的JRPG了！
+- 渔帆暗涌v1.5.17[完整版+DLC]Steam移植
+- 乐高蝙蝠侠3飞跃哥谭市v2.2.1.05[完整版]Steam移植
+- 口袋城市2v1.090[完整版]Steam移植
+- 奇异世界怪客的愤怒v1.0.16[完整版]Steam移植
+- 流浪荒野Wilderlessv2.3[完整版]Steam移植
+- 远星物语[完整版+DLC]Steam移植
+- 深海迷航v1.21.82617[完整版]Steam移植人生必玩的电子游戏，Up主强烈推荐游玩！
+- 猫咪斗恶龙2中文switch模拟器！(游戏)
+- 饥荒v1.19.20[完整版]Steam移植
+- 饥荒海难v1.33.5[完整版]Steam移植
+- 极乐迪斯科v476_CL12039[完整版]Steam移植最新高分好评游戏IGN认证“此生必玩神作”！
+- 下一站江湖Ⅱv0.1[完整版+DLC]Steam移植开放世界单机武侠，超写实的游戏画风，武侠迷必玩！！
+- 僵尸毁灭工程联机优化版[完整版]运行流畅！非云游，可加模组mod，可好友联机！
+- 僵尸毁灭工程v1.2.0[完整版]Steam移植安装即玩，无需任何设置真爽！支持加模组mod，联机！
+- 风暴之海v1.7.8[完整版]Steam移植
+- 心渊梦境v1.0.4[完整版]Steam移植 一款手绘风格的2D动作冒险类银河战士恶魔城游戏主打快节奏的战斗！
+- 太空威胁2v1.08[完整版]Steam移植
+- 海之号角神秘海怪v1.1.11[完整版]Steam移植
+- 崩溃大陆2v1.3.0[完整版+菜单版]Steam移植重大更新“漫溢”正式上线！
+- 地平线上的蕾亚之翼v1.8.688[完整版]Steam移植
+- 人类一败涂地v2.4.1[完整版+DLC]Steam移植
+- 荒野大镖客救赎[完整版+DLC]Steam移植手机也能玩3a了！
+- 火影忍者：究极风暴v1.0.13[完整版+免谷歌]Steam移植
+- 困兽之国  Drova: Forsaken Kin（switch模拟器）
+- 死人之国 Niffelheim  v1.7.43（Steam移植）
+- 宝可梦深蓝内置金手指！
+- 宝可梦传说Z-A中文switch模拟器！(游戏)
+- 模拟山羊3胡闹多元宇宙v1.1.5.2[完整版]Steam移植
+- 泰坦之旅传奇版v2.10.9[完整版+DLC+菜单版]Steam移植可玩性较高的暗黑类手游推荐，感受刷刷刷的快乐！
+- 无人深空中文switch模拟器！(游戏)
+- 星球大战旧共和国武士v1.0.10[完整版]Steam移植
+- 崩溃大陆v100.0.159[完整版]Steam移植
+- 阿喀琉斯传说未竟之谜中文switch模拟器！(游戏)
+- 星际洛螈管理员中文switch模拟器！(游戏)
+- 终点站僵尸幸存者v1.1.0hf2 正式中文版手机也能玩pc游戏！
+- 雪山滑雪大冒险2v1.09[完整版]开放世界的滑雪和单板滑雪冒险！
+- 怪兽远征v1.2.1[完整版]Steam移植
+- 埃比尼泽与无形世界v1.1.4[完整版]Steam移植
+- 热血硬派国夫君外传热血少女2v1.0.1[完整版]Steam移植
+- 狂躁/疯子maniac中文switch模拟器！(游戏)
+- 幻想生活i转圈圈的龙和偷取时间的少女中文switch模拟器！(游戏)
+- 蟹蟹寻宝奇遇中文switch模拟器！(游戏)
+- 上古卷轴5天际中文switch模拟器！(游戏)
+- 奥日与黑暗森林决定版[完整版]真正的第九艺术！十年前令无数玩家震撼的神作！
+- 侠盗猎车血战唐人街v4.4.221[完整版]PC移植
+- 星露谷物语v1.6.14.3[完整版]Steam移植
+- 如龙极Yakuza Kiwami中文switch模拟器！(游戏)
+- 渡神纪芬尼斯崛起中文switch模拟器！(游戏)
+- 放逐王国Exiled Kingdoms v1.2.1124[汉化版+完整版]Steam移植
+- 饥荒海难诺亚 v1.23.19 [完整版]  Steam移植  该作是基于饥荒海滩版本的mod，其中有着各种各样的角色人物mod！
+- 泰坦追逐者Titan Chaserv1.0.0[完整版]Steam移植
+- 苏醒之路  switch模拟器！(游戏)
+- 旋转轮胎泥泞奔驰  MudRunner v1.5.5.0 [完整版+DLC] Steam移植
+- 守望者编年史  v1.3.7 [完整版] Steam移植
+- 磁带妖怪1.6.4中文switch模拟器！(游戏)
+- 海绵宝宝 派大星游戏  switch模拟器！(游戏)
+- 小生活悠闲小镇物语v2.0[完整版]Steam移植
+- 勇者斗恶龙创世小玩家v1.1.1[完整版+DLC+MOD版]Steam移植
+- 卡牌生存热带岛屿v1.05ac[完整版]Steam移植
+- 勇者斗恶龙11S中文switch模拟器！(游戏)
+- 梅林的回声中文switch模拟器！(游戏)
+- 我的世界神奇宝贝最新第九代魔改版宝可梦模组！新增几十款魔改精灵~大型精品游戏！
+- 侠盗猎车自由城故事v2.4.362[完整版]pC移植
+- 克鲁苏的呼唤中文switch模拟器！(游戏)
+- 秋叶原之旅2导演剪辑版中文switch模拟器！(游戏)
+- 侠客风云传v1.9[完整版+MOD版]Steam移植
+- 最终幻想9高清重制版汉化中文switch模拟器！(游戏)
+- 优米雅的炼金工房幻创之地中文switch模拟器！(游戏)
+- 下一站江湖2[完整版+DLC]Steam移植开放世界单机武侠，超写实的游戏画风，武侠迷必玩！！
+- 死人之国v1.7.43[完整版+菜单版]Steam移植RPG横版动作+生存+地牢求生神作！
+- 泰拉瑞亚单机中文版v1.4.5[完整版+菜单版]Steam移植「大石所趋」现已上线！
+- 武林侠客传v1.0.1[完整版]超高高自由度游戏，可玩一百遍游玩推荐！
+- 喵咪斗恶龙v1.2.15.186[完整版]Steam移植
+- 生存之日[完整版]后末日开放世界生存RPG神作！
+- 马之声SoundofHorses[完整版]Steam移植
+- 崇拜者Adore[完整版]Steam移植宝可梦+哈迪斯的宠物收集动作肉鸽游戏！
+- 海洋幻想[完整版+菜单版]Steam移植钓鱼佬的刷宝RPG+航海探险！
+- 喵咪斗恶龙2[完整版]Steam移植支持联机可爱到爆炸的2D开放世界冒险ARPG游戏！
+- 可靠快递v2.0[完整版]Steam移植沙盒合作送货的游戏，超好玩！
+- 深海迷航零度之下简体中文[完整版]Steam移植终于来了，把画质拉满爽爽爽。不黑屏，不卡光敏！
+- 小飞船大冒险（switch游戏）类银河恶魔城的俯视角射击游戏！
+- 奥拉之沙（switch游戏）
+- 碧屿之下（switch游戏）老塞尔达的味道满到溢出，本质是款怀旧游戏！
+- 勇者斗恶龙创世小玩家2（switch游戏）
+- 饥荒联机版（switch手机版）
+- 罗格朗的遗产命运之歌（switch手机版）
+- 空洞骑士丝之歌v1.1.0[菜单版+单机版]Steam移植可以正常通关了真爽！
+- 饥荒合辑版 v1.28.7（Steam移植）进游戏不用再配置模组啦，新手小白狂喜！
+- 英雄群侠传2（Steam移植）高自由度水墨风格武侠
+- 第九黎明3 汉化版（Steam移植）
+- 火影忍者究极风暴 汉化版  v1.2.9（Steam移植）全人物解锁！而且免谷歌！
+- 吸血鬼之殇起源2（完整版）黑暗奇幻RPG巅峰续作探索、战斗、生存等！
+- 上古卷轴2匕首雨（完整版）Steam移植  开放世界的“明日之父”老派硬核RPG地图庞大，内容丰富水准优秀的过场和OST！
+- 觅长生（完整版）Steam移植
+- 浮岛物语  v1.0.13（完整版）Steam移植
+- 星露谷物语  v1.6.15.0（完整版）Steam移植  支持联机游玩！
+- 圣剑传说3：玛娜试炼 重制版（完整版）Steam移植
+- GTA 侠盗猎车手：圣安地列斯 最终版（重制版+完整版）Steam移植  支持60帧运行！
+- GTA3 侠盗猎车手3 最终版  v1.84.15（完整版+重制版）Steam移植
+- 伊苏8达娜的安魂曲（switch手机版）
+- 博德之门2 增强版  v2.6.6.12  支持安卓15游玩（完整版+DLC）Steam移植
+- 奥术谷  v1.1.3（完整版）Steam移植  开放世界RPG
+- 海绵宝宝：比奇堡的冒险（完整版）Steam移植
+- 蛇上而生（switch手机版）
+- 黑猫速递（完整版）Steam移植  这个游戏真的太好玩啦！
+- 瞎闹猎车手（switch手机版）
+- 海绵宝宝宇宙摇摆（完整版）Steam移植
+- 饥饿派画家2：迷失  v1.0.21（完整版）Steam移植
+- 残留Residual  v1.2.2（汉化版+完整版）Steam移植
+- 大侠立志传 模组整合版  v1.2.120（完整版+DLC）Steam移植  手机也能玩各种好玩好看模组了！
+- 石河伦吾的朋友们（switch手机版）
+- 阿瑞斯病毒2（菜单版）Steam移植
+- 泰拉瑞亚 模组版+原版（完整版+多模组/灾厄/角色包/地图/建筑）来了真爽！
+- 王国新大陆  v1.4.0.0（完整版）Steam移植
+- 废土2  导演剪辑版  汉化版（完整版）RPG玩家不容错过的一个好游戏!
+- 小猫咪大城市（switch手机版）
+- 八方旅人（switch手机版）
+- 城镇叠叠乐 v1.20.62（完整版）Steam移植
+- 上古卷轴3  晨风年度版（完整版）Steam移植  经典RPG游戏！
+- 海洋幻想（switch手机版）
+- 逸剑风云决（完整版）国产武侠rpg标杆之作！满足你的武侠梦！
+- 打造世界 中文版  v1.9.136（完整版+DLC）Steam移植  童年佳作！质量超高的沙盒类佳作
+- 新星群岛（switch手机版）
+- 烟雨江湖（菜单版）高自由度武侠值得一试的仙侠类单机手游！
+- 历史时代2  终极版（完整版）Steam移植
+- 幻兽帕金|幻兽阿米金（完整版+菜单版）Steam移植  融合了策略宠物收集 生存与开放世界RPG冒险元素的游戏！
+- 迷城之光（switch手机版）
+- 陷阵之志/Into the Breach
+
+---
+
+## 体育竞速（227 款）
+
+- 365Scores体育迷必备实时追踪全球 体育赛
+- 特技摩托：崛起/ Trials Rising    v1.0.0   免安装中文版
+- 轮世界/ Wheel World   v1.849.44424  免安装中文版
+- 日本马拉松/ Nippon Marathon    Build.20350464   免安装中文版
+- 足球场模拟器/ Football Pitch Simulator    Build.20362264   免安装中文版
+- 特技摩托：进化 – 黄金版/ Trials Evolution Gold Edition   免安装中文版
+- 摩托GP24 / MXGP 24 The Official Game    v1.2.2   免安装中文版
+- 霓虹白/ Neon White   Build.20230503   免安装中文版
+- ​速降王者/ Descenders    Build.16723971   免安装中文版
+- 大家一起冲冲冲/ 4 Rush Together/ 单机+联机   v1.1.0.320   免安装中文版
+- 双截龙躲避球/ Double Dragon Dodgeball    Build.19904518   免安装中文版
+- 无法访问/ Unaccessible   Build.19077881   免安装英文版
+- 实况足球2020 / eFootball PES 2020    Build.5257484   免安装中文版
+- NBA 2K15   免安装中文版
+- 极限骑行 v1.0.0（Extreme Cycling）免安装中文版
+- 剃刀2000 / Razortron 2000   免安装中文版
+- DDI Rally Championship  v0.2.0  免安装中文版
+- 火箭靴狂热|火箭靴狂潮   Rocket Boots Mania   Build.18197269   免安装中文版
+- 疾速特工/ Agent Intercept   Build.20327880   免安装中文版
+- 火焰冲击/ BlazeRush   Build.20429766   免安装中文版
+- 高尔夫大乱斗/ Golf Gang   v1.0.3   免安装中文版
+- 高速公路警察模拟3 / Autobahn Police Simulator 3    v1.4.1 全DLC    免安装中文版
+- 万里高空出租车/ MiLE HiGH TAXi   Build.11968131   免安装中文版
+- 孤山速降/ Lonely Mountains: Downhill   免安装中文版
+- 雪地奔驰 高级版/ SnowRunner – Premium Edition/ 单机+联机  v1.783141 全DLC  送修改器  免安装中文版
+- 国际足球大联盟20 / FIFA20   v1.0.0   免安装中文版
+- 截线者：网球战术/ Line Clipper Tennis Tactics   Build.20704512   免安装中文版
+- 马里奥赛车8 豪华版/ Mario Kart 8 Deluxe/ PC+手机双端   免安装中文版
+- 极品飞车14：热力追踪3 重制版/ Need for Speed Hot Pursuit Remastered    Build.20611010   免安装中文版
+- 停车模拟器/ Parking Simulator   v1.1.0   免安装中文版
+- 后座司机/Backseat Drivers /单机+联机   v1.0.0.83   免安装中文版
+- 轮椅模拟器/4Wheel Challenge   免安装中文版
+- 漫游迷你高尔夫VR /Walkabout Mini Golf VR  v6.1  免安装中文版
+- 全精英摔角：永远的战斗/AEW: Fight Forever   v1.10   免安装中文版
+- 足球经理2023 /Football Manager 2023   v23.4   免安装中文版
+- 职业自行车队经理25/Pro Cycling Manager 25   v1.08.02.549    免安装英文版
+- NBA 2K 欢乐竞技场2/NBA 2K Playgrounds 2    v1.2.0.0    免安装中文版
+- 国际足球大联盟21 /FIFA 21   v1.0.72.32477   免安装中文版
+- 板球2024|板球24/ Cricket 24    Build.20760791    免安装英文版
+- 板球22/Cricket 22   Build.9906614   免安装英文版
+- 澳洲橄榄球联赛23/AFL 23   Build.18695611  免安装英文版
+- 板球26 /Cricket 26 – The Official Game of the Ashes    Build.20945482   免安装英文版
+- 橄榄球25 /Rugby 25  Build.20854700   免安装中文版
+- 澳洲橄榄球联赛26 /AFL 26   Build.20823182    免安装英文版
+- 橄榄球联盟26 /Rugby League 26   Build.20853067   免安装英文版
+- 快艇模拟器 /Speedboat Simulator  Build.20310189  免安装中文版
+- 社交足球冠军赛 /Sociable Soccer Champions   Build.20968173   免安装中文版
+- 极品飞车21：热度/Need for Speed：Heat   v1.0.60.7040    免安装中文版
+- 家族传奇：马匹养成竞技|家族传奇：桌面版/Rival Stars Horse Racing: Desktop Edition    v1.40.1  免安装中文版
+- 速度狂魔2|速度之魔2/Speed Demons 2   v1.0.0.4   免安装中文版
+- 拳击模拟器/Boxing Simulator    Build.21119094    免安装中文版
+- 异形橄榄球联盟2 /Mutant Football League 2    Build.21105156    免安装英文版
+- 超级浣熊羊 /Ultimate Sheep Raccoon/单机+联机   v1.0.266   免安装中文版
+- 旋风战车队：速度城赛车|布莱泽与怪物城赛车手 /Blaze and the Monster Machines Axle City Racers   完整版   免安装中文版
+- 速度与激情：间谍赛车手 SH1FT3R/Fast and Furious Spy Racers Rise of Sh1ft3r v20220514 全DLC   免安装中文版
+- 托盘搬运竞速/Pallet Jack Racing   Build.21122056   免安装中文版
+- F1 2021 Build.8545915 免安装中文版
+- 单板滑雪/Shredders  v20251201 全DLC  免安装中文版
+- F1 2019 v1.22 免安装中文版
+- 速度与激情：十字路口|玩命关头：十字路口 / Fast and Furious Crossroads   v1.4_v1.1.0.5.0803   免安装中文版
+- 我的破车 /Mon Bazou   v1.03    免安装中文版
+- PBA职业保龄球2026/PBA Pro Bowling 2026    Build.21253773   免安装英文版
+- 第七部门 /7th Sector   v1.04 全DLC   免安装中文版
+- 热潮狂飙|狂野赛道燃情竞速/Hot Rod Mayhem   v1.3.16   免安装中文版
+- 火鹰FPV：无人机战争模拟器/Firehawk FPV Drone Warfare Simulator    Build.20933811  免安装中文版
+- 神力科莎：竞速/Assetto Corsa Competizione  v1.10.4  全DLC   免安装中文版
+- 境界竞速者 /Realm Racer   Build.21306834  免安装中文版
+- 搭建赛道/Make Way   v1.3.5   免安装中文版
+- 环状战斗骑士 /FAST BEAT BATTLE RIDER   Build.13560587    免安装中文版
+- 团队索尼克赛车|索尼克团队赛车/Team Sonic Racing    完整版 送修改器+满银河币初始存档   免安装中文版
+- 血腥拉力秀 /Bloody Rally Show   v1.9.0   免安装中文版
+- 国际足球大联盟22 / FIFA 22   Build.10461903   免安装中文版
+- 美国职业摔角联盟2K25/ WWE 2K25   v1.29 全DLC  免安装英文版
+- 喷射史罗斯/Turbo Sloths    Build.17565188   免安装中文版
+- 尘埃拉力赛1 /DiRT Rally  v1.22 送修改器   免安装中文版
+- 妖精的尾巴：爆裂沙滩排球/ FAIRY TAIL Beach Volleyball Havoc    Build.21393171   免安装中文版
+- 像素世界杯足球赛：终极版/Pixel Cup Soccer – Ultimate Edition  Build.14511622  免安装中文版
+- 拉什拉力赛起源 /Rush Rally Origins  v1.65  免安装中文版
+- JDM：漂移大师/ apanese Drift Master   v1.2.157.1  全DLC  免安装中文版
+- 珠峰攀登模拟器/Everest Real Climbing Simulator   Build.21301805   免安装中文版
+- 环法自行车赛2023 / Tour de France 2023    Build.11289798   免安装英文版
+- 环法自行车赛2022 / Tour de France 2022   v01.00.16.747  免安装英文版
+- 速降王者/Descenders  Build.21600882  免安装中文版
+- 红视：增强版/Redout Enhanced Edition   v1.7.2  免安装中文版
+- 滑板故事/Skate Story    Build.21594375    免安装中文版
+- 超级沃顿：拉力边缘/Super Woden Rally Edge   Build.21663891    免安装中文版
+- 拉什拉力赛3/Rush Rally 3   Build.21554208  免安装中文版
+- 极限竞速 地平线 4 / Forza Horizon 4   v1.478.564.0   免安装中文版
+- 火爆狂飙：天堂/Burnout Paradise: The Ultimate Box  v1.0.0.1  免安装中文版
+- 极速穿梭 /LANESPLIT   Build.21710628   免安装英文版
+- 街头狂骑BMX /Streetdog BMX  Build.21492238  免安装中文版
+- 神力科莎/ Assetto Corsa   v1.16.4   免安装中文版
+- 霓虹弯道赛车/ Neon Curves Racing   Build.21907752   免安装中文版
+- 极限竞速 地平线5  顶级版/ Forza Horizon 5 /单机+联机  v1.688.109  全DLC 赠全车辆收藏.原厂调教涂装.剧情故事全三星 全通存档   免安装中文版
+- 职业篮球经理2026 /Pro Basketball Manager 2026   Build.21835883   免安装中文版
+- 职业篮球经理2023/Pro Basketball Manager 2023  v1.66  免安装中文版
+- 巅峰冲刺 /Apex Rush   Build.22045755   免安装英文版
+- 滑板的树懒|漂流木|浮木/ Driftwood   v1.0.6  免安装中文版
+- 课程：滑板模拟游戏/ Session: Skate Sim  Build.21531980 全DLC   免安装中文版
+- 并非山洞/This Is No Cave    Build.21263293    免安装中文版
+- 超级沃顿大奖赛1/Super Woden GP 1   完整版   免安装中文版
+- 太阳表决：黑暗神剑/Sol Divide   Build.20733089  免安装中文版
+- 超自然车旅/ Pacific Drive    v1.15.0  全DLC 送修改器    免安装中文版
+- 升空：微型无人机模拟器 /Liftoff Micro Drones   v1.0.7   免安装英文版
+- 乐高2K竞速/LEGO 2K Drive/单机+联机    v3169716   免安装中文版
+- 美国职业摔角联盟2K24/ WWE 2K24   v1.25   免安装英文版
+- 巨太龙：恐龙运动会 /Gigantosaurus Dino Sports   Build.13934458   免安装中文版
+- 喷气跑者/JETRUNNER  v1.1.2  全DLC  免安装中文版
+- 回合制拳击/Turn Based Boxing Tactics – Legends Edition    Build.21935443   免安装中文版
+- 街头足球模拟器 /Street Soccer Simulator   Build.20317230   免安装中文版
+- 刀锋突袭 /Blade Blitz   Build.22300222   免安装中文版
+- 极限国度/Riders Republic  v1.30.0   免安装中文版
+- 致命联盟：烈火 /Lethal League Blaze   Build.20415526   免安装中文版
+- 脱离地面|出行路线|横冲直撞/TRAIL OUT  v5.10 全DLC   免安装中文版
+- 电光火石：霓虹灯下的赛车/Electro Ride: The Neon Racing    免安装中文版
+- 暴力摩托2002   不支持win11  /Road Rash    免安装中文版
+- 驾驶拉力赛/ DRIVE Rally  v1.3.24  免安装中文版
+- 美国职业摔角联盟2K26-虚拟机版 /WWE 2K26  Build.22424910   免安装英文版
+- PGA巡回赛2K25-虚拟机版/PGA TOUR 2K25   Build.21251646   免安装中文版
+- 索尼克赛车 交叉世界-虚拟机版/Sonic Racing CrossWorlds    v1.3.1|Build.21982508    免安装中文版
+- 索尼克×夏特 世代重启-虚拟机版 /Sonic X Shadow Generations   Build.16644180   免安装中文版
+- 超级房车赛：传奇-虚拟机版 /GRID Legends   v6.2.80.660   免安装中文版
+- F1车队经理2024-虚拟机版 /F1 Manager 2024    v1.11|Build.17356935   免安装中文版
+- 网球经理25 /Tennis Manager 25   Build.21543586   免安装中文版
+- iRacing街机版 /iRacing Arcade/单机+联机  Build.22609807  免安装中文版
+- 无可争议-虚拟机版 /Undisputed   Build.21146495   免安装中文版
+- 麦登橄榄球26-虚拟机版 /Madden NFL 26   Build.22320261_更新修复补丁   免安装英文版
+- FC 26-虚拟机版  Build.22519558_更新修复补丁    免安装中文版
+- 孤山之旅：雪地骑行|孤山：雪地骑士|孤山速降雪地骑手/Lonely Mountains: Snow Riders   v1.4.209 全DLC   免安装中文版
+- 旧日飞车/Old School Rally    v20260406   免安装中文版
+- 麦登橄榄球21-虚拟机版 /Madden NFL 21    Build.10352248   免安装英文版
+- 世界汽车拉力锦标赛-虚拟机版/ EA SPORTS WRC     v2.3.1.0   免安装英文版
+- 纯粹岩地越野/Pure Rock Crawling    v20250211   免安装英文版
+- 汽车城：驾驶/ Motor Town: Behind The Wheel   v0.7.18  免安装中文版
+- 嘟市冒险天团/Basketboy’s Adventure   Build.22727259  免安装中文版
+- 下一代速降王者/Descenders Next   Build.22416176   免安装中文版
+- 漂移赛车在线/CarX Drift Racing Online   Build.22729953   免安装中文版
+- F1车队经理2022-虚拟机版/F1 Manager 2022   Build.10488829   免安装中文版
+- 一级方程式24-虚拟机版 /F1 24   Build.18983819   免安装中文版
+- F1车队经理2023-虚拟机版 /F1 Manager 2023   Build.16843164   免安装中文版
+- 职业网球大联盟2K25-虚拟机版 /TopSpin 2K25  Build.17309615  免安装中文版
+- 足球经理2024-虚拟机版 /Football Manager 2024   Build.18129188   免安装中文版
+- 麦登橄榄球23-虚拟机版/Madden NFL 23    Build.11481766   免安装英文版
+- 一级方程式23-虚拟机版 /F1 23   Build.17731237   免安装中文版
+- 全民高尔夫 环球之旅/ Everybodys Golf Hot Shots  v1.0.12  全DLC  免安装中文版
+- 美国职业高尔夫巡回赛-虚拟机版/EA SPORTS PGA TOUR    Build.17459576    免安装英文版
+- 汪汪队立大功：锦标赛 /PAW Patrol Grand Prix   Build.10592251   免安装中文版
+- 螃蟹大战/Fight Crab    v1.2.3.2   免安装中文版
+- 速度球-虚拟机版 /Speedball  Build.22321014   免安装中文版
+- 足球经理2022-虚拟机版/Football Manager 2022    Build.8466745    免安装中文版
+- 复古驱动器 改头换面 /Retro Drive Revamped   Build.22518542   免安装中文版
+- 超级高尔夫大乱斗/Super Battle Golf / 单机+联机   Build.22730759 免安装中文版
+- NBA 2K26-虚拟机版   Build.22469912_修复4月19日   免安装中文版
+- NBA 2K25-虚拟机版  / PC+手机双端   Build.19221740_修复4月19日    免安装中文版
+- 暗影都市|黑城速通 /Hirilun     完整版    免安装中文版
+- 动物排球社/Smash it Wild Tactical Volleyball Roguelike     Build.22818654    免安装中文版
+- SNØ：终极自由滑雪/SNØ: Ultimate Freeriding   v1.0.5.44  免安装中文版
+- 飙酷车神2 / The Crew 2    v4367857   免安装中文版
+- 巅峰|登顶/ PEAK / 单机+联机   v1.61.b    安装中文版
+- 罗莎莉/Rosalie  Build.22963470   免安装中文版
+- 麦登橄榄球25-虚拟机版 /Madden NFL 25   Build.19448954  免安装英文版
+- 麦登橄榄球24-虚拟机版/Madden NFL 24    Build.17627468   免安装英文版
+- 职业棒球之魂2024-2025-虚拟机版 /Professional Baseball Spirits 2024-2025    v2.8.0|Build.22011441   免安装中文版
+- EA体育足球俱乐部25-虚拟机版/EA SPORTS FC 25    Build.19641208   免安装中文版
+- EA体育足球俱乐部24-虚拟机版 /EA SPORTS FC 24    Build.17639013   免安装中文版
+- 超级棒球4-虚拟机版 /Super Mega Baseball 4   Build.17068112   免安装英文版
+- 中国足球模拟器/Chinese Football Simulator   v5.68  免安装中文版
+- 雪橇手/Sledders   v1.1.5   免安装英文版
+- 真实攀岩 /New Heights Realistic Climbing and Bouldering   v1.0.3   免安装中文版
+- 尖啸 /Screamer /单机+联机   v1767231 免安装中文版
+- 摩托GP26/ MotoGP 26/单机+联机   Build.22846342   免安装英文版
+- 网球精英4/ Tennis Elbow 4   Build.23142967   免安装中文版
+- 神力科莎：拉力/ Assetto Corsa Rally   v0.4.1  免安装中文版
+- 纯正羽毛球/Pure Badminton   Build.23133703   免安装中文版
+- CarX漂移赛车在线2 /CarX Drift Racing Online 2    Build.23149268   免安装英文版
+- 世界摩托大奖赛25 /MotoGP 25 /单机+联机    v20260309    免安装中文版
+- 低杆高尔夫球场大亨 /Under Par Golf Architect   Build.23149593   免安装中文版
+- 滑雪游戏/Sledding Game/单机+联机    v0.1.21  免安装中文版
+- 网球经理26/Tennis Manager 26   Build.23217026   免安装中文版
+- 热力纳斯卡25 / NASCAR 25   v20260311  免安装英文版
+- 赛马疾驰DX/Horse Runner DX    Build.22714733   免安装中文版
+- 棒球观测者 /Baseball Scouter   Build.23138441    免安装中文版
+- 足球经理26-虚拟机版/Football Manager 26   Build.22590233    免安装中文版
+- 极品飞车22：不羁-虚拟机版 /Need for Speed Unbound   v1.0.8.2549   免安装中文版
+- 职业足球 /Pro Football    Build.23270901   免安装中文版
+- CarX漂移赛车在线/CarX Drift Racing Online   Build.23248169   免安装中文版
+- 孤山独影/ Cairn   v1.1.393s    免安装中文版
+- 撞车嘉年华2/ Wreckfest 2   v365284   免安装英文版
+- 破坏创造王/ Wreckreation/ 单机+联机   v1.7.0.152354   免安装中文版
+- 汽车竞速计划/Project Motor Racing /单机+联机   v2.0.0.4  免安装中文版
+- 我的钓鱼世界   Build.23354846   免安装中文版
+- 顶尖决胜/ TIEBREAK: Official game of the ATP and WTA/单机+联机   Build.20168764   免安装中文版
+- 纯粹台球Pro /Pure Pool Pro   v20260521  免安装中文版
+- 疾跑者|极速奔跑者 /SpeedRunners   Build.23360114  免安装中文版
+- 赛马经理/Horse Racing Manager    Build.23350933   免安装中文版
+- NBA弹跳/ NBA BOUNCE    Build.21480900   免安装中文版
+- 尼克频道：极限网球NEXT/Nickelodeon Extreme Tennis Next!     Build.22181133   免安装中文版
+- 极品飞车20：复仇-虚拟机版/Need for Speed Payback    Build.10351388   免安装中文版
+- 怪物能量超级越野赛车25/Monster Energy Supercross 25 – The Official Video Game   v1585442 全DLC    免安装英文版
+- 停车场拉力巡回赛|停车场拉力赛道/ Parking Garage Rally Circuit    Build.23426835   免安装中文版
+- 方程式传奇/Formula Legends   v1.6  全DLC   免安装中文版
+- CarX街头|街头赛车/CarX Street   v1.13.0  全DLC  免安装中文版
+- 首都高赛车/Tokyo Xtreme Racer   v1.5.0  免安装中文版
+- 骑马/Hobby Horse     Build.23504720    免安装中文版
+- 勒芒终极赛/Le Mans Ultimate   v1.3.3.1  全DLC   免安装中文版
+- 致命送达/DEADLINE DELIVERY    Build.22917324    免安装中文版
+- 极速骑行6 /RIDE 6  v20260603   免安装中文版
+- 肥皂滑行 /Soap Slide   Build.23562714   免安装中文版
+- 环法自行车赛2026/Tour de France 2026     Build.23441371   免安装英文版
+- 爆旋陀螺X：进化对决/ BEYBLADE X EVOBATTLE    v1.0.8   全DLC   免安装英文版
+- 一级方程式25-虚拟机版 /F1 25   Build.23451719    免安装中文版
+- 第一赛车手/First Racer    Build.23492238    免安装中文版
+- 异星拉力锦标赛/Exo Rally Championship     Build.23612246    免安装中文版
+- 足球、策略与荣耀|足球战术与荣誉/ Football, Tactics & Glory   Build.22619597   免安装中文版
+- 无可争议 /Undisputed   Build.21146495   免安装中文版
+- 神力科莎EVO/Assetto Corsa EVO   v0.7.1  免安装中文版
+- 团战经理2/Teamfight Manager 2/ 单机+联机      v0.4.11   免安装中文版
+- 究极大越野：传奇/ MX vs ATV Legends    v5.04   全DLC   免安装中文版
+- 无限试驾：太阳王冠/ Test Drive Unlimited Solar Crown/ 单机+联机     Build.30092024   免安装中文版
+- 拳皇13：全球对决/THE KING OF FIGHTERS XIII GLOBAL MATCH /单机+联机    Build.18579297   免安装中文版
+- 闪电十一人 英雄们的胜利之路/ INAZUMA ELEVEN Victory Roa/ 单机+联机   v6.0.1  全DLC  送修改器   免安装中文版
+- 四人大奖赛/4PGP    Build.23625670   免安装中文版
+- STORROR 专业跑酷|斯托罗专业跑酷|斯托罗跑酷Pro/STORROR Parkour Pro    v20260609    免安装英文版
+- 怪兽竞技场 /SPORTAL    Build.23523846    免安装中文版
+- 万物皆可赛车/WHAT THE CAR?   Build.23448417   全DLC  免安装中文版
+- 汽车俱乐部2/ Automobilista 2/ 单机+联机   v1.6.9.8  全DLC  免安装英文版
+- 极限竞速：地平线6 / Forza Horizon 6/ 单机+联机   v375.327 全DLC 最新614辆车存档-有风籁    免安装中文版
+
+---
+
+## 效率工具（216 款）
+
+- 记得记账简洁记账操作便捷
+- 豆包大臭屁2.0手表提取版｜自定义添加｜低配全能豆包
+- 支付宝?内置女神版插件自动抢红包～刷视频等森林任务
+- 家常菜做法大全汇聚上万道家常菜
+- 平行空间(原双开大师)免root虚拟空间 多开分身
+- AutoCAD 2025
+- 聚会决定转盘内置非常多的酒桌玩法快去试试吧
+- 免费自动连点器点击器自动点击免root使用
+- 小万最新版手机版小龙虾支持技能
+- 门禁卡NFCKey一键复制各类门禁卡NFC工具箱
+- 东方梦符图鉴攻略必备非常好玩
+- 火星字体转换非常厉害的艺术字体非常好玩
+- 宋词三百首诗词爱好者必备非常nice！
+- 破碎屏幕模拟屏幕破碎效果非常好玩
+- 恶搞之家语音盒非常好玩儿非常恶搞
+- 听力测试足不出户也可以测自己听力
+- 灵魂探测器非常火爆看看有没有
+- 动物的叫声可以认识各种动物和它的叫声
+- 抖录-直播切片录制工具，全自动免费操作
+- 女性减肥在家健美瘦身练出紧致好身材
+- 自制工具箱不知道这功能对宝子们有没有用
+- 小白连点器解锁永久会员内置防封懂得都懂
+- Npatch免Root框架可内置模块～解锁会员
+- DeepSeek蓝色大肥鱼桌宠桌面宠物
+- 手机号免费定位追踪手机号定位找人
+- AccountSpace 解锁会员虚拟空间 应用分身
+- NFC Tools1.0一键读取｜响应超快｜纯净版
+- fqToDo制定计划可以设置远程 自律必备
+- Aqua Mail Pro v2.6.0
+- Voice 超强变声器解锁永久会员无限次变声
+- 手机振动器DZH-1.3.0娱乐神器纯净无广
+- 汐云·那年今日1.0安卓纯净版
+- 果仁相册1.59.3安卓纯净相册天花板
+- 猫箱最新版虚拟AI女友沉浸式陪伴 聊天～
+- 记易开源记账APP免费无广告
+- 正则生成器1.0自动截取文件内容纯净无广
+- 澄心WiFi1.6.42快速连接｜网络加速｜绿化版
+- 别忘了事儿1.0计事工具纯净无广傻瓜操作
+- 好友备份老公老婆查手机怎么办？好友备份了解下！
+- 宝宝健康手册记录宝宝生长记录｜维护宝儿生长
+- 余额修改器2.0娱乐恶搞装X神器纯净版
+- 不死鸟模块LSPosed应用进程保活模块
+- 清眠笔记1.0.1高级多功能记录笔记免费无广
+- WPS Office特别版激活功能全部可用可登录
+- 六甲奇门排盘2.1奇门六甲排盘｜精准预测｜高级版
+- NFC大全1.0.1.1a-M一键读取绿化版
+- 星果 Ai交互剧情解锁支线 对话驱动交互故事剧情
+- 猫箱最新版全新虚拟AI女友 聊天让你不再孤独
+- AnyScanner高级版高清OCR文档扫描
+- 太极1.7实用安卓工具箱
+- 网络消耗器1.3消耗流量｜免登可用｜流量大户专用
+- 3C应用管理一键备份APP数据专用应用管理工具
+- WPS Office已解锁会员版最强办公神器
+- 宙斯数据恢复恢复误删的的照片视频等数据
+- 掌上罗盘指南针多功能黄历工具APP
+- Fake Call虚拟来电自定义触发来电免费
+- 马国俊八字排盘宝最新版快捷简洁无广傻瓜操作
+- Screen Translate屏幕翻译v1.183
+- 简易录音机2.9.4清晰录制工具
+- Recycle_Bin_1_3_5_解锁会员恢复误删的照片_视频
+- 温度器一键测量手机温度和湿度的大气压
+- 屏幕坏点检测看看自己的手机屏幕有没有坏掉
+- 密码生成器一键生成各种繁琐密码非常高科技
+- 网络信号大师集成了各种测试功能和网络制式的实时测试
+- 音频分析器可以检测各种赫兹高频赫兹和低频赫兹
+- 炉石传说记牌器非常好的一款软件非常nice
+- 超亮手电筒配置许多小工具小功能非常nice
+- UU远程最好用4k远程操控软件
+- MBTI职业性格心理自测人格测试朋友圈玩梗神器
+- 早晚记账4.0.4纯净无广｜记账天花板超多功能
+- 福多多福袋助手全天自动挂机抢抖音福袋和抖币
+- 画质助手已解锁永久会员120帧畅玩游戏
+- 自动闪点连点器游戏挂机抢单神器解锁会员
+- IP Tools\nv8.68 IP工具
+- To do list1.3.28专注清单高效版
+- 多用自动连点点击器全能录制脚本解锁高级版
+- 滴答清单解锁会员一款轻便的待办事项日程管理应用
+- 豆包输入法AI语音输入免费无广
+- 豆包输入法AI语音输入语音输入太牛了
+- IP摄像头Pro远程监控IP连接公开摄像头
+- UU远程V4.34.1免费4K远程控制软件
+- 糖豆记工1.0.5牛马小时记工免费无广傻瓜操作
+- 霁川多能箱 万能工具箱内置驾考考题 去水印等功能
+- 此间1.09多元创意组件无广免费持续更新
+- UU远程V4.36.0免费4K远程控制软件
+- Klick'r自动抢票连点器 简单易操作
+- 【考核】识典古籍4.50畅读6万古籍语音沉浸式阅读
+- 易学起名测名传统易学+诗词典籍起名解锁会员
+- 随身FM免费听全国专注于广播电台收听的安卓应用
+- Temp Mail 临时虚拟邮箱无限创建邮箱
+- 薄荷记账11.8.9纯净记账软件支持自动记账
+- 手机清单便签工具
+- 糖果隐私相册多重加密私密守护超安全
+- 自定义准星游戏辅助精准瞄准超实用
+- 兔兔投屏跨设备投屏神器支持多端
+- 测网速专家3.7一键测速网络管理软件测速
+- WiFi分析仪7.4免费WiFi分析工具
+- 万能密码查看密码本各类密码记录
+- 直尺测量仪多工具合集测距量角指南针全具备
+- nfc门禁卡复制助手支持复制读取格式化NFC卡
+- IYPS1.5.8密码强度检测一键生成最牛密码
+- 水墨屏浏览器置多种功能超强浏览器｜浏览全球任意网络
+- 布莱克可以一键查你的软件的广告有多少功能强大
+- 手机安全软件25.17.3防护大师｜查杀一切病毒
+- 文字图片置顶助手图文屏顶固定自由调节大小位置
+- 口播提词专家悬浮提词窗口横竖屏适配录制直播
+- 水电工报价算料王自动核算用料费用导出报价清单
+- 手机号定位找人速查实时定位情侣查岗必备
+- 【原创解锁】智能扫一扫解锁会员扫码转PDF文字翻译识别
+- Flue手机变手表桌面｜恶搞装x神器｜纯净版
+- 多开空间一机多账号应用一键克隆双开
+- 碧蓝档案logo生成器1.0一键生成｜安卓版
+- 语聊音频变声器多种趣味声线实时无延迟语音转换
+- 测网速一键测量网络速度
+- 日子1.49日期倒数日一键记录｜呆瓜专用
+- WiFi分析仪信道优化测速局域网设备扫描网络诊断
+- 魔力自动点击器解放双手｜小白可做脚本｜薅羊毛必备
+- 视频下载鸟全网视频无水印解析下载解锁会员
+- 【安卓】Minis聚合全球顶级AI模型AI写代码生成应用
+- gb模拟器复古掌机游戏存档金手指调速运行工具
+- 免费实时变声器聊天趣味语音实时转换工具
+- 手游变声器1.3.5游戏恶搞｜支持各大社交平台｜高级
+- 液体计算1.1.5超极计算器｜亲戚关系计算｜金币汇率
+- 快捷提醒｜一键只能提醒｜远程控制等等…
+- 像塑抖音特效制作神器副业赚钱玩转特效
+- Collabora Office平替WPS 手机办公
+- 手持弹幕全屏滚动支持自定义文字，颜色，大小
+- 手机连点自动点击器全能录制脚本免root解放双手
+- 【安卓】WiFi密码管理器WiFi密码查看一键复制密码
+- 全能PDF工具阅读，编辑，注释，拆分，合并解锁会员版
+- 最新支付宝芝麻糊插件带教程全套自动完成庄园等任务！
+- 极简连点器 最强点击器自动游戏脚本 自动抢票
+- 扫描仪 解锁会员平替扫描全能王
+- 全能连点器4.0免费点击器手势录制脚本全自动
+- 文件管理器格式转换，文件阅读解锁会员版
+- 支付宝?内置最新芝麻糊插件自动完成支付宝任务
+- 拼豆生成器自定义高清拼豆图各种模板 永久免费
+- 嗨玩云 免费云游戏玩3A大作/热门游戏 无延迟免下载
+- 音频提取器视频转音频格式转换工具
+- 签名设计助手为自己设计签名非常的nice
+- 多开空间4.1解锁会员版安卓无限分身
+- 【安卓】XMind 26.01思维导图制作神器已解锁订阅
+- 柠檬提醒日 已解锁本地会员功能
+- 小X分身秒开分身+隐私保护安卓多开神器
+- PDF转换器已解锁永久会员再也不需要WPS了
+- DeepAI写作神器AI创作，写小说，改文案
+- EasyNotes轻松笔记高级版｜支持给每一条笔记加密
+- Tally自动记账+加班薪资统计极简财务管理神器
+- 小马模拟器助手1.0.4安卓绿化版
+- 安心考勤记工智能登记工时统计出勤数据
+- 老黄历万年历顺历解锁会员黄历天气日程工具
+- 手机罗盘大师解锁会员实景方位罗盘传统黄历工具
+- 群发帮手解锁会员私域批量群发拓客工具
+- 酷凡游戏厅解锁会员手游键鼠映射自动压枪
+- 秒杀提醒工具解锁会员定时抢购弹窗提醒助手
+- 扫码出入库管理解锁会员商品库存扫码登记工具
+- 两步路户外助手解锁会员离线轨迹登山徒步导航
+- 图步解锁会员骑行徒步轨迹记录户外导航工具
+- OKOK解锁会员蓝牙体脂秤健康记录工具
+- 天气通解锁会员精准预报台风空气质量查询工具
+- 天眼AR实景导航AR卫星定位出行路况步行导航
+- 微商推客解锁会员私域拓客社群营销工具
+- 微商盒子解锁会员私域拓客营销工具
+- 吉祥万年历解锁会员黄历吉日日程天气查询工具
+- 一万年日记解锁会员人生自传情感记录日记工具
+- Dislike解锁会员生活事务日程提醒管理
+- WearJoy解锁会员DT100智能手表健康
+- 微商客解锁会员私域运营高效拓客
+- 萌芽喂养记录解锁会员宝宝喂养成长记录工具
+- 辟谷轻断食解锁会员减脂断食数据记录
+- 群发宝解锁会员私域批量群发同城拓客
+- 决定Now解锁会员转盘随机抉择纠结辅助工具
+- OKOK解锁会员体脂秤多体征全家健康管理工具
+- WearPro解锁会员智能手表配套运动健康
+- 六只脚解锁会员户外GPS轨迹离线导航工具
+- 两步路户外助手解锁会员户外离线轨迹导航工具
+- 天气通解锁会员精准超长预报台风雷达天气助手
+- 罐罐记账解锁会员自动记账家庭收支管理工具
+- Adblock浏览器拦截所有网络广告国际浏览器
+- 迅雷网盘精简版绿色无广告边下载边播放
+- 通知档案 解锁版VX等聊天平台 消息防撤回
+- 职业游戏工具箱Pro手游专属性能优化工具箱
+- 手机号追踪实时找人手机号定位找人
+- Windows App远程控制工具 免费无广告
+- 小决定告别选择焦虑让选择不再烦恼
+- Sense天气高级版翻页时钟桌面小组件精准气象
+- 向日葵远程控制远程控制游戏挂机
+- 扫描仪 解锁会员版全能扫描仪 平替扫描全能王
+- 极简连点器 纯净去广告 自动化游戏脚本 自动购票抢票
+- 天气虫高级版实时雷达雷雨预警气象工具
+- Wifi分享多功能工具箱包含45种小工具
+- 自动击连点器超级点击器 游戏自动脚本 自动抢票等
+- Love Counter记录情侣相爱时间解锁会员版
+- 人生旅行轨迹图支持全球绘制飞行路线路线视频
+- 奇门 免费无广告八卦排盘起卦
+- 论八字 免费无广告八字排盘起卦工具
+- Google谷歌浏览器国际版 无限制上网?
+- 设备信息一键查看手机各种配置解锁会员版
+- 简单连点器解放双手，无需root解锁会员版
+- 电工手册电工从业者必备解锁会员版
+- MobiOffice手机版WpsOffice平替好用
+- 语聊音频变声器 v1.1.8 会员版
+- 安卓贝利自动点击器 v2.8.9 会员版 – 自动跳广告和模拟屏幕点击工具
+- 乱七八糟 v1.3.89 会员版 – 磁力解析影视音乐软件
+- 倒数日 v1.24.0 高级版 – 记录生活中重要日期的小工具
+- 布丁扫描 v3.5.1.1 官方版 – 免费无广告文件扫描软件
+- 微笔记（WeNote）v6.25 去广告高级版 – 最简单易用的记事本应用
+- 迅游手游加速器 v5.6.10.2 会员版 – 海外手游网络优化工具
+- 华为花瓣测速 v4.8.0.310 纯净版 – 手机网络测速工具
+- Forest专注森林 v4.90.0 专业版 – 帮助用户专注工作的应用
+- HiPER Calc Pro (艾泰计算器) v11.1.4 专业版 – 功能全面的科学计算器
+- 一木清单 v2.3.1 会员版 – 智能清单软件
+- 嘀嗒清单 TickTick Pro v7.6.4.3 会员版 – 强大的待办事项和任务管理应用
+- 扫描王全能宝(扫描君) v6.8.37 会员版 – 国产OCR拍照扫描识别软件
+- 蜜蜂记账
+- WiFi万能钥匙
+
+---
+
+## 安卓端（212 款）
+
+- 黑暗之蓝 安卓版
+- 晴霁之后定是菜花盛开的好天气 安卓版
+- リルカは幾重に夜を彩る 安卓版
+- 求神太多我的未来糟糕了 安卓版
+- 花与少女的祝福 安卓版
+- 誰ソ彼のシェイプシフター 安卓版
+- 双天†恋姬 安卓版
+- 由梦想与色彩编织而成 安卓版
+- LOVELY×CATION 安卓版
+- PARQUET 安卓版
+- 车轮之国、向日葵的少女 安卓版
+- 神怒之日：为爱痴狂 安卓版
+- 魔法王牌 安卓版
+- 来自昏暗的时间尽头 安卓版
+- 鏖呪ノ嶼 安卓版
+- 可爱女友的获取方法 安卓版
+- 宝石少女 1st.cut:The Reason She Must Perish 安卓版
+- 淑女同萌 安卓版
+- D.C. Re:tune ～ダ・カーポ～ リチューン 安卓版
+- 娇小少女的小夜曲 安卓版
+- LOVELY×CATION2 安卓版
+- D.C.5 Plus Happiness ～ダ・カーポ5～プラスハピネス 安卓版
+- 巧克甜恋 安卓版
+- 巧克甜恋2 安卓版
+- マガルミナ 安卓版
+- 电波消逝之日 安卓版
+- 赤色约定 安卓版
+- 约会大作战 Twin Edition 凛绪轮回 安卓版
+- 告别回忆 双想 ～Not always true～ 安卓版
+- KIRAKIRA 煌煌舞台 安卓版
+- 悠刻のファムファタル 安卓版
+- 圣女不死心 安卓版
+- 唇心絮语 安卓版
+- 创造世界的空想理论 -goodbye world index- 安卓版
+- 天之少女 安卓版
+- 旭光のマリアージュ 安卓版
+- 猫忍之心SPIN！2 安卓版
+- 韶华苦短，起舞吧少女 安卓版
+- 双生百合 ~要对妈妈保密哦~ 安卓版
+- Sorceress*Alive!～世界末日陨落之星～ 安卓版
+- eden* PLUS+MOSAIC 安卓版
+- 献给神明般的你 安卓版
+- 将花朵献与你-Kinsenka- 安卓版
+- 兰斯9 赫尔曼革命 安卓版
+- FLIP＊FLOP 〜INNOCENCE OVERCLOCK〜 安卓版
+- 终焉之莉莉：骑士寂夜 安卓版
+- 智以泪聚 安卓版
+- 家族计划 安卓版
+- 五彩斑斓的世界 安卓版
+- 秋之回忆2 FULL HD 安卓版
+- 混沌之子 安卓版
+- 恋爱0公里 安卓版
+- 11eyes 罪与罚与赎的少女 安卓版
+- 檻姫～極嬢の未来は俺のモノ～ 安卓版
+- 主播女孩重度依赖 安卓版
+- Monkeys!¡ 安卓版
+- 突然之间发现我已恋上你 安卓版
+- 7days—与你共度的七日间 安卓版
+- 与鲨鱼共度的七日间 安卓版
+- 抬头看看吧，看那天上的繁星 安卓版
+- 霞流宝石心 -壮志凌云振寰宇- 安卓版
+- Kirikiroid2模拟器 安卓版
+- 三色绘恋 安卓版
+- 流星世界演绎者：Gaslight Bullet 安卓版
+- 鬼哭街 安卓版
+- 海市蜃楼之馆：纯真的安魂曲 安卓版
+- LOVESICK PUPPIES -我们为了恋爱而诞生- 安卓版
+- 虹彩都市 安卓版
+- 爱因斯坦携爱敬上 安卓版
+- 少女与我、两纪之差 安卓版
+- True Colors -memories of the abyss- 安卓版
+- 樱之杜†净梦者 安卓版
+- 与她＊心渐近 安卓版
+- 星之少女与六华的姐妹 安卓版
+- 夏之雨 安卓版
+- 夏之锁 安卓版
+- 海底 安卓版
+- 命运石之门 0 安卓版
+- 失眠的羊与孤独的狼 -A Tale of Love, and Cutthroat- 安卓版
+- 恋生恋逝恋相随 安卓版
+- 不可视之药与坎坷的命运 安卓版
+- 少女编织爱的画布 安卓版
+- 奇异恩典·圣夜的小镇 安卓版
+- 120日元 安卓版
+- 星恋＊twinkle 安卓版
+- HaremKingdom 安卓版
+- 春音AliceGram 安卓版
+- 魔女之泉R 安卓版
+- 恋爱绮谭~不存在的回忆~ 安卓版
+- 大帝国 安卓版
+- 终焉之玛格诺利亚：雾中盛放之花 安卓版
+- 魔卡魅恋 安卓版
+- 候鸟 安卓版
+- 我亲爱的妹妹 安卓版
+- 丸子与银河龙 安卓版
+- 高考恋爱100天 安卓版
+- 天色幻想岛 安卓版
+- 台湾恋爱物语⁵ 安卓版
+- 为我的女王献上荣冠 安卓版
+- 夏之终熄 安卓版
+- 想要诉说的心意 安卓版
+- Muv-Luv 安卓版
+- 突然＊恋人 全高清合集版 安卓版
+- 冬暮川滚滚 安卓版
+- 河原崎家的一族2 安卓版
+- 寒蝉鸣泣之时 安卓版
+- 海猫鸣泣之时 散 安卓版
+- 闪耀夏日 安卓版
+- 虚之少女 安卓版
+- 一生推不如一生恋 安卓版
+- 海与雪的青蓝色 安卓版
+- 樱色之云＊绯色之恋 安卓版
+- 绽放青春全力向前冲！ 安卓版
+- 见习恋人 安卓版
+- 水仙2 安卓版
+- 缘结甜祇 ~My Sweet Goddess~ 安卓版
+- 时钟机关的Ley-line-残影之夜将明时- 安卓版
+- 青春×好奇相伴的三角恋爱 安卓版
+- 少女神域∽少女天獄 -The Garden of Fifth Zoa- 安卓版
+- 献给神明般的你 EXTENDED EDITION 安卓版
+- 新妻LOVELY×CATION 安卓版
+- 密语-Silver Snow Sister- 安卓版
+- 苍之彼方的四重奏：交予世界的答卷 安卓版
+- 图谋不轨的恋爱 安卓版
+- 选择妻子的进展似乎顺利过头。 安卓版
+- PRIMAL×HEARTS2 安卓版
+- 飛べない蝶のバレンタイン 安卓版
+- 喜欢我的话就要说出来 安卓版
+- 幼驯染与十年之夏 安卓版
+- 月姬 -A piece of blue glass moon- 安卓版
+- PRIMAL×HEARTS 安卓版
+- 天降虚拟偶像 安卓版
+- 认真和我谈恋爱!! 安卓版
+- 花之天使的夏日恋歌 安卓版
+- 星之梦 安卓版
+- 魔导巧壳 安卓版
+- 没有天使的12月 安卓版
+- 染红的街道 安卓版
+- 当孤僻之人遇上青春生活 安卓版
+- 你所寻找的，是夏天么。 安卓版
+- 家族计划~再开~ 安卓版
+- 狂欢节 安卓版
+- 永恒少女~堕落庭园的少女们~ 安卓版
+- 狐姬零 安卓版
+- 他人世界末 安卓版
+- 天之和弦 安卓版
+- 爱上火车-Last Run!! 安卓版
+- 性转魔王敌不过勇者 安卓版
+- まほ×ろば -Witches spiritual home- 安卓版
+- 她们的流仪 安卓版
+- 怀揣思念与我再会!! 安卓版
+- PRETTY×CATION2 安卓版
+- 缘之空 安卓版
+- 我们没有翅膀 ―――under the innocent sky. 安卓版
+- 恋爱成双 安卓版
+- 恋狱 月狂病 安卓版
+- 青鸟 安卓版
+- 恋狱月狂病 重制版 安卓版
+- 恋爱、初邂逅 安卓版
+- 为主人献上圣罗的甜蜜侍奉 安卓版
+- 花咲Workspring！ 安卓版
+- 五色浮影绽放于花之海洋 安卓版
+- anemoi -アネモイ- 安卓版
+- 装甲恶鬼村正 安卓版
+- やりなおしクランクイン 安卓版
+- 时钟机关的Ley-line-朝雾中飘零之花- 安卓版
+- 青空下的约定 安卓版
+- CROSS†CHANNEL 安卓版
+- 大图书馆的牧羊人 安卓版
+- 猫娘乐园 After 安卓版
+- 悠之空 安卓版
+- 只愿 安卓版
+- 幸运草的约定Plus 安卓版
+- バカップル・サプリメント 安卓版
+- KANADE 安卓版
+- 壳之少女 安卓版
+- 果然在游戏里我的青春恋爱物语也有问题。 安卓版
+- ラブピカルポッピー！ 安卓版
+- 我的未婚妻还不太懂初恋 安卓版
+- 白色相簿2 安卓版
+- 米塔 MiSide 安卓版
+- 丑小鸭与文字祸 安卓版
+- ハッピーウィークエンド 安卓版
+- GINKA 安卓版
+- 克洛的时钟 安卓版
+- 对你说再见 ～comment te dire adieu～ 安卓版
+- 流景之海的艾佩理雅 安卓版
+- 海市蜃楼之馆 安卓版
+- 牵绊闪耀的恋之伊吕波 安卓版
+- 初雪樱 安卓版
+- 想要传达给你的爱恋 安卓版
+- 从朋友到恋人 安卓版
+- 回家前都算是棉花糖 安卓版
+- 千之刃涛，桃花染之皇姬 安卓版
+- 紬の花嫁 安卓版
+- 恋爱和选举和巧克力 安卓版
+- 与我相恋的废柴恶魔 安卓版
+- 寄宿之恋 安卓版
+- 常轨脱离 Creative Re:Re:call 安卓版
+- 变态监狱 安卓版
+- 甜蜜夏日 安卓版
+- 罚抄 安卓版
+- 恋花绽放樱飞时 安卓版
+- 五彩斑斓的世界 HD Re:GENERATION 安卓版
+- 灰色的果实 安卓版
+- 水仙 安卓版
+- 大图书馆的牧羊人 -Dreaming Sheep- 安卓版
+- 幸福噩梦 安卓版
+- 樱花、萌放。 安卓版
+- 纸上的魔法使 安卓版
+- 航迹云的彼方 安卓版
+- ドカイチャ！！ラブピカルポッピー！ 安卓版
+
+---
+
+## 智能助手（207 款）
+
+- 动物知识手册1.0科普动物软件｜动物介绍｜绿化版
+- Chatbox聚集世界顶尖AI模型满足工作需求
+- 氢离子1.2.40医学生专用AI｜查药品｜查病情写论
+- 秒哒最新版智能AI写代码｜无代码搭建｜大厂出品
+- AI抖音刷你爱看的视频会思考的抖音
+- 小黑记账AI1键自动记账免费无广告
+- 【安卓】Kai v2.8.3聚合多家AI大模型内置本地模型
+- 半夏日记治愈系日记记录APP解锁终身会员功能
+- Grok AI问答无限制世界顶尖AI
+- 【安卓】Perplexity聚合GPT5等顶级模型无限畅聊
+- 撸铁记AI智能全能训练练出好身材
+- RikkaHub 2.3.3聚合全球顶尖AI大模型
+- 专注清单17.5番茄学习法提高效率
+- DeepSeek内置功能增强模块全球最顶级AI助手
+- Onesearch深度搜索多AI模型AI对话图像等
+- 奶绒AI 兽人主题AI虚拟剧情交互 内置多种功能
+- 千问AI顶级AI模型无限制生图文生视频
+- BotHub 1.0.104聚合顶级AI大模型
+- 咔皮记账AI一键自动记账免费无广告
+- Grok 马斯克的Ai无限制生成 无违禁聊天
+- 千问输入法大厂出品AI输入法吊打豆包输入法
+- AI创作聊天大师创作你的所有生活解锁永久会员
+- 智能工具汇集实用工具专业版高效随心用
+- DSDeepSeek全能增强多模型切换批量管理
+- Ollama本地大模型管理器 v1.1.19 AI模型秒级响应与显存释放神器
+- 即梦AI V2.3.1一键AI视频创作自媒体必备
+- 千问AI最新 无限AI做图超强Ai模型
+- 【安卓】OpenChat聚合GPT5等顶级AI无敏感问答
+- 讯飞星火AI大模型+全能助手+多模态办公学习神器
+- 豆包魔改版下载图片无水印顶级AI
+- 阶跃谷歌版无限制Ai写小说 文本生成图片视频
+- DeepSeek 满血无限制全球最顶级AI助手
+- Chat simth8.26.706Ai智能助手
+- BotHub第三方聚合ai聚合全国ai大模型
+- 紫东太初4.2.2无限生图｜无限问答｜最好用AI
+- ChatGPT全球顶尖AI大模型！
+- AI Chat最强的ai整合软件内置多种模型
+- AIFriend虚拟恋人聊天解锁无限爱心畅聊
+- Dola 豆包国际版无限文生图全球顶级AI
+- RikkaHub 2.4.3聚合全球顶尖AI大模型
+- MoniMoni部署本地虚拟恋人/剧情?无限制
+- 废话生成器1.1乱七八糟文章生成器恶搞自媒体必备
+- Qwen Studio千问海外版 无限制聊天生成
+- Gemini谷歌旗下最强Ai 平替GPT模型
+- 【安卓】RikkaMinis聚合多家模型写小说～生成应用等
+- 好伴AI智能医学AI大模型可问隐私病例
+- 豆包全新升级版无限制国内顶尖AI无限文生图
+- Pada AI虚拟恋人共创恋人剧情沉浸式聊天～
+- ChatGPT全球顶尖AI大模型
+- 【安卓】Operit 豆包AI手机开源版自动化手机操作
+- TapClick12.6内置跳广告规则广告大杀器
+- BiliPai第三方b站客户端纯净无广告
+- PlayTranslate，玩游戏实时翻译不切屏
+- 天机六爻排盘四柱八字六爻奇门紫微排盘解锁永久会员
+- Dola 豆包国际版无限制聊天 生成视频图片
+- DeepAI文案库小白必备海量运营文案模板
+- PocketPal本地部署｜手机离线Ai内含模型
+- Talkie最新版无敏感限制虚拟女友专属女友
+- Grok最新版马斯克AI㊙无敏感生图?可生成视频
+- Tare Solo 0.0.2 真正的人工智能助手
+- 扣子职场AI助手全能办公效率神器
+- Grok马斯克AI问答无敏感限制?国外顶级AI
+- AI Chat聚合GPT5等顶尖AI模型无限文生图
+- 小小最新AI千变万化扮演任何角色?沉浸式互动
+- Kai9000神级开源工具取代各种收费套壳AI！
+- RikkaHub 2.2.6聚合顶尖AI大模型
+- MiraiMind小日子人气第一的虚拟女友无敏感
+- 【安卓】Character.AI无敏感词虚拟女友什么都能聊
+- 【安卓】Qwen Chat 国际版无限AI生图图生视频
+- KIMI3全国最牛AI｜无限畅聊｜智能绘画｜
+- 智谱清言多模态AI助手AI绘画AI编码
+- 心动次元 虚拟恋人内置免费通道 无限制聊天
+- AI小说生成器专业的小说工具
+- ChatGo AI纯净版内置GPT新模型 无限制聊天
+- SuperX 超级视频下载器无违禁?下载各类视频
+- EchoMe 超高颜值虚拟恋人无限制交互聊天
+- Talkie?无敏感限制虚拟女友聊天专属恋人
+- 【安卓】SynClub无敏感虚拟女友什么都可以聊
+- Grok马斯克AI?问答无敏感限制国外顶级AI
+- Chatboost内置gpt5支持一键生图
+- 千问天气 v1.2.33
+- AI软件大合集各种顶尖AIAI软件
+- Talkie国际版无敏感限制虚拟女友虚拟聊天
+- 【安卓】Dolphin AI无敏感问答?完全免费无限对话
+- 【安卓】Eta系统级AI智能体真正的豆包手机平替
+- DuMate 免费版无限写小说 文本生成图片/视频
+- 【安卓】ChatGPT全球顶尖AI大模型
+- SynClub 免费虚拟恋人无限制?无违禁聊天
+- Kelivo 开源免费自由部署Ai 内置12大模型
+- AI Chat聚合GPT5等顶尖AI?无限制问答
+- KimiAI绘画深度研究超强学习办公助手
+- 千问最新版超强AI生图顶级AI模型
+- JoyAI?你的专属乖乖AI女友情感陪伴
+- DeepSeek 满血AI助手全球最顶级AI助手
+- Dola AI
+- MoniMoni/
+- GrokAIAI
+- 小万最新版手机版小龙虾支持技能本地模型
+- 豆包全新升级版国内顶尖AI技术打造全能型AI助手
+- 迅雷网盘夸克网盘谷歌浏览器无限制上网?数据恢复
+- 应用多开国际应用市场HDx4K视频GPTAI
+- 支付宝最新版+芝麻糊SSVIPWIFi万能钥匙会员版
+- 汽水音乐猫箱AIUU远程控制DJ音乐库
+- 最强ChatGPTGoogle浏览器Berry浏览器
+- 5款热门Ai豆包二改版 Grok ChatGoAI等
+- 野草助手❣Edge浏览器❣即梦❣Hobby虚拟女友
+- 几款无敏感生图GrokVidmaChannel
+- 虚拟电脑迅雷网盘快影国际版Top无限制浏览器
+- 五款热门实用AI千问AI 即梦AI Tabbit等
+- 磁力下载器?最强ChatGPT?Vivald浏览器
+- 六款虚拟AI恋人自由剧情～虚拟恋人沉浸式～互动聊天
+- 五款办公软件WPS解锁会员版 扫描全能王 全能扫描工
+- 五款Ai豆包魔改版 豆包国际版 chatgpt等
+- AI抖音 会思考的抖音懂你所想推你想看
+- 随变抖音旗下年轻人潮玩社区沉浸式刷短视频
+- 随变高质量AI短视频创作年轻人玩抖音社区
+- AI抖音测试版会思考的抖音懂你所想推你想看
+- Rain白噪音高级版雨声混音助眠减压专注神器
+- AI抖音会思考的抖音选择你想看的
+- 海绵音乐海绵音乐AI写歌谱曲?听歌创作全拿捏
+- 开拍解锁会员AI抠像数字人口播短视频剪辑工具
+- 自动连点器大侠解锁会员免ROOT录制手势自动
+- 多开助手解锁会员全软件多账号同时在线神器
+- 照片恢复管家解锁会员手机相片高清一键深度找回
+- 文字转语音解锁会员AI智能配音多场景语音合成
+- AiPPT设计鹅解锁会员AI一键生成办公汇报
+- 一键生成视频解锁会员短视频去水印解析下载
+- AI配音神器解锁会员文字转语音多音色配音工具
+- 手机照片恢复大师解锁会员相片修复上色画质增强
+- 广告叫卖录音解锁会员地摊商铺文字转语音配音
+- 朗读女配音解锁会员文字转语音地摊广告配音工具
+- 去水印相机解锁会员图片视频一键去除水印工具
+- AI万能扫描王解锁会员OCR文档动植物菜品
+- 扫描大师解锁会员OCR文档扫描识图工具
+- 西窗烛解锁会员百万诗词国学练字AI对话工具
+- AI翻译通解锁会员文本文档同声翻译
+- Doka相机解锁会员AI摄影构图质感滤镜
+- AI公文写作解锁会员职场各类公文一键生成
+- 哔哩轻小说下载插件整本下载一键打包下载
+- 美绘插件无限AI智能绘画永久免费无限文生图
+- 独孤发型设计解锁会员AI虚拟换发色试发型工具
+- 密小助解锁会员恋爱聊天话术辅助工具
+- 视频一键去水印绿化版短视频去水印解析下载
+- Bodii解锁会员AI智能减脂健康管理
+- 豆包解析插件支持安卓苹果视频图集无水印下载
+- B612咔叽解锁会员美颜自拍特效相机
+- AI万能扫描王解锁会员AI文字文档万物识别
+- AI拍照翻译官解锁会员多语种拍照文档同声翻译
+- 广告配音大全解锁会员六百音色AI广告叫卖配音
+- AI创作鱼解锁会员短视频去水印解析下载
+- 文字转语音工具解锁会员五十家平台去水印解析
+- 配音鸭解锁会员五十家平台视频去水印解析下载
+- 志愿规划师解锁会员AI高考志愿填报院校查询
+- 文字转语音解锁会员内置短视频去水印解析下载
+- 超级视频编辑器解锁会员多功能短视频剪辑制作
+- 会计快题库解锁会员财会职称考试刷题学习
+- 幻休睡眠解锁会员白噪音冥想助眠监测工具
+- 瞬净豆包版豆包去水印解析支持视频/图集解析
+- AI同步学解锁会员小初全科同步智能辅导
+- 初中语数英同步学解锁会员全科教材同步名师辅导
+- 微商管家专业版解锁会员私域营销群发工具
+- 皆成情侣守护解锁会员异地情侣同屏陪伴记录工具
+- 快影解锁会员AI视频剪辑图文创作工具
+- 抖虫一键提取视频/配音/文案工具
+- 一木百宝箱解锁会员小说阅读短视频解析
+- 医学快题库解锁会员医护执业考试刷题备考
+- B612咔叽解锁会员美颜滤镜自拍相机
+- 剪影解锁会员无限AI文生图剪辑全能神器
+- Doka相机解锁会员AI胶片智能拍照相机
+- 加班记工时工时打卡自动算薪收支记账攒钱工具
+- DSeek 满血版Deepseek海外版 无限制聊天
+- Dr.Fone手机数据恢复神器恢复误删文件
+- 清鸽LocalAI一键部署本地Ai模型
+- 影视PS美颜抠图功能证件照一键生成
+- 阶跃谷歌版Ai智能创作写小说 文本无限制生成图像
+- 多邻国解锁版免费学习几十种热门外语
+- MiniMax海螺AI智能体全新智能AI
+- RikkaHub 2.4.0聚合全球顶尖AI大模型
+- 智谱清言多模态AI助手覆盖办公/学习/创作/生活
+- 造梦次元AI虚拟角色互动+剧情创作+内容生成
+- Paji相机原生质感美颜保留肤质自然直出无假面
+- Hobby虚拟ai女友超高自由度自定义剧情
+- 千问最新版无限AI生图顶级AI模型
+- Kai9000部署本地Ai模型 免费无广告
+- Dr.Fone 解锁版恢复误删的照片/视频等数据
+- ChatGo AI内置GPT模 无限制生成图片/聊天
+- InCollage拼图&照片编辑内置丰富模板
+- 猫箱最新版虚拟AI女友沉浸式陪伴 聊天
+- Talkie国际版虚拟AI女友无禁词聊天
+- 即梦AI一键AI视频创作自媒体必备
+- Kai9000 纯净免费部署本地Ai模型 无限制聊天
+- 星野最新版AI虚拟女友多模型AI智能体
+- 咔皮记账AI自动记账永久免费
+- 小米浏览器国际版接入Ai功能?无限制访问网址
+- KwaiCut 快影 专业级视频剪辑工具
+- SnapEditAI智能消除画质提升
+- CodeTome零基础学编程小白轻松入门
+- 夸克网盘不限速下载 内含教程
+- PS 国际版解锁高级版最强大的修图工具
+- Dola豆包国际版?问答无限制最强AI
+- MiniMax 全新智能Ai多模态全能
+- FacePicAI一键换衣服AI一键换脸
+- Deepseek谷歌版满血版 无限制聊天
+- 多邻国解锁无限红心最强外语学习软件
+- ChatOn v1.61.502 会员版 – 支持GPT-4的AI聊天软件
+- ChatGo（支持ChatGPT5.5）
+- Rochat什么都可以聊的ai
+
+---
+
+## 下载工具（164 款）
+
+- Hermit高级版沙盒隔离轻量隐私浏览器工具
+- SealPlus万能视频下载支持上千视频平台
+- AB DM 超级免费下载器磁力种子/视频不限速下载
+- Zip高级版多格式压缩解压加密文件管理工具
+- Weather天气雷达高级版精准气象雷达预警天气
+- Earth3D高级版3D立体地球仪地理查看学习
+- 居家哑铃健身解锁高级版科学健身在家练出好身材
+- Solid高级版双面板云盘集成多功能文件管理器
+- Recycle高级版手机误删照片文件数据恢复工具
+- Swapy换脸高级版AI无限次换脸支持自定义换脸
+- 徽标制作者logo设计神器支持AI自动设计logo
+- InSave下载器ins 视频图文素材下载器
+- Media Saver全能视频下载器支持多个平台
+- EviaCycle高级版AI经期排卵预测健康工具
+- Opere广告拦截，隐私防护无限制浏览
+- WPS Office 会员版已解锁会员功能最强办公
+- 三维山水全景地图高清卫星3D地形探索解锁会员
+- 主题包 解锁会员版所有主题 壁纸小组件免费用
+- ThemeApp 解锁会员主题/壁纸/小组件等免费用
+- 桌面小组件高清壁纸创意小组件应有尽有
+- 家务安排4.0.1家庭清洁分工计划
+- SView看图纸专业CAD模型看图工具登录即会员
+- 火狐浏览器153.0.3暴力玩法｜支持各种扩展｜贼牛
+- 云析网盘解析不限速下载免会员高速下载
+- 名片全能大师个性名片直接自定义
+- 星布苍穹最新专业解锁版让你在家感受星空的魅力
+- 笔记助手可以随时随地记录一下各种东西非常的好用
+- 免费练瑜伽制定各种计划非常的高端回去试试吧
+- 【考核】DxO ViewPoint v5.15.0.31
+- Device Info v3.4.2.7专业全面的手机验机与硬件检测神器
+- Inno Setup v7.0.2 简体中文汉化版 极简
+- 大内静探 v1.4.2 中文绿色版 智能识别软件静默安装
+- FixPlusAI一键打造性感身材美颜美体
+- VMOS高级版内置ROM 安卓超级虚拟机
+- 周易宝国学命理测算工具解锁终身会员
+- 汽水自动领时长奖励工具
+- Video下载器高级版 一键解析几十种平台视频下载
+- 【安卓】XMind 25.04思维导图制作神器已解锁订阅
+- 【安卓】齐昌地球至尊会员3D地球罗盘定位VR景点
+- 小X分身国际版无线应用双开解锁会员版
+- Google 最新版谷歌浏览器 无违禁访问任何网址
+- FluxDown 超级下载器免费无广告 不限速下载
+- 专清 C盘管家 diskbutler v0.7.7
+- 麦克风拦截工具一键管控收音权限防止监听
+- wifi分享多功能工具箱包含几十种小工具
+- 压缩视频快速压缩，智能调节去除广告
+- 3d高清导航位置可以看街景荒野必备
+- AI小红书发布助手AI自动创作
+- 【安卓】壁纸萌多源自动换壁纸内置Wallhaven源
+- 时光老照片修复一键修复老照片解锁永久会员
+- 即梦AI一键AI视频创作自媒体创作必备
+- 抖音港澳版39.6.1官方精简版可与原版共存
+- 节拍器可以定时可以调速乐器爱好者必备
+- AFWall+捐赠版手机防火墙一键防护应用
+- 自定义准星解锁永久会员早日上无敌战神
+- 思维导图办公者必备去除广告
+- KernelSU手机内核神器模块root工具
+- 防晕车软件已解锁永久会员晕车必备
+- 【安卓】芝麻粒-AG支付宝蚂蚁森林与庄园小鸡喂养XP模块
+- 老人桌面让老年人也能使用智能手机
+- 免费去水印擦除大师解锁永久会员可擦除任何东西
+- Google Earth谷歌地球在家看全球数百个国家
+- OH浏览器 国外超级浏览器无限制访问网址
+- Sound分贝检测高级版测量环境噪音灵敏度非常高。
+- StartAllBack v3.9.24 绿色特别版 Win11 恢复 Win7 经典开始菜
+- Video视频照片高级版视频高清帧提取截帧工具
+- 【考核】draw.io v30.4.1 完全免费的良心流程图绘
+- Stay浏览器无限制访问任何网站解锁会员版
+- 【安卓】高德地图车机版星月轨全透明科技玻璃红绿灯读秒
+- DNA桌面启动器高级版全息3D特效极简/经典/壁纸
+- 拉屎运动肩颈、腰背、腿部全套舒缓动作
+- 电子鞭炮非常的好玩新年快乐！
+- 七彩虹壁纸内置许多的8k高清壁纸
+- FluxDown磁力种子下载器热门资源高速下载
+- 彩虹4k壁纸内置超多壁纸永久免费！
+- 星野2.57.101你的专属AI女友无限制
+- 克拉克做任务已解锁永久会员自动做所有任务
+- 图像转换器可以对各种图片进行转换解锁会员
+- MicoDIY自己的壁纸和主题已解锁永久会员
+- 拦截猫专业骚扰电话拦截专家多种拦截防护
+- 短视频去水印无痕解锁永久会员去除添加各种水印
+- 打印机工具箱自动搜索识别下载驱动
+- 色情过滤器油猴脚本全域网页不良内容拦截自律工具
+- 古诗300首古诗文爱好者必备一键鉴赏古诗
+- 道书12种内置了丰富的哲学资源快去看看吧
+- ZK助手智能倒计时一键京东抢茅台
+- 扫个网络可以一键探索附近的网络状态 直接连接
+- ToAPP一键打包你的APP一键生成APP
+- 灭蚊神器直接把该死的蚊子弄掉非常好用
+- 降雨雷达实时查看天气预报
+- 卡皮记账内置AI记账非常好用的工具
+- 血糖记事本可以记录自己的血糖状况一键检测
+- 【安卓】Webcams Online全球实时网络摄像头
+- 百度网盘 内置模块版去除开屏广告预览下载可不限速
+- 【安卓】Downloader高级版全能视频下载器
+- 创意工坊下载器免费不限速下载steam游戏
+- Hyperdown百度/夸克/UC网盘不限速下载
+- Flud+种子磁力下载器磁力BT不限速下载
+- 百度网盘 内置净化模块附不限速方法4K帧彩
+- BiliDownloader v1.3.20 -
+- X下载器 高级去广告版无限制下载视频
+- 【安卓】视频下载器 高级版全网视频嗅探极速下载
+- 云析网盘链接解析高速下载免会员高速下载
+- M3U8视频下载M3U8视频、直播流一键搞定！无广告
+- X 下载器支持所有国内外软件网站嗅探下载方便快捷
+- 卓易市场官方最新版反应超快纯净无广商店软件
+- 视频下载鸟无限制下载器支持主流平台解锁会员
+- 星启下载助手全能视频下载器 无限制下载
+- 夸克特别版去除夸克部分功能广告
+- BiglyBT下载器各种磁力下载开源免费
+- 小鹦看看Pro解锁会员英美剧学英语
+- 夸克网盘tv版4K尊享观影可倍速播放
+- SparkTorrent磁力种子下载器
+- 云析支持各大网盘不限速下载网速有多快下载有多快
+- 国际视频下载器一键提取高清无水印视频
+- Torrent Downloader磁力种子下载
+- 流光下载种子磁力不限速下载速度直接起飞
+- 迅雷最新版绿化精简版高速下载资源磁力下载
+- 百度网盘国际版无开屏广告更精简流畅附不限速方法
+- FluxDown
+- TorrDroid
+- 云析
+- VIP
+- 云析
+- 星启下载助手全能下载器?无限制下载视频
+- Flud安卓版2.0.8手机bt种子下载器
+- SnapTube 解锁版油管下载器 国外视频平台下载
+- UniTube全能下载器｜支持国内外1万+平台，支持批量
+- 歌词猎手一键下载全网歌词非常的强大
+- 创意工坊下载器Steam游戏下载器
+- 视频下载器 解锁高级版无限制下载国内外视频
+- Uptodown应用商店高级版国外软件随便下，支持匿名
+- SuperX 开源视频下载器全能下载国内外视频
+- SuperX音视频下载器一键下载国际视频 音频
+- Flud 去除广告磁力不限速下载器
+- 小米应用商店国际版免登陆下载国外软件等
+- 微商帮手解锁会员私域拓客营销神器
+- 123云盘纯净去广告 登录2T空间
+- Download Torrent磁力种子不限速下载器
+- 123云盘下载不限速的网盘去广告纯净版
+- FluxDown 超级下载器磁力视频不限速下载
+- Mask浏览器基于谷歌内核打造极速上网 无限制
+- J2ME Loader游戏模拟器3D游戏街机游戏
+- SparkTorrent种子磁力不限速下载 永久免费
+- InSaveins下载器一键下载高清视频
+- 悟空下载 v1.2.5 会员版
+- Video Downloader v2.3.5 高级版 – 视频下载和播放软件
+- P2P下载器 v1.4.5 会员版 – 不限速的P2P磁力下载工具
+- 资源大师 v1.7.5/v1.4.2Plus 纯净会员版 – 多功能资源搜索工具软件
+- 速度下载 v1.2.1 会员版 – 磁力链接 种子 网盘资源等多功能下载工具
+- 下载工具箱 v3.9.4 去广告会员版 – 磁力、迅雷、音乐、短视频等下载工具
+- SnapTube v7.38.0.73850110 会员版 – YouTube 视频下载器
+- 4K Video Downloader+ Plus v26.1.1.0355 专业版 – 哔哩哔哩等平台视频下载工具
+- 百度网盘电脑端不限速下载教程，附教程所用工具
+- 4K Video Downloader v4.33.3.0163 解锁专业版 – 哔哩哔哩等视频平台视频下载器
+- Bilidown v1.2.7 高级版 – bilibili(B站)视频下载工具
+- ODE v1.1.1 官方版 – 内含百度网盘解析的多功能工具
+- qBittorrent v5.1.2.10 便携增强版 – BT磁力种子文件下载工具
+- 闪豆视频下载器 v4.0.0 去升级绿色版 – 多平台视频下载工具脚本
+- 迅雷12 v12.4.7.3850 去广告精简绿色版 – 知名BT资源高速下载工具
+- uTorrent PRO v3.6.0.47228 去广告绿色版 – 领先全球的修改版BT下载客户端
+- 比特彗星(BitComet) v2.20 解锁版 – 专业的老牌国产BT下载软件
+- Internet Download Manager IDM v6.42.62 中文注册版 – 多线程高速下载器
+- 开源FTP工具 FileZilla Pro v3.70.5 绿色版
+
+---
+
+## 射击竞技（141 款）
+
+- 十字准星辅助器15.3吃鸡枪战辅助器｜纯净版
+- 佩特里克：时间攻击（解锁全人物＋无限子弹）
+- 死灵奇袭（汉化+解锁大量货币）
+- 米利科拉：苏打之王（大量货币）
+- 末日之地幸存者
+- 几天后（内置MOD菜单）
+- 狂怒僵尸（大量货币道具）
+- 洛克人 X DiVE 离线版（steam移植）
+- 毁灭战士2（免付费解锁完整版）
+- 废墟物语（内置MOD菜单）
+- 孤独战机
+- 怪物杀手：传奇冒险（货币不减 免广）
+- 彩虹六号（steam移植）
+- 沉默之谜（无敌子弹不减）
+- 阿尔法特工（内置MOD菜单）
+- 阿尔法小队（内置MOD菜单）
+- 恶果之地（内置MOD菜单）
+- 忍者的信条（解锁大量货币）
+- 夺命侏罗纪（汉化＋免付费解锁完整版）
+- 战龟2（强制使用货币）
+- GZ穿越火线（内置MOD菜单）
+- 弹指英雄（免广告获取奖励）
+- 炮艇战：3D战舰 II
+- 现代竞技场（大量货币＋免广）
+- 合金之魂（解锁大量货币）
+- 死亡扳机2
+- 死亡空间（无限子弹+汉化）
+- 太空爆破（购买体力后可以获得大量货币）
+- 疯狂之墙（汉化＋免付费解锁完整版）
+- 战火精英：二战射手
+- 尸潮：巨兽挑战（解锁大量货币）
+- 邪恶生化僵尸2
+- 快乐风男
+- 猎人刺客（解锁大量资源）
+- 约翰曼博JohnMambo
+- 战地1939（内置mod菜单）
+- 代号47：狙击
+- 弹枪雄机|弹枪雄鸡
+- 盗贼弓箭手生存（解锁大量货币）
+- 真枪实弹
+- 僵尸射手
+- 亡灵地平线生存射击（内置MOD菜单）
+- 毁灭枪手（内置金手指）
+- 致命射手：陆军坦克|豺狼射手：陆军坦克（免广告获取奖励）
+- 质量效应：渗透者（大量金币大量钻石）
+- 子弹大师（免广告获取奖励）
+- 阿克里危机（steam移植）
+- 战争人太空行动|战争太空行动
+- 重返文明（免广告获取奖励）
+- 终极战斗模拟器
+- 终极银河之战（内置MOD菜单）
+- 行动召唤（大量货币第二次进入获得）
+- 遗迹猎人崛起
+- 爷爷大战丧尸（解锁无限钻石）
+- 袖珍幸存者（大量技能点）
+- 像素战斗僵尸（过教程获取大量货币免广告）
+- 向僵尸开炮（9月27最新版+mod菜单）
+- 小小部队2（金币不减反增）
+- 幸存者闲置奔跑（人物无敌）
+- 幸存者竞技场（内置MOD菜单）
+- 突击队行动（解锁大量金币）
+- 我的枪战世界（解锁大量资源）
+- 武器拆解（汉化+免广告）
+- 五分钟救世界（直接获得奖励）
+- 监控人冲突（功能菜单）
+- 特种部队小组3（使用金币不减反增）
+- 外星幸存者（大量货币＋无限子弹）
+- 僵尸小镇2（解锁大量资源）
+- 火柴人大师2（大量资源）
+- 黎明前的20分钟|黎明前20分钟（进入游戏获取大量金币）
+- 背包合并僵尸战争（免广告获取奖励）
+- 判官JYDGE（steam移植）
+- 机械之地幸存者（大量货币＋免广告）
+- 视界线边境（无限货币）
+- 死亡岛屿生存（作弊菜单）
+- 动力机械（解锁无限资源）
+- 死亡威胁僵尸战争（货币越用越多）
+- 导弹apg（解锁无限资源）
+- 史莱姆必须死（功能菜单）
+- 空战2（无限金币）
+- 地铁：归来2033（PC+手机+SWITCH手机版）
+- 美国射手（汉化＋内置mod）
+- 末日英雄（mod菜单）
+- 死亡点
+- 单枪匹马2（无限资源）
+- 荣耀之战（解锁角色武器免广告）
+- 星际前线：银河战争（免广告获取奖励）
+- 打爆丧尸城（内置菜单）
+- 僵尸攻击：行尸走肉（解锁大量货币）
+- 僵尸火力3D（大量货币）
+- 暴徒猎手（steam移植）
+- 火柴人无限（解锁倍攻+秒换弹）
+- 生死9mm高清重制版高刷版
+- 战地世界（汉化解锁全武器）
+- 一路狂飙（内置作弊菜单）
+- 逃离鸭科夫（内置作弊菜单）
+- 狂热的龙（免广告_内置GM工具）
+- 共鸣之心（免付费解锁完整版）
+- 决战狙击战场（解锁秒杀_无敌_无限子弹）
+- 出战！追击！（内置作弊菜单）
+- 烈火射手（内置作弊菜单）
+- 见习猎魔团（内置作弊菜单）
+- 我的勇者（内置作弊菜单）
+- 残酷世界的拯救之道（内置作弊菜单）
+- 特种部队眼镜蛇之怒|特种部队眼镜蛇之战（SWITCH手机版）
+- 邪恶雪人|邪恶的雪人（解锁无限金币）
+- 飞空艇出发（免广告获取奖励）
+- 飞吧龙骑士（内置作弊菜单）
+- 擎天战机（免广告直接获得奖励）
+- 炸裂树莓酱|炸裂树莓浆（免费购买钻石）
+- 战地1914
+- 宏伟战争Grand War（MOD菜单）
+- 弹弹奇兵（内置作弊菜单）
+- 最后的英雄（无敌）
+- 帝国雄鹰飞行中队扩展版全DLC（免付费解锁完整版+steam移植）
+- 欧洲前沿
+- 银河袭击-独立行动（内置MOD菜单）
+- 消失的世界（内置MOD菜单）
+- 子弹无限射击（免广告直接获得奖励）
+- 宝藏传说
+- 红色狩猎（内置MOD菜单）
+- 战斗之夜：赛博朋克（完整版+mod steam移植纯净无广）
+- 火力掩护（内置MOD菜单）
+- 奇幻射击
+- Zooba大逃杀
+- 进化2：争夺乌托邦（内置作弊菜单）
+- 太空射击（内置作弊菜单）
+- 毁灭战士（始终批判，高暴击伤害，愚蠢的敌人）
+- 世界末日：僵尸生存（内置作弊菜单）
+- 汤姆猫荒野派对（内置作弊菜单）
+- 浴火银河2（汉化版+完整版）Steam移植  屡获殊荣的太空射击游戏佳作推荐游玩！
+- 王牌突击队（内置菜单+高跳+锁头+爬行加速等）
+- 像素战斗：僵尸突袭（内置作弊菜单）
+- 暴走球球（内置秒杀菜单）
+- 鼠鼠我来了（【点击兑换码打开GM工具】）
+- 异塔领域（内置MOD菜单）
+- 家园卫士（内置作弊菜单）
+- 弓箭传说（菜单版）又一经典游戏回归！肉鸽元素竖版动作RPG手感爽爆，轻松解压，速玩！
+- 面具枪（内置作弊菜单）
+- 修勾逃生巨人危机（免广告【每次开局有GM工具】）
+- 细胞保卫战（内置作弊菜单）
+
+---
+
+## 音乐播放（137 款）
+
+- SDownloader?无敏感限制视频下载㊙至尊版
+- ccleaner26.12.2安卓清理优化工具必备
+- 【安卓】下载工具箱 会员版全能解析下载支持56协议下载
+- playzi全能播放器支持多种格式
+- Clock时钟保险柜高级版伪装成时钟保密，含私人浏览器
+- 屏幕翻译3.1.2图片翻译拍照翻译
+- 安卓铃声专家海量铃声高清壁纸
+- 回森（会员版）免费K歌24h海量曲库顶级音效
+- InShot高级版短视频剪辑特效编辑工具
+- 微博模块版一键去广告内置微博猪手
+- 奥托音乐本地音乐播放器
+- 汽水音乐 最新版登录领VIP 畅听音乐 MV
+- PhoneWalls海量高清壁纸美化桌面解锁版
+- 悦动浏览器7.2.24最纯洁体积最小浏览器贼啦牛
+- Musify 畅听全球音乐免费无广告
+- Audio Editor专业全能音频编辑解锁会员
+- Video下载器高级版链接自动嗅探批量高速下载
+- EchoMusic v2.2.9 颜值极高的酷狗音乐第三方客户端
+- 堪舆山水卫星地图专业风水地理卫星勘测解锁会员
+- playzi视频播放器什么都能播
+- 一秒消除笔图片视频智能处理神器解锁会员
+- 音阅全网音乐畅听无损音质 免费下载
+- 度加剪辑+AI数字人自媒体剪辑变现免费创作
+- Wavelet\nv26.04耳机均衡器
+- 平行空间无限多开应用解锁会员
+- QuickPeek小巧桌面组件信息一屏尽览
+- LANShare v1.1.8 | 2MB极速文件互传神
+- ChatGTP1.2026Ai助手写作生图
+- OnePlayer全能视频音乐播放器支持IPTV
+- 全能王投屏神器安卓投屏神器一键投屏
+- zg电台畅听全球音乐
+- 安卓版洛雪音乐助手 v1.9.0 Beta1
+- Mivi AI换脸视频生成AI舞蹈解锁会员版
+- 运动助手6.8.4运动计步器跑步健身助手
+- Open Chat1.3.4Ai聊天工作助理
+- 玩声手游变声器轻松玩转百变声线一键变声
+- 度加剪辑AI数字人免费创作神器自媒体变现
+- 音理音理聚合全网音乐 免费畅听可下载
+- 喵窝记账高级版解锁会员纯净记账神器
+- 高清视频播放器什么都能播
+- 星光音乐畅听全网无损音乐超级推荐！
+- 小白羊云盘 v5.0.14
+- KMPlayer Plus全能解码4K视频播放器
+- MPC-HC v2.8.0 - 开源轻量级视频播放器
+- VidFetch一键解析多平台视频解锁会员版
+- BitTorrent 解锁会员磁力种子极速下载
+- 【安卓】视频下载器 1.3.22全网视频嗅探下载解锁高级
+- Solid Explorer文件管理器
+- Daff天文月相工具实时洞悉月相变化专业级
+- 私看全免影片播放器隐私播放个人影片
+- HDx内置无限制下载器嗅探下载国内外视频
+- VidTube 高级版无限制?无违禁下载视频
+- XEQ专业调音工具
+- 小喵Player?全能本地 影音播放器无损解码播放
+- Incognito流氓软件等检测神器手机安全隐私防
+- 经典本地播放器 MPC-HC v2.7.4.0
+- 【安卓】SnapTube油管视频下载器国外平台视频下载
+- 小米音乐国际版所有手机都可用 免费纯净无广告
+- Exo播放器8K全能 影音播放器?IPTV播放
+- WiFi网络开源工具检测干扰扫描周边畅享极速网络
+- 桌面床头闹钟高级纯净版打工仔学生党必备
+- 椒盐音乐免费无广本地音乐播放器支持超多格式音乐
+- 【安卓】WiFi万能钥匙一键连接免费WiFi解锁会员
+- Clickmate免Root自动点击器解锁高级版
+- 拼好歌 全新高颜值音乐聚合全网音乐 免费畅听
+- AI生成歌曲最近超火快去写自己的歌吧
+- 专为电视而生的音乐app，NeteaseTV，畅听全网。
+- XEQ均衡器低音增强器v36.2.0解锁高级版
+- Folder Player下载 v6.01 官网中文版
+- 简音音乐聚合畅听全网音乐 纯净免费无广告
+- 小苹果音乐TV版畅听全网音乐 手机电视都可用
+- 幸运解锁器解锁应用内购你也可以是内购大佬
+- Familla 全新音乐软件畅听全网音乐可下载
+- SimpMusic免费音乐软件畅听国内外音乐
+- 音乐播放器246.02音乐播放器支持各种格式
+- Audile无广告专业音乐识曲工具听歌识曲
+- Metrolist免费畅听全球音乐 无限次下载音乐
+- 音乐播放器一键高音质播放解锁会员版
+- Nomad音乐高级版｜杜比全景声+专业均衡器+铃声制作
+- 神秘音乐 全新高颜值聚合畅听下载全网音乐
+- MyRadio广播收音机海量频道
+- 汽水u音乐自动领时长奖励工具
+- 五款音乐软件汽水音乐大屏版 音理音理
+- 五款下载器迅雷解锁会员版 百度网盘内部版 磁力下载器
+- 椒盐音乐免费无广音乐播放器格式全兼容音乐播放器
+- 酷听音乐播放器全盘扫描音频多格式本地音乐播放
+- Halcyon畅听全网音乐支持无损音乐下载
+- Next Player开源无广告本地视频播放器
+- Nature大自然之声高级版治愈自然白噪音助眠
+- Auxio音乐超强音乐软件免费无广
+- 冥想音乐高级版减压专注助眠冥想白噪音
+- White白噪音高级版助眠冥想专注环境音工具
+- Wind白噪音高级版风声助眠解压专注环境音工具
+- Vinylage播放器高级版复古黑胶DJ刮碟音效
+- Audify音乐播放器高级版多格式均衡器本地音频
+- Shazam音乐雷达高级版秒速听音识歌音乐识别
+- KA Music某苟第三方音乐自动领会员时长
+- 手游画质助手解锁会员帧率锁定画质增强游戏优化
+- 音视频语音识别，可区分不同说话人，不限音视频时长
+- iZip解压软件解锁会员多格式压缩解压文件
+- 音魔变声器解锁会员游戏社交实时多音效语音变声
+- 开心手机数据大师解锁会员数据一键恢复工具
+- 专业变声软件解锁会员海量趣味音效自定义变声
+- 悬浮时钟解锁会员毫秒级抢购计时锁屏桌面工具
+- 木鱼念经助手解锁会员电子木鱼静心解压
+- 不玩手机解锁无限积分自律锁机戒手机沉迷工具
+- 兔小贝儿歌解锁会员幼儿早教动画故事大全
+- 极简节拍器解锁会员专业乐器练拍人声喊拍工具
+- 免费实时变声器绿化版实时多音色语音变声
+- 雷电扩音器解锁会员音量增强低音立体声优化工具
+- Now木鱼解锁会员电子木鱼盘串烧香解压白噪音
+- 欢乐变声器解锁会员游戏社交海量趣味语音变声
+- UU电竞变声器解锁会员电竞游戏聊天百变音色
+- 画质修改器解锁会员游戏性能增强优化
+- 好奇时间解锁会员儿童早教动画绘本启蒙
+- 变声器Lab解锁会员多音效录音趣味变声工具
+- 风云格式大师解锁会员一站式文件格式转换工具
+- Musify畅听全球音乐可下载 免费音乐软件
+- 自由听全免歌曲播放器打造私人音乐库超高颜值
+- Shazam音乐雷达畅听全球音乐
+- 音理音理!聚合畅听全网音乐 比汽水音乐更好用
+- 快音每日更新热歌免费听歌神器
+- 水獭音乐10.0.1畅听全网音乐
+- 棱镜音乐
+- 知音
+- 资源全能王 v1.3.9 破解版 – 一站式资源搜索神器软件
+- 咪咕爱唱 v9.9.012 破解版 – 家庭电视机盒K歌应用
+- 魔音Morin v3.6.8 解锁激活版
+- 波点音乐 v4.4.5 去广告修改版 – 免费多功能音乐播放器
+- 汽水音乐 v11.5.0 绿色版 – 字节跳动旗下音乐软件
+- 音乐时刻 v1.1.6 官方版 – 免费无广告音乐播放器
+- 融乐Music v1.1.3 去广告版
+- 柠乐 v1.3.87 高级版 – 完全免费无广告的音乐软件
+- 听下音乐 v2.1.5 Plus原版 –  免费听/下载歌曲软件
+- 网易云音乐 v9.0.40 解锁本地黑椒会员版/精简优化版 – 国内著名音乐软件（内置杜比大喇叭）
+- 酷我音乐 v12.1.4.0 会员版 – 国内大厂老牌音乐播放软件
+- 汽水音乐大屏版
+
+---
+
+## 生活出行（112 款）
+
+- 【安卓】高德地图车机版湖山地标建筑美景红绿灯读秒
+- 百度地图车机版v21.17.2
+- WiFi万能钥匙极速版纯净无广告免费连接无线网
+- 八字紫微排盘1.2.1命理排盘分析｜支持全国各大流派
+- 高德地图谷歌版纯净无广告 界面更简洁
+- IPTV Player看看全球直播
+- 精图地球最新版本5.9.5，会员版本，不是普通版本
+- Numerology专业数字命理读懂自我运势
+- 糖豆广场舞，健身操，瑜伽跳舞爱好者必备
+- 声能手电筒用声音控制手电筒开关非常好玩
+- 太阳测量师看日出必备还有天体运行轨迹
+- 女性健身燃脂塑形、瘦腿瘦腰、蜜桃臀解锁会员版
+- 【安卓】AI Llama聚合全球AI顶尖模型国内网可用
+- 老人桌面专为老年人打造让老年人也能享受智能生活
+- 微思应用商店3.7.0-CE手机手表通用商店｜适配性
+- 万能工具遥控器轻松遥控智能家电
+- 女生手电筒2.0.8非主流手电筒
+- 八字紫微排盘1.2.2命理排盘分析｜支持全国各大流派
+- 随手一看1.2每日更新最新全球新闻｜实时更新天气预报
+- 紫微斗数八字排盘一键排盘｜解锁高级版｜全国流派通用
+- 博研命理1.1八字命理排盘搭配算命神器精准度
+- 计步器5.61生命在于运动
+- 天文通天文爱好者必备在家观望整个太阳系
+- 地图魅族提取版百度地图｜纯净无广｜适配性强
+- 手机号找人定位速查手机号定位位置找人
+- 手机定位找人精准定位+轨迹查询解锁会员
+- Sygic全球离线 GPS导航地图高级版
+- 动动计步器pacer vp13.7.4
+- 周易宝命理测算工具解锁终身会员
+- WiFi万能钥匙极速版一键连接免费WiFi去除广告版
+- wearfitpro最新版智能手表会员版｜功能畅用
+- 齐昌地球最厉害的全球实景三维地图高级会员解锁版
+- 太乙神数古法三式高端命理排盘解锁会员
+- 我的桌面iScreen安卓主题组件壁纸解锁会员
+- 魔核V1.2.12免费不限时长云游戏极速排队
+- 轻用万能遥控器红外智控神器手机一键超便捷
+- ［分享］雨后天气广告精准天气预报！的出行必备管家
+- 喝水好习惯智能饮水提醒超实用
+- 谷歌地图全球3 D实景高清看国外风土人情
+- GPS定位器 纯净版集成精准定位 磁场测试等功能
+- ［分享］精密指南针出门必备！带你走遍大街小巷不迷路
+- Today Weather2.5.0-1天气安卓版
+- AR罗盘指南针高精度VR实景罗盘不失算
+- 万能遥控支持小米品牌家电一个就够用
+- 周易八卦罗盘电子罗盘+万年历五运六气
+- 来来星座每日年运查询星座配对测算缘分
+- 恋爱轨迹实时情侣定位一键添加紧急联系人
+- 两步路户外助手解锁会员 专业户外旅游软件
+- 天纪排盘1.6.2命理天花板｜易经功能全部都有｜可用
+- 30天内减肥高级版⚠专业版燃脂健身减肥⚠
+- 蜜蜂记账AI智能记账智能高效
+- 健身怪兽居家专业课程定制运动追踪数据
+- 黄金大盘实时金价行情理财记账知识科普
+- 准雨天气多时段精准预报钓鱼出行生活指数查询
+- 天气预报精准查气象日程一体旅行路线打卡规划
+- 货币换算器\nv2.7.3\n实时汇率换算
+- 春芽地图轮椅版3.0.5无障碍地图纯净版｜盲人专用
+- 超准天气预报1.2.8精准预测未来四十日天气｜纯净版
+- BMI指数计算器6.8.5体脂计算器｜支持各国计算
+- 谷歌地球带你看全世界！
+- 正五行择日趋吉避凶五行八卦
+- 隔离食用手册食材勾选智能生成上百种菜谱
+- 手机罗盘大师多功能风水罗盘解锁终身会员
+- 彩云天气解锁会员分钟级精准天气预报
+- 电费水费助手1.0.1人工智能记账｜内置海量功能
+- 万能遥控器支持所有家电手机遥控器
+- 奇门遁甲排盘系统1.3命理推算神器永久会员
+- 谷歌地图3D实景 街景地图谷歌全新 导航地图
+- 星座运势预测星座和恋爱恋爱必备
+- 手相大师 解锁会员版专业分析手相工具
+- 奥维互动地图依旧是直接在地图上互动非常的好玩
+- 腿部训练打造笔直紧致双腿
+- 七政四余排盘多术数合一的命理排盘免费无广告
+- 【安卓】高德地图车机版秒进巡航/保时捷字体红绿灯读秒
+- 墨迹天气每日实况预报可视化地图解锁会员
+- 谷歌地图带你看全世界
+- 家常菜做法汇集上千道家常菜
+- 喝水提醒1.5.3定量喝水有益健康
+- 家常菜做法大全厨房小白秒变大厨免费无广告
+- 记账本个人收支明细智能统计免费无广
+- 十六番旅行懒人地图+攻略路线自由行规划神器
+- 30天内练出六块腹肌解锁永久会员在家练出六块腹肌
+- 风和天气预报\nv90.0.1天气
+- AI记账本AI识别智能记账解锁会员版
+- 早晚记账
+- 超准天气预报
+- Sygic GPS
+- Windy.app
+- Windy.app全球最强天气预报解锁高级版
+- 谷歌地图带你看尽全世界
+- 天气预报8.9.2实时监控天气预报精准预
+- GoFasting减肥减脂食谱解锁会员版
+- 百度地图 v10.21.0 极致精简 无广（轻量版）
+- 谷歌地图3d实景超清地图全球地图智能导航
+- 奥维互动地图足不出户看世界!
+- 中国气象全国最权威的天气｜实时监测｜街道级定位
+- 咔皮记账AI自动记账+无广告+永久免费理财神器
+- Dumbbell高级版居家哑铃3D动作健身增肌
+- 路路通火车出行查询与购票工具可无网查询
+- 撸铁记你也可以练出好身材
+- 完美姿势训练纠正不良体态
+- 百度CarLife+车机智能互连导航互联共享应用
+- 小白记账AI极速记账聊天天式记账科学消费
+- NFC门禁解锁会员手机复制门禁公交IC卡工具
+- 手机号定位解锁会员异地小情侣查岗必备
+- 渔获解锁会员潮汐查询钓友交流平台
+- 支付宝最新版?内置芝麻粒自动完成各种任务
+- 高德地图 v13.18.0.1325 谷歌版 – 全面手机地图导航软件
+- 车来了 v4.61.0 去广告版 – 公交车实时位置查询软件
+- 高德地图 v15.10.1.2063 精简纯净版(小米14Pro定制版) – 免费导航与定位软件
+- 彩云天气 v7.34.2 会员版 – 简洁精准短时天气预报软件
+- 墨迹天气 v9.0912.02 去广告会员版 – 最好用的天气预测软件之一
+
+---
+
+## 策略战棋（80 款）
+
+- 巫师石 WitchingStone  v1.30.8  中文手机也能玩pc游戏！
+- 猫咪骑士团（菜单版）画风不错，值得一玩卡通风格Q萌猫咪魔幻策略自走棋 RPG！
+- 植物大战僵尸3（菜单版）经典回味，3D画风，塔防融入卡牌养成，你怎么看！
+- 糖果灾难（完整版）Steam移植  好评率超94%的陷阱塔防游戏！！
+- 月光石岛  v2255（完整版+DLC）Steam移植
+- 小丑牌 联机版（完整版）Steam移植  没想到小丑牌也能联机玩？快来和你的好基友一起摸鱼放松！
+- 犹格索托斯的庭院  v1.08  豪华中文版手机也能玩pc游戏！
+- 保卫萝卜1-3合集（完整版+免内购版）带来无与伦比的回忆杀，在玩游戏的同时，仿佛找回了那些曾经失去的时光！
+- 勇者干仗（菜单版）自走棋+塔防+肉鸽！古今中外各个人物集结居然是为了能割草到爽？
+- 传说对决 先行服（菜单版）低调使用！一款组队竞技游戏！
+- 一步两步（菜单版）是一款超爽模拟经营融合肉鸽塔防小游戏！
+- 老鼠大冒险（菜单版）三角洲破产了不妨来试试这款文字版的摸金爽游吧！
+- 将军对决 单机版  v1.0.7（菜单版+完整版）Steam移植
+- 苏打地牢2  v1.2.21（完整版）Steam移植
+- 篮下王朝：战术大师  v2.5.5（完整版）Steam移植
+- 洛尔哈文诅咒之战（完整版）Steam移植
+- 暗杀神  v2.4.17（完整版）Steam移植
+- 影子王国：边疆战争（完整版）一款沉浸式塔防游戏！
+- 小丑牌：宝可梦 模组整合版（2.0升级版）Steam移植  300多张宝可梦牌，每个宝可梦牌都有独立效果还有第五人格启动，很有意思。
+- 小丑牌  珊瑚海版（完整版）Steam移植
+- 厄运与命运  v3.8.2.01（完整版）Steam移植
+- 作战部队星际围攻  v1.43（完整版）Steam移植
+- 9个国王 3Kings（完整版）Steam移植
+- 传说洞穴 Cavesof Lore  v1.7.9.0（完整版）Steam移植
+- 英雄连 v1.7.1RC5（完整版+DLC）Steam移植
+- 杀令营2  v2.03（完整版）Steam移植
+- 星咏之诗  v1.2.2（完整版）Steam移植
+- 王冠之心（switch手机版）
+- 纪念碑谷  v3.11.119（完整版+DLC）Steam移植
+- 翻天喜地凑大钱（完整版+菜单版）Steam移植  极品新颖上头肉鸽刷宝放置挂机卡牌构筑！
+- 八分钟帝国  v1.2.12（完整版）Steam移植
+- 剑刃与战靴不朽（完整版）Steam移植  回合制格斗系列游戏！
+- 卡牌爬行者2（完整版）Steam移植  单人游玩的地牢探索卡牌游戏！
+- 地牢深处  v0.1.5（完整版）Steam移植  地牢小队新作❗和魔物娘一起抵挡二次元美少女勇士的进攻
+- 最终兵器鼠鼠（完整版）Steam移植  超级好玩好解压而且很有意思的肉鸽射击游戏！
+- 孩之宝战舰  v1.4.0.59（完整版+DLC）Steam移植
+- 路径与危险 Paths&Danger v1.1.0（完整版）Steam移植
+- 不要喂食猴子  v1.0.77（完整版）Steam移植
+- 阿瑞斯病毒  v1.0.29（完整版+菜单版）Steam移植
+- 中国式家长（switch手机版）
+- 双点医院 加量版（switch手机版）
+- 怪物火车（switch手机版）
+- 足球经理2026（完整版）Steam移植
+- 兔子跳 RabbitsHop  v1.0.1（完整版）Steam移植
+- 王国英雄失落传说1  v1.2.9（完整版）Steam移植
+- 暴君的祝福  v1.0.906（完整版）Steam移植  一款内容十分丰富的中世纪RPG风格战棋回合制游戏!
+- 死亡终局轮回试炼代码Z（switch手机版）
+- 这就是警察  v1.1.3.8（完整版）Steam移植
+- 帕拉贝伦传奇围攻（完整版）Steam移植  2D横版中世纪策略模拟建造游戏！
+- 王国英雄失落传说2  v1.2.4（完整版）Steam移植
+- 斩妖行（完整版+菜单版）Steam移植
+- Pawker  v1.0.5（完整版）Steam移植
+- 王国80年代  v1.1.4（完整版）Steam移植
+- 王国保卫战：复仇 v1.16.04（完整版+DLC）Steam移植
+- 绝境北方  v2.00.21（完整版）Steam移植
+- 掘地求升  v1.9.12（完整版）Steam移植好玩爱玩不肝不氪，老少皆宜冬天最适合玩，可以节省热空调的钱，真心推荐！
+- 军团 v1.0.9（完整版）Steam移植  打破传统的原创玩法Rogue-lite策略+RPG游戏！
+- 迷你地铁 v2.56.0（完整版）Steam移植
+- 暴君的游戏  v1.12.2（完整版）Steam移植  超好玩像素风肉鸽策略游戏来啦！
+- 3分钟英雄  v1.44（完整版）Steam移植  卡牌策略塔防游戏推荐游玩！
+- 破门而入  v1.1.43（完整版）Steam移植
+- 蒸汽世界劫掠2 （完整版）中文版非常棒的经典策略回合制游戏续作
+- 领主争锋（switch手机版）
+- 残缺宇宙（switch手机版）
+- 天空商人（完整版）Steam移植  像素类的跑商小游戏！
+- 卡尔玛骰子（完整版）Steam移植  肉鸽+骰子+德州=爽！
+- 纳赫鲁博王国地下城：混沌护符（switch手机版）
+- 纳比的数字工厂（完整版）Steam移植  很好玩的弹球肉鸽游戏！
+- 鲁弗兰的地下迷宫与魔女的旅团（switch手机版）
+- 吸血鬼爬行者（switch手机版）
+- 奥雷萨之下（switch手机版）
+- 陷阵之志  v1.2.99（完整版）Steam移植
+- 旁观者列车长（完整版）Steam移植
+- 自走骑士团（完整版）Steam移植  越玩越爽到像素肉鸽自走棋游戏！
+- 全面战争帝国（完整版）Steam移植
+- 幕府将军的头骨（switch手机版）
+- 小死神传奇重生|小小死神:重生（内置作弊菜单）
+- 持续挖掘世界（完整版+菜单版）Steam移植  全新超爽挖矿增量游戏！内容超多！
+- 战术地牢  v3.4.3（完整版）Steam移植  特别好评的像素风回合制肉鸽沙盒战棋+地牢探索游戏！
+- 电竞传奇（switch手机版）
+
+---
+
+## 修图美化（79 款）
+
+- 此间1.07多元创意组件无广免费持续更新
+- CollageArt高级版海量拼图模板照片编辑
+- 完美证件照 免费无广告各类证件照一键制作
+- 我的桌面iScreen桌面小组件美化神器解锁会员版
+- Weather高级版精准预报自定义桌面天气工具
+- 抠图软件一键抠图，P图AI一键擦除
+- gridart拼图&图片编辑
+- 轻图平替国内醒图最强修图工具解锁高级版
+- 轻屿课表超级美化的课表自定义导入
+- 星河全景地图足不出户看世界解锁永久会员
+- 【安卓】图片大师 v2.9.8海量高清壁纸明星/头像等
+- 最全面的图片编辑器工具超多包含AI完全免费
+- Background智能抠图AI一键去背景多抠图模式
+- 小说下载器文件管理器IPTV水印工具
+- IDPhoto证件照神器一键更改尺寸，背景颜色
+- 魔术橡皮擦 v2.17.3 | 一键消除路人，拯救废片
+- 轻图 解锁会员版平替醒图 专业修图神器
+- Photo Mixer图片混合器一键混合
+- DScanner高级版OCR文字识别高清文档扫描
+- 水獭音乐聚合全网音乐支持多音质畅听下载
+- Persona视频美颜人像高级p图
+- 照片信息编辑器2.4.17_zh1专业照片安卓版
+- AI Retouch移除杂物，智能修图好用
+- PersonaAI一键变美女AI美颜、AI美体
+- ReminiAI照片修复增强新增一键换装等AI功能
+- 泼辣修图 Polarr Pro\nv6.12.0\n修图
+- Shizuku+增强版免root玩机必备工具
+- 调色板3.90调取颜色｜安卓高级版
+- 木木表情制作表情包自制神器轻松创作超简单
+- Photo Studio下载 v2.10.2 安卓中文版
+- 像塑抖音特效制作副业赚钱创作工具
+- 玩美相机6.18.2高级版 媲美PS创意修图神器
+- FixPlus一键擦除衣服变性感美女㊙会员版
+- 万能计算器2.24.13超级全面的计算器
+- VINTAGE复古相机高级版多款胶片滤镜复古高清
+- BeautyPlusAI一键换衣服AI智能美颜
+- 照片全能编辑图片编辑尺寸调整滤镜抠图合成工具
+- 开练男士居家专业健身塑形训练解锁永久会员
+- 最美证件照 v2.3.3 | 专业证件照制作利器
+- 【安卓】RemoveItAI消除衣服变性感无损超清4 K
+- AI换脸 最新版 修复一些兼容问题 加载更多模型
+- 滴答清单8.1.3.3待办清单日常管理
+- PixLiftAI智能修复美体美颜解锁会员版
+- 移除它RemoveItAI图片消除杂物修图解锁会员
+- PersonaAIAIAI
+- Hypic AI
+- Hypic 醒图国际版AI全能修图解锁永久会员
+- Hypic醒图国际版解锁永久会员免登陆修图
+- AIFoto年会员版AI一键擦除衣服㊙变性感美女
+- PhotoArt会员版AI一键擦除衣服?变性感美女
+- 照片编辑器13.3照片编辑神器｜无限制使用高级版
+- Hypic 醒图国际版解锁永久会员
+- Polish会员版全球超1亿次下载比美图秀秀好用
+- 带壳截图Pro一键美化截图自动带边框
+- Pixelcut高级版AI智能抠图图片编辑创作
+- doooOt创意编辑器一键制作ins风复古配图
+- Hypic 醒图国际版 最新版解锁永久会员免登录
+- 做海报海量商用模板一键平面设计工具
+- 免恢复删除文件彻底销毁数据无法清除恢复工具
+- 照片恢复宝解锁会员图片恢复老工具
+- ProCCD复古相机解锁会员复古CCD胶片
+- WearPro解锁会员智能手表健康运动配套
+- 工作水印打卡拍照绿化版外勤定位水印打卡工具
+- 最美电子证件照解锁会员证件照制作工具
+- 水印相机定位免费版职场工作打卡水印定位拍照
+- Paji相机原生质感美颜千人千面直出
+- 极速水印相机现场定位拍照打卡执勤打卡必备
+- 盖世掌游 免费无广告掌上手游模拟器
+- YouCam Perfect(玩美相机) v6.2.1 高级版 – 全球热门的自拍与相片编辑应用
+- Photoshop Express v17.1.277 高级版 – 安卓Photoshop专业图片修改软件
+- Photo Editor v11.2 去广告高级版 – 轻量级照片编辑工具
+- DoFoto v1.224.60 高级版 – AI照片编辑实时特效软件
+- 佐糖 v2.0.2 会员版 – AI抠图的强大图像美化工具
+- 美易PicsArt v26.8.3 解锁高级版 – 全球著名修图软件
+- 影楼Photo Studio v2.7.13.3738 专业版 – 专业图片编辑美化修图软件
+- 醒图 v11.6.0/v5.9.0 修改版 – 全能图片美化修图软件
+- Polish v1.65.217 专业版
+- 今日水印相机 v4.0.94.0 会员版 – 自定义水印照片制作软件
+- 美图秀秀 v11.21.0 会员版 – 图片编辑美化修图软件
+
+---
+
+## 影视播放（76 款）
+
+- 【安卓】Leonardo内置爆火GPT-Img2模型视频生
+- 日语岛一站式日语学习看小电影自动生成字幕
+- 【安卓】光鸭云盘迅雷好兄弟不限速磁力下载注册送永久2 T
+- Chai 0.4.407无敏感虚拟女友什么都能聊
+- 分享】GC自动点击器解锁版录制/多点/同步/长按防检测+定时
+- 新版环球TV最强4K画质电视盒子 播放无延迟
+- 铃声多多海量铃声音频编辑视频壁纸
+- 小云TV 最强电视盒子超清电视直播 播放无延迟
+- NOWNESS 现在全球创意艺术短片
+- 哔哩哔哩概念高级版解锁会员4K 番剧地区限制
+- q【分享】播放器PotPlayer去广告绿色版
+- HDx Player全能视频播放器/万能下载器
+- 视频播放器 解锁会员版内置无限制下载视频功能
+- PC版抖音 v8.3.0官方版客户端
+- 知乎去广加精简版
+- 抖音TV抖音第三方 极简无广告
+- MPC-BE v1.9.1.6 - Media Play
+- BiliPai第三方纯净b站客户端免费无广告
+- XPlayer 解锁版万能视频播放器 全能解码4K
+- 素履日记记录人生轨迹隐私优先的移动端日记APP
+- 大狗记一款待办事项管理应用开源免费
+- 哔哩哔哩内置双模块可登录 解锁番剧限制 更改粉丝数量
+- 智慧IPTV视频播放器超清解码播放高级版
+- 虎牙直播热门赛事美女舞蹈秀直播去广告纯净版
+- 智慧IPTV支持所有网络视频格式解锁高级版
+- 魔术绘画对称创作绘图自由绘制各类图形
+- Arc Player本地播放器什么都能播解锁会员版
+- 抖音精选海量优质视频内容
+- rPlayer-VR播放器去登陆解锁会员
+- OnePlayer全能视频播放器支持IPTV音乐等
+- IPTVSmart万能M3U超清播放器4K无卡顿
+- 抖音精选海量中长短视频
+- 李哥直播免费4K电视直播 播放无延迟
+- IPTV Pro观看全球网络直播网络电视
+- 高清视频播放器支持多种格式
+- Rocks播放器4K顶级播放器解锁高级版
+- 大吉电视4K超清电视直播 频道超多 播放无延迟
+- 糖豆广场舞、健身操、瑜伽解锁会员版
+- Orbitv 中文版免费看全球电视直播 纯净无广告
+- 视频播放器超清8K播放内置视频下载器
+- NovaVideo视频播放器兼容性强4K8K播放
+- CCTV手机电视海量电视直播资源
+- PotPlayer v1.7.22980
+- Pi video2.3.0最新版高清视频播放器
+- KMPlayer音视频播放器超高清 字幕设置
+- 抖音精选优质中长视频都是爱看的
+- 百度网盘插件倍速播放网页无需转存即可播放完整视频
+- BBPlayer聚合海量音乐免费畅听音乐
+- PiliNara最好用的B站第三端看番爽到爆
+- 哔哩经典为古董机定制的B站第三方安卓1.5可用
+- 皮皮搞笑爆笑段子视频趣味神评社区
+- 傲软投屏解锁会员超清低延迟多设备投屏工具
+- 电竞变声器绿化版游戏实时多音色变声
+- 快捷图标一键换解锁会员桌面图标自定义美化神器
+- 美颜通解锁会员实时视频通话直播美颜
+- 视频编辑精灵解锁会员多尺寸剪辑编辑
+- EasyCut 解锁版国外超火视频剪辑 平替某映
+- 万能手机投屏影音图片投屏电视无线同屏工具
+- 抖音定制精简版纯净无广告 精简界面可正常登录
+- CastDuo投屏助手网页视频照片一键投屏高级版
+- 野草助手电视软件商店兼容性强不限制下载
+- Edge浏览器无限制上网阅读 访问油猴脚本
+- Edge浏览器访问无限制自带油猴脚本
+- 抖音精选海量优质长视频下饭必备
+- 看了么2.04K免费电视直播 播放无延迟
+- 3d4k壁纸动漫风景，高清壁纸解锁会员版
+- Kick 全球热门直播全球极品美女?国内网直接看
+- 动漫天堂最新版免费极速无广
+- TWITCH
+- bili去去广版
+- 皮皮搞笑绿色版
+- 灵魂摆渡十年
+- XPlayer v2.4.6.2 去广告版 – 万能视频播放器
+- MX Player(mx播放器) v1.98.5 去广告版
+- Android 网易爆米花 v2.9.18
+- 樱桃视频播放器
+
+---
+
+## 相机拍照（73 款）
+
+- Retrica高级版复古胶片滤镜实时拍摄相机工具
+- Gaia GPS\nv2026.3户外导航
+- PDF Scannerv1.69PDF 扫描仪
+- 百度网盘 内置净化模块附不限速方法去开屏广告
+- 应用锁一键加密应用内置隐私浏览器
+- 马克水印相机 16.0.2版本已解锁部分会员功能
+- AppLock高级版指纹应用锁私密照片视频加密
+- ViiTor实时翻译翻译界天花板十几种语言秒翻
+- 极速水印相机定位打卡拍照工作执勤必备
+- 柠云水印相机水印相机定位打卡 真实可验证
+- AmpereFlow电池管家高级版电压温度实时保护
+- 植物识别高级版拍照识别植物养花识花一步到位
+- Blender3D建模动画软件玩转3D创作雕刻渲染
+- 灵光AI全模态通用AI助手无限生成图片♾
+- Hi Translate屏幕翻译实时对话翻译
+- 鱼丸水印相机拍照/拍视频专业免费水印相机
+- AI解题大师拍照解答各种疑难杂症功能非常强大
+- 极速水印相机现场定位拍照执勤打卡必备
+- DxO PR v5.12.0.24 RAW格式画质极限的降噪神器
+- 我的日记1.04.14支持加密日记软件
+- BeautyPlus美颜相机AI换装性感衣服手办图
+- 指南针海拔测量1.2户外探险神器｜地点水印相机
+- 热量计算器7.2健康习惯受益终身
+- 【安卓】Doka相机解锁会员AI智能相机富士柯达滤镜
+- AI Retouch移除杂物智能修图
+- 【考核】 pillo吃药提醒助手记录用药情况
+- Image高级版图片批量转PDF编辑阅读转换工具
+- 极速水印相机实时定位拍照实时水印相机
+- 极速水印相机外勤工程打卡留痕实时定位水印
+- Kimi深度解析文档支持AI对聊AI神器
+- BeautyPlusAi美体Ai美颜Ai换衣
+- 分享AZ Screen Recorder v6.9.6高级版
+- 扫描王中王全能扫描测量工具解锁永久会员
+- 马克水印相机定位打卡拍照执勤拍照必备
+- 拼豆绘自定义图纸
+- ViiTor实时翻译沟通外挂实时翻译天花版
+- Kapi相机复古相机神器一键Get相机质感
+- 鱼丸水印相机专业拍照水印执勤拍照打卡必备
+- 马克水印相机 已解锁会员功能 魔改版
+- 水印相机免费拍照记录工作水印打卡
+- 可颂抖音摄影社区拍照姿势灵感拍摄分享工具
+- 水印相机 免费版定位打卡水印相机
+- 趣影秀掌上相机拍摄图片美颜编辑神器
+- BeautyMirror美妆镜高级版，可缩放、镜框、镜灯
+- 海飞拍照翻译专家OCR识别拍照即刻翻译文字
+- 离线极速翻译器多格式翻译无网也能精准互译
+- PDF转换器1.7.4快捷PDF转换
+- 应用锁保护隐私，隐藏秘密解锁会员版
+- Open Camera开源相机4K超高清晰 专业相机
+- PermissionPilot权限导航隐私管家高级版
+- TapScanner文档扫描仪高级版
+- 豆包爱学你的专属老师！解答一切超强AI模型
+- 小荷AI医生你的私人医生问病例查药品
+- 极速水印相机现场拍照定位打卡 免费无广告
+- Instant瞬译屏幕翻译高级版游戏/漫画/影视通吃
+- Film Cam(胶片相机) 解锁高级版出片神器
+- 工程相机工地施工水印拍照执勤必备
+- PDF Scanner文档智能扫描仪高级版
+- GCam Camera谷歌相机(高级版)，支持声控。
+- Kapi相机复古DV相机神器免费使用
+- Fomz轻复古艺术相机｜艺术潮流和复古胶片的完美结合，强
+- 全球街景高清地图解锁会员3D全球实景全景
+- 微粉工具解锁会员私域社群拓客营销辅助工具
+- 微商获客解锁会员私域批量加人地图引流营销工具
+- 真实地点水印相机解锁会员外勤工程真实定位打卡
+- 联星北斗卫星地图解锁会员北斗卫星VR全景街景
+- 联星北斗助手解锁会员高精度卫星导航测绘
+- 微粉助手解锁会员私域拓客营销神器
+- 打卡定位修改解锁会员时间地点水印相机
+- 卫星地图解锁会员3D街景VR全景实景查看工具
+- 精图地球解锁会员全球街景VR游览
+- LinkUp解锁会员情侣亲友定位守护工具
+- 谷歌地图带你去看全世界！
+
+---
+
+## 系统优化（70 款）
+
+- 音量控制板1.0.2控制音量面板｜多种模板选择｜玩机
+- 内存优化师5.3.4一键清理释放内存拯救手机绿化
+- X浏览器无限制访问任何网站㊙内置油猴脚本附广告规则
+- 下雨的声音可以聆听下雨的声音助眠必备
+- 纯记账 v3.5 | 3MB极简记账神器
+- 土豆录屏屏幕录制、系统声音录制、定时录制
+- 画质怪兽流畅解锁120帧内置游戏改枪码
+- 充电大师可对手机电池智能温控等解锁永久会员
+- WiFi速连大师1.0快速网络连接｜网络检测加速
+- 黑阈v4.2.31.1 |免root管理手机省电神器
+- Kitsune Mask面具升级版 手机ROOT神器
+- Electron高级版电池健康损耗实时充电分析
+- 平行空间Pro版 解锁会员免root虚拟空间 分身
+- ReSukiSU手机root神器 专业root工具
+- WiFi万能网络一站管理｜网络管理天花板｜绿化版
+- 支付宝自动任务去除异常弹窗 v3.7.6
+- 【资源分享】biubiu加速器绿色去广告版直接领取会员
+- Blocker去除广告阻断自启动自带规则
+- 发票制作器内置多行业专业模板解锁终身会员
+- 番茄小说下载器一键下载小说TXT格式
+- DualSpace解锁会版虚拟空间应用多开分身
+- 火箭沙盒多开软件多开免ROOT免费无广告超流畅
+- Fing网络扫描安全管理工具(解锁版)可扫描隐藏摄像头
+- 应用管家一键深度清理你的手机内存玩机必备
+- 雹可以冻结各种应用功能强大开挂必备！
+- 超级流量监控精准统计网速多维度设备监测
+- 无能的钥匙WiFi万能钥匙会员模块一键解锁会员
+- 努比亚应用商店4.8.6精品商店推荐啥都可以下
+- 微思应用商店4手机手表通用商店｜适配性强都可用
+- HXAudio顶级音效增强发挥硬件极限
+- Battery Guru电池大师解锁版 优化电池寿命
+- NFC Emulate全能NFC卡复制模拟
+- Windy.app全球最强看天气预报工具高级版
+- BatterySaver智能查看电池状态保护电池健康
+- 灵应用商店手表版2.0.5啥都可以下｜兼容性超
+- 手游画质助手超清120帧解锁永久会员 吃鸡！
+- Baxa手机系统管理一键清后台手机更流畅
+- 抖音清粉助手脚本自动化清理抖音关注和粉丝
+- Phantom 解锁会员虚拟空间 应用多开分身
+- 虚拟大师最新免Root虚拟机谷歌面具不卡99
+- nfc门禁手机NFC读写专业门禁公交卡读取复制
+- 通知档案防撤回聊天支持WX，企鹅等信息
+- 电池大师延长续航和寿命解锁高级版
+- Auto自动点击解锁高级版可录制脚本无限制次数解放双手
+- Glary Utilities v6.43.0.47绿色版 一站式系统优化工具
+- 极客内存清理1.2.9极致清理运行内存｜杀掉后台｜高
+- 电池管理器延长电池寿命解锁高级版
+- 五款虚拟机解锁版VMOS 七星虚拟机 虚拟大师
+- 微商群发助手解锁会员私域批量群发拓客工具
+- 微商侠解锁会员私域营销批量运营工具
+- 信号探测器网络信号检测仪检测WIFI连接强度
+- 墨魔豆 免root框架运行游戏mod 虚拟框架分身
+- 哪吒加速器 解锁会员版国内外手游加速器
+- Opera浏览器超强高速内核无限制上网
+- X99沙箱虚拟机虚拟空间 应用分身分身
+- 强力清理高级版设备内存CPU实时监控工具
+- 易连WiFi宝网络工具实用工具
+- VMOS 高级版内置ROM 可用谷歌超级权限等
+- 充电动画超炫酷的充电动画
+- scene破解版v8.1.5
+- ax manager
+- 雪豹速清 v2.10.0 会员版 – 支持安卓13的手机垃圾清理软件
+- 清浊 v2.1.1 高级版 – 优秀手机垃圾清理软件
+- 安卓清理君 v3.8.6 解锁高级版 – 手机系统清理工具
+- 安卓CCLeaner v25.01.0 专业版 – 全球知名的设备优化和清理应用
+- Rotation v28.4.0 专业版 – 安卓手机强制屏幕转向工具
+- 冰箱(Ice Box) v3.25.6 会员版 – 应用后台冻结软件
+- AIDA64 v2.08 解锁内购去广告版
+- 电池大师Battery Guru v2.3.20 高级版 – 手机电池优化软件
+- 手机克隆大师
+
+---
+
+## 去水印解析（55 款）
+
+- 紫微命盘全能命理测算解锁会员
+- TempG无限临时邮箱㊙注册拉新网站解锁高级版
+- VideoFK一键解析多平台视频无水印
+- 驾照刷题宝覆盖科目一、科目四考驾照的好帮手
+- 奇门1.0.8精准奇门遁甲排盘｜五运六气分析｜会员版
+- 命理大师1.0八字命理解析｜手相解析｜面相解析
+- 反编译逆向解锁APP你也可以成为大牛
+- AI换脸 解锁会员无限制无违禁换脸 支持照片/视频
+- 小红薯下载器视频图片无水印提取免费无广告
+- 【安卓】X下载器 2.3.16?无限制国内外视频下载至尊版
+- Swapy 解锁会员版不限次AI换脸 AI换装视频
+- AhaToktk下载器一键下载高清无水印视频
+- 豆包下载器-图片/视频 无水印批量下载 浏览器扩展
+- 抖音解析器无水印视频/图集一键提取神器支持批量
+- 无水印解析2.0小红书抖音专用视频/图集一键解析
+- 小红书下载器图文视频无水印提取免费无广
+- 去水印视频解析多平台一键解析解锁会员
+- 五款超好用的音乐软件汽水音乐大屏版 奇酷星球 简音等
+- AfuseKt聚合12大网盘 打造自己的影视动漫库
+- 无损音乐播放器超强音乐软件已解锁会员
+- 微粉猫解锁会员微商拓客群发朋友圈管理神器
+- 视频去重二创剪辑解锁会员强的一批某料都能嗅探
+- 一键水印解锁会员短视频去水印解析下载
+- 抖音解析插件一键解析下载视频实况图集解析下载
+- 瞬净TK版Tk解析下载支持视频/图集
+- 音乐视频助手解锁会员音视频全能编辑
+- GIF工具箱解锁会员无水印GIF制作压缩转换
+- pixiv作品下载插件一键打包一键解析下载
+- 皮皮工具箱解锁会员短视频去水印解析下载
+- 文件解压大师解锁会员多格式解压文件管理工具
+- 全球潮汐Pro解锁会员专业海洋潮汐气象预报
+- GIF工具箱解锁会员全能动图编辑压缩神器
+- Bebo Cam解锁会员复古拍立得胶片相机
+- X解析插件X视频解析下载无水印解析下载
+- 格式鱼解锁会员多媒体全格式转换
+- 小组件Top解锁会员桌面组件图标壁纸全套美化
+- 全能录音机解锁会员高清内录音频编辑工具
+- 消防工程师快题库解锁会员消防考证刷题备考工具
+- 风云录屏大师解锁会员超清无水印屏幕录制工具
+- 配音神器解锁会员内置50多平台去水印解析下载
+- 万能格式转换器解锁会员格式转换工具
+- 风云扫描王解锁会员OCR文档扫描文字识别工具
+- 小学数学同步学解锁会员小学课程同步辅导学习
+- 经济师快题库解锁会员真题模拟备考刷题
+- 建造师快题库解锁会员考点精讲真题刷题
+- 周易宝解锁会员八字测算运势解梦择吉全功能
+- 瞬净-黑X版黑X视频解析无水印解析下载
+- HDxPlayer4K8K播放器?国际主流视频下载
+- 扫描全能王最新国内版解锁永久至尊版
+- 视频播放器超清8K播放内置视频下载器
+- 九狐视频播放器本地私密影片播放器支持所有格式
+- CleanMark抖音/抖音国际版 短视频去水印
+- 轻水印一键解析视频无水印下载
+- 扫描全能王谷歌版解锁永久至尊会员
+- Video 全能视频下载器无违禁?下载视频
+
+---
+
+## 视频剪辑（54 款）
+
+- 威力导演 解锁会员版视频剪辑软件天花板
+- 小云雀AI零门槛AI视频创作电商自媒体必备
+- 录制器10超高清录制纯净无广适配性贼强
+- 超级录屏已解锁永久会员支持实时变声
+- Picsart美易30.4.61000+特效功能
+- Picsart照片编辑谷歌版解锁永久会员 平替醒图
+- Inshot2.222视频专业剪辑
+- 小云雀AI零门槛AI视频制作电商自媒体必备
+- 视频制作内置海量特效一键剪辑
+- KwaiCut 快影国际版专业级免费视频剪辑工具
+- Filmora万兴喵影视频剪辑高级版4K导出解锁全模板
+- EasyCut 解锁会员专业级视频剪辑软件
+- EasyCut易剪解锁高级版国际视频剪辑神器
+- 免费助手视频去水印短视频链接解析解锁会员
+- WPS Office 2016 专业增强版
+- Free Fitness健身饮食全管理运动训练
+- VN视频剪辑神器最强视频剪辑软件比剪影更好用
+- FilmoraAI视频剪辑神器无限制生成解锁版
+- 音频剪辑免费多格式剪辑转换变声变速语音转文字
+- 风轻天气纯净无广告国风插画清爽看天气
+- 一秒消除笔｜视频去水印剪辑工具箱解锁永久会员
+- Blurrr魔改版
+- VideoGuru视频编辑裁剪，拼接，合并
+- 剪辑猫已解锁永久会员某硬的平替剪视频必备
+- VN - Video Editor强大的视频剪辑神器
+- 小影9.38.0短视频视频剪辑
+- 万兴喵影电脑版解锁会员功能 无需登陆 视频剪辑
+- 视频同框全能视频剪辑工具视频去水印压缩剪辑
+- XR录屏大师高级版｜4K录制+悬浮窗+画笔标注+视频剪辑
+- 免费AI视频全能制作无限AI生图无限AI生成视频
+- EasyCut易剪高级版某映平替模板全解锁高清导出
+- CaptuneAI自动字幕视频剪辑已解锁Pro完整版
+- NodeVideo 解锁会员版专业级视频剪辑工具
+- 录屏大师1080p高清录制，内置剪辑工具解锁会员版
+- Filmigo高级版短视频剪辑字幕特效制作工具
+- Mineradio音乐电影播放器3D动感音乐
+- UVX高级版全格式手势画中画视频播放器
+- 专注牛顿解锁会员自律专注防沉迷手机管控工具
+- 变声器Lab解锁会员多音效变声高清录音音频
+- 精图地球解锁会员3D卫星街景户外测绘地图工具
+- 精图地球解锁会员全球街景720°VR全景地图
+- 开拍解锁会员高清视频拍摄剪辑特效工具
+- LoFi Cam解锁会员CCD复古胶片相机
+- 播放器OPlayer安卓万能播放器最新版
+- 小米汽车拓展屏小米车机屏幕应用
+- Vivaldi 国际浏览器超强内核极速上网浏览
+- AZ Screen Recorder v6.4.2 高级版
+- XRecorder 2.4.0.2 专业版
+- Spring v1.1.19.34152 高级版 – AI视频剪辑软件
+- 剪映 v15.6.0 可登录会员版 – 热门视频制作和编辑工具
+- 剪映国际版CapCut v13.8.0 会员版 – 字节跳动出品的视频剪辑应用
+- InShot v2.123.1487 会员版 – 视频剪辑P图神器
+- 小影 v9.28.6 会员版 – 强大的手机视频剪辑应用
+- 快影 v7.0.0.700003 去广告水印版 – 快手旗下的视频编辑应用
+
+---
+
+## 系统工具（52 款）
+
+- 硬盘检测工具CrystalDiskInfo v9.9.2
+- Exeinfo PE v0.0.9.8 汉化单文件版 顶
+- 极客桌面启动器 GeekDesk v2.5.15 中文绿色版 告别凌乱电脑桌面
+- 压缩包解密工具Windows ZIP Cracker v5.3.4吾爱专版
+- Windows Cleaner v6.0.1 官方中文开
+- WatermarkRemover v1.0 绿色版 一键
+- Windy.app 解锁会员版最强专业看天气工具
+- PC版抖音 v8.2.0 官方版客户端
+- geek卸载-电脑清理工具永久免费使用
+- Windows微软出品远程桌面虚拟电脑
+- Mathematica 14 最新版｜科学计算神器
+- Windows系统 和office激活工具!!!
+- ToDesk云电脑高端云配随开随用
+- 多功能工具箱 v4.0 中文免安装版 基于Python的
+- 【考核】流氓软件克星 v2.0.7 绿色单文件版 专治各类全家桶
+- Word Formatter Pro v2.7.6
+- 大将怪兽摧毁 - Desktop Monster
+- 票易合发票排版合并工具
+- Parallel高级版应用多开分身隐私加密工具
+- 顶顶安卓通知栏固定工具方便快捷
+- PixPin v3.4.3.2(截图贴图工具)
+- SignalWiFi
+- BluelightFilter蓝光过滤(高级版)专业护眼
+- CCKJ系统安装器 v2026.6.06 一键备份恢复工具
+- 宇汉化国服框架虚拟化空间 免Root框架
+- 小X分身无线应用多开解锁会员版
+- APK安装包管家数据单独备份APk管理
+- MultiRun多开大师高级版｜批量克隆+隐私空间+++
+- 我的wifi30.1查看局部网络并解析｜查看ip
+- 鲁大师 v6.1026.4715.714 去广告纯净版
+- Tiny Container手机一键变电脑
+- 狐狸面具框架模块root神器突破权限限制
+- CPU X专业手机检测工具查看手机各种信息
+- BossKey老板键一键隐藏进程
+- InstallerX代替系统安装器无视风险直接装
+- Shizuku M免root激活提高软件权限
+- 网络面板V3.2.7移动数据消耗器可用于刷流量
+- DiskGenius Professional v6.0.1.1645 中文激活版 – 硬盘分区工具和系统备份软件
+- IObit Uninstaller Pro v15.3.0.1 中文专业版 – 强制软件卸载程序
+- SnapShot v1.51.0.115 中文版 – 小巧强大的硬盘备份软件
+- CCleaner v7.5.1255 中文激活版 – 系统优化和隐私保护工具
+- XYplorer v27.20.1300 中文绿色版 – 多标签文件管理器
+- AIDA64 Extreme v8.30 中文注册版 – 权威硬件检测工具
+- AnyDesk远程工具 v9.7.1 官方版 – 免费Windows桌面远程工具
+- 7zip v26.01 Final 修订中文版 – 免费开源解压缩工具
+- BCArchive(加密工具) v2.08.2.1 中文版
+- Textify(Hunlongyu版本) v1.0.2
+- IObit Unlocker v1.3.0.12 单文件版
+- PeaZip(多平台解压缩软件) v11.1.0 安装版&便携版
+- 素言 SuYan v4.0.4
+- 小小输入法 yong v3.2.0-3 绿色版
+- 滴哦小精灵 v1.5.1
+
+---
+
+## 学习工具（51 款）
+
+- 无烦恼厨房海量菜谱教程减脂菜谱纯净版
+- Agora 免费无广告自定义部署本地顶尖AI模型
+- Motivation名人名言，正能量语录解锁会员版
+- 论八字1.0.1精品八字排盘｜全国流派通用｜会员版
+- 多邻国轻松学习数十种语言解锁无限红心
+- 鼠标连点器安卓全能免费连点器全自动可录制脚本
+- iLovePDF高级版全能PDF转换编辑扫描处理
+- 奇门六壬排盘1.3六壬排盘命理分析学习全国通用
+- 时刻守护精准定位实时共享行程轨迹可查
+- Zip Extractor全能解压器高级版
+- 堪舆山水卫星地图风水地理卫星勘测解锁会员
+- 逆向助手3辅助逆向解锁会员辅助软件开发纯净版
+- 网络基础知识手册强化自己的网络知识下一个黑客就是你
+- 今天学点啥？学习高科技必备内置好多教程科技党必看
+- VoltLab最火电路电工图｜免登可用｜附教程
+- 蜗牛深度睡眠助眠放松神器自愈改善睡眠
+- 识日2.6.5日语神器沉浸式看小电影再也不用字幕
+- 电工考试宝典海量题库免费刷题考试必备
+- CuteNotes高级版可爱多功能笔记待办工具
+- 倪海厦中医大全补肾益精/养生之道解锁永久会员
+- House房屋3D设计自由设计3D预览实景改造
+- Speechling多国口语神器真人外教纠音纯净
+- 腕上教材1.2-Final学习神器｜小巧纯净
+- 周到工具箱1.1.5实用工具箱内置功能免费无广
+- 好好记账1.21.1高效记账理财天花板纯净版
+- 摩斯密码可以转换和学习非常高科技
+- 【安卓】SafariLingo非洲野生动物图鉴真实叫声库
+- 迅工电气仿真3.2免登使用｜电工必备｜高级版
+- Knots3D绳结大师高级版200+绳结3D演示+离线
+- 伤寒论查阅通中医古籍经典学习解锁高级会员
+- 小学语文同步学v2.7.6解锁永久会员小学生第二课堂
+- Linux
+- 中药学
+- HiPER\nv10.3.3计算器
+- 专注牛顿解锁会员管控手机提升专注运动换使用
+- 自律石头解锁会员步数读书兑换手机时长管控专注
+- 指尖笔记解锁会员扫描语音备忘录记录工具
+- 捷径助手解锁会员可视化一键快捷操作编程工具
+- 西窗烛解锁会员古诗词传统文化学习神器
+- 搭子计划解锁会员组队互助自律监督工具
+- 指尖笔记解锁会员扫描语音多格式笔记工具
+- CAD专业看图师解锁会员CAD图纸测量工具
+- 开练解锁会员专业健身计划动作跟练
+- Jagat果汁儿解锁会员亲密定位守护社交工具
+- CAD专业看图师解锁会员工程图纸查看测量工具
+- 快题库解锁会员多领域职业资格考试刷题备考
+- 减掉腹部脂肪你也能练出8块腹肌！
+- 1Tap垃圾清理高级版一键手机缓存清理提速工具
+- VOKA人体解3D解剖地图解锁会员版
+- 正一经书 免费无广告道教经书
+- 彩云小译网页翻译同声翻译文档翻译
+
+---
+
+## 文件管理（48 款）
+
+- Repo Store开源软件应用商店 免费无广告
+- CoolmusterMobileTransfer v4.1.22
+- PDF转换器格式转换，智能扫描压缩
+- MT管理器共存版支持访问data文件夹双窗对照
+- PDFgear免费AI全能处理PDF支持转换
+- QtScrcpy v4.1.0(开源安卓实时投屏工具)
+- F-Droid 基础版开源应用商店
+- ES文件浏览器解锁会员 文件编辑专家
+- TRAE 一键生成APP你也可以成为开发者
+- Linux命令手册_离线版1.0语法大全｜小白专用
+- 【安卓】Apktool M安卓反编译神器平替MT管理器
+- 全能压缩软件一键压缩文件，图片，视频
+- Folder Widget自定义手机文件夹小组件
+- Chrome Dev谷歌浏览器开发版无限制访问网站
+- Apk管理器1.1文件管理神器｜内置测网速汉化版
+- Reqable小黄鸟抓包最强抓包软件
+- 文件管理器解锁会员版
+- 【安卓】Gabi全能视频图集下载器支持国内外1000+平台
+- 3C一体工具箱高级版安卓系统全能调试优化工具箱
+- Solid Explorer v3.5.15b
+- MT管理器 特别版共存原版 可访问date文件夹
+- 风水罗盘大全及工具知识风水罗盘算命大全
+- 微思应用商店4.1手机手表通用商店｜适配性强都可用
+- 【安卓】RAR 解压缩神器解锁内购清爽去广告
+- ES文件浏览器4.4.3.7老牛掰了啥都能干
+- 荣耀应用市场纯净应用商店安全无毒极速下载神器
+- RuStore 俄罗斯应用商店免费下载国外软件游戏
+- Aves相册开源相册最新版｜公认最好用的相册
+- 文件管理EZ解压缩多功能压缩解压与格式转换免费无广
+- 【安卓】Apktool M管理器平替MT管理器安卓逆向神器
+- 光环MAX4.4平替mt｜文件管理神器纯净版
+- Solid Explorer强大的文件管理器
+- 去水印下载短视频无水印解析下载
+- RAR 解压缩神器解锁内购清爽去广告
+- EX文件浏览器全能安卓文件管理工具解锁会员
+- 百度网盘v11.6.3： 无广告功能完整版本
+- 百度网盘特别版精简纯净无广告不限速下载方法
+- NP管理器Mt管理器平替强大的文件管理器
+- RS文件浏览器 v2.1.7.2 去广告会员版 – 强大的安卓文件管理工具
+- Root Explorer(RE管理器app) v4.12.7 去广告会员版 – 支持ROOT权限的文件管理器
+- RAR v7.11.127 去广告版
+- MT管理器 v2.18.3官方版/v2.14.5会员版 – 国产文件管理工具和APK逆向修改神器
+- Solid Explorer文件管理器 v2.8.62 专业版 – 安卓文件管理器和webdav网盘管理器
+- SD Maid SE(SD女佣二代) v1.4.12 中文高级版
+- ES文件浏览器 v4.4.3.3 去广告会员版 – 功能强大的文件管理工具
+- F-Stop v5.5.141 修改版 – 手机简洁的媒体管理器
+- 谷歌商店(Google Play Store) v48.7.17 官方版 – 海外安卓应用市场
+- rs管理器
+
+---
+
+## 桌面美化（48 款）
+
+- 学英语背单词，听句子学习英语必备
+- 【安卓】南风天气基于彩云天气API更加纯净解锁永久会员
+- 平行空间Pro版无限多开应用解锁会员版专业版
+- 动物铃声叫铃声壁纸逼格拉满掏出去直接社会
+- 光氪息屏可以进行手机息屏显示自定义格式
+- 绿意壁纸5.4超多感情壁纸分类齐全｜绿化版
+- 春晓壁纸动态静态壁纸8k超高清分类齐全
+- 心悦壁纸5.5.1海量壁纸｜8k高清下载｜解锁高级版
+- uniucy壁纸二次元精品壁纸解锁高级版
+- One4Wall4K超清壁纸解锁高级版 安卓必备
+- ScreenCraft壁纸 高级版4K超清~3D~动态
+- Themely海量小组件，高清壁纸解锁会员版
+- 3D4K壁纸动漫风景应有尽有
+- 动漫壁纸 解锁会员版4K动漫精美动态壁纸
+- Themepack主题组件库解锁会员版免费下载
+- 桃桃壁纸5.6九亿人都在用的国民级壁纸神器绿化版
+- Live Wallpapers免费4K精美动态壁纸
+- Themely主题小部件壁纸会员版
+- 黑客动态壁纸逼格拉满沉浸式体验解锁高级版
+- shimeji桌宠9.0桌面宠物｜精品壁纸绿化版
+- 息屏显示1.3.4装机必备｜解锁高级版
+- Wallpics壁纸工坊(高级版)超多炫酷动态壁纸
+- One4Wall高清4k风景壁纸解锁会员版
+- x桌面3.0最新版一键高仿苹果启动器纯净版
+- 7Fon壁纸高级版自然/动漫/极简4K8K超12万张
+- uniucy壁纸制作器25壁纸专业户一键制作
+- 鱼池动态壁纸高级版3D超写实锦鲤池触摸起涟漪，好运来
+- 主题包汉化版 解锁会员主题壁纸小组件免费用
+- 元气壁纸动态静态，动漫风景高清4k壁纸
+- uniucy壁纸二次元精品壁纸安卓纯净版
+- Themely主题大师高级版5000+图标+景深壁纸
+- 4K超清壁纸解锁会员版科幻 抽象壁纸
+- One4Widgets小组件无广告轻松美化桌面
+- 全民精选壁纸5.6精品高清壁纸9亿人都在用
+- One4Widget桌面小组件壁纸组件插件高级版
+- Themepack
+- Top Widgets
+- iScreen
+- 万能小组件 Top Widgets 已解锁会员功能
+- 3d4k壁纸动漫风景应有尽有解锁会员版
+- Lagguy壁纸高级版｜4K/6K超清+景深+各种类型。
+- 老人桌面2.5适合中老年人的一款桌面！页面简洁！
+- Smart Launcher v6.6 b014
+- 壁纸萌多源自动换壁纸内置Wallhaven源
+- Parallax 3D超清壁纸几万+炫酷壁纸高级版
+- 元气桌面壁纸 v3.53.4336 去广告会员版 – 手机桌面壁纸美化软件
+- Smart Launcher v6.5.036 专业版
+- 万象小组件 v5.5.14 解锁会员版 – 打造个性化桌面软件
+
+---
+
+## 小说阅读（43 款）
+
+- 鼠标连点器1.1内含预设脚本支持自定义解放双手
+- 阶跃谷歌版无限制Ai写小说文成生视频 图片等
+- 【安卓】番茄小说下载工具手机版一键下载番茄小说
+- Office高级版全格式文档阅读转换办公工具
+- txt阅读器小说阅读器｜支持导入｜无广阅读
+- 番茄小说下载工具一键下载番茄小说
+- 舒尔特方格训练专注力提升神器多模式训练解锁会员
+- Readest纯净无广小说阅读内置AI朗读引擎
+- 蓝光过滤 v6.0.3 | 护眼神器·免费滤蓝光
+- 番茄小说下载器2026.8.13-1421 手机一键下载
+- 阶跃谷歌新版无限写小说 生成视频图片等
+- 【安卓】Readingo 1.48.3纯净小说阅读支持听书
+- 阅微2.1高颜值免费小说阅读器自定义背景
+- 【安卓】自动滑动器自动刷短视频自动翻页阅读
+- 弦电子书手表最强提取版高级纯净阅读器｜
+- 电子书阅读一款可以随时随地读经典作品文学历史爱好者
+- WPS PDF编辑器-专业版 2024（内置序列号）
+- Hiko户外轨迹记录3D徒步轨迹生成工具
+- 悦光宝盒1.6纯净小说阅读器支持导入自定义封面
+- 舒尔特方格训练专注力提升训练解锁会员
+- 【安卓】Via模块版更好更强大嗅探资源附最强去广告
+- chm阅读器1.1文本阅读器｜支持各种导入导出
+- BooxReader纯净阅读小说支持听书
+- Reeden 1.39.1自用纯净小说阅读支持听书
+- Fizzo 海外版番茄小说
+- Librera Pro纯净小说阅读支持听书
+- Comic Screen v2261 漫画屏幕阅读工具
+- 迅雷浏览器♨极速看视频～小说极速下载支持油猴
+- 阅读器π1.1高级阅读器各种自定义｜永久免费
+- 静读天下专业版纯净无广告小说阅读支持听书
+- Anx Reader 阅读器纯净免费小说阅读器
+- eReader阅读器 解锁会员本地纯净小说阅读器
+- 静读天下 v9.6.0 破解版 – 拥有精品小说库的小说阅读软件
+- 笔趣阁小说 v1.0.4 去广告橙色版 – 具有丰富的热门小说资源软件
+- 淘小说 v10.2.8 去广告会员版 – 海量小说永久畅读软件
+- 海浪书屋 v1.5.1 去广告版 – 免费小说阅读软件
+- 旷野书屋 v1.5.2 去广告版 – 免费小说阅读软件
+- 得间免费小说 v5.1.7.1 去广告会员版 – 免费的小说追书软件
+- 阅读 v3.25.04291200 去限制版 – 免费开源的阅读软件
+- 锤子小说 v2.10.1 去广告纯净版 – 免费小说阅读软件
+- 七猫免费小说 v7.77.82 去广告会员版 – 免费小说阅读软件
+- 漫天星 v2.3.6 去广告版 – 汇聚海量全彩漫画的漫画阅读软件
+- 猫番阅读 v1.6.2 去广告修改版 – 免费的小说漫画阅读软件
+
+---
+
+## 手机工具（42 款）
+
+- ARuler智能AR测量工具解锁会员版
+- WiFi
+- CloneTTS
+- 手机定位找人
+- Proroot
+- 实时字幕
+- 全能连点器
+- WiFi
+- 六壬 免费无广告六壬起盘排盘工具
+- 手机定位找人8.7定位寻人｜支持历史查看｜会员版
+- SignalWiFi网络 信号测试工具高级版
+- 实时字幕再也不怕看不懂日韩了欧美也一样
+- WiFi万能钥匙极速版去除广告
+- 手机物理工坊
+- 幻影WiFi 强力破姐WiFi密码，可自定义字典!
+- nice
+- 极速5G上网网速检测优化WiFi信道信号数据分析
+- 即时屏幕翻译
+- 自动滑屏精灵自动滑视频赚取视频红包
+- AutoClickerPro｜自动多点神器，有防检测机制
+- 谷歌键盘17.4.3最新版支持超多语言输入
+- 假装来电
+- 神级黑科技！安卓直接装鸿蒙原生HAP！不用换华为手
+- Norg通知历史高级版｜防撤回消息+永久保存+智能过滤。
+- 多指自动点击连点器多点位连点多手势自定义
+- 简易录音机多功能的录音机比自己的强好多倍
+- 连连控一键操控所有设备这个软件非常nice
+- 快速瓷砖可以一键启动各种应用有他就够了
+- 票卡分析专用工具可以一键分析各种卡类内置多种
+- 整点报时可以进行整点报时可以给老人整一整
+- 太极工具箱一站式实用工具合集网络监测
+- Crosshair准星助手射击游戏辅助准星设置
+- nfc门禁卡复制助手手机NFC智能读卡复刻工具
+- 小艺输入法华为专用｜兼容适配性强｜嘎嘎纯净
+- ForceLTE高级版锁定4G/5G网络防自动切
+- OrbitV工具箱手表手环全能适配表盘应用一键装
+- Hammer Print\nv14.9.1\n移动打印工具
+- AIDE支持JavaC++游戏模块开发汉化版
+- 手机NFC复制免费NFC万能复制模拟工具
+- Fake Mail临时虚拟邮箱 无限创建邮箱
+- WiFi万能钥匙极速版纯净去除广告 免费连无线网
+- wifi分享内置45多种小工具
+
+---
+
+## 浏览器（41 款）
+
+- 鲸鱼快传｜局域网传输助手｜纯净无广告
+- 谷歌浏览器测试版不限制访问任何网站最强浏览器
+- 闲鱼低价提醒工具 V1.0 蹲点捡漏二手数码的监控神器
+- IDM 6.43.8最强多线程下载神器附激活器
+- 夸克网盘不限速下载内含教程视频
+- 【安卓】氢浏览器轻量极简设计浏览器内置AI无忧上网
+- Via解限版无限制访问网站嗅探资源附拦截广告
+- 抖音下载器一键提取无水印短视频
+- 三星浏览器领先版免费浏览全国任意网络支持插件｜纯净版
+- Stay浏览器 解锁版国外超火 无限制所有网址都可看
+- 优图浏览器独立内核极速省流上网神器
+- 月亮浏览器极速搜索引擎无限制上网
+- 轻榴浏览器超轻量极速+广告拦截油猴脚本扩展神器
+- 小辣椒浏览器1.0.2轻便小巧高速无痕浏览器超权
+- Tabbit 超级Ai浏览器内置多种Ai模型
+- 傲游浏览器 v7.5.2.9400
+- Via模块版更好更强大嗅探资源附最强去广告
+- 萤火虫浏览器绿色无广无限制上网
+- via模块版㊙无限制深夜访问网站支持嗅探资源?
+- 火狐浏览器152暴力玩法｜支持各种扩展｜贼牛
+- 电视浏览器高级版｜遥控器上网+广告拦截+浏览各种网页++
+- Berry浏览器?无限制上网广告拦截?
+- Google浏览器最新版无限制上网?
+- Chrome bate150.0.78安卓必备浏览器
+- BetterVia解除Via限制让Via更强大
+- 傲游浏览器 v7.5.2.9200 绿色版
+- Firefox火狐浏览器内置油猴脚本 无违禁访问网址
+- Firefox Focus国外超火浏览器?无限制
+- Cromite 开源国外浏览器无限制访问网址
+- WiFi万能钥匙解锁SVIP会员一键连接网络
+- Quetta 超火国外浏览器无限制访问任何网址
+- 轻榴浏览器广告拦截，脚本扩展轻量极简
+- Google最新版国外最火浏览器?无限制上网
+- Opera beta国外超火浏览器?无限制访问网址
+- WiFi万能钥匙解锁永久会员 免费连接无线网
+- Firefox火狐浏览器内置油猴脚本 无违禁访问网址
+- Chrome++ v1.15.1 官方版 – Chrome浏览器增强补丁
+- Ungoogled-Chromium v148.0.7778.96-1.1
+- twinkstar(星愿浏览器) v11.0.2000.2605 便携版
+- 火狐浏览器 150.0.3 正式版
+- Chromium v150.0.7837.0 绿色版
+
+---
+
+## 逆向开发（36 款）
+
+- 全自动AI编程！每天30M额度，支持自定义api，可生成完整应用
+- MatLog1.2.3专业抓包工具｜开发工具绿
+- Klick'r自动点击挂机抢票自动神器一键录制脚本
+- MiniMax多模态全能AI全新智能体AI
+- 自动评论器适配各大平台 自动评论脚本
+- DY综合助手抖音综合助手 全自动化脚本
+- Npatchxp框架免Root玩机必备
+- APK去广告编辑器一键去除应用广告
+- NP管理器平替MT管理器 万能管理器
+- 开发助手安卓逆向开发调试工具解锁高级版
+- X浏览器最新版无限制浏览网站㊙内置油猴附广告规则
+- AopAop游戏模拟器游戏挂载多个游戏运行
+- MTool 玩游戏神器自动汉化 免root解锁游戏
+- sky adb安卓ADB调试工具 免root获得权限
+- ShizuWall 升级版免root增强软件权限
+- APK编辑器4.5.2软件逆向｜软件修改｜小百可用｜
+- libchecker快速查看广告搭配Mt一键去除
+- Reqable小黄鸟抓包一键解锁会员
+- HKP免root框架支持内置模块和各种会员HooK
+- hook会员解锁几十款软件会员为你省下不少钱
+- 无能的钥匙万能钥匙会员模块 一键解锁会员功能
+- ProxyPin比小黄鸟好用的抓包工具
+- OnDevz Tools v1.7
+- Reqable新一代小黄鸟抓包工具玩机必备
+- Apk软件分析可以进行各种软件分析看看有无中
+- HKPxp框架免Root玩机必备
+- 百度网盘多功能模块免root使用
+- Sketchware Pro
+- Kenji-NX安卓游戏模拟器
+- ShizuWall 升级版免root提高软件权限
+- NfcTool 免费工具万能NFC卡复制模拟器
+- Webcat
+- AIDEpro
+- android IDE
+- Apktool M v2.4.0-241208 官方版 – 完全免费的安卓APK反编译神器
+- 微X模块 v2.43 官方版 – 微信多功能辅助插件
+
+---
+
+## AI绘画（33 款）
+
+- Islet仿聊天界面私密日记本记录免费无广
+- 抖音手表提取版内存占用极低保留刷视频+评论无购物
+- MiniMax AI顶级桌面智能体远程接管电脑
+- Chatbot 4.o AI全智能AI写作 制作工具
+- BV哔哩哔哩最强版手机/TV双端通用支持4K/杜比
+- Kimi AI助手AI绘画深度研究复刻网页
+- 【安卓】RemakeMeAI换脸可自定义照片SD5生图
+- 【安卓】Zyra v1.1.4全能AI助手无限生图
+- Photoroom顶尖无限AI生图国外大厂出品
+- AIdrawing绘画素描高级版素描+AR临摹+AI
+- 【安卓】Framly高级版㊙无限文生图图生视频限制少
+- 文心最新版无限AI生图｜写代码无限使用
+- Copilot 解锁版微软顶尖AI生图全能AI助手
+- 【安卓】NovaChat免费AI助手无限AI生图AI视频
+- 【安卓】Alura无限AI图片视频内置GPT5等顶级AI
+- Dola 豆包国际版全球顶级AI文生图AI视频
+- 【安卓】Nano AI 1.8.2AI图片视频生成
+- 匠心AI办公必备一键生图解锁永久会员
+- 即梦AI V2.1.9一键AI视频创作自媒体必备
+- 可灵AI新一代AI创意生产力平台短视频变现必备
+- 【安卓】Wan 国际版AI视频和图片创作大厂出品
+- BotHub多模型AI机器人聚合库内置免费模型
+- 【安卓】Leonardo内置爆火GPT-img2生图模型
+- 圆周旅迹AI智能旅行规划助手免费无广
+- 【安卓】Lynix高级版无限AI生图图生视频限制少
+- 【安卓】AI视频生成解锁会员视频生成手办图生成
+- TRAE一键生成APP
+- 豆包最新版国内最热门AI文生图AI视频
+- EmberlyAI改图换性感衣服AI图片视频
+- 即梦AI最新版一键AI视频创作自媒体视频创作
+- Photoroom老毛子出品顶尖无限AI生图
+- Local Dream本地AI生图完全免费无限制
+- Photoroom法国大厂出品顶尖无限AI生图
+
+---
+
+## 办公阅读（32 款）
+
+- WPS 国际版解锁永久会员 专业级办公软件
+- 【考核】Adobe Acrobat Pro DC 2026 中文
+- CoolUtils PDF Combine Pro v4
+- MobiOffice v16.5.60515
+- FileSeek Pro v7.2告别后台卡顿的无索引文件搜索利器
+- PDF24工具箱富含40多个PDF工具
+- PPT模板君海量模板
+- 文件阅读器格式转换，文档阅读解锁会员版
+- Mplus 8.7 结构方程建模完整版
+- NCSS 2021 专业统计分析软件完整版
+- Minitab 22 最新版｜统计分析质量管理神器
+- 【安卓】iLovePDF超强PDF工具箱高级版
+- 微软官方外挂 PowerToys，让电脑效率翻倍！
+- Zettlr v4.7.0 中文绿色版
+- 扫描王全能宝高清扫描，格式转换解锁会员版
+- 扫描仪 解锁会员版平替扫描全能王 最强扫描仪
+- 扫描仪平替扫描全能王 解锁高级版全能扫描仪
+- 扫描全能王谷歌版解锁永久高级会员
+- 全能扫描王+全能扫描办公工具解锁会员
+- 扫描全能王全能型文档扫描解锁至尊高级会员
+- 扫描全能王 v7.16.0 特别版 – 纸质文本扫描转文字软件
+- 微PE工具箱 v2.3 2026.03.05(64位) 维护增强版 – WinPE系统维护软件
+- R-Studio v9.5.191709 中文绿色版 – 强大的数据恢复软件
+- Flix快传 v0.9.6 官方版 – 局域网多端文件传输工具
+- Office 2013-2024 C2R Install v7.7.7.7 中文版 – Office下载安装激活工具
+- Kutools for Excel(Excel增强插件) v26.10 修改版
+- NoteGen(Markdown笔记) v0.27.8
+- QOwnNotes(开源Markdown笔记本) v26.5.9 绿色版
+- Koodo Reader(跨平台电子书阅读器) v2.3.4
+- ManicTime Pro v2026.1.4.0 修改版
+- Pogget(效率工具) v0.5.30 绿色版
+- RSS Guard(RSS阅读器) v5.1.2 绿色版
+
+---
+
+## 图像与媒体处理（32 款）
+
+- 视频音频转换器音频剪辑音频转换
+- AI扫描大师全能AI文档扫描识别解锁永久会员
+- 音乐快剪专业音频剪辑处理工具解锁永久会员
+- ADV 录像机前后置双摄专业高帧率录屏
+- PixScanAI文档全能扫描仪高级版专业版
+- AZ 录屏大师1080p高清录制解锁会员版
+- 音乐快剪专业音频剪辑处理工具解锁会员
+- House房屋3D设计高级版实景改造
+- Ashampoo Music Studio
+- CoolUtils Total Audio Conver
+- ASCOMP Easy Slideshow Pro v2
+- 扫描王全能宝高清扫描、格式转换解锁会员版
+- Origin 2022 专业绘图数据分析完整版
+- CAD 2026 软件分享：精准绘图利器
+- 电脑高科技一键去除各种视频和图片的水印
+- YT v10.6.5 便携版(下载油管视频工具)
+- IDM下载利器 v6.43.2 中文绿色特别版
+- IDM 6.43.6最强多线程下载神器附激活器
+- reaConverter Pro v8.0.236
+- 颂拼豆
+- 颂拼豆百万+拼豆图纸自定义图纸制作豆门必备
+- V9Compress压缩视频，减小体积解锁会员版
+- AudioConverter音频转换器高级版｜全格式通吃
+- Voice卡通视频生成｜一键录音，生成多种搞笑卡通视频。
+- 智能压缩大师图片视频批量压缩处理工具免费无广
+- Nomad中文版3D建模神器附新手建模教程
+- VueScan Pro v9.8.51 中文专业版 – 功能强大的图像扫描软件
+- Adobe Media Encoder ME v25.4.1 中文版 – 专业的音视频格式转码软件
+- Topaz Photo Pro v1.5.1 解锁版 – 专业AI 照片修复与降噪软件
+- 字体预览器(FontPreviewer) v1.1.1
+- WebpCodec(Webp图像查看工具) v0.19.9.0
+- 抖音PC版 v7.8.0 官方版
+
+---
+
+## 语言学习（31 款）
+
+- 彩云小译同声翻译文档翻译
+- 不背单词会员功能解锁版 备考神器 高考考研四级
+- 多言同学两万词书和原著无限次口语测评/跟读
+- 漫画屏幕翻译追漫追番一键翻译
+- 多邻国 6.90.2解锁无限红心免费学习多国语言
+- 奶酪单词海量词库趣味学习带解锁会员教程
+- Mondly博门语言学习高级版41种语言+离线学习等
+- All tools所有工具全能实用工具箱高级版
+- 瞬译 解锁会员屏幕翻译神器 多功能翻译
+- 每日英语听力46级必备
+- 多邻国解锁无限红心学习多国语言
+- ViiTor实时翻译翻译天花板19种语言秒翻译
+- 多邻国最新解锁红心免费学习多国语言
+- 省心英语最棒的学习英语软件内置万种英语学习资源
+- 优学翻译官智能翻译助手解锁会员
+- 无痛单词学四级、六级、英语必备解锁会员版
+- 词咔随拍拍照识词背单词神器即拍即学多语言
+- ViiTor实时翻译沟通外挂19种语言秒翻
+- 每日英语听力专为英语学习者打造
+- 每日英语阅读经典名著，趣味故事
+- 每日英语听力46级必备提高英语成绩
+- Busuu博树多国语言学习高级版纠错、母语、离线等
+- 多邻国 6.92.2解锁无限红心免费学习多国语言
+- Echo Loop 高效英语听说训练App 盲听精听跟读复述
+- 欧路词典 v9.6.5 去广告破解版 – 英语学习软件
+- Beelinguapp v3.151 破解版 – 外语有声翻译软件
+- 考霸刷题宝 v1.6.8 会员版 – 各学段在线刷题软件
+- 无痛单词 v2.7.0 破解版 – 刷词记词英语学习软件
+- 每日英语听力 v11.5.4 会员版 – 英语学习必备听力软件
+- 多邻国 v6.33.4 会员版 – 多国外语学习软件
+- 学英语FunEasyL
+
+---
+
+## 动漫追番（29 款）
+
+- ThemeApp专业手机桌面美化解锁会员版
+- One4Wall高清4k壁纸，动态壁纸解锁会员版
+- PhoneWalls高清4k壁纸，动漫风景解锁会员版
+- Wallpics壁纸工坊高级版超4K动态壁纸+DIY
+- AIvideoAI视频生成解锁版无限文生视频非常逼真
+- Walli 4K高清4k壁纸动漫风景应有尽有
+- Tap屏幕翻译高级版翻译游戏/漫画/聊天支持离线
+- MT阅读器纯净漫画小说阅读器 内置自动翻译
+- 【安卓】Dreamerland无敏感生图?无限制
+- AcFun 哔哩哔哩的好兄弟免费看番剧视频等
+- PhoneWalls 解锁版4K动态精美壁纸
+- MH-ARK 免费无广告纯净漫画阅读器
+- BVD 哔哩哔哩全能下载器无水印下载番剧/视频等
+- 手机滑动屏幕2.0解放双手自动刷视频看小说
+- 游戏实时变声器手游开黑语音变音AI配音高级版
+- 动漫天堂最新版免费极速无广
+- 哔哩哔哩内置漫游模块解锁番剧限制 纯净去广告等功能
+- JMComic3禁漫最终纯净版
+- 黑猫影视 v2.2.0 去广告纯净版 – 免费丰富在线视频软件
+- 零度影视(MITO影视) v1.1.0 去广告纯净版 – 免费影视追剧软件
+- 稀饭动漫 v3.6.0 去广告纯净版 – 专为二次元爱好者设计的动漫软件
+- 哔哩哔哩bilibili v3.19.2 谷歌版 – 国内知名的动漫视频弹幕社区
+- 鸭梨鸭梨动漫 v1.2.1 去广告纯净版 – 免费二次元追番神器
+- 次元站 v1.3.4.8 去广告纯净版 – 海量二次元动漫资源软件
+- MiFun动漫 v5.1.5 去广告纯净版 – 免费二次元追番神器
+- DuoFun 1.0.3 去广告会员版 – 免费动漫追番软件
+- OmoFun v1.1.0 去广告绿色版 – 免费二次元动漫番剧软件
+- 酷漫熊/梦绘界/美漫园/梦漫彩 v1.0.7/v1.0.1/v1.0.4/v1.
+- CliCli动漫 v1.0.4.7 纯净版 – 二次元弹幕观漫神器
+
+---
+
+## 聊天社交（28 款）
+
+- ScreenCapture v2.4.25 中文绿色版
+- 起开 虚拟恋人无限制聊天 Ai生成恋人
+- ChatGPT 1.2026.195全球顶级AI模型
+- Grok 马斯克的AI?无限制Ai生成无违禁聊天
+- DSeekDeepseek海外版 无限制满血聊天
+- SynClub 虚拟恋人无违禁词?无限制聊天
+- RPClient部署本地虚拟恋人/剧情故事交互
+- 【安卓】小小 v1.16.2百变角色聊天专属AI分身
+- OMateChat谷歌版部署本地虚拟恋人 无违禁聊天
+- 南风天气精准分钟级降雨预报神器免费无广
+- JoyAI?你的专属Ai乖乖女友㊙虚拟女友
+- Chai 0.4.406无敏感虚拟女友什么都能聊
+- 鱼丸水印相机自定义时间地点打卡拍照免费无广
+- Talkie ?无敏感限制虚拟女友聊天专属恋人
+- Outlook注册工具 v1.0 辅助邮箱注册工具
+- 章鱼输入法解锁永久会员内置几十万聊天话术
+- 微博手表版8.5.3轻体积超省点｜啥都可以干嘎嘎猛
+- 新浪微博16.6.2内置模块~无广观看美女新闻安卓版
+- MoguChat小日子人气无敏感聊天虚拟女友
+- Saylo 2.5.0无限制AI女友聊天登录方法
+- FLAI 最新版无敏感虚拟女友无词汇限制
+- 独响精品玩法｜智能AI女友男友无限聊天｜AI朋友圈
+- SynClub无敏感虚拟女友什么都可以聊
+- Amo AI自定义AI聊天角色AI模型自由挑选
+- 怦怦AI情感陪伴虚拟恋人多模态互动聊天工具
+- 阅色（随机小姐姐视频 内置10＋接口 支持下载
+- 抖音内存模块版，内设多功能模块，无水印下载，去广告！！！
+- 微信PC v4.1.9.35 官方版
+
+---
+
+## 恐怖生存（27 款）
+
+- 迷失/流浪猫 stray中文switch模拟器！(游戏)
+- 抬头只见天花板v1.8.0.4[完整版]Steam移植
+- 重返蓝鲸岛美区中文v1.0.7整合版switch模拟器！(游戏)
+- 时钟塔恐惧重播中文switch模拟器！(游戏)
+- 双人成行好玩搞笑神作，支持双人线下游玩！
+- 蔚蓝Celeste[完整版]游戏非常简单，全通也就死了一万多次而已QwQ!
+- 晨曦族人v1.0.19 手机也能玩pc游戏！
+- 秘奥秘宇奥忆（switch手机版）
+- 卡片魔王只剩个头（完整版）轻度肉鸽半回合制爽玩！
+- 萌龙进化论|合成龙（完整版+免内购）不仅是一款三消合成游戏，更是一个庞大的龙岛经营模拟！
+- 后室：恐怖（汉化免谷歌）
+- 米塔
+- 魂之眼（汉化）
+- 恐怖学校：白色情人节（免付费解锁完整版）
+- 失落的记忆（免付费解锁完整版）
+- 红怪（免付费解锁完整版）
+- 生化危机4（免付费解锁完整版）
+- 逃离病娇
+- 恐怖狩猎直到黎明
+- 波比的游戏时间
+- 黑暗的土壤
+- 致命公司
+- 独臂逃生
+- 行尸走肉第二季（完整版+免付费+汉化版）
+- 脑叶公司v1.0.2.13F1最终整合中文版手机也能玩pc游戏！
+- 生化危机2重制版手机也能玩pc游戏！
+- 夜幕降临_联机版
+
+---
+
+## 广告拦截（23 款）
+
+- NFC读写王 高级去广告最强NFC复制模拟器
+- APK去广告编辑器一键去除软件广告
+- 欧朋浏览器暴力玩法｜主打隐私安全｜无痕任意浏览
+- X浏览器脚本扩展，广告拦截极简浏览器
+- 魔术橡皮解锁永久会员去广告一键擦除各种东西
+- WiFi万能钥匙极速版无限连接免费WiFi去广告版
+- 营销通知拦截器系统级营销推送拦截
+- StoryPad日记2.26.2轻便日记｜绿化版
+- Notifications通知档案高级版全消息防撤回
+- Blocker去除流氓广告拦截广告优化手机
+- AdGuard去广告大杀器?去除手机一切广告
+- IQ智商测试 纯净去广告快速测试智商
+- 哔哩哔哩漫游模块免root使用 解锁番剧限制等功能
+- 戒色提醒助手油猴脚本全域网页低俗内容拦截自律净化
+- WiFi万能钥匙 1.1.91精简去广告免登陆
+- receive sms 纯净去广告临时免费虚拟手机号
+- GKD v1.12.1-plus.6跳过开屏广告
+- 知乎--第三方知乎去广告占用低阅读体验更好
+- 【安卓】广告跳过 v1.3一键跳过广告本地模型增强功能
+- BlockAds广告拦截器 去除软件各类广告
+- SKIP v3.1.0 官方版 – 安卓免费开源自动跳过广告软件
+- AdGuard v4.11.63 中文许可版 – 最受欢迎的手机广告拦截工具
+- AdGuard去广告
+
+---
+
+## 未分类（22 款）
+
+- [Weather天气雷达解锁版精准天气雷达监测](https://pan.quark.cn/s/087d06d860fa)
+- [Edge浏览器无限上网内置油猴访问](https://pan.quark.cn/s/f8e471262a7c)
+- [VidTube国内外视频下载器什么都能下](https://pan.quark.cn/s/d6416ab29f45)
+- [AZ Screen Recorder 边玩边录不掉帧](https://pan.quark.cn/s/7f1183df7517)
+- [pdf全能免费转换一站式解决格式问题](https://pan.quark.cn/s/975a1b96da59)
+- [快速简历生成器专业级模板一键生成求职简历高级版](https://pan.quark.cn/s/7aec7212afb2)
+- [Vidma Player全能视频播放器高级版](https://pan.quark.cn/s/b2b9ca3babab)
+- [我的日记1.04.15支持密码加密](https://pan.baidu.com/s/12dVqWpcKcxJcWRhkAN49Cw?pwd=ibx2)
+- [Windy.app全球最强天气预报解锁会员版](https://pan.quark.cn/s/c8a751313b61)
+- [Uptodown谷歌商店第三方 免登陆免谷歌服务下载](https://pan.quark.cn/s/4c5d1d3cf31a)
+- [［分享］PC-疯歌音效平台-变声器-虚拟声卡](https://pan.quark.cn/s/710167d8f655)
+- [dsp第三方DeepSeek更强大的功能](https://pan.quark.cn/s/ef4dc45c718b)
+- [Operit AI集成40+工具与MCP插件好用！](https://pan.baidu.com/s/1hY3na0NHzvNBFWXFKXY9hg?pwd=bohn)
+- [ZX 文件管理器短视频提取，文件扫描，文件清理解锁版](https://pan.quark.cn/s/58bdd8195e13)
+- [清墨最新版纯净阅读小说免费无广](https://pan.baidu.com/s/1LQkH_MVPv331jqghaLAsXQ?pwd=ni1e)
+- [【安卓】云析 v1.2.4 多网盘解析与高速下载工具](https://pan.quark.cn/s/390708c370fe)
+- [ToDesk云电脑随开随用高端云配](https://pan.quark.cn/s/fcea0ca050b6)
+- [Anatomy Learning会员版3D人体解剖](https://pan.quark.cn/s/6171e990ae8c)
+- 心动次元 虚拟恋人无限次无违禁聊天 内置免费通道
+- 清墨最新版 纯净无广小说阅读器专注阅读
+- 最新番茄小说下载器一键下载小说支持自动阅读
+- APK去广告编辑器一键去除软件广告小白也能变高手
+
+---
+
+## 工具（20 款）
+
+- WebToApp网站转应用特别版，打造功能齐全的apk。
+- OwnDroid
+- 黑域
+- Staller
+- Dhizuku(改签版)
+- Axmanager
+- shizuku
+- cat
+- Lspatch
+- 甲壳虫ADB助手
+- 免费AI制作视频 一键生成爆款AI视频AI绘画
+- 洛雪音乐魔改版，结合五大音乐平台 支持母带下载
+- 克隆大师
+- 抖印
+- 种子磁力下载器
+- 豆印
+- 聆听岛
+- 汽水音乐模块
+- vmos虚拟机
+- 上号器
+
+---
+
+## 听书有声（16 款）
+
+- Reeden自用纯净小说阅读支持听书多角色
+- 随心听书最新版，小说听书神器免费使用无广
+- Koodo Reader纯净小说阅读支持听书
+- 静读天下专业高级版40+电子书格式朗读+PDF批注
+- TXT极简阅读器1.3极限阅读器无限阅读支持听书
+- Spotify声破天最新版全球音乐播放
+- CloneTTS最强朗读引擎可克隆一切音色
+- VoxEngineAI文本转语音合成内置免费引擎
+- CloneTTS最强朗读听书引擎可克隆一切音色
+- 宝宝故事宝妈必备一键让宝宝听故事解锁永久会员
+- 语音合成助手解锁会员多场景文字转语音配音工具
+- 中华万年历解锁会员日历天气日程记事工具
+- 简约备忘记事本解锁会员极简加密云端记事本
+- 哈哈儿童动画绘本解锁会员儿童启蒙绘本趣味阅读
+- 飞韵听书/云动听书 v1.3.8 会员版 – 免费小说有声阅读软件
+- 老白故事 v1.1.7 去广告纯净版
+
+---
+
+## 阅读听书（11 款）
+
+- Wispar免费下蚊县+AI翻译彻底告别付费
+- Koodo Reader
+- ReadEra最新版电子阅读器一键导入支持朗读
+- 博看书苑\nv8.9.9\n综合性数字阅读
+- Readest v0.11.20 中文便携版 全能开源跨平台电子书阅读器
+- FullReade本地阅读器支持所有格式 批注改
+- 极简漫画解锁会员漫画阅读神器支持网盘导入
+- 简历管家解锁会员求职简历制作工具
+- Xodo高级版全能PDF编辑批注转换工具
+- Anx Reader 阅读器纯净无广告小说阅读器
+- 喜马拉雅 v9.2.94.3精简版/3.3.16.3极速版 – 有声阅读软件
+
+---
+
+## 教育学习（8 款）
+
+- 电工仿真软件电工学习与实操的随身实验室
+- 迅工电气仿真
+- Knots3D200+3D+
+- 倪师课程-中医大全
+- 土豆同学天天打卡AI自动计数跳绳智能体育运动
+- Studi AI高级版AI作业解题扫描答疑学习
+- Anatomy Learning会员版3D人体解析图
+- 豆包爱学AI全科家教作业批改+拍题讲解+作文辅导
+
+---
+
+## 脚本（7 款）
+
+- 自动评论器
+- 连点器精灵自定义点击游戏抢购办公自动化
+- 一触即发免root自动化脚本 一键执行
+- 豆包下载助手油猴脚本网页版图片视频批量抓取下载
+- 豆包批量删除聊天记录油猴脚本网页版会话批量清理
+- 支付宝谷歌版 内置模块自动刷视频红包 做任务等
+- CS2 外部透视雷达防录屏免费辅助
+
+---
+
+## 考试工具（6 款）
+
+- 驾校百事通已解锁全部会员愿成功上岸
+- 点击全能王极速点击 连点器抢红包 任务自由
+- 懒熊驾考科目一到科目四解锁会员版
+- Test Maker5.0.4考试生成器高级版
+- 驾考联盟
+- 驾考精灵 v1.7.8.4 解锁会员版 – 丰富驾考题库软件
+
+---
+
+## 娱乐专区（5 款）
+
+- 抖音港澳版 无广告商城含港澳内容与原版共存
+- 大六壬
+- 星座运势百科屋星座解析｜星座匹配｜运势查看｜绿化版
+- 魔声游戏变声宝手游开麦整活变声解锁会员
+- 抖音谷歌版共存原版 纯净无广告 可登录使用
+
+---
+
+## 手机游戏（5 款）
+
+- 外置准星
+- 小马模拟器内置上万款童年经典游戏可开作弊金手指
+- 创游世界云玩创作属于自己的游戏二次创作游戏
+- 盖世掌游 免费无广告掌上手游模拟器
+- yuzu 安卓最强游戏模拟器一键导入本地手游
+
+---
+
+## 音乐软件（3 款）
+
+- DB音乐 纯净免费聚合畅听全网音乐 国内外音乐都可听
+- XEQ均衡器低音增强器v36.13.0解锁高级版
+- FuoEvolve 全新音乐软件聚合畅听下载全网音乐
+
+---
+
+## 18+游戏（3 款）
+
+- 不良的出包王女 不良のとらぶる
+- 狐娘的性爱农场 Fox 官中步兵正式版
+- 巧克甜恋3 Amairo Chocolata 3  あまいろショコラータ
+
+---
+
+## 教程（2 款）
+
+- 一键隐藏root环境
+- gg修改器制作教程
+
+---
+
+## PC应用（1 款）
+
+- Autodesk 3DS MAX 2027.2.0
+
+---
+
+## 摄影美图（1 款）
+
+- 可颂
+
+---
+
+## 直装（1 款）
+
+- 和平精英泡沫美化包
+
+---
+

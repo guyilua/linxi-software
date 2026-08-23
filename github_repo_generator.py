@@ -178,6 +178,42 @@ def generate_readme(posts):
 
     return content
 
+def generate_all_softwares(posts):
+    """生成完整的软件索引（方便GitHub搜索索引）"""
+    log("生成 all_softwares.md...")
+
+    content = f"""# 全部软件索引（共 {len(posts)} 款）
+
+> 本文件包含所有软件清单，用于 GitHub 搜索索引。按分类组织，每个分类内按ID倒序排列。
+> 
+> [返回主页](README.md)
+
+---
+
+"""
+
+    # 按分类分组并排序
+    categories = {}
+    for post in posts:
+        cat = post.get("category", "未分类")
+        categories.setdefault(cat, []).append(post)
+
+    sorted_cats = sorted(categories.items(), key=lambda x: -len(x[1]))
+
+    for cat_name, cat_posts in sorted_cats:
+        content += f"## {cat_name}（{len(cat_posts)} 款）\n\n"
+        for post in cat_posts:
+            title = post.get("title", "")
+            post_id = post.get("id", "")
+            dl = post.get("download_link", "")
+            if dl:
+                content += f"- [{title}]({dl})\n"
+            else:
+                content += f"- {title}\n"
+        content += "\n---\n\n"
+
+    return content
+
 
 def generate_category_page(cat_name, cat_posts):
     """生成分类详情页"""
@@ -247,7 +283,12 @@ def main():
             f.write(page_content)
         cat_count += 1
 
-    log(f"分类页已生成: {cat_count} 个")
+    log(f"分类页已生成: {cat_count} 个")    # 生成完整索引（方便GitHub搜索）
+    all_softwares = generate_all_softwares(posts)
+    with open(os.path.join(REPO_DIR, "all_softwares.md"), 'w', encoding='utf-8') as f:
+        f.write(all_softwares)
+    log(f"all_softwares.md 已生成 ({len(all_softwares)} 字符)")
+
     log(f"软件总数: {len(posts)} 款")
     log("完成!")
 
