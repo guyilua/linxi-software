@@ -1,0 +1,338 @@
+package com.rtk.app.adapter;
+
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import androidx.annotation.CallSuper;
+import androidx.annotation.UiThread;
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.Unbinder;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.makeramen.roundedimageview.RoundedImageView;
+import com.rtk.app.R;
+import com.rtk.app.bean.AuditIconListBean;
+import com.rtk.app.bean.AuditResultBean;
+import com.rtk.app.main.dialogPack.DialogForAuditCheckReason;
+import com.rtk.app.tool.o.h;
+import com.sigmob.sdk.downloader.f;
+import com.umeng.analytics.pro.ak;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
+/* loaded from: /tmp/rtk_apk/classes3.dex */
+public class AuditIconAdapter extends a3 implements h.j {
+
+    /* renamed from: c, reason: collision with root package name */
+    private Context f35c;
+    private ViewHolder d;
+    private List<AuditIconListBean.DataDTO> e;
+    private int f;
+    private int g;
+    private Gson h;
+
+    /* JADX INFO: Access modifiers changed from: protected */
+    /* loaded from: /tmp/rtk_apk/classes3.dex */
+    public static class ViewHolder {
+        View a;
+
+        @BindView
+        RoundedImageView auditIconListItemAuditCheckUserIcon;
+
+        @BindView
+        LinearLayout auditIconListItemAuditCheckUserLv;
+
+        @BindView
+        TextView auditIconListItemAuditCheckUserNickName;
+
+        @BindView
+        TextView auditIconListItemAuditCheckUserReason;
+
+        @BindView
+        TextView auditIconListItemDeleteBtu;
+
+        @BindView
+        TextView auditIconListItemGrade;
+
+        @BindView
+        RoundedImageView auditIconListItemIcon;
+
+        @BindView
+        RoundedImageView auditIconListItemNewIcon;
+
+        @BindView
+        TextView auditIconListItemNickName;
+
+        @BindView
+        TextView auditIconListItemNoPassBtu;
+
+        @BindView
+        TextView auditIconListItemPassBtu;
+
+        @BindView
+        TextView auditIconListItemState;
+
+        @BindView
+        LinearLayout auditIconListItemStateBtuLv;
+
+        @BindView
+        TextView auditIconListItemTime;
+
+        ViewHolder(View view) {
+            ButterKnife.b(this, view);
+            this.a = view;
+        }
+    }
+
+    /* loaded from: /tmp/rtk_apk/classes3.dex */
+    public class ViewHolder_ViewBinding implements Unbinder {
+        private ViewHolder b;
+
+        @UiThread
+        public ViewHolder_ViewBinding(ViewHolder viewHolder, View view) {
+            this.b = viewHolder;
+            viewHolder.auditIconListItemIcon = (RoundedImageView) butterknife.c.a.c(view, R.id.audit_icon_list_item_icon, "field 'auditIconListItemIcon'", RoundedImageView.class);
+            viewHolder.auditIconListItemNickName = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_nickName, "field 'auditIconListItemNickName'", TextView.class);
+            viewHolder.auditIconListItemGrade = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_grade, "field 'auditIconListItemGrade'", TextView.class);
+            viewHolder.auditIconListItemTime = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_time, "field 'auditIconListItemTime'", TextView.class);
+            viewHolder.auditIconListItemPassBtu = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_pass_btu, "field 'auditIconListItemPassBtu'", TextView.class);
+            viewHolder.auditIconListItemNoPassBtu = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_no_pass_btu, "field 'auditIconListItemNoPassBtu'", TextView.class);
+            viewHolder.auditIconListItemDeleteBtu = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_delete_btu, "field 'auditIconListItemDeleteBtu'", TextView.class);
+            viewHolder.auditIconListItemStateBtuLv = (LinearLayout) butterknife.c.a.c(view, R.id.audit_icon_list_item_stateBtu_lv, "field 'auditIconListItemStateBtuLv'", LinearLayout.class);
+            viewHolder.auditIconListItemState = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_state, "field 'auditIconListItemState'", TextView.class);
+            viewHolder.auditIconListItemNewIcon = (RoundedImageView) butterknife.c.a.c(view, R.id.audit_icon_list_item_new_icon, "field 'auditIconListItemNewIcon'", RoundedImageView.class);
+            viewHolder.auditIconListItemAuditCheckUserIcon = (RoundedImageView) butterknife.c.a.c(view, R.id.audit_icon_list_item_audit_check_user_icon, "field 'auditIconListItemAuditCheckUserIcon'", RoundedImageView.class);
+            viewHolder.auditIconListItemAuditCheckUserNickName = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_audit_check_user_nick_name, "field 'auditIconListItemAuditCheckUserNickName'", TextView.class);
+            viewHolder.auditIconListItemAuditCheckUserReason = (TextView) butterknife.c.a.c(view, R.id.audit_icon_list_item_audit_check_user_reason, "field 'auditIconListItemAuditCheckUserReason'", TextView.class);
+            viewHolder.auditIconListItemAuditCheckUserLv = (LinearLayout) butterknife.c.a.c(view, R.id.audit_icon_list_item_audit_check_user_lv, "field 'auditIconListItemAuditCheckUserLv'", LinearLayout.class);
+        }
+
+        @CallSuper
+        public void a() {
+            ViewHolder viewHolder = this.b;
+            if (viewHolder != null) {
+                this.b = null;
+                viewHolder.auditIconListItemIcon = null;
+                viewHolder.auditIconListItemNickName = null;
+                viewHolder.auditIconListItemGrade = null;
+                viewHolder.auditIconListItemTime = null;
+                viewHolder.auditIconListItemPassBtu = null;
+                viewHolder.auditIconListItemNoPassBtu = null;
+                viewHolder.auditIconListItemDeleteBtu = null;
+                viewHolder.auditIconListItemStateBtuLv = null;
+                viewHolder.auditIconListItemState = null;
+                viewHolder.auditIconListItemNewIcon = null;
+                viewHolder.auditIconListItemAuditCheckUserIcon = null;
+                viewHolder.auditIconListItemAuditCheckUserNickName = null;
+                viewHolder.auditIconListItemAuditCheckUserReason = null;
+                viewHolder.auditIconListItemAuditCheckUserLv = null;
+                return;
+            }
+            throw new IllegalStateException("Bindings already cleared.");
+        }
+    }
+
+    public AuditIconAdapter(Context context, List<AuditIconListBean.DataDTO> list, int i, int i2) {
+        super(list);
+        this.f = 0;
+        this.g = 0;
+        this.h = new GsonBuilder().enableComplexMapKeySerialization().create();
+        this.f35c = context;
+        this.e = list;
+        this.f = i;
+        this.g = i2;
+    }
+
+    private void e(int i, int i2, String str) {
+        AuditIconListBean.DataDTO dataDTO = this.e.get(i2);
+        HashMap hashMap = new HashMap();
+        Context context = this.f35c;
+        hashMap.put("channel", com.rtk.app.tool.y.m(context, context.getPackageName()));
+        hashMap.put("version", com.rtk.app.tool.y.i(this.f35c));
+        hashMap.put(ak.aj, com.rtk.app.tool.y.g());
+        hashMap.put("phone_model", com.rtk.app.tool.y.T());
+        hashMap.put("uid", com.rtk.app.tool.y.K() + "");
+        hashMap.put("token", com.rtk.app.tool.y.H());
+        hashMap.put("cid", dataDTO.getCid());
+        hashMap.put("msg", str);
+        hashMap.put("state", i + "");
+        hashMap.put("key", com.rtk.app.tool.t.c0(com.rtk.app.tool.c0.e(com.rtk.app.tool.y.v(this.f35c, "uid=" + com.rtk.app.tool.y.K(), "token=" + com.rtk.app.tool.y.H(), "cid=" + dataDTO.getCid(), "state=" + i))));
+        Context context2 = this.f35c;
+        StringBuilder sb = new StringBuilder();
+        sb.append(com.rtk.app.tool.y.e);
+        sb.append("user/check/avatar-operate");
+        com.rtk.app.tool.o.h.j(context2, this, sb.toString(), i2, hashMap);
+    }
+
+    private void f(ViewHolder viewHolder, final int i) {
+        viewHolder.auditIconListItemIcon.setOnClickListener(new View.OnClickListener() { // from class: com.rtk.app.adapter.f
+            @Override // android.view.View.OnClickListener
+            public final void onClick(View view) {
+                AuditIconAdapter.this.i(i, view);
+            }
+        });
+        viewHolder.auditIconListItemNoPassBtu.setOnClickListener(new View.OnClickListener() { // from class: com.rtk.app.adapter.l
+            @Override // android.view.View.OnClickListener
+            public final void onClick(View view) {
+                AuditIconAdapter.this.k(i, view);
+            }
+        });
+        viewHolder.auditIconListItemDeleteBtu.setOnClickListener(new View.OnClickListener() { // from class: com.rtk.app.adapter.k
+            @Override // android.view.View.OnClickListener
+            public final void onClick(View view) {
+                AuditIconAdapter.this.m(i, view);
+            }
+        });
+        viewHolder.auditIconListItemPassBtu.setOnClickListener(new View.OnClickListener() { // from class: com.rtk.app.adapter.e
+            @Override // android.view.View.OnClickListener
+            public final void onClick(View view) {
+                AuditIconAdapter.this.o(i, view);
+            }
+        });
+        viewHolder.auditIconListItemAuditCheckUserLv.setOnClickListener(new View.OnClickListener() { // from class: com.rtk.app.adapter.g
+            @Override // android.view.View.OnClickListener
+            public final void onClick(View view) {
+                AuditIconAdapter.this.q(i, view);
+            }
+        });
+        viewHolder.auditIconListItemNewIcon.setOnClickListener(new View.OnClickListener() { // from class: com.rtk.app.adapter.j
+            @Override // android.view.View.OnClickListener
+            public final void onClick(View view) {
+                AuditIconAdapter.this.s(i, view);
+            }
+        });
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: h, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void i(int i, View view) {
+        AuditIconListBean.DataDTO dataDTO = this.e.get(i);
+        com.rtk.app.tool.t.B0(this.f35c, dataDTO.getUser().getId() + "");
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: j, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void k(final int i, View view) {
+        new DialogForAuditCheckReason(this.f35c, R.array.audit_reason_icon, new com.rtk.app.tool.s() { // from class: com.rtk.app.adapter.i
+            @Override // com.rtk.app.tool.s
+            public final void a(String[] strArr) {
+                AuditIconAdapter.this.u(i, strArr);
+            }
+        }).show();
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: l, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void m(final int i, View view) {
+        new DialogForAuditCheckReason(this.f35c, R.array.audit_reason_icon, new com.rtk.app.tool.s() { // from class: com.rtk.app.adapter.h
+            @Override // com.rtk.app.tool.s
+            public final void a(String[] strArr) {
+                AuditIconAdapter.this.w(i, strArr);
+            }
+        }).show();
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: n, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void o(int i, View view) {
+        e(3, i, "");
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: p, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void q(int i, View view) {
+        if (this.e.get(i).getCheck_user() != null) {
+            com.rtk.app.tool.t.B0(this.f35c, this.e.get(i).getCheck_user().getCheck_uid());
+        }
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: r, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void s(int i, View view) {
+        ArrayList arrayList = new ArrayList();
+        arrayList.add(this.e.get(i).getNew_avatar_url().getHd_face());
+        com.rtk.app.tool.t.C0(this.f35c, arrayList, 0);
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: t, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void u(int i, String[] strArr) {
+        e(2, i, strArr[0]);
+    }
+
+    /* JADX INFO: Access modifiers changed from: private */
+    /* renamed from: v, reason: merged with bridge method [inline-methods] */
+    public /* synthetic */ void w(int i, String[] strArr) {
+        e(4, i, strArr[0]);
+    }
+
+    @Override // com.rtk.app.tool.o.h.j
+    public void d(String str, int i) {
+        com.rtk.app.tool.c0.u("AuditIconAdapter", "头像审核成功：" + str);
+        AuditResultBean auditResultBean = (AuditResultBean) this.h.fromJson(str, AuditResultBean.class);
+        if (auditResultBean.getCode() != 0 || auditResultBean.getData() == null) {
+            return;
+        }
+        this.e.get(i).setState(auditResultBean.getData().getState() + "");
+        notifyDataSetChanged();
+    }
+
+    @Override // com.rtk.app.tool.o.h.j
+    public void g(int i, String str, int i2) {
+        com.rtk.app.tool.c0.u("AuditIconAdapter", "头像审核失败：" + str);
+        com.rtk.app.tool.f.a(this.f35c, str, f.a.f);
+    }
+
+    @Override // android.widget.Adapter
+    public View getView(int i, View view, ViewGroup viewGroup) {
+        if (view == null) {
+            view = LayoutInflater.from(this.f35c).inflate(R.layout.audit_icon_list_item_layout, (ViewGroup) null);
+            ViewHolder viewHolder = new ViewHolder(view);
+            this.d = viewHolder;
+            view.setTag(viewHolder);
+        } else {
+            this.d = (ViewHolder) view.getTag();
+        }
+        AuditIconListBean.DataDTO dataDTO = this.e.get(i);
+        com.rtk.app.tool.t.c(this.f35c, dataDTO.getUser().getFace(), this.d.auditIconListItemIcon, new boolean[0]);
+        this.d.auditIconListItemNickName.setText(dataDTO.getUser().getNickname());
+        this.d.auditIconListItemTime.setText(dataDTO.getAdd_time());
+        int parseInt = Integer.parseInt(dataDTO.getState());
+        c.d.a.d.f(this.f35c, this.d.auditIconListItemState, parseInt);
+        com.rtk.app.tool.t.c(this.f35c, dataDTO.getNew_avatar_url().getFace(), this.d.auditIconListItemNewIcon, new boolean[0]);
+        this.d.auditIconListItemGrade.setText(dataDTO.getUser().getUserTitleBean().getTxt());
+        int i2 = this.f;
+        if (i2 == 1) {
+            this.d.auditIconListItemPassBtu.setVisibility(parseInt == 3 ? 8 : 0);
+            this.d.auditIconListItemNoPassBtu.setVisibility(parseInt == 1 ? 0 : 8);
+            this.d.auditIconListItemDeleteBtu.setVisibility((parseInt == 4 || parseInt == 1 || parseInt == 2) ? 8 : 0);
+        } else if (i2 == 2) {
+            this.d.auditIconListItemPassBtu.setVisibility(parseInt == 1 ? 0 : 8);
+            this.d.auditIconListItemNoPassBtu.setVisibility(parseInt == 1 ? 0 : 8);
+            this.d.auditIconListItemDeleteBtu.setVisibility(8);
+        } else {
+            this.d.auditIconListItemPassBtu.setVisibility(8);
+            this.d.auditIconListItemNoPassBtu.setVisibility(8);
+            this.d.auditIconListItemDeleteBtu.setVisibility(8);
+        }
+        if (this.g == 1) {
+            this.d.auditIconListItemAuditCheckUserLv.setVisibility(0);
+            if (dataDTO.getCheck_user() != null && !com.rtk.app.tool.c0.q(dataDTO.getCheck_user().getCheck_nickname())) {
+                com.rtk.app.tool.t.c(this.f35c, dataDTO.getCheck_user().getCheck_face(), this.d.auditIconListItemAuditCheckUserIcon, new boolean[0]);
+                this.d.auditIconListItemAuditCheckUserNickName.setText(dataDTO.getCheck_user().getCheck_nickname());
+                this.d.auditIconListItemAuditCheckUserReason.setText(dataDTO.getCheck_user().getCheck_reason());
+            } else {
+                this.d.auditIconListItemAuditCheckUserLv.setVisibility(8);
+            }
+        } else {
+            this.d.auditIconListItemAuditCheckUserLv.setVisibility(8);
+        }
+        f(this.d, i);
+        return view;
+    }
+}

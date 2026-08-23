@@ -1,0 +1,108 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - img [ref=e5] [cursor=pointer]
+    - generic [ref=e6]:
+      - text: 意见反馈
+      - link "在线客服" [ref=e7] [cursor=pointer]:
+        - /url: https://ufosdk.baidu.com/bailingPC/getEntryPath/eG8Bo9LKhwNaa+UzF4RrYU-3KF8SAV35kX+Zqjzyp8U=
+      - text: 百度首页
+      - img [ref=e9] [cursor=pointer]
+  - generic [ref=e11]:
+    - generic [ref=e13]:
+      - generic [ref=e17] [cursor=pointer]: 个人中心
+      - generic [ref=e19]:
+        - generic [ref=e20] [cursor=pointer]:
+          - generic [ref=e22]: 用户名
+          - generic [ref=e24]: 去设置
+        - generic [ref=e26] [cursor=pointer]:
+          - generic [ref=e28]: 绑定手机
+          - generic [ref=e30]: 192******21
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e34]: 登录密码
+          - generic [ref=e36]: 去设置
+        - generic [ref=e40] [cursor=pointer]: 查询关联账号
+      - generic [ref=e44]:
+        - generic [ref=e46] [cursor=pointer]:
+          - generic [ref=e47]: 登录设备
+          - generic [ref=e48]: 可移除登录设备、登录态
+        - generic [ref=e53] [cursor=pointer]: 账号安全中心
+      - generic [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]: 账号注销
+        - generic [ref=e60]: 永久注销、无法恢复、请谨慎操作
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - paragraph [ref=e69]: "60"
+            - generic [ref=e70]:
+              - list [ref=e71]:
+                - listitem [ref=e72]
+                - listitem [ref=e73]
+                - listitem [ref=e74]
+                - listitem [ref=e75]
+                - listitem [ref=e76]
+              - paragraph [ref=e77]: 账号存在重大风险，请立即完善信息 我的身份认证
+          - generic [ref=e79] [cursor=pointer]: 去优化
+        - generic [ref=e80]:
+          - list:
+            - listitem [ref=e81] [cursor=pointer]:
+              - generic [ref=e82]: 我的身份认证
+              - generic [ref=e84]: 建议进行身份认证，有效防止盗号
+              - generic [ref=e85]: 去认证
+            - listitem [ref=e87] [cursor=pointer]:
+              - generic [ref=e88]: 我的账号密码
+              - generic [ref=e90]: 建议设置密码，避免无法登录
+              - generic [ref=e91]: 去设置
+            - listitem [ref=e93] [cursor=pointer]:
+              - generic [ref=e94]: 我的登录保护
+              - generic [ref=e96]: 建议开启登录保护，全方位保障账号安全
+              - generic [ref=e97]: 去开启
+            - listitem [ref=e99] [cursor=pointer]:
+              - generic [ref=e100]: 我的用户名
+              - generic [ref=e102]: 建议设置用户名，避免无法登录
+              - generic [ref=e103]: 去设置
+            - listitem [ref=e105] [cursor=pointer]:
+              - generic [ref=e106]: 我的绑定手机
+              - generic [ref=e108]: 手机已绑定，账号安全保障中
+              - generic [ref=e109]: 去查看
+      - generic [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113] [cursor=pointer]: 登录记录
+          - generic [ref=e114] [cursor=pointer]: 敏感记录
+        - generic [ref=e115]:
+          - table [ref=e117]:
+            - rowgroup [ref=e118]:
+              - row "登录方式 设备名称 系统 登录时间" [ref=e119]:
+                - columnheader "登录方式" [ref=e120]
+                - columnheader "设备名称" [ref=e121]
+                - columnheader "系统" [ref=e122]
+                - columnheader "登录时间" [ref=e123]
+            - rowgroup [ref=e124]:
+              - row "扫码登录 电脑 Linux 08-21 17:44" [ref=e125]:
+                - cell "扫码登录" [ref=e126]
+                - cell "电脑" [ref=e127]
+                - cell "Linux" [ref=e128]
+                - cell "08-21 17:44" [ref=e129]
+              - row "短信登录 移动设备 Android 08-20 13:53" [ref=e130]:
+                - cell "短信登录" [ref=e131]
+                - cell "移动设备" [ref=e132]
+                - cell "Android" [ref=e133]
+                - cell "08-20 13:53" [ref=e134]
+              - row "互通登录 移动设备 Android 08-20 03:18" [ref=e135]:
+                - cell "互通登录" [ref=e136]
+                - cell "移动设备" [ref=e137]
+                - cell "Android" [ref=e138]
+                - cell "08-20 03:18" [ref=e139]
+          - generic [ref=e140] [cursor=pointer]: 查看全部
+      - generic [ref=e143]:
+        - generic [ref=e146] [cursor=pointer]: 账号申诉
+        - generic [ref=e149] [cursor=pointer]: 账号注销
+  - generic [ref=e150]:
+    - button "我的客服" [ref=e151] [cursor=pointer]:
+      - link [ref=e152]:
+        - /url: https://ufosdk.baidu.com/bailingPC/getEntryPath/eG8Bo9LKhwNaa+UzF4RrYU-3KF8SAV35kX+Zqjzyp8U=
+        - img [ref=e153]
+    - button "意见反馈" [ref=e154] [cursor=pointer]:
+      - img [ref=e155]
+    - button "帮助中心" [ref=e156] [cursor=pointer]:
+      - img [ref=e157]

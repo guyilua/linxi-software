@@ -1,0 +1,472 @@
+================================================================================
+葫芦侠APP API接口分析报告
+================================================================================
+
+一、APK基本信息
+----------------------------------------
+包名: com.huluxia.gametools
+版本: 4.3.1.4
+版本号: 393
+DEX文件数: 4
+总类数: 16633
+
+二、发现的关键API路径
+----------------------------------------
+
+[登录认证API]
+  /account/login/ANDROID/4.1.8
+  /oauth/code
+  /oneclick/login/ANDROID/4.0
+  /post/authention/ANDROID/2.1
+  /qq/login/ANDROID/4.0
+  /sdk/account/realname/auth/ANDROID/4.0
+  /sdk/oauth/code/ANDROID/4.1
+  /sessoin/login/ANDROID/2.1
+  /tmp/login/ANDROID/2.2
+  /tmpkey/login/ANDROID/2.2
+  /v3/iasdkauth
+  /wx/login/ANDROID/4.0
+
+[发帖/论坛API]
+  /bbs/recommend/ANDROID/4.1.6
+  /book/create/ANDROID/3.6
+  /cancel/post/top/ANDROID/4.1.7
+  /cms/post/list/ANDROID/4.1
+  /cms/post/recommend/ANDROID/3.6
+  /comment/create/ANDROID/4.2
+  /commentaudit/create/list/ANDROID/4.1
+  /create/post/tip/ANDROID/4.1.7
+  /create/power/ANDROID/2.3
+  /favorite/group/create/ANDROID/4.1.8
+  /game/comment/create/ANDROID/4.1.6
+  /game/comment/create/list/ANDROID/4.1.6
+  /game/favorite/create/ANDROID/3.6
+  /game/tool/create/list/ANDROID/4.2.3
+  /news/comment/create/ANDROID/4.1
+  /news/comment/create/list/ANDROID/4.1
+  /news/favorite/create/ANDROID/1.0
+  /post/authention/ANDROID/2.1
+  /post/create/ANDROID/4.2.3
+  /post/create/list/ANDROID/4.1.8
+  /post/detail/ANDROID/4.2.2
+  /post/detail/floor/ANDROID/4.2.2
+  /post/draft/count/ANDROID/4.2.2
+  /post/draft/create/ANDROID/4.2.2
+  /post/draft/destroy/ANDROID/4.2.2
+  /post/draft/detail/ANDROID/4.2.2
+  /post/draft/list/ANDROID/4.2.2
+  /post/draft/update/ANDROID/4.2.2
+  /post/favorite/batch/destroy/ANDROID/2.1
+  /post/favorite/destroy/NotContain/ANDROID/2.1
+  /post/favorite/group/move/ANDROID/4.1.8
+  /post/favorite/list/ANDROID/4.1.8
+  /post/favorite/search/ANDROID/2.1
+  /post/ids/praised/ANDROID/2.1
+  /post/list
+  /post/list/ANDROID/4.1.8
+  /post/praise/ANDROID/2.1
+  /post/praise/check/ANDROID/2.1
+  /post/recommendtopic/count/ANDROID/2.1
+  /post/search/ANDROID/4.1.8
+  /post/slide/ANDROID/4.1
+  /post/top/ANDROID/4.1.7
+  /post/update/ANDROID/4.2.2
+  /post/video/args/ANDROID/2.1
+  /postaudit/create/list/ANDROID/2.0
+  /postaudit/destroy/ANDROID/2.1
+  /postaudti/detail/ANDROID/4.1
+  /topic/comment/create/ANDROID/4.1.6
+
+[用户相关API]
+  /account/login/ANDROID/4.1.8
+  /account/nick/num/ANDROID/2.1
+  /account/nick/update/ANDROID/2.1
+  /account/remark/add/ANDROID/4.1.8
+  /account/security/bindEmail/ANDROID/4.0
+  /account/security/bindPhone/ANDROID/4.0
+  /account/security/bindQQ/ANDROID/4.0
+  /account/security/bindWeiXin/ANDROID/4.0
+  /account/security/changeBindEmail/ANDROID/4.0
+  /account/security/changeBindEmailByPhone/ANDROID/4.0
+  /account/security/changeBindPhone/ANDROID/4.0
+  /account/security/changeBindPhone/check/ANDROID/4.2.3
+  /account/security/changeBindPhone/new/ANDROID/4.2.3
+  /account/security/changeBindPhoneByMail/ANDROID/4.0
+  /account/security/info/ANDROID/4.2.2
+  /account/security/resetPassword/ANDROID/4.0
+  /account/security/resetPasswordByMail/ANDROID/4.0
+  /account/security/resetPasswordBySecret/ANDROID/4.0
+  /account/security/secretTitle/ANDROID/4.0
+  /account/security/setPassword/ANDROID/4.0
+  /account/security/setSecretByEmail/ANDROID/4.0
+  /account/security/setSecretByPhone/ANDROID/4.0
+  /account/security/setSecretBySecret/ANDROID/4.0
+  /account/security/unbindQQ/ANDROID/4.0
+  /account/security/unbindQQByMail/ANDROID/4.0
+  /account/security/unbindQQByPhone/ANDROID/4.0
+  /account/security/unbindWeiXin/ANDROID/4.0
+  /account/security/unbindWeiXinByMail/ANDROID/4.0
+  /account/security/unbindWeiXinByPhone/ANDROID/4.0
+  /account/security/verifySecret/ANDROID/4.0
+  /account/token/check/ANDROID/2.1
+  /eAccount/Log/
+  /glorify/user/set/ANDROID/2.1
+  /page/game/user/ANDROID/4.2.3
+  /sdk/account/profile/ANDROID/4.0
+  /sdk/account/realname/auth/ANDROID/4.0
+  /sdk/user/coupon/ANDROID/4.0
+  /sdk/user/growth/ANDROID/4.0
+  /system/app/Kinguser.apk
+  /system/app/Superuser.apk
+  /user/appeal/ANDROID/2.1
+  /user/black/add/ANDROID/4.2.2
+  /user/black/cancel/ANDROID/4.2.2
+  /user/black/list/ANDROID/4.2.2
+  /user/cash/ANDROID/4.2
+  /user/cash/list/ANDROID/4.2
+  /user/cutstom/space/ANDROID/2.1
+  /user/exit/ANDROID/2.0
+  /user/express/check/ANDROID/2.0
+  /user/friend/ANDROID/4.1.8
+  /user/friend/search/ANDROID/4.1.8
+  /user/game/comment/list/ANDROID/4.1.6
+  /user/game/coupon/list/ANDROID/4.2.3
+  /user/harry/set/ANDROID/2.1
+  /user/hometown/ANDROID/2.1
+  /user/info/ANDROID/4.1.8
+  /user/info/update/ANDROID/2.1
+  /user/labor/realName/ANDROID/4.2.2
+  /user/madal/set/ANDROID/2.2
+  /user/madal/unset/ANDROID/2.2
+  /user/notice/ANDROID/2.1
+  /user/notice/set/ANDROID/2.1
+  /user/position/ANDROID/2.1
+  /user/privacy/policy/ANDROID/4.1.4
+  /user/real/name/ANDROID/4.1.8
+  /user/search/ANDROID/2.2
+  /user/share/callback/ANDROID/2.2
+  /user/signin/ANDROID/4.1.8
+  /user/signin/complete/ANDROID/4.0
+  /user/signin/detail/ANDROID/4.0
+  /user/tag/list/ANDROID/2.1
+  /user/tag/set/ANDROID/2.1
+  /userInfo/get/list/ANDROID/4.2.3
+  /view/level?viewUserID=%d&_key=%s&theme=%d
+
+[其他API路径]
+  /.UTSystemConfig/Global/Alvin2.xml
+  /.vdevdir/
+  /AMap/Privacy/Reload
+  /AMap/Privacy/Upload
+  /ANDROID/2.0
+  /ANDROID/2.1
+  /ANDROID/4.1.8
+  /ANDROID/4.2
+  /Android/data/
+  /Android/obb/
+  /MAME4all/roms
+  /MAME4droid/roms
+  /META-INF/services/XmlPullParserFactory
+  /a/
+  /activity/get/detail/ANDROID/2.1
+  /activity/list/ANDROID/2.1
+  /activity/new/ANDROID/2.1
+  /activity/recommend/ANDROID/2.1
+  /activity/record/click/ANDROID/2.1
+  /ad/recommend/index/ANDROID/3.6
+  /ad/recommend/menu/ANDROID/3.6
+  /api/crashsdk/validate
+  /api/netm/v1.0/qhbt
+  /api/netm/v1.0/qhbv
+  /api/v1/crashtrack/upload?chk=
+  /api/v1/mix/upload
+  /api/v1/raw/upload
+  /appBook/ANDROID/4.0.1
+  /appBook/cancel/ANDROID/4.0.1
+  /appBook/list/ANDROID/4.1.5
+  /appBook/status/ANDROID/4.0.1
+  /area/category/detail
+  /area/category/list
+  /area/index
+  /area/list
+  /area/topic/acticle
+  /area/topic/detail
+  /area/topic/list
+  /area/topic/tag
+  /big/shot/list/ANDROID/4.1
+  /book/destroy/ANDROID/3.6
+  /book/detail/ANDROID/3.6
+  /book/list/ANDROID/3.6
+  /book/list/me/ANDROID/3.6
+  /book/status/ANDROID/3.6
+  /bput/%s/%d
+  /cache/
+  /cancel/comment/top/ANDROID/4.1.7
+  /category/config/list/ANDROID/4.2
+  /category/detail/ANDROID/2.0
+  /category/forum/list/ANDROID/2.0
+  /category/forum/list/all/ANDROID/2.0
+  /category/limit/config/ANDROID/4.2.2
+  /category/list/ANDROID/4.2.3
+  /category/subscibe/ANDROID/2.0
+  /category/unsubscibe/ANDROID/2.0
+  /cdn/config
+  /changeBindPhone/get/ANDROID/4.2.3
+  /chat/add/ANDROID/1.0
+  /chat/black/add/ANDROID/1.0
+  /chat/black/remove/ANDROID/1.0
+  /chat/category/list/ANDROID/1.0
+  /chat/detail/ANDROID/1.0
+  /chat/in/ANDROID/1.0
+  /chat/info/ANDROID/1.0
+  /chat/list/ANDROID/1.0
+  /chat/manage/add/ANDROID/1.0
+  /chat/manage/remove/ANDROID/1.0
+  /chat/notice/add/ANDROID/1.0
+  /chat/notice/list/ANDROID/1.0
+  /chat/notice/update/ANDROID/1.0
+  /chat/search/ANDROID/1.0
+  /chat/update/ANDROID/1.0
+  /check/category/ANDROID/2.1
+  /client/uniConfig
+  /cloud/url/wrong
+  /cms/image/list/ANDROID/3.6
+  /cms/page/ANDROID/4.1
+  /cms/topic/list/ANDROID/4.1
+  /comment/top/ANDROID/4.1.7
+  /complaint/ANDROID/4.0
+  /copyright/appeal/page/ANDROID/4.2.3
+  /credits/transfer/ANDROID/4.2
+  /creditsLog/day/ANDROID/4.1
+  /creditsLog/default/ANDROID/4.1
+  /creditsLog/detail/ANDROID/4.1
+  /creditsLog/detail/page/ANDROID/4.1
+  /ctcnet/gctcmc.do
+  /data/
+  /data/anr/
+  /data/anr/traces.txt
+  /data/data/
+  /data/local/
+  /data/local/bin/
+  /data/local/bin/su
+  /data/local/su
+  /data/local/xbin/
+  /data/local/xbin/su
+  /dev/null
+  /device/bind/ANDROID/2.0
+
+
+三、完整URL
+----------------------------------------
+  http://
+  http://%s:%d/%s
+  http://10.38.162.35:9085
+  http://119.29.29.29/d?ttl=1&dn=
+  http://127.0.0.1:8061
+  http://127.0.0.1:8080
+  http://abroad.apilocate.amap.com/mobile/binary
+  http://api.g.huluxia.com/get/v1
+  http://apilocate.amap.com/mobile/binary
+  http://cdn.dnion.huluxia.com/game/2016/12/06/GG_8166(1.22).rpk
+  http://cdn.isurecloud.huluxia.com/file/libs/video-lib-20190606.zip
+  http://cdn.ksyun.huluxia.com/game/2023/01/04/46.87217(1.0.1)4ANut5p5.zip
+  http://cdn.u1.huluxia.com/g1/M00/CB/04/wKgBB1XgSe-AG3mhAAALwQuN1SE568.png
+  http://cdn.u1.huluxia.com/g1/M00/CB/04/wKgBB1XgSgaAaO7AAAATdzek9P8465.png
+  http://cdn.u2.huluxia.com/
+  http://cdn.ws.huluxia.com/game/2014/10/11hpk/1tiantangdao.hpk
+  http://cdn.ws.huluxia.com/game/2016/12/06/GG_8166(1.22).apk
+  http://cdn.ws.huluxia.com/game/2016/12/06/GG_8166(1.22).rpk
+  http://cdn.ws.huluxia.com/game/Rom/GBA/1100323.gba
+  http://cdn.ws.huluxia.com/game/update/flooricon.jpg
+  http://cdn2.huluxia.com/avatar/1/201406/19/07ceb0ca9fcbea5f84f528b1be9535fc.png_80x80.jpeg
+  http://cgicol.amap.com/collection/collectData?src=baseCol&ver=v74&
+  http://dl.vmall.com/
+  http://dualstack-a.apilocate.amap.com/mobile/binary
+  http://dualstack-arestapi.amap.com/v3/geocode/regeo
+  http://gray.bbs.huluxia.com
+  http://gray.search.huluxia.com
+  http://gray.server.news.huluxia.com
+  http://gray.tools.huluxia.com
+  http://img0.bdstatic.com/img/image/shouye/mnqz-11867945883.jpg
+  http://img0.bdstatic.com/img/image/shouye/mntsc-11681494554.jpg
+  http://my.tv.sohu.com/
+  http://pan.baidu.com/
+  http://pan.baidu.com/api/getcaptcha
+  http://pan.baidu.com/api/sharedownload
+  http://restsdk.amap.com
+  http://restsdk.amap.com/sdk/compliance/params
+  http://restsdk.amap.com/v3/config/district?
+  http://restsdk.amap.com/v3/geocode/regeo
+  http://restsdk.amap.com/v3/place/around?
+  http://restsdk.amap.com/v3/place/text?
+  http://schemas.android.com/apk/res/android
+  http://search.huluxia.com
+  http://server.chat.huluxia.com
+  http://server.news.huluxia.com
+  http://service.tools.huluxia.net
+  http://stat.huluxia.com/downstat/down/begin
+  http://stat.huluxia.com/downstat/down/complete
+  http://stat.huluxia.com/downstat/down/downcount
+  http://stat.huluxia.com/downstat/error
+  http://stat.huluxia.com/downstat/install/begin
+  http://stat.huluxia.com/downstat/install/complete
+  http://stat.huluxia.com/stat/gamedown
+  http://stat.huluxia.com/stat/networkerror
+  http://stat.huluxia.com/stat/networkrequest
+  http://stat.huluxia.com/stat/networkspeed
+  http://stat.huluxia.com/stat/networkspeed/eachlink
+  http://stat.huluxia.com/stat/networkspeed/total
+  http://stat.huluxia.com/stat/nodeerror
+  http://stat.huluxia.com/stat/service/event
+  http://test.bbs.upload.huluxia.net
+  http://test.floor.bbs.huluxia.net
+  http://test.floor.tools.huluxia.net
+  http://test.search.huluxia.net
+  http://test.server.news.huluxia.net
+  http://test.version.huluxia.com
+  http://tieba.baidu.com/p/3219122263
+  http://upload.huluxia.com
+  http://v.qq.com/
+  http://v.youku.com/
+  http://version.check.huluxia.com/hlx_floor
+  http://version.check.huluxia.com/hlx_iccgame
+  http://version.check.huluxia.com/hlx_tool
+  http://version.check.huluxia.com/hlx_tool/config.txt
+  http://version.check.huluxia.com/test
+  http://version.huluxia.com
+  http://wap.huluxia.com
+  http://wifi.huluxia.net/wifi/saveBatch
+  http://www.huluxia.com
+  http://www.huluxia.com/protocol/protocol_license.html
+  http://www.slf4j.org/codes.html
+  http://www.slf4j.org/codes.html#StaticLoggerBinder
+  http://www.slf4j.org/codes.html#loggerNameMismatch
+  http://www.slf4j.org/codes.html#multiple_bindings
+  http://www.slf4j.org/codes.html#no_static_mdc_binder
+  http://www.slf4j.org/codes.html#null_LF
+  http://www.slf4j.org/codes.html#null_MDCA
+  http://www.slf4j.org/codes.html#replay
+  http://www.slf4j.org/codes.html#substituteLogger
+  http://www.slf4j.org/codes.html#unsuccessfulInit
+  http://www.slf4j.org/codes.html#version_mismatch
+  http://xmlpull.org/v1/doc/features.html#process-docdecl
+  http://xmlpull.org/v1/doc/features.html#process-namespaces
+  http://xmlpull.org/v1/doc/features.html#report-namespace-prefixes
+  http://xmlpull.org/v1/doc/features.html#validation
+  http://yunpan.cn/
+  https://
+  https://%1$s/gslb/?ver=5.0
+  https://adiu.amap.com/ws/device/adius
+  https://alogsus.umeng.com
+
+
+四、关键类统计
+----------------------------------------
+  HTTP相关类: 1010
+  关键词相关类: 2699
+  huluxia包类: 8244
+  关键类(高相关性): 1583
+
+
+五、重要发现
+----------------------------------------
+    mMediaSessionToken=
+   md5 failed
+   targetMd5:
+  , file md5 
+  , md5: 
+  , md5='
+  , realMd5:
+  , verify md5 
+  , verify md5: 
+  , video64somd5='
+  , videosomd5='
+  -->get md5 form native
+  -->get md5 form native exception: 
+  -->getMD5FromNative, MD5= 
+  . MD5: 
+  /account/login/ANDROID/4.1.8
+  /account/security/resetPassword/ANDROID/4.0
+  /account/security/resetPasswordByMail/ANDROID/4.0
+  /account/security/resetPasswordBySecret/ANDROID/4.0
+  /account/security/secretTitle/ANDROID/4.0
+  /account/security/setPassword/ANDROID/4.0
+  /account/security/setSecretByEmail/ANDROID/4.0
+  /account/security/setSecretByPhone/ANDROID/4.0
+  /account/security/setSecretBySecret/ANDROID/4.0
+  /account/security/verifySecret/ANDROID/4.0
+  ; password: 
+  BsErrCode_NewMd5Wrong
+  BsErrCode_OldMd5Wrong
+  BsErrCode_PatchMd5Wrong
+  CollectionPluginMd5
+  EXTRA_KEY_ACCOUNTS_MD5
+  EXTRA_KEY_ALIASES_MD5
+  EXTRA_KEY_IMEI_MD5
+  EXTRA_KEY_REG_SECRET
+  EXTRA_KEY_TOPICS_MD5
+  EfsReporter init, secret is empty
+  IDMD5Tracker.java
+  IX5WebChromeClientExtension.onSavePassword
+  Initialize MD5 failed.
+  KEY_APM_DEFAULT_SECRET
+  KEY_METHOD_NAME_PUSH_SET_SECRET
+  KEY_PASSWORD
+  KEY_TBSAPK_MD5
+  LKME_ANDROID_ID_MD5
+  LKME_DEEPLINK_MD5
+  LKME_IMEI_MD5
+  Landroid/text/method/PasswordTransformationMethod;
+  Lcom/huluxia/ui/account/LoginActivity$10;
+  Lcom/huluxia/ui/account/LoginActivity$11;
+  Lcom/huluxia/ui/account/LoginActivity$12;
+  Lcom/huluxia/ui/account/LoginActivity$1;
+  Lcom/huluxia/ui/account/LoginActivity$2;
+  Lcom/huluxia/ui/account/LoginActivity$3;
+  Lcom/huluxia/ui/account/LoginActivity$4;
+  Lcom/huluxia/ui/account/LoginActivity$5;
+  Lcom/huluxia/ui/account/LoginActivity$6;
+  Lcom/huluxia/ui/account/LoginActivity$7;
+  Lcom/huluxia/ui/account/LoginActivity$8;
+  Lcom/huluxia/ui/account/LoginActivity$9;
+  Lcom/huluxia/ui/account/LoginActivity$a;
+  Lcom/huluxia/ui/account/LoginActivity$b;
+  Lcom/huluxia/ui/account/LoginActivity$c;
+  Lcom/huluxia/ui/account/LoginActivity$d;
+  Lcom/huluxia/ui/account/LoginActivity;
+  Lcom/huluxia/ui/account/LoginMiActivity$1;
+  Lcom/huluxia/ui/account/LoginMiActivity$2;
+  Lcom/huluxia/ui/account/LoginMiActivity$3;
+  Lcom/huluxia/ui/account/LoginMiActivity;
+  Lcom/huluxia/ui/account/SetupPasswordActivity$1;
+  Lcom/huluxia/ui/account/SetupPasswordActivity$2;
+  Lcom/huluxia/ui/account/SetupPasswordActivity$3;
+  Lcom/huluxia/ui/account/SetupPasswordActivity$4;
+  Lcom/huluxia/ui/account/SetupPasswordActivity$a;
+  Lcom/huluxia/ui/account/SetupPasswordActivity;
+  Lcom/huluxia/ui/profile/safecenter/SettingAccountPasswordActivity$1;
+  Lcom/huluxia/ui/profile/safecenter/SettingAccountPasswordActivity$a;
+  Lcom/huluxia/ui/profile/safecenter/SettingAccountPasswordActivity;
+  Lcom/tencent/smtt/utils/Md5Utils;
+  Ljavax/crypto/SecretKey;
+  Ljavax/crypto/SecretKeyFactory;
+  Ljavax/crypto/spec/SecretKeySpec;
+  MD5
+  MD5 e is 
+  MD5.java
+  MD5STo16Byte.java
+  MD5Util.java
+  MD5Utils
+  MD5withRSA
+  MI_XIAOMI_GAMECENTER_ERROR_ACCOUNT_PASSWORD_ERROR
+  MI_XIAOMI_PAYMENT_ERROR_ACCOUNT_PASSWORD_ERROR
+  Md5FileNameGenerator.java
+  MobclickAgent.setSecret方法参数context不能为null|参数Context需要指定ApplicationContext值。
+  MobclickAgent.setSecret方法参数secretkey不能为null，也不能为空字符串。|secretkey参数必须是非空 字符串。
+  ORDER_CHANGE_PASSWORD
+  ORDER_FORGET_PASSWORD
+  PASSWORD
+  PKGMD5
+  PUSH Secret设置成功
+  PasswordCallback.java
+  SECRET_MASK

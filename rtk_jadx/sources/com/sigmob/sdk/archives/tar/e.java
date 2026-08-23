@@ -1,0 +1,55 @@
+package com.sigmob.sdk.archives.tar;
+
+/* loaded from: /tmp/rtk_apk/classes3.dex */
+public interface e {
+    public static final int A = 1;
+    public static final int B = 96;
+    public static final int C = 1;
+    public static final int D = 12;
+    public static final int E = 504;
+    public static final int F = 1;
+    public static final byte G = 0;
+    public static final byte H = 48;
+    public static final byte I = 49;
+    public static final byte J = 50;
+    public static final byte K = 51;
+    public static final byte L = 52;
+    public static final byte M = 53;
+    public static final byte N = 54;
+    public static final byte O = 55;
+    public static final byte P = 76;
+    public static final byte Q = 83;
+    public static final byte R = 120;
+    public static final byte S = 88;
+    public static final byte T = 103;
+    public static final String U = "ustar\u0000";
+    public static final String V = "00";
+    public static final String W = "ustar ";
+    public static final String X = " \u0000";
+    public static final String Y = "0\u0000";
+    public static final String Z = "ustar\u0000";
+    public static final int a = 2;
+    public static final String aa = "\u0000\u0000";
+    public static final String ab = "././@LongLink";
+    public static final int f = 3;
+    public static final int g = 100;
+    public static final int h = 8;
+    public static final int i = 8;
+    public static final int j = 8;
+    public static final int k = 8;
+    public static final int l = 12;
+    public static final long m = 8589934591L;
+    public static final int n = 257;
+    public static final int o = 6;
+    public static final int p = 263;
+    public static final int q = 2;
+    public static final int r = 12;
+    public static final int s = 32;
+    public static final int t = 32;
+    public static final int u = 8;
+    public static final int v = 155;
+    public static final int w = 12;
+    public static final int x = 12;
+    public static final int y = 12;
+    public static final int z = 4;
+}

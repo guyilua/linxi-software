@@ -1,0 +1,44 @@
+[
+  {
+    "time": 1787162477330,
+    "session": "ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj",
+    "filename": "软天空API逆向分析文档.docx",
+    "delivered": "/home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/软天空API逆向分析文档.docx"
+  },
+  {
+    "time": 1787304933868,
+    "session": "ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj",
+    "filename": "tieba_login.png",
+    "delivered": "/home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/tieba_login.png"
+  },
+  {
+    "time": 1787413655150,
+    "session": "ses_gffe5fd5f18d71ffeXlSH7S7koA31SI",
+    "filename": "page-screenshot.png",
+    "delivered": "/home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/page-screenshot.png"
+  },
+  {
+    "time": 1787418765607,
+    "session": "ses_gffe5fd5a60e0ffferw47jGgvI92TXe",
+    "filename": "qiyi_api_analysis.txt",
+    "delivered": "/home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/qiyi_api_analysis.txt"
+  },
+  {
+    "time": 1787472135632,
+    "session": "ses_gffe5fd26a4e4effedVEPsTpsnWgb9P",
+    "filename": "summary_report.txt",
+    "delivered": "/home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/huluxia_analysis/summary_report.txt"
+  },
+  {
+    "time": 1787472135633,
+    "session": "ses_gffe5fd26a4e4effedVEPsTpsnWgb9P",
+    "filename": "api_paths.txt",
+    "delivered": "/home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/huluxia_analysis/api_paths.txt"
+  },
+  {
+    "time": 1787472135633,
+    "session": "ses_gffe5fd26a4e4effedVEPsTpsnWgb9P",
+    "filename": "api_patterns.txt",
+    "delivered": "/home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/huluxia_analysis/api_patterns.txt"
+  }
+]

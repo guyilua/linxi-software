@@ -1,0 +1,428 @@
+[
+  {
+    "id": 2,
+    "title": "漫威蜘蛛侠2",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 4,
+    "title": "荒野大镖客2",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 3,
+    "title": "消逝的光芒：困兽",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 1956,
+    "title": "极品采花郎/Soundtrack|V2.1|STEAM官中",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7511,
+    "title": "侠盗猎车手5|GTA5 传承版 /Grand Theft Auto V   v1.72(3751)  修改器+F5开启菜单   免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 6662,
+    "title": "机械制造者|赛道大师/ Trailmakers/单机+联机   v235.512.378.0  全DLC   免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7191,
+    "title": "DESORDRE：益智游戏冒险/DESORDRE : A Puzzle Game Adventure    免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7758,
+    "title": "地狱之刃2 塞娜的献祭/Hellblade: Senua\\’s Sacrifice    v1.03.1 送修改器+赠通关分阶段存档    免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7759,
+    "title": "特种部队：眼镜蛇之怒 /G.I. Joe: Wrath of Cobra   v1.0.1   免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7593,
+    "title": "荒野大镖客：救赎/Red Dead Redemption   v1.0.42.46611   免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7625,
+    "title": "死亡之网 /Death’s Web  Build.21573135  免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 8147,
+    "title": "死亡之夜/ Night of the Dead    v1.2.0.0  免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7643,
+    "title": "波维利亚：不归之岛/ Poveglia The Island of Non Return   Build.21506069  免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 7948,
+    "title": "3D找茬2 / Tiny Lands 2  v1.0.0  免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 6927,
+    "title": "东方华彩乱战2 /Touhou Blooming Chaos 2   v1.11a   免安装中文版",
+    "category_id": 41,
+    "category_name": "动作冒险"
+  },
+  {
+    "id": 1975,
+    "title": "鬼谷八荒女主专用绅士MOD精选整合 完美适配+完整教程女主玩法特化型",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12229,
+    "title": "黑纱掠夺者 |黑纱掠袭/Raiders of Blackveil   Build.23542290   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12242,
+    "title": "Game.exe 2：幻影突击/GAME.exe 2 – Phantom Strike     Build.23526874   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12230,
+    "title": "神之亵渎2 / Blasphemous 1+2   Build.23603339  全DLC 送修改器 附1代   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12231,
+    "title": "切尔诺贝利清算人/ Chornobyl Liquidators   v1.6.57  免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12232,
+    "title": "火湖/SULFUR   v0.17.3  免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12233,
+    "title": "吸血鬼幸存者/ Vampire Survivors / PC+手机双端   v1.15.107  全DLC  免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12234,
+    "title": "巴布西4D /Bubsy 4D   v1.1.1   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12235,
+    "title": "狩猎之道2 /Way of the Hunter 2     v0.2.1    免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12236,
+    "title": "乐高复仇者联盟/LEGO MARVEL’s Avengers     Build.1854018   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12237,
+    "title": "千棋百计/Gambonanza     Build.23527324   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12238,
+    "title": "壁虎之神/Gecko Gods    Build.23560448   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12239,
+    "title": "月之深渊/Luna Abyss    Build.23493328   免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12240,
+    "title": "餐瘾地城|餐瘾地牢/Dungeon Munchies    v1.5.3.10    免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 12241,
+    "title": "维伦达尔城堡之谜 – 密室逃脱/Secrets of Velendar Castle – Escape Room     Build.23416913    免安装中文版",
+    "category_id": 42,
+    "category_name": "角色扮演"
+  },
+  {
+    "id": 6539,
+    "title": "巴别塔 ：混乱的幸存者/ Tower of Babel: Survivors of Chaos    v1.0.2正式版    免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 8286,
+    "title": "荒野大镖客：救赎2|荒野大镖客2 / Red Dead Redemption 2   v1491.50 打包mod 送修改器    免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 8364,
+    "title": "使命召唤19：现代战争2 / Call of Duty Modern Warfare II    v9.2.12721522   免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 8278,
+    "title": "阿卡迪姆：太空奥德赛 /Arcadium – Space Odyssey   Build.21623816  免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 8283,
+    "title": "生化奇兵3：无限/ Bioshock Infinite    送修改器+全关卡装备解锁存档   免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 13496,
+    "title": "半条命2 v20250211（Half-Life 2）免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 6619,
+    "title": "会发光的缕 /Will Glow the Wisp   Build.20724219    免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 8193,
+    "title": "猪锯惊魂/Pigsaw   v1.3.0   免安装英文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 8194,
+    "title": "孤岛惊魂6 -虚拟机版 / Far Cry 6   v1.8.0   全DLC   免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 13573,
+    "title": "狂野西部：枪手（Call of Juarez: Gunslinger）免安装中文版",
+    "category_id": 43,
+    "category_name": "射击游戏"
+  },
+  {
+    "id": 10539,
+    "title": "三维弹球塔防版/Bumper Blitz TD    v1.4.22   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10548,
+    "title": "一个关于创造行星的游戏/A Game About Making A Planet    Build.23125097   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10556,
+    "title": "前哨塔防|边境守护 /Outhold    v1.1.8   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10559,
+    "title": "国家的崛起：扩展版/ Rise of Nations: Extended Edition   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10540,
+    "title": "无限卡牌 /Infinite Cards   v1.0.5   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10542,
+    "title": "异虫清洗|异形净化|猎人之首 /Xenopurge    v20260504   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10543,
+    "title": "肋萨拉：顶峰王国|峰顶王国/ Laysara: Summit Kingdom   Build. 22563403   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10544,
+    "title": "王国：两位君主/ Kingdom Two Crowns / PC+手机双端   v2.4.0  全DLC  免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10547,
+    "title": "兵者诡道决定版/R.U.S.E. Definitive Edition    Build.23111487   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 10549,
+    "title": "王牌妖相/Prime Monster    Build.22978422   免安装中文版",
+    "category_id": 44,
+    "category_name": "策略战略"
+  },
+  {
+    "id": 4182,
+    "title": "疯狂水世界无限内购",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9445,
+    "title": "虫群来袭 /Here Comes The Swarm  Build.22662913  免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9464,
+    "title": "收获咖啡馆/Harvest Cafe    Build.22650177   免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9444,
+    "title": "银行模拟器/Bank Simulator   Build.22739552  免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9446,
+    "title": "矮人防线/ Gnomes   Build.22696252   免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9449,
+    "title": "克苏鲁信徒|克苏鲁崇拜者/ Worshippers of Cthulhu   v1.0.0.4  免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9450,
+    "title": "哪种香肠，伙计？/Which Sausage Mate    Build.22740562    免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9456,
+    "title": "花林物语：英语学习游戏/Blossom’s Grove An English-Learning Game   v1.79  免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9459,
+    "title": "瘟疫公司：物竞天择 /Plague Inc Evolved   v1.23.0.7 送修改器   免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9461,
+    "title": "迷你高速公路/Mini Motorways   v20260406   免安装中文版",
+    "category_id": 45,
+    "category_name": "模拟经营"
+  },
+  {
+    "id": 9704,
+    "title": "生化危机4 重制版/ Resident Evil 4   Build.21521672 全DLC 新增艾达王DLC   免安装中文版",
+    "category_id": 46,
+    "category_name": "恐怖丧尸"
+  },
+  {
+    "id": 9503,
+    "title": "悔恨/Remorses    Build.23505992   免安装中文版",
+    "category_id": 46,
+    "category_name": "恐怖丧尸"
+  },
+  {
+    "id": 9562,
+    "title": "香港恐怖事件：益善楼外卖血案/Hong Kong Horror Incident Yik Sin House    Build.23271333    免安装中文版",
+    "category_id": 46,
+    "category_name": "恐怖丧尸"
+  },
+  {
+    "id": 9568,
+    "title": "九球轮盘赌/ Nine-Ball Roulette/ 单机+联机   v1.1.5  免安装中文版",
+    "category_id": 46,
+    "category_name": "恐怖丧尸"
+  },
+  {
+    "id": 9845,
+    "title": "圣诞屠夫 /Butcher of the North  Build.21193077   免安装中文版",
+    "category_id": 46,
+    "category_name": "恐怖丧尸"
+  },
+  {
+    "id": 1678,
+    "title": "零：红蝶重制版/零 ～红蝶～ 重制版/FATAL FRAME II: Crimson Butterfly REMAKE",
+    "category_id": 46,
+    "category_name": "恐怖丧尸"
+  },
+  {
+    "id": 11520,
+    "title": "日本马拉松/ Nippon Marathon    Build.20350464   免安装中文版",
+    "category_id": 47,
+    "category_name": "体育竞速"
+  },
+  {
+    "id": 11465,
+    "title": "F1 2019 v1.22 免安装中文版",
+    "category_id": 47,
+    "category_name": "体育竞速"
+  },
+  {
+    "id": 11521,
+    "title": "轮世界/ Wheel World   v1.849.44424  免安装中文版",
+    "category_id": 47,
+    "category_name": "体育竞速"
+  },
+  {
+    "id": 11522,
+    "title": "特技摩托：崛起/ Trials Rising    v1.0.0   免安装中文版",
+    "category_id": 47,
+    "category_name": "体育竞速"
+  },
+  {
+    "id": 11297,
+    "title": "极限竞速：地平线6 / Forza Horizon 6/ 单机+联机   v375.327 全DLC 最新614辆车存档-有风籁    免安装中文版",
+    "category_id": 47,
+    "category_name": "体育竞速"
+  }
+]

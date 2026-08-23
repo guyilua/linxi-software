@@ -1,0 +1,455 @@
+
+======================================================================
+奇异社区 APK API 接口分析报告
+======================================================================
+
+APK路径: /home/work/dumate/d02d6cc798e148008169cbc91e32731c/workspace/ses_gffe5fe51acb97ffeqhVv5UIT5Dnshj/uploads/d02d6cc798e148008169cbc91e32731c/3727ab6a-d649-41f2-bda9-717318232a7b.apk
+分析时间: Sun Aug 23 01:12:08 CST 2026
+分析工具: Python zipfile + 正则表达式
+
+APK总文件数: 1535
+
+
+======================================================================
+1. 应用框架识别
+======================================================================
+
+该APK使用 yonBuilder / MTL (Mobile Tiny Link) 框架构建
+开发商: 用友网络 (Yonyou)
+框架特征:
+  - assets/res_yonBuilder/ 目录结构
+  - api.openFrame(), api.ajax() 等APICloud风格API
+  - apivm 虚拟DOM渲染引擎
+  - box:// 协议用于本地资源访问
+
+文件结构:
+  assets/res_yonBuilder/widget/    - MTL框架未加密代码
+  assets/widget/                  - 应用业务逻辑(已加密)
+  assets/dist/                    - 编译后加密资源
+
+
+======================================================================
+2. 文件加密状态分析
+======================================================================
+
+  [加密/混淆] assets/widget/script/api.js (18211 bytes) - API核心文件
+  [加密/混淆] assets/widget/html/common/login.html (16660 bytes) - 登录页面
+  [加密/混淆] assets/widget/html/bbs/create.html (36404 bytes) - 发帖页面
+  [加密/混淆] assets/dist/api.min.js.sec (43348 bytes) - 加密JS
+
+加密文件数: 4
+可读文件数: 0
+
+结论: 核心业务代码(api.js, login.html, create.html)均已加密
+无法直接提取API接口信息，需要解密才能分析
+
+
+======================================================================
+3. MTL框架API列表 (从可读文件提取)
+======================================================================
+
+以下为框架提供的JS API，业务代码通过这些API进行网络请求:
+
+  api.openFrame()
+    功能: 打开WebView/Frame页面
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+  api.ajax()
+    功能: 发起HTTP网络请求
+    来源: assets/res_yonBuilder/widget/build/h5app/h5app.js
+
+  api.getPrefs()
+    功能: 读取本地存储配置
+    来源: assets/res_yonBuilder/widget/build/h5app/h5app.js
+
+  api.setPrefs()
+    功能: 写入本地存储配置
+    来源: assets/res_yonBuilder/widget/build/h5app/h5app.js
+
+  api.getGlobalData()
+    功能: 读取全局数据
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+  api.wgtParam
+    功能: 获取Widget启动参数
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+  api.pageParam
+    功能: 获取页面间传递参数
+    来源: 多处
+
+  api.require()
+    功能: 加载原生模块
+    来源: assets/widget/script/appletDatabase.js
+
+  api.openWin()
+    功能: 打开新Window
+    来源: assets/res_yonBuilder/widget/build/browser/browser.js
+
+  api.closeWin()
+    功能: 关闭Window
+    来源: assets/res_yonBuilder/widget/build/browser/browser.js
+
+  api.closeFrame()
+    功能: 关闭Frame
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+  api.closeWidget()
+    功能: 关闭Widget
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+  api.windows()
+    功能: 获取所有Window列表
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+  api.execScript()
+    功能: 在指定窗口执行脚本
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+  api.historyBack()
+    功能: 浏览器后退
+    来源: assets/res_yonBuilder/widget/build/browser/browser.js
+
+  api.setFrameClient()
+    功能: 设置Frame客户端事件
+    来源: assets/res_yonBuilder/widget/build/browser/browser.js
+
+  api.addEventListener()
+    功能: 添加事件监听
+    来源: 多处
+
+  api.setNavBarAttr()
+    功能: 设置导航栏属性
+    来源: assets/res_yonBuilder/widget/build/browser/browser.js
+
+  api.toast()
+    功能: 显示Toast提示
+    来源: assets/res_yonBuilder/widget/build/h5app/h5app.js
+
+  api.boxDir
+    功能: 应用沙盒目录路径
+    来源: assets/res_yonBuilder/widget/build/index/index.js
+
+
+======================================================================
+4. 配置文件分析
+======================================================================
+
+
+文件: assets/res_yonBuilder/widget/apiconfig.json
+{"navigationBar":{},"hideNavigationBar":true,"name":"root","url":"build/index/index.js"}
+
+
+文件: assets/res_yonBuilder/widget/app.json
+{
+    "navigationBar":{"shadow":"rgba(0,0,0,0)"},
+    "hideNavigationBar":true,
+    "name":"root",
+    "url":"build/index/index.js",
+    "mtlPrivacyPolicyDisabled":true
+}
+
+
+文件: assets/uzmap/module.json
+{modules:[
+{
+			name:'shareAction',
+			class:'com.uzmap.pkg.uzmodules.sharedModule.SharedModule'
+}
+,
+{"name":"oxImageEditer","class":"com.ox.YJOxImageEditerModule","version":"1.0.1"},
+{"name":"clipBoard","class":"com.uzmap.pkg.uzmodules.uzclipboard.UzClipBoard","version":"1.0.1"},
+{
+		    name:'signature',
+		    class:'com.apicloud.signature.UzSignature'
+}
+,
+{"name":"apkInstall","class":"com.apicloud.apkinstall.ApkInstallKTModule","version":"1.0.1"},
+{
+			name:'QQPlus',
+		    class:'com.apicloud.qqplus.UzQQPlus'
+}
+,
+{"name":"dialogBox","class":"com.apicloud.dialogBox.DialogBox","version":"1.1.9"},
+{"name":"fs","class":"com.uzmap.pkg.uzmodules.fs.UzFsUtils","version":"1.1.0"},
+{
+	name:'downloadManager',
+	class:'com.uzmap.pkg.uzmodules.uzdownloadmanager.UzDownloadManager'
+}
+,
+{
+    name:'mam',
+    class:'com.uzmap.pkg.uzmodules.uzmam.UzMAM'
+}
+,
+{"name":"WXPhotoPicker","class":"com.apicloud.wxphotopicker.WXPhotoPickerModule","version":"1.2.0"},
+{"name":"mtlPhotoPicker","class":"com.apicloud.mediapicker.MediaPicker","version":"1.1.2"},
+{
+	name:'yonBuilder',
+	class:'com.yonyou.yonbuilder.YonBuilder'
+}
+,
+{
+	"name":"mtlPush",
+	"class":"com.yonyou.mtlpush.MtlPushInvoker"
+},
+{
+	"name":'hwPushConfigLoad',
+	"class":'com.yonyou.pushlib.HwPushConfigLoad'
+}
+]}
+
+
+
+======================================================================
+5. 关键发现
+======================================================================
+
+5.1 加密机制
+  - 业务JS/HTML文件使用AES或类似算法加密
+  - 加密文件以二进制密文形式存储
+  - 文件头特征: 0xA4 0x7A 0xF0 0xC8... (login.html, create.html)
+  - api.js 加密头: 0xB7 0x71 0x9E 0x87...
+  - 运行时由MTL引擎解密后执行
+
+5.2 存储Key发现 (keys.js)
+  - mtl$exclusiveUserInfo     - 用户信息
+  - mtl$saveExclusiveYhtInfo  - YHT认证信息
+  - mtl$exclusiveDomain       - 服务器域名配置
+  - mtl$exclusiveLanguage     - 语言设置
+  - mtl$userFontSizeLevel     - 字体大小
+
+5.3 数据库信息 (appletDatabase.js)
+  - 数据库名: mtlApplet
+  - 数据库文件: box://mtlAppletData.db
+  - 加密密码: mtl$db
+  - 使用模块: sqlCipher
+  - 表结构:
+    * mtl_dbinfo (version INTEGER)
+    * resource_file_mapping (pkid, resourceId, fileId, filePath)
+
+5.4 域名处理逻辑 (h5app.js)
+  代码片段:
+    var domainInfoStr = api.getPrefs({
+        sync: true,
+        key: 'mtl$exclusiveDomain'
+    });
+    if (domainInfoStr) {
+        var domainInfo = JSON.parse(domainInfoStr);
+        domain = domainInfo.domain;
+    }
+    // domain = 'https://bip-daily.yyuap.com/iuap-yonbuilder-mobile/';
+    if (domain && domain.substr(domain.length - 1, 1) == '/') {
+        domain = domain.substr(0, domain.length - 1);
+    }
+    api.ajax({ url: domain + ... })
+
+  关键发现:
+    - 域名从本地存储读取 (mtl$exclusiveDomain)
+    - 存在硬编码的测试域名 (注释中):
+      https://bip-daily.yyuap.com/iuap-yonbuilder-mobile/
+    - 域名尾部会自动去除斜杠
+    - 通过 api.ajax() 发送请求到 domain + API路径
+
+
+======================================================================
+6. 原生模块列表 (module.json)
+======================================================================
+
+  - shareAction       - 分享模块
+  - oxImageEditer     - 图片编辑
+  - clipBoard         - 剪贴板
+  - signature         - 签名模块
+  - apkInstall        - APK安装
+  - QQPlus            - QQ分享/登录
+  - dialogBox         - 对话框
+  - fs                - 文件系统
+  - downloadManager   - 下载管理
+  - mam               - MAM移动应用管理
+  - WXPhotoPicker     - 微信图片选择
+  - mtlPhotoPicker    - MTL图片选择
+  - yonBuilder        - YonBuilder核心
+  - mtlPush           - 推送服务
+  - hwPushConfigLoad  - 华为推送配置
+
+
+======================================================================
+7. 全局URL/域名搜索
+======================================================================
+
+在 524 个文本文件中搜索
+发现 16 个HTTP(S) URL:
+  http://www.apache.org/licenses/LICENSE-2.0
+  https://bip-daily.yyuap.com/iuap-yonbuilder-mobile/
+  https://data-dra.push.dbankcloud.com
+  https://data-drcn.push.dbankcloud.com
+  https://data-dre.push.dbankcloud.com
+  https://data-drru.push.dbankcloud.com
+  https://grs.dbankcloud.asia
+  https://grs.dbankcloud.cn
+  https://grs.dbankcloud.com
+  https://grs.dbankcloud.eu
+  https://grs.platform.dbankcloud.ru
+  https://metrics-dra.dt.hicloud.com:6447
+  https://metrics1-drcn.dt.dbankcloud.cn:443
+  https://metrics2.data.hicloud.com:6447
+  https://metrics5.data.hicloud.com:6447
+  https://metrics5.dt.dbankcloud.ru:6447
+
+发现 19 个相关域名:
+  dbankcloud.cn
+  dbankcloud.com
+  hicloud.com
+  param.appId
+  param.appName
+  param.appUrl
+  param.appid
+  param.appletExtId
+  param.appletUrl
+  param.appletVersion
+  param.applicationcode
+  rYzx.cn
+  ref.app
+  ref.appUrl
+  ref.appletExtId
+  ref.appletPackageType
+  ref.appletUrl
+  ref.appletVersion
+  this.compute
+
+
+======================================================================
+8. DEX文件分析
+======================================================================
+
+DEX文件数量: 2
+  classes.dex: 8001612 bytes
+  classes2.dex: 3186216 bytes
+
+从DEX提取的相关字符串 (2542 个):
+       android:name="com.tencent.connect.common.AssistActivity"
+  Server: TooTallNate Java-WebSocket
+   connHttp disconnect
+   loadDataWithBaseURL: 
+  $ loadUrl mTablayoutInfo is not null.
+   mUserVisibleHint=
+   not support URL.
+   userListener is null
+  8$SwitchMap$com$apicloud$mediapicker$MediaPicker$CameType
+  +$SwitchMap$com$apicloud$third$yoga$YogaEdge
+  +$SwitchMap$com$apicloud$third$yoga$YogaUnit
+  $this$capitalize
+  $this$decapitalize
+  &app_name_url_encode=
+  &organization_name_url_encode=
+  (((?:(?i:http|https|rtsp)://(?:(?:[a-zA-Z0-9\$\-\_\.\+\!\*\'\(\)\,\;\?\&\=]|(?:\%[a-fA-F0-9]{2})){1,64}(?:\:(?:[a-zA-Z0-9\$\-\_\.\+\!\*\'\(\)\,\;\?\&\=]|(?:\%[a-fA-F0-9]{2})){1,25})?\@)?)?(?:
+  ((?:\b|$|^)(?:(?:(?i:http|https|rtsp)://(?:(?:[a-zA-Z0-9\$\-\_\.\+\!\*\'\(\)\,\;\?\&\=]|(?:\%[a-fA-F0-9]{2})){1,64}(?:\:(?:[a-zA-Z0-9\$\-\_\.\+\!\*\'\(\)\,\;\?\&\=]|(?:\%[a-fA-F0-9]{2})){1,25})?\@)?)(?:
+  ]]]){0,1}\.)+(?:(?:(?:aaa|aarp|abb|abbott|abogado|academy|accenture|accountant|accountants|aco|active|actor|ads|adult|aeg|aero|afl|agency|aig|airforce|airtel|allfinanz|alsace|amica|amsterdam|android|apartments|app|apple|aquarelle|aramco|archi|army|arpa|arte|asia|associates|attorney|auction|audio|auto|autos|axa|azure|a[cdefgilmoqrstuwxz])|(?:band|bank|bar|barcelona|barclaycard|barclays|bargains|bauhaus|bayern|bbc|bbva|bcn|beats|beer|bentley|berlin|best|bet|bharti|bible|bid|bike|bing|bingo|bio|biz|black|blackfriday|bloomberg|blue|bms|bmw|bnl|bnpparibas|boats|bom|bond|boo|boots|boutique|bradesco|bridgestone|broadway|broker|brother|brussels|budapest|build|builders|business|buzz|bzh|b[abdefghijmnorstvwyz])|(?:cab|cafe|cal|camera|camp|cancerresearch|canon|capetown|capital|car|caravan|cards|care|career|careers|cars|cartier|casa|cash|casino|cat|catering|cba|cbn|ceb|center|ceo|cern|cfa|cfd|chanel|channel|chat|cheap|chloe|christmas|chrome|church|cipriani|cisco|citic|city|cityeats|claims|cleaning|click|clinic|clothing|cloud|club|clubmed|coach|codes|coffee|college|cologne|com|commbank|community|company|computer|comsec|condos|construction|consulting|contractors|cooking|cool|coop|corsica|country|coupons|courses|credit|creditcard|creditunion|cricket|crown|crs|cruises|csc|cuisinella|cymru|cyou|c[acdfghiklmnoruvwxyz])|(?:dabur|dad|dance|date|dating|datsun|day|dclk|deals|degree|delivery|dell|delta|democrat|dental|dentist|desi|design|dev|diamonds|diet|digital|direct|directory|discount|dnp|docs|dog|doha|domains|doosan|download|drive|durban|dvag|d[ejkmoz])|(?:earth|eat|edu|education|email|emerck|energy|engineer|engineering|enterprises|epson|equipment|erni|esq|estate|eurovision|eus|events|everbank|exchange|expert|exposed|express|e[cegrstu])|(?:fage|fail|fairwinds|faith|family|fan|fans|farm|fashion|feedback|ferrero|film|final|finance|financial|firmdale|fish|fishing|fit|fitness|flights|florist|flowers|flsmidth|fly|foo|football|forex|forsale|forum|foundation|frl|frogans|fund|furniture|futbol|fyi|f[ijkmor])|(?:gal|gallery|game|garden|gbiz|gdn|gea|gent|genting|ggee|gift|gifts|gives|giving|glass|gle|global|globo|gmail|gmo|gmx|gold|goldpoint|golf|goo|goog|google|gop|gov|grainger|graphics|gratis|green|gripe|group|gucci|guge|guide|guitars|guru|g[abdefghilmnpqrstuwy])|(?:hamburg|hangout|haus|healthcare|help|here|hermes|hiphop|hitachi|hiv|hockey|holdings|holiday|homedepot|homes|honda|horse|host|hosting|hoteles|hotmail|house|how|hsbc|hyundai|h[kmnrtu])|(?:ibm|icbc|ice|icu|ifm|iinet|immo|immobilien|industries|infiniti|info|ing|ink|institute|insure|int|international|investments|ipiranga|irish|ist|istanbul|itau|iwc|i[delmnoqrst])|(?:jaguar|java|jcb|jetzt|jewelry|jlc|jll|jobs|joburg|jprs|juegos|j[emop])|(?:kaufen|kddi|kia|kim|kinder|kitchen|kiwi|koeln|komatsu|krd|kred|kyoto|k[eghimnprwyz])|(?:lacaixa|lancaster|land|landrover|lasalle|lat|latrobe|law|lawyer|lds|lease|leclerc|legal|lexus|lgbt|liaison|lidl|life|lifestyle|lighting|limited|limo|linde|link|live|lixil|loan|loans|lol|london|lotte|lotto|love|ltd|ltda|lupin|luxe|luxury|l[abcikrstuvy])|(?:madrid|maif|maison|man|management|mango|market|marketing|markets|marriott|mba|media|meet|melbourne|meme|memorial|men|menu|meo|miami|microsoft|mil|mini|mma|mobi|moda|moe|moi|mom|monash|money|montblanc|mormon|mortgage|moscow|motorcycles|mov|movie|movistar|mtn|mtpc|mtr|museum|mutuelle|m[acdeghklmnopqrstuvwxyz])|(?:nadex|nagoya|name|navy|nec|net|netbank|network|neustar|new|news|nexus|ngo|nhk|nico|ninja|nissan|nokia|nra|nrw|ntt|nyc|n[acefgilopruz])|(?:obi|office|okinawa|omega|one|ong|onl|online|ooo|oracle|orange|org|organic|osaka|otsuka|ovh|om)|(?:page|panerai|paris|partners|parts|party|pet|pharmacy|philips|photo|photography|photos|physio|piaget|pics|pictet|pictures|ping|pink|pizza|place|play|playstation|plumbing|plus|pohl|poker|porn|post|praxi|press|pro|prod|productions|prof|properties|property|protection|pub|p[aefghklmnrstwy])|(?:qpon|quebec|qa)|(?:racing|realtor|realty|recipes|red|redstone|rehab|reise|reisen|reit|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rich|ricoh|rio|rip|rocher|rocks|rodeo|rsvp|ruhr|run|rwe|ryukyu|r[eosuw])|(?:saarland|sakura|sale|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|saxo|sbs|sca|scb|schmidt|scholarships|school|schule|schwarz|science|scor|scot|seat|security|seek|sener|services|seven|sew|sex|sexy|shiksha|shoes|show|shriram|singles|site|ski|sky|skype|sncf|soccer|social|software|sohu|solar|solutions|sony|soy|space|spiegel|spreadbetting|srl|stada|starhub|statoil|stc|stcgroup|stockholm|studio|study|style|sucks|supplies|supply|support|surf|surgery|suzuki|swatch|swiss|sydney|systems|s[abcdeghijklmnortuvxyz])|(?:tab|taipei|tatamotors|tatar|tattoo|tax|taxi|team|tech|technology|tel|telefonica|temasek|tennis|thd|theater|theatre|tickets|tienda|tips|tires|tirol|today|tokyo|tools|top|toray|toshiba|tours|town|toyota|toys|trade|trading|training|travel|trust|tui|t[cdfghjklmnortvwz])|(?:ubs|university|uno|uol|u[agksyz])|(?:vacations|vana|vegas|ventures|versicherung|vet|viajes|video|villas|vin|virgin|vision|vista|vistaprint|viva|vlaanderen|vodka|vote|voting|voto|voyage|v[aceginu])|(?:wales|walter|wang|watch|webcam|website|wed|wedding|weir|whoswho|wien|wiki|williamhill|win|windows|wine|wme|work|works|world|wtc|wtf|w[fs])|(?:
+  9(?:(?:(?:aaa|aarp|abb|abbott|abogado|academy|accenture|accountant|accountants|aco|active|actor|ads|adult|aeg|aero|afl|agency|aig|airforce|airtel|allfinanz|alsace|amica|amsterdam|android|apartments|app|apple|aquarelle|aramco|archi|army|arpa|arte|asia|associates|attorney|auction|audio|auto|autos|axa|azure|a[cdefgilmoqrstuwxz])|(?:band|bank|bar|barcelona|barclaycard|barclays|bargains|bauhaus|bayern|bbc|bbva|bcn|beats|beer|bentley|berlin|best|bet|bharti|bible|bid|bike|bing|bingo|bio|biz|black|blackfriday|bloomberg|blue|bms|bmw|bnl|bnpparibas|boats|bom|bond|boo|boots|boutique|bradesco|bridgestone|broadway|broker|brother|brussels|budapest|build|builders|business|buzz|bzh|b[abdefghijmnorstvwyz])|(?:cab|cafe|cal|camera|camp|cancerresearch|canon|capetown|capital|car|caravan|cards|care|career|careers|cars|cartier|casa|cash|casino|cat|catering|cba|cbn|ceb|center|ceo|cern|cfa|cfd|chanel|channel|chat|cheap|chloe|christmas|chrome|church|cipriani|cisco|citic|city|cityeats|claims|cleaning|click|clinic|clothing|cloud|club|clubmed|coach|codes|coffee|college|cologne|com|commbank|community|company|computer|comsec|condos|construction|consulting|contractors|cooking|cool|coop|corsica|country|coupons|courses|credit|creditcard|creditunion|cricket|crown|crs|cruises|csc|cuisinella|cymru|cyou|c[acdfghiklmnoruvwxyz])|(?:dabur|dad|dance|date|dating|datsun|day|dclk|deals|degree|delivery|dell|delta|democrat|dental|dentist|desi|design|dev|diamonds|diet|digital|direct|directory|discount|dnp|docs|dog|doha|domains|doosan|download|drive|durban|dvag|d[ejkmoz])|(?:earth|eat|edu|education|email|emerck|energy|engineer|engineering|enterprises|epson|equipment|erni|esq|estate|eurovision|eus|events|everbank|exchange|expert|exposed|express|e[cegrstu])|(?:fage|fail|fairwinds|faith|family|fan|fans|farm|fashion|feedback|ferrero|film|final|finance|financial|firmdale|fish|fishing|fit|fitness|flights|florist|flowers|flsmidth|fly|foo|football|forex|forsale|forum|foundation|frl|frogans|fund|furniture|futbol|fyi|f[ijkmor])|(?:gal|gallery|game|garden|gbiz|gdn|gea|gent|genting|ggee|gift|gifts|gives|giving|glass|gle|global|globo|gmail|gmo|gmx|gold|goldpoint|golf|goo|goog|google|gop|gov|grainger|graphics|gratis|green|gripe|group|gucci|guge|guide|guitars|guru|g[abdefghilmnpqrstuwy])|(?:hamburg|hangout|haus|healthcare|help|here|hermes|hiphop|hitachi|hiv|hockey|holdings|holiday|homedepot|homes|honda|horse|host|hosting|hoteles|hotmail|house|how|hsbc|hyundai|h[kmnrtu])|(?:ibm|icbc|ice|icu|ifm|iinet|immo|immobilien|industries|infiniti|info|ing|ink|institute|insure|int|international|investments|ipiranga|irish|ist|istanbul|itau|iwc|i[delmnoqrst])|(?:jaguar|java|jcb|jetzt|jewelry|jlc|jll|jobs|joburg|jprs|juegos|j[emop])|(?:kaufen|kddi|kia|kim|kinder|kitchen|kiwi|koeln|komatsu|krd|kred|kyoto|k[eghimnprwyz])|(?:lacaixa|lancaster|land|landrover|lasalle|lat|latrobe|law|lawyer|lds|lease|leclerc|legal|lexus|lgbt|liaison|lidl|life|lifestyle|lighting|limited|limo|linde|link|live|lixil|loan|loans|lol|london|lotte|lotto|love|ltd|ltda|lupin|luxe|luxury|l[abcikrstuvy])|(?:madrid|maif|maison|man|management|mango|market|marketing|markets|marriott|mba|media|meet|melbourne|meme|memorial|men|menu|meo|miami|microsoft|mil|mini|mma|mobi|moda|moe|moi|mom|monash|money|montblanc|mormon|mortgage|moscow|motorcycles|mov|movie|movistar|mtn|mtpc|mtr|museum|mutuelle|m[acdeghklmnopqrstuvwxyz])|(?:nadex|nagoya|name|navy|nec|net|netbank|network|neustar|new|news|nexus|ngo|nhk|nico|ninja|nissan|nokia|nra|nrw|ntt|nyc|n[acefgilopruz])|(?:obi|office|okinawa|omega|one|ong|onl|online|ooo|oracle|orange|org|organic|osaka|otsuka|ovh|om)|(?:page|panerai|paris|partners|parts|party|pet|pharmacy|philips|photo|photography|photos|physio|piaget|pics|pictet|pictures|ping|pink|pizza|place|play|playstation|plumbing|plus|pohl|poker|porn|post|praxi|press|pro|prod|productions|prof|properties|property|protection|pub|p[aefghklmnrstwy])|(?:qpon|quebec|qa)|(?:racing|realtor|realty|recipes|red|redstone|rehab|reise|reisen|reit|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rich|ricoh|rio|rip|rocher|rocks|rodeo|rsvp|ruhr|run|rwe|ryukyu|r[eosuw])|(?:saarland|sakura|sale|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|saxo|sbs|sca|scb|schmidt|scholarships|school|schule|schwarz|science|scor|scot|seat|security|seek|sener|services|seven|sew|sex|sexy|shiksha|shoes|show|shriram|singles|site|ski|sky|skype|sncf|soccer|social|software|sohu|solar|solutions|sony|soy|space|spiegel|spreadbetting|srl|stada|starhub|statoil|stc|stcgroup|stockholm|studio|study|style|sucks|supplies|supply|support|surf|surgery|suzuki|swatch|swiss|sydney|systems|s[abcdeghijklmnortuvxyz])|(?:tab|taipei|tatamotors|tatar|tattoo|tax|taxi|team|tech|technology|tel|telefonica|temasek|tennis|thd|theater|theatre|tickets|tienda|tips|tires|tirol|today|tokyo|tools|top|toray|toshiba|tours|town|toyota|toys|trade|trading|training|travel|trust|tui|t[cdfghjklmnortvwz])|(?:ubs|university|uno|uol|u[agksyz])|(?:vacations|vana|vegas|ventures|versicherung|vet|viajes|video|villas|vin|virgin|vision|vista|vistaprint|viva|vlaanderen|vodka|vote|voting|voto|voyage|v[aceginu])|(?:wales|walter|wang|watch|webcam|website|wed|wedding|weir|whoswho|wien|wiki|williamhill|win|windows|wine|wme|work|works|world|wtc|wtf|w[fs])|(?:
+  ]]]){0,1}\.)+(?:(?:(?:aaa|aarp|abb|abbott|abogado|academy|accenture|accountant|accountants|aco|active|actor|ads|adult|aeg|aero|afl|agency|aig|airforce|airtel|allfinanz|alsace|amica|amsterdam|android|apartments|app|apple|aquarelle|aramco|archi|army|arpa|arte|asia|associates|attorney|auction|audio|auto|autos|axa|azure|a[cdefgilmoqrstuwxz])|(?:band|bank|bar|barcelona|barclaycard|barclays|bargains|bauhaus|bayern|bbc|bbva|bcn|beats|beer|bentley|berlin|best|bet|bharti|bible|bid|bike|bing|bingo|bio|biz|black|blackfriday|bloomberg|blue|bms|bmw|bnl|bnpparibas|boats|bom|bond|boo|boots|boutique|bradesco|bridgestone|broadway|broker|brother|brussels|budapest|build|builders|business|buzz|bzh|b[abdefghijmnorstvwyz])|(?:cab|cafe|cal|camera|camp|cancerresearch|canon|capetown|capital|car|caravan|cards|care|career|careers|cars|cartier|casa|cash|casino|cat|catering|cba|cbn|ceb|center|ceo|cern|cfa|cfd|chanel|channel|chat|cheap|chloe|christmas|chrome|church|cipriani|cisco|citic|city|cityeats|claims|cleaning|click|clinic|clothing|cloud|club|clubmed|coach|codes|coffee|college|cologne|com|commbank|community|company|computer|comsec|condos|construction|consulting|contractors|cooking|cool|coop|corsica|country|coupons|courses|credit|creditcard|creditunion|cricket|crown|crs|cruises|csc|cuisinella|cymru|cyou|c[acdfghiklmnoruvwxyz])|(?:dabur|dad|dance|date|dating|datsun|day|dclk|deals|degree|delivery|dell|delta|democrat|dental|dentist|desi|design|dev|diamonds|diet|digital|direct|directory|discount|dnp|docs|dog|doha|domains|doosan|download|drive|durban|dvag|d[ejkmoz])|(?:earth|eat|edu|education|email|emerck|energy|engineer|engineering|enterprises|epson|equipment|erni|esq|estate|eurovision|eus|events|everbank|exchange|expert|exposed|express|e[cegrstu])|(?:fage|fail|fairwinds|faith|family|fan|fans|farm|fashion|feedback|ferrero|film|final|finance|financial|firmdale|fish|fishing|fit|fitness|flights|florist|flowers|flsmidth|fly|foo|football|forex|forsale|forum|foundation|frl|frogans|fund|furniture|futbol|fyi|f[ijkmor])|(?:gal|gallery|game|garden|gbiz|gdn|gea|gent|genting|ggee|gift|gifts|gives|giving|glass|gle|global|globo|gmail|gmo|gmx|gold|goldpoint|golf|goo|goog|google|gop|gov|grainger|graphics|gratis|green|gripe|group|gucci|guge|guide|guitars|guru|g[abdefghilmnpqrstuwy])|(?:hamburg|hangout|haus|healthcare|help|here|hermes|hiphop|hitachi|hiv|hockey|holdings|holiday|homedepot|homes|honda|horse|host|hosting|hoteles|hotmail|house|how|hsbc|hyundai|h[kmnrtu])|(?:ibm|icbc|ice|icu|ifm|iinet|immo|immobilien|industries|infiniti|info|ing|ink|institute|insure|int|international|investments|ipiranga|irish|ist|istanbul|itau|iwc|i[delmnoqrst])|(?:jaguar|java|jcb|jetzt|jewelry|jlc|jll|jobs|joburg|jprs|juegos|j[emop])|(?:kaufen|kddi|kia|kim|kinder|kitchen|kiwi|koeln|komatsu|krd|kred|kyoto|k[eghimnprwyz])|(?:lacaixa|lancaster|land|landrover|lasalle|lat|latrobe|law|lawyer|lds|lease|leclerc|legal|lexus|lgbt|liaison|lidl|life|lifestyle|lighting|limited|limo|linde|link|live|lixil|loan|loans|lol|london|lotte|lotto|love|ltd|ltda|lupin|luxe|luxury|l[abcikrstuvy])|(?:madrid|maif|maison|man|management|mango|market|marketing|markets|marriott|mba|media|meet|melbourne|meme|memorial|men|menu|meo|miami|microsoft|mil|mini|mma|mobi|moda|moe|moi|mom|monash|money|montblanc|mormon|mortgage|moscow|motorcycles|mov|movie|movistar|mtn|mtpc|mtr|museum|mutuelle|m[acdeghklmnopqrstuvwxyz])|(?:nadex|nagoya|name|navy|nec|net|netbank|network|neustar|new|news|nexus|ngo|nhk|nico|ninja|nissan|nokia|nra|nrw|ntt|nyc|n[acefgilopruz])|(?:obi|office|okinawa|omega|one|ong|onl|online|ooo|oracle|orange|org|organic|osaka|otsuka|ovh|om)|(?:page|panerai|paris|partners|parts|party|pet|pharmacy|philips|photo|photography|photos|physio|piaget|pics|pictet|pictures|ping|pink|pizza|place|play|playstation|plumbing|plus|pohl|poker|porn|post|praxi|press|pro|prod|productions|prof|properties|property|protection|pub|p[aefghklmnrstwy])|(?:qpon|quebec|qa)|(?:racing|realtor|realty|recipes|red|redstone|rehab|reise|reisen|reit|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rich|ricoh|rio|rip|rocher|rocks|rodeo|rsvp|ruhr|run|rwe|ryukyu|r[eosuw])|(?:saarland|sakura|sale|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|saxo|sbs|sca|scb|schmidt|scholarships|school|schule|schwarz|science|scor|scot|seat|security|seek|sener|services|seven|sew|sex|sexy|shiksha|shoes|show|shriram|singles|site|ski|sky|skype|sncf|soccer|social|software|sohu|solar|solutions|sony|soy|space|spiegel|spreadbetting|srl|stada|starhub|statoil|stc|stcgroup|stockholm|studio|study|style|sucks|supplies|supply|support|surf|surgery|suzuki|swatch|swiss|sydney|systems|s[abcdeghijklmnortuvxyz])|(?:tab|taipei|tatamotors|tatar|tattoo|tax|taxi|team|tech|technology|tel|telefonica|temasek|tennis|thd|theater|theatre|tickets|tienda|tips|tires|tirol|today|tokyo|tools|top|toray|toshiba|tours|town|toyota|toys|trade|trading|training|travel|trust|tui|t[cdfghjklmnortvwz])|(?:ubs|university|uno|uol|u[agksyz])|(?:vacations|vana|vegas|ventures|versicherung|vet|viajes|video|villas|vin|virgin|vision|vista|vistaprint|viva|vlaanderen|vodka|vote|voting|voto|voyage|v[aceginu])|(?:wales|walter|wang|watch|webcam|website|wed|wedding|weir|whoswho|wien|wiki|williamhill|win|windows|wine|wme|work|works|world|wtc|wtf|w[fs])|(?:
+  9(?:(?:aaa|aarp|abb|abbott|abogado|academy|accenture|accountant|accountants|aco|active|actor|ads|adult|aeg|aero|afl|agency|aig|airforce|airtel|allfinanz|alsace|amica|amsterdam|android|apartments|app|apple|aquarelle|aramco|archi|army|arpa|arte|asia|associates|attorney|auction|audio|auto|autos|axa|azure|a[cdefgilmoqrstuwxz])|(?:band|bank|bar|barcelona|barclaycard|barclays|bargains|bauhaus|bayern|bbc|bbva|bcn|beats|beer|bentley|berlin|best|bet|bharti|bible|bid|bike|bing|bingo|bio|biz|black|blackfriday|bloomberg|blue|bms|bmw|bnl|bnpparibas|boats|bom|bond|boo|boots|boutique|bradesco|bridgestone|broadway|broker|brother|brussels|budapest|build|builders|business|buzz|bzh|b[abdefghijmnorstvwyz])|(?:cab|cafe|cal|camera|camp|cancerresearch|canon|capetown|capital|car|caravan|cards|care|career|careers|cars|cartier|casa|cash|casino|cat|catering|cba|cbn|ceb|center|ceo|cern|cfa|cfd|chanel|channel|chat|cheap|chloe|christmas|chrome|church|cipriani|cisco|citic|city|cityeats|claims|cleaning|click|clinic|clothing|cloud|club|clubmed|coach|codes|coffee|college|cologne|com|commbank|community|company|computer|comsec|condos|construction|consulting|contractors|cooking|cool|coop|corsica|country|coupons|courses|credit|creditcard|creditunion|cricket|crown|crs|cruises|csc|cuisinella|cymru|cyou|c[acdfghiklmnoruvwxyz])|(?:dabur|dad|dance|date|dating|datsun|day|dclk|deals|degree|delivery|dell|delta|democrat|dental|dentist|desi|design|dev|diamonds|diet|digital|direct|directory|discount|dnp|docs|dog|doha|domains|doosan|download|drive|durban|dvag|d[ejkmoz])|(?:earth|eat|edu|education|email|emerck|energy|engineer|engineering|enterprises|epson|equipment|erni|esq|estate|eurovision|eus|events|everbank|exchange|expert|exposed|express|e[cegrstu])|(?:fage|fail|fairwinds|faith|family|fan|fans|farm|fashion|feedback|ferrero|film|final|finance|financial|firmdale|fish|fishing|fit|fitness|flights|florist|flowers|flsmidth|fly|foo|football|forex|forsale|forum|foundation|frl|frogans|fund|furniture|futbol|fyi|f[ijkmor])|(?:gal|gallery|game|garden|gbiz|gdn|gea|gent|genting|ggee|gift|gifts|gives|giving|glass|gle|global|globo|gmail|gmo|gmx|gold|goldpoint|golf|goo|goog|google|gop|gov|grainger|graphics|gratis|green|gripe|group|gucci|guge|guide|guitars|guru|g[abdefghilmnpqrstuwy])|(?:hamburg|hangout|haus|healthcare|help|here|hermes|hiphop|hitachi|hiv|hockey|holdings|holiday|homedepot|homes|honda|horse|host|hosting|hoteles|hotmail|house|how|hsbc|hyundai|h[kmnrtu])|(?:ibm|icbc|ice|icu|ifm|iinet|immo|immobilien|industries|infiniti|info|ing|ink|institute|insure|int|international|investments|ipiranga|irish|ist|istanbul|itau|iwc|i[delmnoqrst])|(?:jaguar|java|jcb|jetzt|jewelry|jlc|jll|jobs|joburg|jprs|juegos|j[emop])|(?:kaufen|kddi|kia|kim|kinder|kitchen|kiwi|koeln|komatsu|krd|kred|kyoto|k[eghimnprwyz])|(?:lacaixa|lancaster|land|landrover|lasalle|lat|latrobe|law|lawyer|lds|lease|leclerc|legal|lexus|lgbt|liaison|lidl|life|lifestyle|lighting|limited|limo|linde|link|live|lixil|loan|loans|lol|london|lotte|lotto|love|ltd|ltda|lupin|luxe|luxury|l[abcikrstuvy])|(?:madrid|maif|maison|man|management|mango|market|marketing|markets|marriott|mba|media|meet|melbourne|meme|memorial|men|menu|meo|miami|microsoft|mil|mini|mma|mobi|moda|moe|moi|mom|monash|money|montblanc|mormon|mortgage|moscow|motorcycles|mov|movie|movistar|mtn|mtpc|mtr|museum|mutuelle|m[acdeghklmnopqrstuvwxyz])|(?:nadex|nagoya|name|navy|nec|net|netbank|network|neustar|new|news|nexus|ngo|nhk|nico|ninja|nissan|nokia|nra|nrw|ntt|nyc|n[acefgilopruz])|(?:obi|office|okinawa|omega|one|ong|onl|online|ooo|oracle|orange|org|organic|osaka|otsuka|ovh|om)|(?:page|panerai|paris|partners|parts|party|pet|pharmacy|philips|photo|photography|photos|physio|piaget|pics|pictet|pictures|ping|pink|pizza|place|play|playstation|plumbing|plus|pohl|poker|porn|post|praxi|press|pro|prod|productions|prof|properties|property|protection|pub|p[aefghklmnrstwy])|(?:qpon|quebec|qa)|(?:racing|realtor|realty|recipes|red|redstone|rehab|reise|reisen|reit|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rich|ricoh|rio|rip|rocher|rocks|rodeo|rsvp|ruhr|run|rwe|ryukyu|r[eosuw])|(?:saarland|sakura|sale|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|saxo|sbs|sca|scb|schmidt|scholarships|school|schule|schwarz|science|scor|scot|seat|security|seek|sener|services|seven|sew|sex|sexy|shiksha|shoes|show|shriram|singles|site|ski|sky|skype|sncf|soccer|social|software|sohu|solar|solutions|sony|soy|space|spiegel|spreadbetting|srl|stada|starhub|statoil|stc|stcgroup|stockholm|studio|study|style|sucks|supplies|supply|support|surf|surgery|suzuki|swatch|swiss|sydney|systems|s[abcdeghijklmnortuvxyz])|(?:tab|taipei|tatamotors|tatar|tattoo|tax|taxi|team|tech|technology|tel|telefonica|temasek|tennis|thd|theater|theatre|tickets|tienda|tips|tires|tirol|today|tokyo|tools|top|toray|toshiba|tours|town|toyota|toys|trade|trading|training|travel|trust|tui|t[cdfghjklmnortvwz])|(?:ubs|university|uno|uol|u[agksyz])|(?:vacations|vana|vegas|ventures|versicherung|vet|viajes|video|villas|vin|virgin|vision|vista|vistaprint|viva|vlaanderen|vodka|vote|voting|voto|voyage|v[aceginu])|(?:wales|walter|wang|watch|webcam|website|wed|wedding|weir|whoswho|wien|wiki|williamhill|win|windows|wine|wme|work|works|world|wtc|wtf|w[fs])|(?:
+  O(?i)((?:http|https|file):\/\/|(?:inline|data|about|javascript):|(?:.*:.*@))(.*)
+  (?i:http|https|rtsp)://
+       return new __j2v8_Debug.CompileEvent(scripts[i], type);
+  }};api.parseTapmode = parseTapmode;})();
+  ))},invokeApi: function(){
+  %);},invokeApiSync: function(){return 
+  , bannerImageUrl='
+  , expandableImageUrl='
+  , haCollectorUrls=
+
+
+======================================================================
+9. 华为服务配置
+======================================================================
+
+
+文件: assets/grs_sdk_global_route_config_opendevicesdk.json
+{
+    "applications": [],
+    "services": [
+        {
+            "name": "com.huawei.hms.opendevicesdk",
+            "routeBy": "ser_country",
+            "servings": [
+                {
+                    "countryOrAreaGroup": "DR1",
+                    "addresses": {
+                        "ROOT": "https://data-drcn.push.dbankcloud.com"
+                    }
+                },
+                {
+                    "countryOrAreaGroup": "DR2",
+                    "addresses": {
+             
+
+文件: assets/grs_sdk_global_route_config_opensdkService.json
+{
+    "applications": [],
+    "services": [
+        {
+            "name": "com.huawei.cloud.opensdkhianalytics",
+            "routeBy": "issue_country",
+            "servings": [
+                {
+                    "countryOrAreaGroup": "DR1",
+                    "addresses": {
+                        "ROOT": "https://metrics1-drcn.dt.dbankcloud.cn:443",
+                        "ROOTV2": "https://metrics1-drcn.dt.dbankcloud.cn:443"
+                    }
+                },
+       
+
+文件: assets/grs_sdk_server_config.json
+{
+  "grs_server": {
+    "grs_base_url": [
+      "https://grs.dbankcloud.com",
+      "https://grs.dbankcloud.cn",
+      "https://grs.dbankcloud.asia",
+      "https://grs.platform.dbankcloud.ru",
+      "https://grs.dbankcloud.eu"
+    ],
+    "grs_query_endpoint_1.0": "/grs/1.0/%1$s/router",
+    "grs_query_endpoint_2.0": "/grs/2.0/router",
+    "grs_query_timeout": 2
+  }
+}
+
+
+======================================================================
+10. 分析总结
+======================================================================
+
+10.1 技术栈
+  - 框架: yonBuilder MTL (用友网络)
+  - 渲染: apivm 虚拟DOM
+  - 存储: SQLite + sqlCipher (密码: mtl$db)
+  - 网络: api.ajax() (APICloud风格)
+  - 推送: 华为Push + mtlPush
+
+10.2 安全机制
+  - 业务代码加密: JS/HTML文件使用AES类算法加密
+  - 数据库加密: sqlCipher AES-256加密
+  - 密钥硬编码: 数据库密码 'mtl$db' 硬编码在JS中
+  - 运行时解密: 由MTL引擎在运行时解密执行
+
+10.3 API接口获取难度
+  [困难] 核心业务API被加密，无法静态分析提取
+  需要以下方法才能获取:
+    1. 动态抓包: 使用Frida/Charles抓取运行时HTTP请求
+    2. 内存Dump: 从运行中的APP内存中提取解密后的JS
+    3. 逆向MTL引擎: 分析MTL框架的解密算法和密钥
+    4. Hook api.ajax(): 拦截JS层的网络请求函数
+
+10.4 已知信息
+  - 框架测试域名: https://bip-daily.yyuap.com/iuap-yonbuilder-mobile/
+  - 实际域名: 从 mtl$exclusiveDomain 本地存储读取
+  - 数据库: box://mtlAppletData.db (sqlCipher加密)
+  - API调用方式: api.ajax({url: domain + apiPath, ...})
+
+10.5 推荐的下一步分析
+  1. 运行APP并抓取网络流量 (推荐: Charles + SSL Kill Switch)
+  2. 使用Frida hook api.ajax() 打印请求URL和参数
+  3. 提取本地数据库 mtlAppletData.db 分析存储数据
+  4. 分析DEX文件中的MTL解密逻辑，找到解密密钥

@@ -1,0 +1,7 @@
+[     182ms] [LOG] setupRouter.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[     201ms] [LOG] setupPlugins.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[     201ms] [LOG] setupDirective.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[     201ms] [LOG] setupBus.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[     202ms] [LOG] setupMixins.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[     444ms] [LOG] syncToClientErr1: undefined @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-ed445bdd.ccbc00ec.js:1
+[     541ms] [LOG] timeToRefresh return: token is empty @ https://wappass.baidu.com/static/waplib/passRefreshTk.js?tt=1787306289607:1

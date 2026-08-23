@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "title": "软天空 API 逆向分析文档",
+    "subtitle": "基于 APK v8.7.3 反编译得出的完整接口与加密逻辑",
+    "author": "DuMate",
+    "date": "2026年8月"
+  },
+  "options": {
+    "cover": true
+  },
+  "content": [
+    {"type": "h1", "text": "一、概述"},
+    {"type": "body", "text": "本文档基于对软天空 Android APP (v8.7.3, 包名 com.zhibaowan.rtk) 的 APK 反编译分析，整理了该平台后端 API 的完整接口列表、加密机制、签名算法及请求规范。所有信息均通过 jadx 反编译 classes3.dex 中的 com.rtk.app 包代码得出，并经实际请求验证。"},
+
+    {"type": "h2", "text": "1.1 分析方法"},
+    {"type": "bullet", "items": [
+      "从官网 app.ruansky.com 下载 APK (app-8730.apk, 31.81MB)",
+      "使用 jadx 1.5.0 反编译 classes3.dex（RTK 核心代码所在）",
+      "定位关键类: com/rtk/app/tool/y.java (API配置)、t.java (加密/签名)、c0.java (字符串工具)、n.java (MD5)、o/h.java (网络请求)",
+      "通过 curl 和 Python requests 实际验证 API 端点可达性和返回格式"
+    ]},
+
+    {"type": "h2", "text": "1.2 APP 基本信息"},
+    {"type": "table", "headers": ["项目", "值"], "rows": [
+      ["包名", "com.zhibaowan.rtk"],
+      ["版本号", "8.7.3 (versionCode=8730)"],
+      ["网络库", "OkHttp 4.x + Volley"],
+      ["API框架", "Retrofit 风格（接口定义 com.rtk.app.tool.o.i）"],
+      ["数据格式", "JSON (AES 加密传输)"],
+      ["签名算法", "MD5"],
+      ["加密算法", "AES/CBC/NoPadding"]
+    ]},
+
+    {"type": "h1", "text": "二、域名与路由"},
+    {"type": "body", "text": "软天空 API 使用两个域名，不同域名承载不同的路由分组。这是实际请求中最容易踩坑的地方：同一个路径在错误的域名上会返回 404。"},
+
+    {"type": "h2", "text": "2.1 域名分配"},
+    {"type": "table", "headers": ["域名", "协议", "可用路由前缀"], "rows": [
+      ["rtkapi.ruansky.net", "HTTP", "member/*, members/*, game/*, ad/*, banner/*, system/*"],
+      ["rtkapi2.ruansky.net", "HTTPS", "bbs/*, family/*, up/*, user/*, pay/*, comment/*, other/*"]
+    ]},
+
+    {"type": "callout", "text": "关键发现: member/loginVerify（登录）只在 http://rtkapi.ruansky.net/ 上可用，而 bbs/posts-save（发帖）只在 https://rtkapi2.ruansky.net/ 上可用。APK 中 y.java 第46-47行定义: y.d = http://rtkapi.ruansky.net/ (默认base), y.e = https://rtkapi2.ruansky.net/ (发帖base)。"},
+
+    {"type": "h2", "text": "2.2 其他域名"},
+    {"type": "table", "headers": ["域名", "用途"], "rows": [
+      ["down.ruansky.com", "文件下载服务"],
+      ["video.upload.ruansky.com", "视频上传"],
+      ["a.ruansky.com", "Web 端 (无发帖功能)"],
+      ["app.ruansky.com", "APP 下载页"]
+    ]},
+
+    {"type": "h1", "text": "三、加密与签名机制"},
+
+    {"type": "h2", "text": "3.1 响应解密"},
+    {"type": "body", "text": "所有 API 响应均经过 AES 加密。原始 HTTP 响应体为 JSON 格式，包含三个字段: validation (布尔值, 固定为 true)、data (Base64 编码的密文)、iv (Base64 编码的初始化向量)。"},
+
+    {"type": "body", "text": "解密参数:"},
+    {"type": "table", "headers": ["参数", "值"], "rows": [
+      ["算法", "AES/CBC/NoPadding"],
+      ["密钥 (Key)", "P.8CGq@Wr~Vs]!4! (16字节, 硬编码在 t.java 第1874行)"],
+      ["IV", "取响应中的 iv 字段 (Base64 解码后使用)"],
+      ["Padding 处理", "解密后去掉尾部 null 字节 (\\x00), 再做 trim()"]
+    ]},
+
+    {"type": "body", "text": "密钥来源: com/rtk/app/tool/t.java 第1874行:"},
+    {"type": "code", "text": "byte[] bytes = \"P.8CGq@Wr~Vs]!4!\".getBytes();\nSecretKeySpec secretKeySpec = new SecretKeySpec(bytes, \"AES\");\nCipher cipher = Cipher.getInstance(\"AES/CBC/NoPadding\");\ncipher.init(2, secretKeySpec, new IvParameterSpec(u.a(iv)));\nreturn new String(cipher.doFinal(u.a(data))).trim();"},
+
+    {"type": "body", "text": "注意: 该密钥同时也是默认 IV（当 API 返回的 iv 字段为 UC44Q0dxQFdyflZzXSE0IQ== 时，Base64 解码后恰好等于密钥本身）。"},
+
+    {"type": "body", "text": "Python 解密示例:"},
+    {"type": "code", "text": "from Crypto.Cipher import AES\nimport base64, json\n\nAES_KEY = b\"P.8CGq@Wr~Vs]!4!\"\n\ndef decrypt_response(resp_json):\n    data = base64.b64decode(resp_json[\"data\"])\n    iv = base64.b64decode(resp_json[\"iv\"])\n    cipher = AES.new(AES_KEY, AES.MODE_CBC, iv)\n    decrypted = cipher.decrypt(data)\n    text = decrypted.rstrip(b'\\x00').decode('utf-8', errors='ignore').strip()\n    return json.loads(text)"},
+
+    {"type": "h2", "text": "3.2 请求签名 (key 参数)"},
+    {"type": "body", "text": "几乎所有 API 请求都需要携带 key 参数作为签名。签名算法为 MD5，参与签名的数据由请求参数按特定规则拼接而成。"},
+
+    {"type": "body", "text": "签名公式:"},
+    {"type": "code", "text": "key = MD5( SECRET + sort_and_join(params) )"},
+
+    {"type": "body", "text": "其中:"},
+    {"type": "bullet", "items": [
+      "SECRET = P.8CGq@Wr~Vs]!4! (与 AES 密钥相同)",
+      "sort_and_join: 将参与签名的参数以 key=value 格式列出, 按字典序排序, 用 & 拼接, 最前面也加 &",
+      "$*$ 前缀的参数不参与签名, 但在实际请求时去掉 $*$ 前缀后发送"
+    ]},
+
+    {"type": "body", "text": "签名实现来自 t.java 第1942-1948行:"},
+    {"type": "code", "text": "public static String c0(String... strArr) {\n    String str = \"P.8CGq@Wr~Vs]!4!\";\n    for (String str2 : strArr) {\n        str = str + str2;\n    }\n    return com.rtk.app.tool.n.b(str);  // n.b = MD5\n}"},
+
+    {"type": "body", "text": "参数排序来自 c0.java 第54-75行:"},
+    {"type": "code", "text": "// 冒泡排序, 按字符串比较\nfor (int i = 0; i < size; i++) {\n    for (int j = i+1; j < size; j++) {\n        if (p(strArr[i], strArr[j])) {\n            String tmp = strArr[i];\n            strArr[i] = strArr[j];\nArr[j] = tmp;\n        }\n    }\n}\n// 拼接: &param1=val1&param2=val2...\nString result = \"\";\nfor (int i = 0; i < size; i++) {\n    result = result + \"&\" + strArr[i];\n}"},
+
+    {"type": "body", "text": "Python 签名示例:"},
+    {"type": "code", "text": "import hashlib\n\nSECRET = \"P.8CGq@Wr~Vs]!4!\"\n\ndef calc_key(params_list):\n    # 字典序排序\n    arr = sorted(params_list)\n    # 拼接: &p1=v1&p2=v2...\n    sorted_str = \"&\" + \"&\".join(arr)\n    return hashlib.md5((SECRET + sorted_str).encode()).hexdigest()\n\ndef calc_key_from_map(param_map):\n    # 排除 $*$ 前缀参数\n    params = [f\"{k}={v}\" for k, v in param_map.items() if not k.startswith(\"$*$\")]\n    return calc_key(params)"},
+
+    {"type": "h2", "text": "3.3 公共参数"},
+    {"type": "body", "text": "每个请求都携带以下公共参数（对应 APP 中 y.java 的静态初始化块 G）:"},
+    {"type": "table", "headers": ["参数名", "说明", "是否参与签名", "示例值"], "rows": [
+      ["channel", "渠道号", "是", "yingyongbao"],
+      ["version", "APP versionCode", "是", "8730"],
+      ["api_level", "Android API Level", "是", "33"],
+      ["phone_model", "手机型号 (Unicode escape 编码)", "是", "\\u0073\\u0061\\u006d..."],
+      ["os_info", "OS 信息 (以 $*$ 为前缀)", "否 ($*$前缀)", "V1__unknown"]
+    ]},
+
+    {"type": "body", "text": "phone_model 编码规则 (c0.b() 方法): 对每个字符, 若 ASCII 值 <= 256 则转为 \\u00 + hex, 否则转为 \\u + hex。例如 samsung_SM-G9910 会被编码为 \\u0073\\u0061\\u006d\\u0073\\u0075\\u006e\\u0067\\u005f..."},
+
+    {"type": "body", "text": "登录成功后额外携带:"},
+    {"type": "table", "headers": ["参数名", "说明", "示例值"], "rows": [
+      ["uid", "用户 ID", "1347118"],
+      ["token", "登录令牌", "e2b174dfaf105b058efa77a9d70c733b"]
+    ]},
+
+    {"type": "h2", "text": "3.4 device_id 变换 (diN 参数)"},
+    {"type": "body", "text": "发帖时需要 diN 参数, 由 android_id 经过变换得到。变换算法 (y.r() 方法):"},
+    {"type": "numbered", "items": [
+      "将 device_id 每 8 个字符分为一组, 每组逆序",
+      "剩余不足 8 字符的部分也逆序",
+      "在结果前面加 \"2a\", 后面加 \"d9\""
+    ]},
+    {"type": "body", "text": "Python 实现:"},
+    {"type": "code", "text": "def get_din(device_id):\n    n = len(device_id) // 8\n    r = len(device_id) % 8\n    result = \"\"\n    for i in range(n):\n        result += device_id[i*8:(i+1)*8][::-1]\n    result += device_id[n*8:][::-1]\n    return \"2a\" + result + \"d9\""},
+
+    {"type": "h1", "text": "四、认证相关 API"},
+
+    {"type": "h2", "text": "4.1 登录"},
+    {"type": "body", "text": "端点: GET http://rtkapi.ruansky.net/member/loginVerify"},
+    {"type": "body", "text": "用途: 用户名/手机号 + 密码登录, 返回 uid 和 token。"},
+    {"type": "body", "text": "请求参数:"},
+    {"type": "table", "headers": ["参数", "说明", "是否参与签名"], "rows": [
+      ["channel, version, api_level, phone_model", "公共参数", "是"],
+      ["os_info", "OS信息", "否 ($*$前缀)"],
+      ["uname", "用户名/手机号", "是"],
+      ["upsw", "密码的 MD5 值", "是"],
+      ["device_id", "android_id", "是"],
+      ["device_name", "品牌_型号", "是"],
+      ["client_id", "固定值 1", "否"],
+      ["key", "签名", "—"]
+    ]},
+    {"type": "body", "text": "签名参与参数: channel, version, api_level, phone_model, uname, upsw, device_id, device_name"},
+    {"type": "body", "text": "返回数据 (解密后):"},
+    {"type": "code", "text": "{\n  \"code\": 0,\n  \"data\": {\n    \"uid\": 1347118,\n    \"mobile\": \"13184017302\",\n    \"nickname\": \"林夕软件库\",\n    \"token\": \"e2b174dfaf105b058efa77a9d70c733b\",\n    \"level\": \"4\",\n    \"face\": \"头像URL\",\n    \"authority\": {\n      \"publishLimit\": 60,\n      \"publishPost\": 1,\n      \"needCheck\": 1,\n      \"upLevel\": 1,\n      \"postLevel\": 1\n    }\n  },\n  \"msg\": \"请求成功\"\n}"},
+    {"type": "callout", "text": "注意: code 为整数 0 表示成功 (不是字符串 \"200\")。publishLimit=60 表示发帖间隔限制为 60 秒。"},
+
+    {"type": "h2", "text": "4.2 第三方登录"},
+    {"type": "body", "text": "端点: GET http://rtkapi.ruansky.net/member/thirdLogin"},
+    {"type": "body", "text": "参数: device_id, device_name, <第三方类型>=<openid>, key"},
+    {"type": "body", "text": "签名参与参数: device_id, device_name (加公共参数)"},
+
+    {"type": "h2", "text": "4.3 第三方绑定"},
+    {"type": "body", "text": "端点: GET http://rtkapi.ruansky.net/member/thirdLoginBind"},
+
+    {"type": "h2", "text": "4.4 获取登录积分"},
+    {"type": "body", "text": "端点: GET http://rtkapi.ruansky.net/members/userLoginGetScore"},
+    {"type": "body", "text": "参数: uid, token, key"},
+
+    {"type": "h2", "text": "4.5 用户基本信息"},
+    {"type": "body", "text": "端点: GET http://rtkapi.ruansky.net/members/userBaseInfo"},
+    {"type": "body", "text": "参数: uid, token, key"},
+
+    {"type": "h2", "text": "4.6 版块列表"},
+    {"type": "body", "text": "端点: GET http://rtkapi.ruansky.net/members/modulesListForHome"},
+    {"type": "body", "text": "参数: 公共参数 + key"},
+    {"type": "body", "text": "签名参与参数: channel, version, api_level, phone_model (仅公共参数)"},
+    {"type": "body", "text": "返回的版块列表:"},
+    {"type": "table", "headers": ["ID", "版块名称", "可用标签"], "rows": [
+      ["1", "资源分享", "游戏分享, 软件分享, 其他分享"],
+      ["2", "原创技术", "原创游戏, 原创软件, 技术教程"],
+      ["3", "游戏交流", "攻略评测, 新闻资讯, 技术分享, 在线求助"],
+      ["4", "交友自拍", "闭月羞花, 风流倜傥, 个性拍照, 随手外拍"],
+      ["5", "美图美腿", "原创艺术, 个性美腿, 网络美图"],
+      ["6", "恶搞斗图", "发动斗图, 轻松时刻, 囧人囧图, 潮流表情"],
+      ["7", "福利共享", "红包活动, 优惠实物, 流量话费, 虚拟商品"],
+      ["8", "版务指南", "通知公告, 招揽群雄, 毛遂自荐, 意见反馈"],
+      ["9", "求助许愿", "求游戏, 求软件, 求动漫"],
+      ["10", "闲聊吐槽", "闲聊, 吐槽, 段子"],
+      ["11", "手机美化", "美化分享, 原创制作, 美工教程, 求助讨论"],
+      ["12", "二次元", "次元分享, 次元漫画, 次元美图, 求助讨论"],
+      ["13", "回收站", "待整改, 违规贴"],
+      ["14", "视频分享", "颜值, 段子, 美食, 游戏, 二次元, 其他"]
+    ]},
+
+    {"type": "h1", "text": "五、帖子 (BBS) 相关 API"},
+    {"type": "body", "text": "所有 BBS 接口在 https://rtkapi2.ruansky.net/ 上。"},
+
+    {"type": "h2", "text": "5.1 发帖"},
+    {"type": "body", "text": "端点: POST https://rtkapi2.ruansky.net/bbs/posts-save"},
+    {"type": "body", "text": "Content-Type: application/x-www-form-urlencoded"},
+    {"type": "body", "text": "代码来源: PublishPostActivity.java 第351-366行"},
+    {"type": "body", "text": "请求参数:"},
+    {"type": "table", "headers": ["参数", "说明", "是否参与签名"], "rows": [
+      ["channel, version, api_level, phone_model", "公共参数", "是"],
+      ["uid, token", "认证", "是"],
+      ["mid", "版块 ID", "是"],
+      ["display_mode", "固定值 2", "是"],
+      ["title", "帖子标题", "是"],
+      ["$*$tags", "标签", "否 ($*$前缀)"],
+      ["$*$content", "帖子正文", "否 ($*$前缀)"],
+      ["$*$device_name", "设备名", "否 ($*$前缀)"],
+      ["$*$os_version", "系统版本", "否 ($*$前缀)"],
+      ["$*$pid", "父帖子 ID (回复时用)", "否 ($*$前缀)"],
+      ["$*$family_id", "家族 ID (可选)", "否 ($*$前缀)"],
+      ["key", "签名", "— (在 diN 之前计算)"],
+      ["diN", "device_id 变换", "否 (在 key 之后加入)"]
+    ]},
+    {"type": "callout", "text": "关键: diN 参数在 key 之后才加入 map, 因此不参与签名计算。签名时 map 中有: channel, version, api_level, phone_model, uid, token, mid, display_mode, title。"},
+    {"type": "body", "text": "返回成功示例:"},
+    {"type": "code", "text": "{\"code\": 0, \"data\": null, \"msg\": \"请求成功\"}"},
+    {"type": "body", "text": "返回失败示例 (频率限制):"},
+    {"type": "code", "text": "{\"code\": \"400\", \"data\": null, \"msg\": \"您发布的太频繁了，请歇会儿吧\"}"},
+
+    {"type": "h2", "text": "5.2 帖子详情"},
+    {"type": "body", "text": "端点: GET https://rtkapi2.ruansky.net/bbs/detail"},
+    {"type": "body", "text": "参数: uid, token, pid (帖子ID), di (device_id变换), key"},
+
+    {"type": "h2", "text": "5.3 评论列表"},
+    {"type": "body", "text": "端点: GET https://rtkapi2.ruansky.net/bbs/comment-list"},
+
+    {"type": "h2", "text": "5.4 发表评论"},
+    {"type": "body", "text": "端点: POST https://rtkapi2.ruansky.net/bbs/posts/comment"},
+
+    {"type": "h2", "text": "5.5 删除帖子"},
+    {"type": "body", "text": "端点: GET https://rtkapi2.ruansky.net/bbs/posts/delete"},
+    {"type": "body", "text": "用户删除: GET https://rtkapi2.ruansky.net/bbs/posts/delete-by-user"},
+
+    {"type": "h2", "text": "5.6 置顶/加精/关闭评论"},
+    {"type": "body", "text": "置顶: GET https://rtkapi2.ruansky.net/bbs/posts/set-top"},
+    {"type": "body", "text": "加精: GET https://rtkapi2.ruansky.net/bbs/posts/set-boutique"},
+    {"type": "body", "text": "关闭评论: GET https://rtkapi2.ruansky.net/bbs/posts/close-comment"},
+
+    {"type": "h2", "text": "5.7 推荐帖子"},
+    {"type": "body", "text": "端点: GET https://rtkapi2.ruansky.net/bbs/posts/suggest"},
+
+    {"type": "h2", "text": "5.8 帖子审核"},
+    {"type": "body", "text": "审核列表: GET https://rtkapi2.ruansky.net/bbs/examine/list"},
+    {"type": "body", "text": "审核操作: POST https://rtkapi2.ruansky.net/bbs/examine/post"},
+    {"type": "body", "text": "评论审核列表: GET https://rtkapi2.ruansky.net/bbs/examine-comment/list"},
+    {"type": "body", "text": "评论审核操作: POST https://rtkapi2.ruansky.net/bbs/examine-comment/post"},
+
+    {"type": "h2", "text": "5.9 浏览量统计"},
+    {"type": "body", "text": "计数: GET https://rtkapi2.ruansky.net/bbs/pv/count"},
+    {"type": "body", "text": "详情: GET https://rtkapi2.ruansky.net/bbs/pv/detail"},
+
+    {"type": "h2", "text": "5.10 删除回复"},
+    {"type": "body", "text": "端点: GET https://rtkapi2.ruansky.net/bbs/reply/delete-by-user"},
+
+    {"type": "h1", "text": "六、社区/家族 (Family) 相关 API"},
+
+    {"type": "h2", "text": "6.1 家族管理"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["family/list", "GET", "家族列表"],
+      ["family/my-family", "GET", "我的家族"],
+      ["family/home-page", "GET", "家族主页"],
+      ["family/search", "GET", "搜索家族"],
+      ["family/create", "POST", "创建家族"],
+      ["family/create/check", "GET", "创建检查"],
+      ["family/basic-information", "GET", "基本信息"],
+      ["family/announcement", "GET", "家族公告"],
+      ["family/transfer", "POST", "家族转让"],
+      ["family/count/pending", "GET", "待处理数量"],
+      ["family/list/member-ranking", "GET", "成员排名"],
+      ["family/ta-family", "GET", "TA的家族"]
+    ]},
+
+    {"type": "h2", "text": "6.2 家族帖子"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["family/bbs/list/posts", "GET", "家族帖子列表"],
+      ["family/bbs/list/top", "GET", "家族置顶帖子"],
+      ["family/bbs/search", "GET", "家族帖子搜索"],
+      ["family/bbs/module/add", "POST", "添加版块"],
+      ["family/bbs/module/edit", "POST", "编辑版块"]
+    ]},
+
+    {"type": "h2", "text": "6.3 家族审核"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["family/bbs/check/list", "GET", "帖子审核列表"],
+      ["family/bbs/check/operate", "POST", "帖子审核操作"],
+      ["family/bbs/check-comment/list", "GET", "评论审核列表"],
+      ["family/bbs/check-comment/operate", "POST", "评论审核操作"],
+      ["family/up/check/list", "GET", "UP资源审核列表"],
+      ["family/up/check/operate", "POST", "UP资源审核操作"],
+      ["family/up/check-comment/list", "GET", "UP评论审核列表"],
+      ["family/up/check-comment/operate", "POST", "UP评论审核操作"]
+    ]},
+
+    {"type": "h2", "text": "6.4 家族成员"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["family/user/list", "GET", "成员列表"],
+      ["family/user/search", "GET", "搜索成员"],
+      ["family/user/delete", "POST", "删除成员"],
+      ["family/user/permission-add", "POST", "添加权限"],
+      ["family/user/permission-cancel", "POST", "取消权限"],
+      ["family/user/blacklist", "GET", "黑名单"],
+      ["family/user/blacklist-add", "POST", "加黑名单"],
+      ["family/user/blacklist-cancel", "POST", "取消黑名单"]
+    ]},
+
+    {"type": "h2", "text": "6.5 加入/退出家族"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["family/join/apply", "POST", "申请加入"],
+      ["family/join/cancel", "POST", "取消申请"],
+      ["family/join/exit", "POST", "退出家族"],
+      ["family/join/my-apply-list", "GET", "我的申请列表"],
+      ["family/join/total-pending", "GET", "待处理总数"],
+      ["family/join/user-list", "GET", "申请用户列表"],
+      ["family/join/user-result", "GET", "申请结果"]
+    ]},
+
+    {"type": "h2", "text": "6.6 家族信息修改"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["family/info/cover", "POST", "修改封面"],
+      ["family/info/introduce", "POST", "修改介绍"],
+      ["family/info/is-allow-join", "POST", "设置是否允许加入"],
+      ["family/info/join-coin", "POST", "设置加入金币"],
+      ["family/info/logo", "POST", "修改Logo"],
+      ["family/info/name", "POST", "修改名称"],
+      ["family/info/notice", "POST", "修改公告"],
+      ["family/info/real", "POST", "修改认证信息"]
+    ]},
+
+    {"type": "h2", "text": "6.7 家族金币"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["family/coin/in", "POST", "金币转入"],
+      ["family/coin/out", "POST", "金币转出"],
+      ["family/coin/list", "GET", "金币记录"]
+    ]},
+
+    {"type": "h1", "text": "七、UP 资源相关 API"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["up/save/add", "POST", "上传资源"],
+      ["up/save/edit", "POST", "编辑资源"],
+      ["up/detail/edit", "POST", "编辑详情"],
+      ["up/list", "GET", "资源列表"],
+      ["up/search", "GET", "搜索资源"],
+      ["up/buy", "GET", "购买资源"],
+      ["up/buy/check", "GET", "购买检查"],
+      ["up/down-ranking", "GET", "下载排行"],
+      ["up/reward-ranking", "GET", "打赏排行"],
+      ["up/comment/delete", "GET", "删除评论"],
+      ["up/comment/delete-by-user", "GET", "用户删除评论"],
+      ["up/examine-comment/list", "GET", "评论审核列表"],
+      ["up/examine-comment/my-list", "GET", "我的评论审核"],
+      ["up/examine-comment/operate", "POST", "评论审核操作"],
+      ["up/check/review-list", "GET", "审核列表"],
+      ["up/check/review-operate", "POST", "审核操作"],
+      ["up/pv/count", "GET", "浏览计数"],
+      ["up/pv/detail", "GET", "浏览详情"],
+      ["up/sec-trans/check", "GET", "安全交易检查"]
+    ]},
+
+    {"type": "h1", "text": "八、用户相关 API"},
+    {"type": "body", "text": "所有接口在 https://rtkapi2.ruansky.net/ 上。"},
+
+    {"type": "h2", "text": "8.1 修改资料"},
+    {"type": "table", "headers": ["端点", "说明"], "rows": [
+      ["user/info/birthday", "修改生日"],
+      ["user/info/gender", "修改性别"],
+      ["user/info/nickname", "修改昵称"],
+      ["user/info/signature", "修改签名"]
+    ]},
+
+    {"type": "h2", "text": "8.2 黑名单"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["user/blacklist", "GET", "黑名单列表"],
+      ["user/blacklist/add", "POST", "加入黑名单"],
+      ["user/blacklist/cancel", "POST", "移出黑名单"]
+    ]},
+
+    {"type": "h2", "text": "8.3 用户审核"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["user/check/avatar-list", "GET", "头像审核列表"],
+      ["user/check/avatar-operate", "POST", "头像审核操作"],
+      ["user/check/nickname-list", "GET", "昵称审核列表"],
+      ["user/check/nickname-operate", "POST", "昵称审核操作"],
+      ["user/check/photo-list", "GET", "照片审核列表"],
+      ["user/check/photo-operate", "POST", "照片审核操作"],
+      ["user/check/signature-list", "GET", "签名审核列表"],
+      ["user/check/signature-operate", "POST", "签名审核操作"]
+    ]},
+
+    {"type": "h2", "text": "8.4 其他用户接口"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["user/fans-ranking", "GET", "粉丝排行"],
+      ["user/fans-ranking/tips", "GET", "粉丝排行提示"],
+      ["user/message/list", "GET", "消息列表"],
+      ["user/message/read", "POST", "消息已读"],
+      ["user/message/read-all", "POST", "全部已读"],
+      ["user/my-moments/bbs", "GET", "我的帖子动态"],
+      ["user/my-moments/up", "GET", "我的UP动态"],
+      ["user/real-name-auth/check", "GET", "实名认证检查"],
+      ["user/real-name-auth/query", "GET", "实名认证查询"],
+      ["user/lock/index", "GET", "锁定状态"],
+      ["user/photo/delete", "POST", "删除照片"],
+      ["user/rtkid", "GET", "获取RTK ID"],
+      ["user/nickname/notes", "GET", "昵称备注"],
+      ["user/up/list", "GET", "我的UP列表"],
+      ["user/up/set-coin-check", "POST", "设置金币检查"],
+      ["user/reset-face/index", "POST", "重置头像"]
+    ]},
+
+    {"type": "h1", "text": "九、游戏相关 API"},
+    {"type": "body", "text": "所有接口在 http://rtkapi.ruansky.net/ 上。"},
+    {"type": "table", "headers": ["端点", "说明"], "rows": [
+      ["game/gamelist", "游戏列表"],
+      ["game/gamedetails", "游戏详情"],
+      ["game/gamecategory", "游戏分类"],
+      ["game/classcategory", "经典分类"],
+      ["game/gamerank", "游戏排行"],
+      ["game/downlist", "下载列表"],
+      ["game/gamefeedback", "游戏反馈"],
+      ["game/feedbacklist", "反馈列表"],
+      ["game/game_all_comment_list", "全部评论列表"],
+      ["game/game_app_controller", "应用控制"],
+      ["game/gift_detail", "礼包详情"],
+      ["game/gift_receive", "领取礼包"],
+      ["game/kaifulist", "开服列表"],
+      ["game/libaolist", "礼包列表"]
+    ]},
+
+    {"type": "h1", "text": "十、支付相关 API"},
+    {"type": "body", "text": "所有接口在 https://rtkapi2.ruansky.net/ 上。"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["pay/alipay/order", "GET", "支付宝下单"],
+      ["pay/alipay/order-qrcode", "GET", "支付宝二维码"],
+      ["pay/wechat/order", "GET", "微信下单"],
+      ["pay/wechat/order-qrcode", "GET", "微信二维码"],
+      ["pay/coin/exchange", "POST", "金币兑换"],
+      ["pay/page/exchange-coin", "GET", "兑换页面"],
+      ["pay/page/rcoin", "GET", "R币页面"]
+    ]},
+
+    {"type": "h1", "text": "十一、其他 API"},
+
+    {"type": "h2", "text": "11.1 广告"},
+    {"type": "table", "headers": ["端点", "说明"], "rows": [
+      ["ad/ad_list", "广告列表 (http://rtkapi.ruansky.net/)"],
+      ["ad/ad_detail", "广告详情"],
+      ["ad/down_ad_detail", "下载页广告"],
+      ["banner/banner_list", "Banner列表"]
+    ]},
+
+    {"type": "h2", "text": "11.2 系统"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["system/agreement", "GET", "用户协议"],
+      ["system/privacy", "GET", "隐私政策"],
+      ["system/suggest", "POST", "意见反馈"]
+    ]},
+
+    {"type": "h2", "text": "11.3 评论"},
+    {"type": "table", "headers": ["端点", "说明"], "rows": [
+      ["comment/delete", "删除评论"],
+      ["comment/delete-by-user", "用户删除评论"]
+    ]},
+
+    {"type": "h2", "text": "11.4 文件上传"},
+    {"type": "table", "headers": ["端点", "方法", "说明"], "rows": [
+      ["html/file/appsUploadApk", "POST", "上传APK (http://rtkapi.ruansky.net/)"],
+      ["html/filelist/concatDataBag", "POST", "上传数据包"],
+      ["html/filelist/uploadVideoNew", "POST", "上传视频"],
+      ["members/createVideo", "POST", "创建视频"]
+    ]},
+
+    {"type": "h2", "text": "11.5 青少年模式"},
+    {"type": "body", "text": "端点: GET https://rtkapi2.ruansky.net/other/adolescent"},
+
+    {"type": "h1", "text": "十二、完整调用示例 (Python)"},
+    {"type": "body", "text": "以下是一个完整的 Python 示例, 演示登录和发帖的完整流程:"},
+    {"type": "code", "text": "import hashlib, base64, json, requests, urllib3\nfrom Crypto.Cipher import AES\nurllib3.disable_warnings()\n\nAES_KEY = b\"P.8CGq@Wr~Vs]!4!\"\nLOGIN_BASE = \"http://rtkapi.ruansky.net/\"\nAPI_BASE = \"https://rtkapi2.ruansky.net/\"\n\ndef md5(s): return hashlib.md5(s.encode()).hexdigest()\n\ndef unicode_escape(s):\n    return \"\".join(\"\\\\u00\"+format(ord(c),'x') if ord(c)<=256\n           else \"\\\\u\"+format(ord(c),'x') for c in s)\n\ndef decrypt(resp_json):\n    data = base64.b64decode(resp_json[\"data\"])\n    iv = base64.b64decode(resp_json[\"iv\"])\n    cipher = AES.new(AES_KEY, AES.MODE_CBC, iv)\n    text = cipher.decrypt(data).rstrip(b'\\x00').decode('utf-8','ignore').strip()\n    return json.loads(text)\n\ndef calc_key(params_list):\n    arr = sorted(params_list)\n    return md5(AES_KEY.decode() + \"&\" + \"&\".join(arr))\n\n# === 登录 ===\nuname = \"13184017302\"\nupsw = md5(\"your_password\")\nphone_model = unicode_escape(\"samsung_SM-G9910\")\n\nsign_params = [\n    f\"channel=yingyongbao\", f\"version=8730\", f\"api_level=33\",\n    f\"phone_model={phone_model}\",\n    f\"uname={uname}\", f\"upsw={upsw}\",\n    f\"device_id=a1b2c3d4e5f6g7h8\",\n    f\"device_name=samsung_SM-G9910\",\n]\nkey = calc_key(sign_params)\n\nurl = (f\"{LOGIN_BASE}member/loginVerify?channel=yingyongbao\"\n       f\"&version=8730&api_level=33&phone_model={phone_model}\"\n       f\"&os_info=V1__unknown&uname={uname}&upsw={upsw}\"\n       f\"&device_id=a1b2c3d4e5f6g7h8\"\n       f\"&device_name=samsung_SM-G9910&client_id=1&key={key}\")\n\nresp = requests.get(url, verify=False, headers={\"User-Agent\": \"okhttp/4.9.3\"})\nlogin = decrypt(resp.json())\nuid = str(login[\"data\"][\"uid\"])\ntoken = login[\"data\"][\"token\"]\nprint(f\"登录成功: UID={uid}\")\n\n# === 发帖 ===\npost_params = {\n    \"channel\": \"yingyongbao\", \"version\": \"8730\", \"api_level\": \"33\",\n    \"phone_model\": phone_model, \"$*$os_info\": \"V1__unknown\",\n    \"uid\": uid, \"token\": token,\n    \"mid\": \"1\", \"display_mode\": \"2\", \"title\": \"测试帖子\",\n    \"$*$tags\": \"软件分享\", \"$*$content\": \"帖子正文内容\",\n    \"$*$device_name\": \"samsung_SM-G9910\",\n    \"$*$os_version\": \"13\", \"$*$pid\": \"\",\n}\n# 签名 (排除$*$参数, diN不参与)\nsign_list = [f\"{k}={v}\" for k, v in post_params.items() if not k.startswith(\"$*$\")]\npost_params[\"key\"] = calc_key(sign_list)\npost_params[\"diN\"] = \"2aa1b2c3d4e5f6g7h8d9\"\n\nresp = requests.post(f\"{API_BASE}bbs/posts-save\", data=post_params,\n                     verify=False, headers={\"User-Agent\": \"okhttp/4.9.3\"})\nresult = decrypt(resp.json())\nprint(f\"发帖结果: {result}\")"},
+
+    {"type": "h1", "text": "十三、注意事项"},
+    {"type": "numbered", "items": [
+      "发帖频率限制: 软天空对发帖有 60 秒间隔限制 (authority.publishLimit=60), 频繁发帖会返回 code=400, msg=\"您发布的太频繁了，请歇会儿吧\"",
+      "帖子审核: 新发布的帖子可能需要审核 (authority.needCheck=1), 审核通过后才会公开展示",
+      "密码加密: 登录时密码需要先做 MD5, 再作为 upsw 参数传输",
+      "phone_model 编码: 必须使用 c0.b() 的 Unicode escape 编码, 否则签名会不匹配",
+      "diN 参数: 在 key 之后加入 map, 不参与签名计算, 这是容易出错的地方",
+      "域名选择: member/* 和 members/* 在 http://rtkapi.ruansky.net/, bbs/* 和 family/* 在 https://rtkapi2.ruansky.net/, 混用会返回 404",
+      "请求头: 建议使用 User-Agent: okhttp/4.9.3 模拟 APP 请求",
+      "HTTPS 证书: rtkapi2.ruansky.net 的 SSL 证书可能有问题, 需要禁用证书验证 (verify=False)"
+    ]}
+  ]
+}

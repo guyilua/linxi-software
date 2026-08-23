@@ -1,0 +1,23 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e10]:
+      - combobox "Search Google or type a URL" [ref=e11]
+      - generic:
+        - button "Search by voice" [ref=e13] [cursor=pointer]
+        - button "Search by image" [ref=e15] [cursor=pointer]
+    - generic [ref=e17]:
+      - generic "Web Store" [ref=e18] [cursor=pointer]:
+        - link "Web Store" [ref=e19]:
+          - /url: https://chrome.google.com/webstore?hl=en
+        - button "More actions for Web Store shortcut" [ref=e20]
+        - generic [ref=e23]: Web Store
+      - button "Add shortcut" [ref=e24] [cursor=pointer]:
+        - generic [ref=e29]: Add shortcut
+      - generic:
+        - generic: Cancel
+        - generic: Done
+    - button "Customize Chrome" [ref=e32] [cursor=pointer]:
+      - generic [ref=e33]:
+        - img
+      - generic [ref=e35]: Customize Chrome
+  - img [ref=e37]

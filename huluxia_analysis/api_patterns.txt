@@ -1,0 +1,165 @@
+葫芦侠APK API接口深度分析报告
+==================================================
+
+版本: 4.3.1.4 (build 393)
+包名: com.huluxia.gametools
+DEX数: 4
+总类数: 16,633
+总字符串: 141,392
+
+一、核心API域名
+--------------------------------------------------
+主API域名: api.g.huluxia.com
+辅助域名:
+  - http://api.g.huluxia.com/get/v1
+  - https://floor.huluxia.com
+  - https://tools.huluxia.com
+  - https://gray.floor.huluxia.com (灰度)
+  - http://search.huluxia.com
+  - http://server.news.huluxia.com
+  - http://server.chat.huluxia.com
+  - http://upload.huluxia.com
+
+二、登录认证API
+--------------------------------------------------
+1. 账号密码登录:
+   POST /account/login/ANDROID/4.1.8
+   
+2. Session登录:
+   POST /sessoin/login/ANDROID/2.1
+   
+3. QQ登录:
+   POST /qq/login/ANDROID/4.0
+   
+4. 微信登录:
+   POST /wx/login/ANDROID/4.0
+   
+5. 一键登录:
+   POST /oneclick/login/ANDROID/4.0
+   
+6. 临时登录:
+   POST /tmp/login/ANDROID/2.2
+   POST /tmpkey/login/ANDROID/2.2
+   
+7. OAuth授权:
+   POST /oauth/code
+   POST /sdk/oauth/code/ANDROID/4.1
+   
+8. Token检查:
+   POST /account/token/check/ANDROID/2.1
+   
+9. 实名认证:
+   POST /sdk/account/realname/auth/ANDROID/4.0
+
+三、发帖/论坛API
+--------------------------------------------------
+1. 创建帖子:
+   POST /post/create/ANDROID/4.2.3
+   
+2. 创建帖子列表:
+   POST /post/create/list/ANDROID/4.1.8
+   
+3. 更新帖子:
+   POST /post/update/ANDROID/4.2.2
+   
+4. 创建评论:
+   POST /comment/create/ANDROID/4.2
+   
+5. 话题评论:
+   POST /topic/comment/create/ANDROID/4.1.6
+   
+6. 草稿管理:
+   POST /post/draft/create/ANDROID/4.2.2
+   POST /post/draft/update/ANDROID/4.2.2
+   POST /post/draft/destroy/ANDROID/4.2.2
+   POST /post/draft/list/ANDROID/4.2.2
+   POST /post/draft/detail/ANDROID/4.2.2
+   POST /post/draft/count/ANDROID/4.2.2
+   
+7. 帖子点赞:
+   POST /post/praise/ANDROID/2.1
+   
+8. 帖子收藏:
+   POST /post/favorite/list/ANDROID/4.1.8
+   
+9. 帖子搜索:
+   POST /post/search/ANDROID/4.1.8
+
+四、用户相关API
+--------------------------------------------------
+1. 用户信息:
+   POST /user/info/ANDROID/4.1.8
+   POST /user/info/update/ANDROID/2.1
+   
+2. 签到:
+   POST /user/signin/ANDROID/4.1.8
+   
+3. 好友:
+   POST /user/friend/ANDROID/4.1.8
+   
+4. 黑名单:
+   POST /user/black/add/ANDROID/4.2.2
+   
+5. 隐私设置:
+   POST /user/privacy/policy/ANDROID/4.1.4
+
+五、签名与加密机制
+--------------------------------------------------
+1. 签名类: com.huluxia.compressor.HlxRequestSign
+   
+2. 关键参数:
+   - _key: 用户认证密钥
+   - sign: 请求签名
+   - token: 访问令牌
+   - fid: 论坛/帖子ID
+   - device_code: 设备标识
+   - market_id: 应用市场ID
+   
+3. 加密算法:
+   - MD5 (多处使用)
+   - 部分签名通过Native层实现
+   
+4. 参数签名模式:
+   model=%s&app_id=%s&code=%s&app_sign=%s&device_code=%s&app_version=%s...
+
+六、Native方法 (C/C++层)
+--------------------------------------------------
+发现253个Native方法，可能包含:
+- 签名计算逻辑
+- MD5/加密实现
+- 安全校验
+
+七、完整API路径列表
+--------------------------------------------------
+共354个API路径，涵盖:
+- 用户系统 (account/*, user/*)
+- 论坛系统 (post/*, comment/*, topic/*, bbs/*)
+- 游戏系统 (game/*)
+- 聊天系统 (chat/*)
+- 内容系统 (news/*, cms/*)
+- 商城系统 (product/*, gift/*)
+- 签到系统 (user/signin/*)
+- 认证系统 (oauth/*, sdk/*)
+
+八、关键发现
+--------------------------------------------------
+1. API版本控制: 路径中包含ANDROID版本号(如/ANDROID/4.1.8)
+2. 多登录方式: 支持账号密码、QQ、微信、一键登录
+3. 发帖需要认证: 通过_key和sign参数验证
+4. 图片上传: 通过/upload/token获取上传凭证
+5. 草稿功能: 支持帖子草稿保存和管理
+
+九、使用建议
+--------------------------------------------------
+1. 登录流程:
+   - 调用 /account/login/ANDROID/4.1.8 获取_key和token
+   - 或使用 /qq/login/ANDROID/4.0 /wx/login/ANDROID/4.0 第三方登录
+   
+2. 发帖流程:
+   - 获取认证参数 _key
+   - 计算请求签名 sign (通过HlxRequestSign类)
+   - POST /post/create/ANDROID/4.2.3
+   
+3. 签名计算:
+   - 需要分析Native层实现
+   - 或Hook HlxRequestSign类获取签名逻辑

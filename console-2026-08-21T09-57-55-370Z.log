@@ -1,0 +1,10 @@
+[  -83520ms] [ERROR] Access to image at 'https://mini-program.bj.bcebos.com/ui-wap-manage/new-manage-arrow.png' from origin 'https://passport.baidu.com' has been blocked by CORS policy: Permission was denied for this request to access the `local` address space. @ https://passport.baidu.com/v6/ucenter?_t=1787305870:0
+[  -83520ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://mini-program.bj.bcebos.com/ui-wap-manage/new-manage-arrow.png:0
+[  -83508ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://passport.baidu.com/v6/ucenter?_t=1787305870:0
+[ -405057ms] [LOG] setupRouter.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[ -405041ms] [LOG] setupPlugins.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[ -405041ms] [LOG] setupDirective.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[ -405041ms] [LOG] setupBus.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[ -405041ms] [LOG] setupMixins.... @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-182f79bf.b776809f.js:1
+[ -404870ms] [LOG] syncToClientErr1: undefined @ https://ppui-static-wap.cdn.bcebos.com/static/manage/js/app-ed445bdd.ccbc00ec.js:1
+[ -404764ms] [LOG] timeToRefresh return: token is empty @ https://wappass.baidu.com/static/waplib/passRefreshTk.js?tt=1787305870342:1

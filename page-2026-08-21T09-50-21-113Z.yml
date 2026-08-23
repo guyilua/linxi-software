@@ -1,0 +1,36 @@
+- generic [ref=e2]:
+  - link [ref=e5] [cursor=pointer]:
+    - /url: http://www.baidu.com/
+  - generic:
+    - generic:
+      - generic:
+        - heading [level=1]
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: 扫码登录
+      - generic [ref=e14]:
+        - img [ref=e15]
+        - paragraph [ref=e16]
+      - paragraph [ref=e17]:
+        - text: 请使用
+        - link "百度App" [ref=e18] [cursor=pointer]:
+          - /url: https://mo.baidu.com/wuxian/?from=1019447z
+        - text: 扫码登录
+      - list [ref=e19]:
+        - listitem [ref=e20]: 安全
+        - listitem [ref=e22]: 高效
+        - listitem [ref=e24]: 便捷
+    - generic [ref=e26]:
+      - paragraph [ref=e27] [cursor=pointer]: 用户名登录
+      - list [ref=e33]:
+        - listitem [ref=e34]:
+          - link "QQ账号" [ref=e35] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e36]:
+          - link "新浪微博" [ref=e37] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e38]:
+          - link "微信" [ref=e39] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e40]: 立即注册
+  - generic [ref=e43]: 2026 ©Baidu
